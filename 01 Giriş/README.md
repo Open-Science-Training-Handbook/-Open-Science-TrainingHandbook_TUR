@@ -2,7 +2,7 @@
 
 ## Kitabın amacı 
 
-_**"When all researchers are aware of Open Science, and are trained, supported and guided at all career stages to practice Open Science, the potential is there to fundamentally change the way research is performed and disseminated, fostering a scientific ecosystem in which research gains increased visibility, is shared more efficiently, and is performed with enhanced research integrity."**_ [Open Science Skills Working Group Report](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none) \(2017\)
+_**"Tüm araştırmacılar Açık Bilimin farkında olduklarında ve tüm kariyer aşamalarında Açık Bilimi uygulamak için eğitildiklerinde, desteklendiklerinde ve yönlendirildiklerinde araştırmanın daha fazla görünürlük kazandığı, daha verimli bir şekilde paylaşıldığı ve gelişmiş araştırma bütünlüğü ile gerçekleştirildiği bilimsel bir ekosistemi teşvik ederek, araştırmanın gerçekleştirilme ve yayılma şeklini temelden değiştirme potansiyeli vardır.."**_ [Açık Bilim Becerileri Çalışma Grubu Raporu](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none) \(2017\)
 
 Open Science, the movement to make scientific products and processes accessible to and reusable by all, is about culture and knowledge as much as it is about technologies and services. Convincing researchers of the benefits of changing their practices, and equipping them with the skills and knowledge needed to do so, is hence an important task.
 
