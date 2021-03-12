@@ -2,7 +2,7 @@
 
 ## Kitabın amacı 
 
-_**"Tüm araştırmacılar Açık Bilimin farkında olduklarında ve tüm kariyer aşamalarında Açık Bilimi uygulamak için eğitildiklerinde, desteklendiklerinde ve yönlendirildiklerinde araştırmanın daha fazla görünürlük kazandığı, daha verimli bir şekilde paylaşıldığı ve gelişmiş araştırma bütünlüğü ile gerçekleştirildiği bilimsel bir ekosistemi teşvik ederek, araştırmanın gerçekleştirilme ve yayılma şeklini temelden değiştirme potansiyeli vardır.."**_ [Açık Bilim Becerileri Çalışma Grubu Raporu](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none) \(2017\)
+_**"Bütün araştırmacılar Açık Bilimin farkında olduklarında ve tüm kariyer aşamalarında Açık Bilimi uygulamak için eğitildiklerinde, desteklendiklerinde ve yönlendirildiklerinde araştırmanın daha fazla görünürlük kazandığı, daha verimli bir şekilde paylaşıldığı ve gelişmiş araştırma bütünlüğü ile gerçekleştirildiği bilimsel bir ekosistemi teşvik ederek, araştırmanın gerçekleştirilme ve yayılma şeklini temelden değiştirme potansiyeli vardır.."**_ [Açık Bilim Becerileri Çalışma Grubu Raporu](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none) \(2017\)
 
 Bilimsel ürünleri ve süreçleri herkes tarafından erişilebilir ve yeniden kullanılabilir hale getirme hareketi olan Açık Bilim, teknoloji ve hizmetlerle olduğu kadar kültür ve bilgi ile de ilgilidir. Araştırmacıları uygulamalarını değiştirmenin faydaları konusunda ikna etmek ve onları bunu yapmak için gereken bilgi ve becerilerle donatmak bu nedenle önemli bir görevdir.
 
@@ -12,7 +12,7 @@ Yazarların Açık Bilim ilkelerini uygulama konusundaki birikimli deneyim ve be
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 
-## Who is this book for?
+## Bu kitap kimin için?
 
 Bu el kitabı, açık araştırma uygulamalarının benimsenmesini teşvik etmek için Açık Bilim eğitim etkinliklerine ev sahipliği yapmak veya disipline özgü eğitim etkinliklerine Açık Bilim kavramlarını tanıtmak isteyen herkes için hazırlanmıştır. Bu, araştırmacıları, kütüphanecileri, altyapı sağlayıcıları, araştırma destek görevlilerini, fon sağlayıcıları, politika yapıcıları ve karar vericileri içerir. Bu el kitabı aynı zamanda araştırmacılar (ve diğer paydaşlar) ile düzenli veya ara sıra teması olan ve Açık Bilim bilgilerini ya normal çalışma görevlerinin bir parçası olarak ya da fazladan bir zaman yatırımı olarak paylaşmak isteyenler içindir. Daha da önemlisi, Açık Bilim terimine atıfta bulunsalar da (veya hatta kullanmak isterlerse), yeniden kullanımı, katılımı, verimliliği, eşitliği ve araştırmada paylaşmayı teşvik etmek için eğitim etkinliklerine ev sahipliği yapmak isteyenler için yararlı olacaktır.
 
