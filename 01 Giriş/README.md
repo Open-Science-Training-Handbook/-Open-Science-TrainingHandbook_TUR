@@ -20,7 +20,7 @@ Bu el kitabında "eğitmen" i, deneyim seviyelerine bakılmaksızın Açık Bili
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 
-## What is Open Science?
+## Açık Bilim nedir?
 
 According to the [FOSTER taxonomy](https://www.fosteropenscience.eu/taxonomy/term/7), "Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society."  It can be defined as a grouping of principles and practices:
 
