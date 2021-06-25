@@ -2,7 +2,7 @@
 
 ## Kitabın amacı 
 
-_**"Bütün araştırmacılar Açık Bilimin farkında olduklarında ve tüm kariyer aşamalarında Açık Bilimi uygulamak için eğitildiklerinde, desteklendiklerinde ve yönlendirildiklerinde araştırmanın daha fazla görünürlük kazandığı, daha verimli bir şekilde paylaşıldığı ve gelişmiş araştırma bütünlüğü ile gerçekleştirildiği bilimsel bir ekosistemi teşvik ederek, araştırmanın gerçekleştirilme ve yayılma şeklini temelden değiştirme potansiyeli vardır.."**_ [Açık Bilim Becerileri Çalışma Grubu Raporu](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none) \(2017\)
+_**"Bütün araştırmacılar Açık Bilimin farkında olduklarında ve tüm kariyer aşamalarında Açık Bilimi uygulamak için eğitildiklerinde, desteklendiklerinde ve yönlendirildiklerinde araştırmanın daha fazla görünürlük kazandığı, daha verimli bir şekilde paylaşıldığı ve gelişmiş araştırma bütünlüğü ile gerçekleştirildiği bilimsel bir ekosistemi teşvik ederek, araştırmanın gerçekleştirilme ve yayılma şeklini temelden değiştirme potansiyeli vardır."**_ [Açık Bilim Becerileri Çalışma Grubu Raporu](https://ec.europa.eu/research/openscience/pdf/os_skills_wgreport_final.pdf#view=fit&pagemode=none) \(2017\)
 
 Bilimsel çıktıları ve süreçleri herkes tarafından erişilebilir ve yeniden kullanılabilir hale getirme hareketi olan Açık Bilim, teknoloji ve hizmetlerle olduğu kadar kültür ve bilgi ile de ilgilidir. Araştırmacıları uygulamalarını değiştirmenin faydaları konusunda ikna etmek ve onları bunu yapmak için gereken bilgi ve becerilerle donatmak, bu nedenle önemli bir görevdir.
 
