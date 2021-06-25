@@ -22,7 +22,7 @@ Bu el kitabında "eğitmen", tecrübe düzeyi farketmeksizin, bir Açık Bilim e
 
 ## Açık Bilim nedir?
 
-[FOSTER taksonomisine] göre (https://www.fosteropenscience.eu/taxonomy/term/7), "Açık bilim, bilimsel araştırmaları, verileri ve yayımlamayı, sorgulayan bir toplumun tüm kesimleri için erişilebilir kılma hareketidir." Bir grup ilke ve uygulama olarak tanımlanabilir:
+[FOSTER taksonomisine] (https://www.fosteropenscience.eu/taxonomy/term/7) göre, "Açık bilim, bilimsel araştırmaları, verileri ve yayımlamayı, sorgulayan bir toplumun tüm kesimleri için erişilebilir kılma hareketidir." Bir grup ilke ve uygulama olarak tanımlanabilir:
 
 * **İlkeler**: Açık Bilim, araştırmalar için artan şeffaflık, yeniden kullanım, katılım, işbirliği, hesap verebilirlik ve tekrarlanabilirlik ile ilgilidir. Kapsayıcılık, açıklık, eşitlik ve paylaşım gibi ilkeler aracılığıyla araştırmaların kalite ve güvenirliğini artırmayı amaçlamaktadır. Yaşam ve Doğa Bilimleri, Mühendislik, Matematik, Soyal Bilimler ve Beşeri Bilimleri kapsayan açık bilim basit olarak, araştırmanın gerektiği gibi yapılması şeklinde düşünülebilir \([Open Science MOOC](https://opensciencemooc.eu/)\).
 * **Uygulamalar**: Açık Bilim, -araştırma çıktılarına erişimin açılması, veri paylaşımı, açık not defterleri, araştırma değerlendirmede şaffaflık, \(mümkün olduğunda\) araştırmaların tekrarlanabilirliğini sağlama, araştırma yöntemlerinde şeffaflık, açık kaynak kod, yazılım ve altyapı, vatandaş bilimi ve açık eğitim kaynakları dahil olmak üzere-  bilimim yapılma biçimindeki değişiklikleri içerir.
