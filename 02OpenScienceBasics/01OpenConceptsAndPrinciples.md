@@ -1,11 +1,11 @@
 ## <img src="/Images/Icons/cloud.png" width="200" height="200" />
-## 1. Open Concepts and Principles
+## 1. Açık Kavramlar ve İlkeler
 
-### What is it?
+### Açık Bilim nedir?
 
-Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods ([FOSTER Open Science Definition](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). In a nutshell, Open Science is transparent and accessible knowledge that is shared and developed through collaborative networks \(Vicente-Sáez & Martínez-Fuentes 2018\).
+Açık Bilim, araştırma verilerinin, laboratuvar notlarının ve diğer araştırma süreçlerinin, araştırma ile araştırmanın dayandığı veri ve yöntemlerin yeniden kullanımına, yeniden dağıtılmasına ve çoğaltılmasına olanak tanıyan koşullar altında serbestçe erişilebilir olduğu, başkalarının işbirliği yapabileceği ve katkıda bulunabileceği bilim pratiğidir  ([FOSTER Açık Bilim Tanımı](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). Özetle Açık Blim, işbirliği içindeki ağlar aracılığıyla paylaşılan ve geliştirilen şeffaf ve erişilebilir bilgidir \(Vicente-Sáez & Martínez-Fuentes 2018\).
 
-Open Science is about increased rigour, accountability, and reproducibility for research. It is based on the principles of inclusion, fairness, equity, and sharing, and ultimately seeks to change the way research is done, who is involved and how it is valued. It aims to make research more open to participation, review/refutation, improvement and \(re\)use for the world to benefit.
+Açık Bilim, araştırmalarda artan titizlik, hesap verebilirlik ve tekrarlanabilirlik ile ilgilidir. It is based on the principles of inclusion, fairness, equity, and sharing, and ultimately seeks to change the way research is done, who is involved and how it is valued. It aims to make research more open to participation, review/refutation, improvement and \(re\)use for the world to benefit.
 
 There are several definitions of "openness" with regards to various aspects of science; the [Open Definition](http://opendefinition.org/) defines it thus: “Open data and content can be freely used, modified, and shared by anyone for any purpose”. Open Science encompasses a variety of practices, usually including areas like open access to publications, open research data, open source software/tools, open workflows, citizen science, open educational resources, and alternative methods for research evaluation including open peer review \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\)
 
