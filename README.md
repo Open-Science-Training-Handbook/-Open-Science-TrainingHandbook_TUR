@@ -1,15 +1,15 @@
 ![](/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
 ## Açık Bilim Eğitim El Kitabı
 
-A group of fourteen authors came together in February 2018 at the TIB \(German National Library of Science and Technology\) in Hannover to create an open, living handbook on Open Science training. High-quality trainings are fundamental when aiming at a cultural change towards the implementation of Open Science principles. Teaching resources provide great support for Open Science instructors and trainers. The Open Science training handbook will be a key resource and a first step towards developing Open Access and Open Science curricula and andragogies. Supporting and connecting an emerging Open Science community that wishes to pass on their knowledge as multipliers, the handbook will enrich training activities and unlock the community’s full potential.
+On dört kişiden oluşan bir yazar grubu, Şubat 2018'de Hannover'deki TIB \(Alman Bilim ve Teknoloji Ulusal Kütüphanesi\)'nde Açık Bilim eğitimi üzerine açık ve yaşayan bir el kitabı oluşturmak için bir araya geldi. Açık Bilim ilkelerinin uygulanmasına yönelik kültürel bir değişimi hedeflerken yüksek kaliteli eğitimler esastır. Öğretim kaynakları, Açık Bilim eğitmen ve eğiticileri için büyük destek sağlar. Açık Bilim eğitim el kitabı, Açık Erişim ve Açık Bilim eğitim programları ve andragojileri geliştirmek için önemli bir kaynak ve ilk adım olacaktır. Bilgilerini çoğaltmak üzere aktarmak isteyen gelişmekte olan Açık Bilim topluluğunu destekleyen ve birbirine bağlayan bu kitap, eğitim faaliyetlerini zenginleştirecek ve topluluğun tüm potansiyelini ortaya çıkaracaktır.
 
-Sharing their experience and skills of imparting Open Science principles, the authors \(see [below](#the-authors-and-the-book-sprint-facilitators)\) produced an open knowledge and educational resource oriented to practical teaching. The focus of the new handbook is not spreading the ideas of Open Science, but showing **how** to spread these ideas most effectively. The form of a book sprint as a collaborative writing process maximized creativity and innovation, and ensured the production of a valuable resource in just a few days.
+Açık Bilim ilkelerini aktarma konusundaki deneyim ve becerilerini paylaşan yazarlar \(bkz. [Yazarlar ve Sprint Kitabı Kolaylaştırıcıları](#the-authors-and-the-book-sprint-facilitators)\), pratik bilgiye yönelik bir açık bilgi ve eğitim kaynağı ürettiler. Yeni el kitabının odağı, Açık Bilim fikrini yaymak değil, bu fikirlerin en etkili biçimde **nasıl** yayılacağını göstermektir. İşbirlikçi bir yazma süreci olarak sprint kitabı yöntemi, yaratıcılık ve yenilikçiliği en üst düzeye çıkarmış ve sadece birkaç gün içinde değerli bir kaynağın üretilmesini sağlamıştır.
 
-Bringing together methods, techniques, and practices, the handbook aims at supporting educators of Open Science. The result is intended as a helpful guide on how to forward knowledge on Open Science principles to our networks, institutions, colleagues, and students. It will instruct and inspire trainers how to create high quality and engaging trainings. Addressing challenges and giving solutions, it will strengthen the community of Open Science trainers who are educating, informing, and inspiring themselves.
+Yöntem, teknik ve uygulamaları bir araya getiren el kitabı, Açık Bilim eğitimcilerini desteklemeyi amaçlamaktadır. Ortaya çıkacak ürünün, Açık Bilim ilkeleri konusundaki bilgiyi iletişim ağlarımıza, kurumlarımıza, meslektaş ve öğrencilerimize nasıl ileteceğimiz konusunda yararlı bir rehber olması hedeflenmiştir. Eğitmenlere yüksek kaliteli ve ilgi çekici eğitimlerin nasıl oluşturulacağını öğretecek ve ilham verecektir. Sorunları ele alan ve çözümler sunan bu el kitabı, kendilerini eğiten, bilgilendiren ve kendilerine ilham veren Açık Bilim eğitmenleri topluluğunu güçlendirecektir.
 
-## Help us making the handbook better
+## El kitabını daha iyi hale getirmemize yardımcı olun
 
-We welcome comments and feedback from everyone, irrespective of their expertise or background. The easiest way to do this is to use [hypothes.is](https://via.hypothes.is/https://book.fosteropenscience.eu). Also, you can create pull requests, either from within the Gitbook website or app, or with any tool you like. The handbook's content is maintained as [this GitHub repository] (https://github.com/Open-Science-Training-Handbook).
+Uzmanlıkları ve alt yapıları ne olursa olsun, herkesin öneri ve geri bildirimlerini memnuniyetle bekliyoruz. Bunu yapmanın en kolay yolu [hypothes.is](https://via.hypothes.is/https://book.fosteropenscience.eu). Ayrıca, Github web sitesi ya da uygulması, ya da istediğiniz herhangi başka bir araçla çekme istekleri (pull requests) oluşturabilirsiniz. El kitabının içeriği [GitHub deposunda](https://github.com/Open-Science-Training-Handbook) korunmaktadır.
 
 ## Let's run an Open Science training together
 
@@ -27,7 +27,7 @@ Please consider citing the handbook when using the content. To cite the book, we
 
 * If you are looking for other languages or formats you can go to the FOSTER portal, where we linked everything on [this page](https://www.fosteropenscience.eu/content/open-science-training-handbook).
 
-## The Authors and the Book Sprint facilitators
+## Yazarlar ve Sprint Kitabı Kolaylaştırıcıları
 
 Learn more about the authors and the book sprint facilitators, their experiences and inspiration, as well as their affiliation, contact information, Twitter and ORCID profiles, in the [Handbook's last chapter](./08AboutTheAuthorsAndFacilitators).
 
