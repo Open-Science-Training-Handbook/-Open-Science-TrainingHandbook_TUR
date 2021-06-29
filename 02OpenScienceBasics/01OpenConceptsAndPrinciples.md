@@ -7,7 +7,9 @@ Açık Bilim, araştırma verilerinin, laboratuvar notlarının ve diğer araşt
 
 Açık Bilim, araştırmalarda artan titizlik, hesap verebilirlik ve tekrarlanabilirlik ile ilgilidir. Kapsayıcılık, açıklık, eşitlik ve paylaşım ilkelerine dayanmakta, en nihayetinde araştırmanın yapılma şeklini, kimin dahil olduğunu ve nasıl değer gördüğünü değiştirmeyi amaçlar. Araştırmanın, dğünyanın faydalanması için katılıma, değerlendirmeye/çürütmeye, geliştirmeye ve \(yeniden\) kullanıma açık olmasını amaçlar.
 
-There are several definitions of "openness" with regards to various aspects of science; the [Open Definition](http://opendefinition.org/) defines it thus: “Open data and content can be freely used, modified, and shared by anyone for any purpose”. Open Science encompasses a variety of practices, usually including areas like open access to publications, open research data, open source software/tools, open workflows, citizen science, open educational resources, and alternative methods for research evaluation including open peer review \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).![](/Images/image_0.png)Pontika et al. \(2015\)
+Bilimin farklı yanları ile ilgili çeşitli "açıklık" tanımları vardır; [Open Definition](http://opendefinition.org/) tanımı şu şekildedir: “Açık veri ve içerik, herkes tarafından herhangi bir sebeple serbestçe kullanılabilir, uyarlanabilir ve paylaşılabilir”. Açık Bilim, genellikle yayınlara açık erişim, açık araştırma verisi, açık kaynak yazılımlar/araçlar, açık iş akışları, vatandaş bilimi, açık eğitim kaynakları ve açık hakem değerlendirmesini dahil araştırma değerlendirme için alternatif yöntemler gibi alanları içeren çeşitli uygulamaları kapsamaktadır \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).
+
+![](/Images/image_0.png)Pontika et al. \(2015\)
 
 The aims and assumptions underlying the push to implement these various practices have been analysed by Fecher & Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\), whose analyses of the literature found five broad concerns, or "schools of thought". These are:
 
