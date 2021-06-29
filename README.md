@@ -47,10 +47,10 @@ Lütfen içeriği kullanırken el kitabını atıf yapmayı gözardı etmeyin. K
 
 ## Telif hakkı beyanı 
 
-Açık Bilim Eğitim El Kitabı bir Açık Eğitim Kaynağı olduğundan [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/) lisansı ile erişime sunulmaktadır. You do not have to ask our permission to re-use and copy information from this handbook. Take note that some of the materials referenced in this book might be copyright protected — if so, this will be indicated in the text. 
+Açık Bilim Eğitim El Kitabı bir Açık Eğitim Kaynağı olduğundan [Creative Commons Public Domain Dedication \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/) lisansı ile erişime sunulmaktadır. Bu el kitabındaki bilgileri yeniden kullanmak ve kopyalamak için bizden izin istemeniz gerekmemektedir. Bu kitapta atıf yapılan bazı materyallerin telif hakkıyla korunuyor olabileceğine dikkat edin — eğer öyleyse, bu durum metinde belirtilecektir. 
 
-We have tried to acknowledge all our sources. If for some reason we have forgotten to provide you with proper credits, it has not been done with malicious intent. Feel free to contact us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) for any corrections.
+Yararlandığımız tüm kaynakları belirtmeye çalıştık. Herhangi bir nedenle size uygun şekilde kredi vermeyi atladıysak, bu kötü niyetle yapılmamıştır. Düzeltmeleriniz için elearning@fosteropenscience.eu adresi aracılığıyla bizimle iletişime geçmekten çekinmeyin.
 
-## Funding
+## Fonlama
 
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 741839.
+Bu proje, 741839 numaralı hibe sözleşmesi kapsamında Avrupa Birliğinin Ufuk 2020 Araştırma ve Yenilik Programı tarafından fonlanmıştır.
