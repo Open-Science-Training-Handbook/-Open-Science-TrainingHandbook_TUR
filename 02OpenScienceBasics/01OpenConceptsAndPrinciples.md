@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/cloud.png" width="200" height="200" />
 ## 1. Açık Kavramlar ve İlkeler
 
-### Açık Bilim nedir?
+### Nedir?
 
 Açık Bilim, araştırma verilerinin, laboratuvar notlarının ve diğer araştırma süreçlerinin, araştırma ile araştırmanın dayandığı veri ve yöntemlerin yeniden kullanımına, yeniden dağıtılmasına ve çoğaltılmasına olanak tanıyan koşullar altında serbestçe erişilebilir olduğu, başkalarının işbirliği yapabileceği ve katkıda bulunabileceği bilim pratiğidir  ([FOSTER Açık Bilim Tanımı](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)). Özetle Açık Blim, işbirliği içindeki ağlar aracılığıyla paylaşılan ve geliştirilen şeffaf ve erişilebilir bilgidir \(Vicente-Sáez & Martínez-Fuentes 2018\).
 
