@@ -71,7 +71,7 @@ Açık Bilim, yukarıda tanımlandığı gibi, hakim kültürün genellikle hiye
 
   * Açık Bilim, bilime olan güveni ve bilimsel sonuçların güvenirliğini artırabilir.
 
-* Açık Bilim ve lisanslama, telif hakkı konuları ile ilgisi.
+* Açık Bilimin lisanslama, telif hakkı konuları ile ilgisi.
 
   * Genel anlamda açık araştırma çıktıları, yeniden kullanımı en üst düzeye çıkarmak için çalışma sahibine çalışmanın mülkiyetini elinde tutma ve çalışmaları için kredi alma imkanı veren açık lisanslarla lisanslanır.
 
@@ -86,22 +86,22 @@ Q: "Sosyal ve Beşeri Bilimler ‘Açık Bilim’ kapsamında değil midir?"
 
 A: Hayır, Açık Bilim terimi kapsayıcıdır. Aslında durum şu ki, Açık Bilim bazen diğer displinler, ilkeler ve uygulamalar anlamında daha kapsayıcı olması için daha geniş içerikli  ‘Açık Araştırma (Open Research)’ ya da ‘Açık Akademi (Open Scholarship)’ terimleri ile adlandırılmaktadır. Bununla birlikte, Açık Bilim birçok düzeyde yaygın kullanılan terimdir ve bu nedenle, tüm araştırma disiplinlerini içermesi koşuluyla, iletişim amaçlı olarak benimsenmesi makul görülmektedir.
 
-Q: "Does Open Science lead to misuse or misunderstanding of research?"
+Q: "Açık Bilim, araştırmanın kötüye kullanılmasına veya yanlış anlaşılmasına yol açar mı??"
 
-A: No, the application of Open Science principles is in fact a safeguard against misuse or misunderstanding. Transparency breeds trust, confidence and allows others to verify and validate the research process.
+A: Hayır, Açık Bilim ilkelerinin uygulanması aslında kötüye kullanıma veya yanlış anlaşılmaya karşı bir güvencedir. Şeffaflık inancı, güveni besler ve diğer kişilerin araştırma sürecini doğrulaması ve onaylamasına olanak sağlar.
 
-Q: "Will Open Science lead to too much information overload?"
+Q: "Açık Bilim çok fazla bilgi yüklemesine yol açar mı?"
 
-A: It is better to have too much information and deal with it, than to have too little and live with the risk of missing the important parts. And there are technologies such as RSS feeds, machine learning and artificial intelligence that are making content aggregation easier.
+A: Çok az bilgiye sahip olup önemli kısımları kaçırma riskiyle yaşamaktansa, çok fazla bilgiye sahip olup bunlarla uğraşmak daha iyidir. It is better to have too much information and deal with it, than to have too little and live with the risk of missing the important parts. Ayrıca RSS beslemeleri, makine öğrenimi ve yapay zeka gibi içerik toplamayı kolaylaştıran teknolojiler de vardır.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Öğrenme çıktıları
 
-1. Be able to explain the core underlying academic, economic, and societal principles and concepts supporting Open Science, and why this matters to you in terms of broader impacts.
+1. Açık Bilimi destekleyen temel akademik, ekonomik ve toplumsal ilke ve kavramları ve bunların daha yaygın etkiler açısından sizin için neden önemli olduğunu açıklayabilmek.
 
-2. Develop an understanding of the numerous dimensions of Open Science, and some of the tools and practices involved in this.
+2. Açık Bilimin sayısız boyutu ve bunlarla ilgili bazı araç ve uygulamalara yönelik bir anlayış geliştirmek.
 
-3. Be familiar with the present state of Open Science, and the diversity of perspectives that this encompasses.
+3. Açık Bilimin mevcut durumuna ve kapsadığı bakış açılarının çeşitliliğine aşina olmak.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 
