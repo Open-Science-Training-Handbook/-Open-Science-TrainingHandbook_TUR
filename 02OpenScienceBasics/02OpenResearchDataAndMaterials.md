@@ -18,29 +18,29 @@ Birçok araştırma projesinin genellikle en değerli çıktısı olan araştır
 
 2. Hassas olarak kabul edilebilecek veri türleri ve bunların açık bir şekilde paylaşılmasına ilişkin kısıtlamalar veya engeller hakkında bilgi.
 
-3. Be able to convert a ‘closed’ dataset into one which is ‘open’ by implementing the necessary measures in a data management plan, with appropriate data stewardship and metadata.
+3. Uygun veri yönetimi ve üst verilerle bir veri yönetimi planında gereken tedbirleri alarak ‘kapalı’ bir veri setini ‘açık’ hale dönüştürebilmek 
 
-4. Be able to use research data management plan and to make your research results findable and accessible, even if it contains sensitive data.
+4. Veri yönetim planını kullanabilmek ve araştırma sonuçlarınızı hassas veri içeriyor olsa dahi keşfedilebilir ve erişilebilir hale getirebilmek.
 
-5. Understand the pros and cons of openly sharing different types of data \(e.g., privacy, sensitivity, de-identification, mediated access\).
+5. Farklı veri türlerini açıkça paylaşmanın artılarını ve eksilerini anlamak \(örneğin, gizlilik, hassasiyet, kimlik gizleme, aracılı erişim\)Understand the pros and cons of openly sharing different types of data \(e.g., privacy, sensitivity, de-identification, mediated access\).
 
-6. Understand the importance of appropriate metadata for sustainable archiving of research data.
+6. Araştırma verilerinin sürdürülebilir şekilde arşivlenmesi için uygun üst verilerin önemini anlamak.
 
-7. Understand the basic workflows and tools for sharing research data.
+7. Araştırma verilerinin paylaşımı için temel iş akışlarını ve araçları anlamak.
 
 ### Temel unsurlar
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Bilgi ve Beceriler
 ##### FAIR ilkeleri
-In 2014, a core set of principles were drafted in order to optimize the reusability of research data, named the [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). They represent a community-developed set of guidelines and best practices to ensure that data or any digital object are **F**indable, **A**ccessible, **I**nteroperable and **R**e-usable:
+2014 yılında, araştırma verilerinin yeniden kullanılabilirliğini optimize etmek için [FAIR Veri İlkeleri](https://www.force11.org/group/fairgroup/fairprinciples) adında bir dizi temel ilke taslağı oluşturulmuştur. Bu ilkeler, verilerin veya herhangi bir dijital nesnenin keşfedilebilir (**F**indable), erişilebilir (**A**ccessible), birlikte çalışabilir (**I**nteroperable) ve yeniden kullanılabilir (**R**e-usable) olduğundan emin olmak için topluluk tarafından geliştirilmiş bir dizi yönergeyi ve en iyi uygulamaları temsil ederler:
 
-**Findable:** The first thing to be in place to make data reusable is the possibility to find them. It should be easy to find the data and the metadata for both humans and computers. Automatic and reliable discovery of datasets and services depends on machine-readable persistent identifiers \(PIDs\) and metadata.
+**Keşfedilebilir:** Verileri yeniden kullanılabilir hale getirmek için yapılması gereken ilk şey, onları bulma imkanını yaratmaktır. Hem insanlar hem de bilgisayarlar çin verilerin ve üst verilerin bulunması kolay olmalıdır. Veri setlerinin ve hizmetlerin otomatik ve güvenilir şekilde keşfi makinaca okunabilir sabit/kalıcı tanımlayıcıların (persistent identifiers - PIDs) ve üst verilerin olmasına bağlıdır.  
 
-**Accessible:** The \(meta\)data should be retrievable by their identifier using a standardized and open communications protocol, possibly including authentication and authorisation. Also, metadata should be available even when the data are no longer available.
+**Erişilebilir:** \(Üst\) veriler, mümkünse doğrulama ve yetkilendirme içeren standart ve açık bir iletişim protokolü kullanılarak tanımlayıcıları tarafından çekilebilir olmalıdır. Ayrıca, verilerin artık mevcut olmadığı durumlarda dahi üst verilere erişilebilir olmalıdır.
 
-**Interoperable:** The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use vocabularies that follow FAIR principles.
+**Birlikte çalışılabilir:** The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use vocabularies that follow FAIR principles.
 
-**Re-usable:** Ultimately, FAIR aims at optimizing the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings. Also, the reuse of the \(meta\)data should be stated with \(a\) clear and accessible license\(s\).
+**Yeniden kullanılabilir:** Ultimately, FAIR aims at optimizing the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings. Also, the reuse of the \(meta\)data should be stated with \(a\) clear and accessible license\(s\).
 
 Distinct from peer initiatives that focus on the human scholar, the FAIR principles put a specific emphasis on enhancing the ability of machines to automatically find and use data or any digital object, in addition to supporting its reuse by individuals. The FAIR principles are guiding principles, not standards. FAIR describes qualities or behaviours that are required to make data maximally reusable \(e.g., description, citation\). Those qualities can be achieved by different standards.
 
