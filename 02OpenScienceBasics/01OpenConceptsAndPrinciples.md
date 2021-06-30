@@ -11,17 +11,17 @@ Bilimin farklı yanları ile ilgili çeşitli "açıklık" tanımları vardır; 
 
 ![](/Images/image_0.png)Pontika et al. \(2015\)
 
-The aims and assumptions underlying the push to implement these various practices have been analysed by Fecher & Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\), whose analyses of the literature found five broad concerns, or "schools of thought". These are:
+Bu çeşitli uygulamaları gerçekleştirme çabasının altında yatan amaçlar ve varsayımlar Fecher & Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\) tarafından analiz edilmiş, literatürün  incelenmesi ile beş ana konu ya da "düşünce ekolü" bulunmuştur. Bunlar:
 
-* **Democratic school:** Believing that there is an unequal distribution of access to knowledge, this area is concerned with making scholarly knowledge \(including publications and data\) available freely for all.
+* **Demokratik ekol:** Bilgiye erişimde eşit olmayan bir dağılımın olduğuna inanan bu ekol, bilimsel bilgiyi \(yayınlar ve veriler dahil\) herkes için ücretsiz olarak erişilebilir kılmakla ilgilenir.
 
-* **Pragmatic school:** Following the principle that the creation of knowledge is made more efficient through collaboration and strengthened through critique, this area seeks to harness network effects by connecting scholars and making scholarly methods transparent.
+* **Pragmatik ekol:** Bilgi üretmenin işbirliği yoluyla daha verimli hale geldiği ve eleştiri yoluyla güçlendiği ilkesini benimseyen bu ekol, bilim adamlarını arasındaki iletişimi sağlayarak ve bilimsel yöntemleri şeffaf hale getirerek ağ (network) etkilerinden yararlanmayı amaçlamaktadır.
 
-* **Infrastructure school:** This thread is motivated by the assumption that efficient research requires readily available platforms, tools and services for dissemination and collaboration.
+* **Altyapı ekolü:** Bu ekol, etkili araştırmanın yaygınlaştırma ve işbirliği için hazır platformlar, araç ve hizmetler gerektirdiği varsayımından hareket etmektedir.
 
-* **Public school:** Based on the recognition that true societal impact requires societal engagement in research and readily understandable communication of scientific results, this area seeks to bring the public to collaborate in research through citizen science, and make scholarship more readily understandable through lay summaries, blogging and other less formal communicative methods.
+* **Kamu ekolü:** Gerçek toplumsal etkinin, araştırmaya toplumsal katılımı ve bilimsel sonuçların kolayca anlaşılabilir iletişimini gerektirdiği kabulune dayanan bu ekol, halkı yurttaş bilimi aracılığıyla araştırmalarda işbirliği yapmaya ve bilimi basit özetler (lay summaries), blog yazma ve diğer daha az resmi iletişim yöntemleri aracılığıyla daha kolay anlaşılır hale getirmeye çalışır.
 
-* **Measurement school:** Motivated by the acknowledgement that traditional metrics for measuring scientific impact have proven problematic \(by being too heavily focused on publications, often only at the journal-level, for instance\), this strand seeks "alternative metrics" which can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities.
+* **Ölçüm ekolü:** Bu ekol, bilimsel etkiyi ölçmek için geleneksel metriklerin sorunlu olduğunun \(örneğin, genellikle yalnızca dergi düzeyinde yayınlara çok fazla odaklanarak\) kabulünden hareketle, önceden görünmeyen faaliyetler yoluyla bilimin etkisini izleyecek ve ölçecek dijital olarak ağa bağlı araçların yeni olanaklarından yararlanabilecek "alternatif ölçevler" aramaktadır.
 
 ### Rationale
 
