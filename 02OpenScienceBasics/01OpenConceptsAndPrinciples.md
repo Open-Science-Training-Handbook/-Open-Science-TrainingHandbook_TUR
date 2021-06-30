@@ -23,68 +23,68 @@ Bu çeşitli uygulamaları gerçekleştirme çabasının altında yatan amaçlar
 
 * **Ölçüm ekolü:** Bu ekol, bilimsel etkiyi ölçmek için geleneksel metriklerin sorunlu olduğunun \(örneğin, genellikle yalnızca dergi düzeyinde yayınlara çok fazla odaklanarak\) kabulünden hareketle, önceden görünmeyen faaliyetler yoluyla bilimin etkisini izleyecek ve ölçecek dijital olarak ağa bağlı araçların yeni olanaklarından yararlanabilecek "alternatif ölçevler" aramaktadır.
 
-### Rationale
+### Gerekçe
 
-Open Science, as defined above, encompasses a huge number of potential structural changes to academic practice, whose culture can often be hierarchical and conservative. Moreover, even where researchers are sympathetic to the aims of Open Science, they might not yet see the worth in taking them up, as existing incentive mechanisms do not yet reflect this new culture of openness and collaboration. As a consequence, convincing researchers of the need to change their practices will require a good understanding not only of the ethical, social and academic benefits, but also of the ways in which taking up Open Science practices will actually help them succeed in their work. This section will describe some of the core concepts, principles, actors, and practices in Open Science, and how these fit within a broader research ecosystem.
+Açık Bilim, yukarıda tanımlandığı gibi, hakim kültürün genellikle hiyearşik ve muhafazakar olabildiği akademik uygulamalar için çok fazla sayıda potansiyel yapısal değişikliği kapsar. Ayrıca, araştırmacılar Açık Bilimin hedeflerine olumlu baksalar da, mevcut teşvik mekanizmaları henüz bu yeni açıklık ve işbirliği kültürünü yansıtmadığından, bunun değerini şimdilik göremeyebilirler. Sonuç olarak, araştırmacıları uygulamalarını değiştirmelerine ihtiyaç olduğu konusunda ikna etmek, Açık Bilim uygulamalarının yalnızca etik, sosyal ve akademik faydalarına değil, aynı zamanda işlerinde başarılı olmalarına fiilen yardımcı olacak yöntemlere de hakim olmayı gerektirecektir. Bu kısım, Açık Bilimdeki temel birtakım kavramları, ilkeleri, aktörleri ve uygulamaları ve bunların daha geniş bir araştırma ekosistemine nasıl adapte edileceğini anlatacaktır.
 
 ![](/Images/image_1.png)
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Öğrenme hedefleri
 
-1. Understand the social, economical, legal, and ethical principles and concepts underpinning Open Science.
+1. Açık Bilimin temelini oluşturan sosyal, ekonomik, yasal ve etik ilke ve kavramları anlamak.
 
-2. Become familiar with the history of Open Science, and the disparity and diversity of views from different research communities, disciplines and cultures.
+2. Açık Bilimin tarihini, farklı araştırma toplulukları, disiplinler ve kültürlerin bakış açılarındaki farklılığı ve çeşitliliği anlamak.
 
-3. Gain insight into the developments around Open Science, and the personal impact these can have on researchers, research, and society more broadly.
+3. Açık Bilim etrafındaki gelişmeler ve bunların araştırmacılar, araştırmalar ve daha geniş anlamda toplum üzerindeki etkileri hakkında fikir edinmek.
 
-### Key components
+### Temel unsurlar
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_concepts_and_principles.png)
 
-#### Knowledge & Skills
-* Open Science is the movement to help make the results of scholarly research more accessible, including code, data, and research papers.
+#### Bilgi ve Beceriler
+* Açık Bilim, kod, veri ve araştırma makalelerini içeren bilimsel araştırma sonuçlarının daha erişilebilir hale getirmeye yardımcı olan harekettir.
 
-  * It encompasses many different but often related aspects impacting the entire research lifecycle, including open publishing, open data, open source software, open notebook science, open peer review, open dissemination, and open materials \(see glossary for definitions\).
+  * Açık yayıncılık, açık veri, açık kaynak kod, açık defter bilimi, açık hakem değerlendirmesi, açık dağıtım ve açık materyaller gibi bütün araştırma yaşam döngüsüne etki eden birçok farklı ancak genellikle birbiriyle ilişkili konuyu kapsar \(tanımlar için terimler sözlüğüne bakınız\).
 
 
-* History of Open Science, and the motivations behind the movement.
+* Açık Bilimin tarihi ve Açık Bilim hareketinin ardındaki motivasyon.
 
-  * The origins of academic publishing began in the 17th century with the first academic journals.
+  * Akademik yayıncılığın başlangıcı ilk akademik dergilerin yayımlandığı 17. yüzyıla dayanmaktadır.
 
-  * Increasing motivation to share resources between research disciplines, as well as increased transparency for greater efficiency, rigour, accountability, sustainability for future generations, and reproducibility.
+  *  Kaynakları araştırma disiplinleri arasında paylaşmak için artan motivasyonun yanı sıra daha fazla verimlilik, titizlik, hesap verebilirlik, gelecek nesiller için sürdürülebilirlik ve tekrarlanabilirlik için artan şeffaflık.
 
-  * Ethical cases whereby increased transparency can reduce fraud, data manipulation, and selective reporting of results.
+  * Artan şeffaflığın sahteciliği, veri manipülasyonunu ve sonuçların seçici raporlanmasını azaltabileceği etik durumlar.
 
-* Present state arose from pressure from research academies and governments for publicly-funded research to be shared more openly, often for the purpose of accelerated societal or economic growth and innovation.
+* Mevcut durum, kamu tarafından finanse edilen araştırmaların genellikle hızlandırılmış toplumsal veya ekonomik büyüme ve yenilik amacıyla daha açık bir şekilde paylaşılması yönünde araştırma akademilerileri ve hükümetler tarafından yapılan baskılardan doğmuştur.
 
-  * Publicly funded research outputs should be publicly available.
+  * Kamu tarafından finanse edilen araştırmaların çıktıları kamuya açık olmalıdır.
 
-  * Need to drive cultural change in research and amongst researchers.
+  * Araştırmada ve araştırmacılar arasında kültürel değişimi yönlendirme ihtiyacı.
 
-  * Embracing of Web-based tools and technologies to facilitate scientific collaboration.
+  * Bilimsel işbirliğini kolaylaştırmak için Web tabanlı araç ve teknolojileri benimsemek.
 
-* Differences and commonalities within Open Science practices, principles and communities.
+* Açık Bilim uygulamaları, ilkeleri ve toplulukları içerisindeki farklılıklar ve ortaklıklar.
 
-  * It is generally accepted that Open Science leads to increased impact associated with wider sharing and re-use \(e.g., the so-called "[open access citation advantage](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)"\).
+  * Açık Bilimin daha geniş paylaşım ve yeniden kullanımla ilişkili olarak artan etkiye yol açtığı genel kabul görmektedir \(örneğin, "[açık erişim atıf avantajı](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/)"\).
 
-  * Open Science could increase trust in science and in the reliability of scientific results.
+  * Açık Bilim, bilime olan güveni ve bilimsel sonuçların güvenirliğini artırabilir.
 
-* Open Science and relations to licensing, copyright issues.
+* Açık Bilim ve lisanslama, telif hakkı konuları ile ilgisi.
 
-  * Typically, open research outputs are openly licensed in order to maximize re-use while allowing the creator to retain ownership and receive credit for their work.
+  * Genel anlamda açık araştırma çıktıları, yeniden kullanımı en üst düzeye çıkarmak için çalışma sahibine çalışmanın mülkiyetini elinde tutma ve çalışmaları için kredi alma imkanı veren açık lisanslarla lisanslanır.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Sorular, engeller ve yaygın kavramsal yanılgılar
 
-Q: "What is the difference between Open Science and ‘science’?"
+Q: "Açık Bilim ile ‘bilim’ arasındaki farklılık nedir?"
 
-A: Open Science refers to doing traditional science with more transparency involved at various stages, for example by openly sharing code and data. Many researchers do this already, but don’t call it Open Science.
+A: Açık Bilim, örneğin kod ve verileri açıkça paylaşarak geleneksel bilimi çeşitli aşamalarda daha fazla şeffaflık içerecek şekilde yapmayı ifade eder. Birçok araştırmacı bunu halihazırda yapmakta ancak Açık Bilim olarak adlandırmamaktadır.
 
-Q: "Does ‘Open Science’ exclude the Humanities and Social Sciences?"
+Q: "Sosyal ve Beşeri Bilimler ‘Açık Bilim’ kapsamında değil midir?"
 
-A: No, the term Open Science is inclusive. Indeed, the case is that sometimes Open Science is more broadly referred to as ‘Open Research’ or ‘Open Scholarship’ to be more inclusive of other disciplines, principles and practices. However, Open Science is a commonly used term at multiple levels and so it makes sense to adopt it for communication purposes, with the proviso that it includes all research disciplines.
+A: Hayır, Açık Bilim terimi kapsayıcıdır. Aslında durum şu ki, Açık Bilim bazen diğer displinler, ilkeler ve uygulamalar anlamında daha kapsayıcı olması için daha geniş içerikli  ‘Açık Araştırma (Open Research)’ ya da ‘Açık Akademi (Open Scholarship)’ terimleri ile adlandırılmaktadır. Bununla birlikte, Açık Bilim birçok düzeyde yaygın kullanılan terimdir ve bu nedenle, tüm araştırma disiplinlerini içermesi koşuluyla, iletişim amaçlı olarak benimsenmesi makul görülmektedir.
 
 Q: "Does Open Science lead to misuse or misunderstanding of research?"
 
