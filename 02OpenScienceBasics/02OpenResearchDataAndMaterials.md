@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/open_data.png" width="200" height="200" />
-## 2. Open Research Data and Materials
+## 2. Açık Araştırma Verileri ve Materyaller
 
-### What is it?
+### Nedir?
 
 Open research data is data that can be freely accessed, reused, remixed and redistributed, for academic research and teaching purposes and beyond. Ideally, open data have no restrictions on reuse or redistribution, and are appropriately licensed as such. In exceptional cases, e.g. to protect the identity of human subjects, special or limited restrictions of access are set. Openly sharing data exposes it to inspection, forming the basis for research verification and reproducibility, and opens up a pathway to wider collaboration. At most, open data may be subject to the requirement to attribute and sharealike \(see the [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
 
