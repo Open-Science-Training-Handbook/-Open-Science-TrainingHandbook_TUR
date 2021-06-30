@@ -3,22 +3,20 @@
 
 ### Nedir?
 
-Open research data is data that can be freely accessed, reused, remixed and redistributed, for academic research and teaching purposes and beyond. Ideally, open data have no restrictions on reuse or redistribution, and are appropriately licensed as such. In exceptional cases, e.g. to protect the identity of human subjects, special or limited restrictions of access are set. Openly sharing data exposes it to inspection, forming the basis for research verification and reproducibility, and opens up a pathway to wider collaboration. At most, open data may be subject to the requirement to attribute and sharealike \(see the [Open Data Handbook](http://opendatahandbook.org/guide/en/what-is-open-data)\).
-
+Açık araştırma verileri, akademik araştırma ve öğretim amaçlarının yanı sıra başka amaçlar için de serbestçe erişilebilen, yeniden kullanılabilen, düzenlenebilen ve dağıtılabilen verilerdir. İdeal olarak, açık verilerin yeniden kullanım veya dağıtımı konusunda herhangi bir kısıtlama yoktur ve buna uygun şekilde lisanslanmışlardır. İnsan deneklerin kimliğini korumak gibi istisnai durumlarda özel veya sınırlı erişim kısıtlamaları belirlenir. Verileri açık bir şekilde paylaşmak, araştırmaların doğrulanması ve tekrarlanabilirliği için temel oluşturarak verilerin incelenmesini sağlar ve daha kapsamlı işbirlikleri için bir yol açar. Açık veriler, en fazla, atıf yapma (attribute) ve aynı lisansla paylaşma (sharealike) şartına tabi olabilir \(bkz. [Açık Veri El Kitabı](http://opendatahandbook.org/guide/en/what-is-open-data)\).
 
 ## <img src="/Images/Icons/data2.png" width="150" height="150" />
-### Rationale
+### Gerekçe
 
-Research data are often the most valuable output of many research projects, they are used as primary sources that underpin scientific research and enable derivation of theoretical or applied findings. In order to make findings/studies replicable, or at least reproducible or reusable \(see [Reproducible Research And Data Analysis](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) in any other way, the best practice recommendation for research data is to be as open and [FAIR](https://www.force11.org/fairprinciples) as possible, while accounting for ethical, commercial and privacy constraints with sensitive data or proprietary data.
-
+Birçok araştırma projesinin genellikle en değerli çıktısı olan araştırma verileri, bilimsel araştırmaya dayanak oluşturan ve teorik veya uygulamalı bulguların türetilmesini sağlayan birincil kaynak olarak kullanılır. Bulguların/çalışmaların yinelenebilir ya da en azından tekrarlanabilir ya da farklı şekillerde yeniden kullanılabilir \(bkz. [Tekrarlanabilir Araştırma ve Veri Analizi](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)\) hale getirmek için en iyi uygulama önerisi araştırma verilerinin, hassas veya kişiye özel verilerle ilgili etik, ticari ve gizlilik kısıtlamalarını dikkate alarak mümkün olduğunca açık ve [FAIR](https://www.force11.org/fairprinciples) ilkelerine uyumlu olmasıdır.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 
-### Learning objectives
+### Öğrenme hedefleri
 
-1. Gain an understanding of the basic characteristics and principles of open and FAIR research data, including appropriate packaging and documentation, to enable others to understand, reproduce, and re-use in alternative ways.
+1. Başkalarının alternatif yöntemlerle anlamasını, çoğaltmasını ve yeniden kullanmasını sağlamak için uygun paketleme ve dokümantasyon da dahil olmak üzere açık ve FAIR araştırma verilerinin temel özelliklerini ve ilkelerini anlamak.
 
-2. Familiarity with the sorts of data that might be considered sensitive, and the restrictions or constraints on openly sharing them.
+2. Hassas olarak kabul edilebilecek veri türleri ve bunların açık bir şekilde paylaşılmasına ilişkin kısıtlamalar veya engeller hakkında bilgi.
 
 3. Be able to convert a ‘closed’ dataset into one which is ‘open’ by implementing the necessary measures in a data management plan, with appropriate data stewardship and metadata.
 
@@ -30,11 +28,10 @@ Research data are often the most valuable output of many research projects, they
 
 7. Understand the basic workflows and tools for sharing research data.
 
-### Key components
+### Temel unsurlar
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
-##### FAIR principles
-
+#### Bilgi ve Beceriler
+##### FAIR ilkeleri
 In 2014, a core set of principles were drafted in order to optimize the reusability of research data, named the [FAIR Data Principles](https://www.force11.org/group/fairgroup/fairprinciples). They represent a community-developed set of guidelines and best practices to ensure that data or any digital object are **F**indable, **A**ccessible, **I**nteroperable and **R**e-usable:
 
 **Findable:** The first thing to be in place to make data reusable is the possibility to find them. It should be easy to find the data and the metadata for both humans and computers. Automatic and reliable discovery of datasets and services depends on machine-readable persistent identifiers \(PIDs\) and metadata.
@@ -134,7 +131,7 @@ As mentioned above, the ultimate goal of data sharing your research data is to m
 
 
 ## <img src="/Images/Icons/usb.png" width="150" height="150" />
-##### Open Materials
+##### Açık Materyaller
 
 In addition to data sharing, the openness of research relies on sharing of materials. What materials researchers use is discipline-specific and sometimes unique to a lab. Below are examples of materials you can share, although always confer with peers in your discipline to identify which repositories are used. When you have materials, data, and publications from the same research project shared in different repositories, cross-reference them with a link and a unique identifier so they can be easily located.
 
@@ -152,7 +149,7 @@ Reproducible analysis is aided by the use of literate programming, container tec
 
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Sorular, engeller ve yaygın kavramsal yanılgılar
 
 Q: "Is it sufficient to make my data openly available?"
 
@@ -180,7 +177,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Öğrenme çıktıları
 
 1. Understand the characteristics of open data, and in particular the FAIR principles.
 
@@ -197,7 +194,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 7. Be able to write a data management plan.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Ek okuma listesi
 * Averkamp et al. (2018). Data packaging guide. [github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md).
 
 * Barend et al. (2017). Cloudy, increasingly FAIR; revisiting the FAIR Data guiding principles for the European Open Science Cloud. [doi.org/10.3233/ISU-170824](https://doi.org/10.3233/ISU-170824)
