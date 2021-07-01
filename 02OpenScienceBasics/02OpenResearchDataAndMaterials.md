@@ -60,7 +60,7 @@ Araştırma verilerini erişilebilir yapmanın \([Wikipedia](https://en.wikipedi
 
 * Araştırmacılara verilerini depolarken ek destek sağlayabilecek çok sayıda genel ve alana veya konuya özel veri havuzu mevcuttur.
 
-* Veri seti ile ilgli, bir dergide veya veri makalelerini (data paper) desteklemeye ayrılmış bir veri dergisinde ön baskı olarak yayımlanabilecek bir veri makalesi (data paper) yayımlamak. Veriler dergi tarafından veya bir veri havuzunda ayrı olarak tutulabilir. Veri dergilerine örnek olarak \(SpringerNature'ın\) [Scientific Data](https://www.nature.com/sdata/) dergisi ile \(CODATA'nın\) [Data Science Journal](http://www.codata.org/publications/data-science-journal) adlı dergisi örnek verilebilir. Veri dergilerinin daha kapsamlı bir değerlendirmesi için bkz. [Candela et al](https://doi.org/10.1002%2Fasi.23358).
+* Veri seti ile ilgili, bir dergide veya veri makalelerini (data paper) desteklemeye ayrılmış bir veri dergisinde ön baskı olarak yayımlanabilecek bir veri makalesi (data paper) yayımlamak. Veriler dergi tarafından veya bir veri havuzunda ayrı olarak tutulabilir. Veri dergilerine örnek olarak \(SpringerNature'ın\) [Scientific Data](https://www.nature.com/sdata/) dergisi ile \(CODATA'nın\) [Data Science Journal](http://www.codata.org/publications/data-science-journal) adlı dergisi örnek verilebilir. Veri dergilerinin daha kapsamlı bir değerlendirmesi için bkz. [Candela et al](https://doi.org/10.1002%2Fasi.23358).
 
 The CESSDA ERIC [Expert tour guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes) provides an overview of pros and cons of different data publication routes. Sometimes, your funder or another external party requires you to use a specific repository. If you are free to choose, you may consider the order of preference in the [recommendations by OpenAIRE](https://www.openaire.eu/opendatapilot-repository-guide):
 
@@ -222,7 +222,7 @@ A: "You should talk to experts in domain specific repositories on how to provide
 * Wilkinson et al. (2918). A design framework and exemplar metrics for FAIRness. [doi.org/10.1038/sdata.2018.118](https://doi.org/10.1038/sdata.2018.118)
 
 
-#### Initiatives and projects
+#### Girişimler ve projeler
 
 * DANS GDPR DataTags. [zingtree.com](https://zingtree.com/host.php?style=buttons&tree_id=442670046&persist_names=Restart&persist_node_ids=58#58)
 
