@@ -38,9 +38,9 @@ Birçok araştırma projesinin genellikle en değerli çıktısı olan araştır
 
 **Erişilebilir:** \(Üst\) veriler, mümkünse doğrulama ve yetkilendirme içeren standart ve açık bir iletişim protokolü kullanılarak tanımlayıcıları tarafından çekilebilir olmalıdır. Ayrıca, verilerin artık mevcut olmadığı durumlarda dahi üst verilere erişilebilir olmalıdır.
 
-**Birlikte çalışılabilir:** The data should be able to be combined with and used with other data or tools. The format of the data should therefore be open and interpretable for various tools, including other data records. The concept of interoperability applies both at the data and metadata level. For instance, the \(meta\)data should use vocabularies that follow FAIR principles.
+**Birlikte çalışılabilir:** Veriler, diğer veriler veya araçlarla birleştirilip kullanılabilir olmalıdır. Bu nedenle verilerin formatı, diğer veri kayıtları da dahil olmak üzere çeşitli araçlar için açık ve yorumlanabilir olmalıdır. Birlikte çalışabilirlik kavramı hem veri hem de meta veri düzeyinde geçerlidir. Örneğin, \(üst\)veriler için FAIR ilkelerine uyumlu sözlükler (vocabularies) kullanılmalıdır.
 
-**Yeniden kullanılabilir:** Ultimately, FAIR aims at optimizing the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings. Also, the reuse of the \(meta\)data should be stated with \(a\) clear and accessible license\(s\).
+**Yeniden kullanılabilir:** FAIR, en nihayetinde, verilerin yeniden kullanımını optimize etmeyi amaçlar. Bunu başarmak için üst veriler ve veriler, farklı ortamlarda çoğaltılabilmeleri ve/veya birleştirilebilmeleri için iyi tanımlanmış olmalıdır. Ayrıca, üst verilerin yeniden kullanım durumu açık/net ve erişilebilir lisanslar ile belirtilmelidir.
 
 Distinct from peer initiatives that focus on the human scholar, the FAIR principles put a specific emphasis on enhancing the ability of machines to automatically find and use data or any digital object, in addition to supporting its reuse by individuals. The FAIR principles are guiding principles, not standards. FAIR describes qualities or behaviours that are required to make data maximally reusable \(e.g., description, citation\). Those qualities can be achieved by different standards.
 
