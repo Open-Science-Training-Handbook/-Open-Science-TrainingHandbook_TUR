@@ -42,25 +42,25 @@ Birçok araştırma projesinin genellikle en değerli çıktısı olan araştır
 
 **Yeniden kullanılabilir:** FAIR, en nihayetinde, verilerin yeniden kullanımını optimize etmeyi amaçlar. Bunu başarmak için üst veriler ve veriler, farklı ortamlarda çoğaltılabilmeleri ve/veya birleştirilebilmeleri için iyi tanımlanmış olmalıdır. Ayrıca, üst verilerin yeniden kullanım durumu açık/net ve erişilebilir lisanslar ile belirtilmelidir.
 
-Distinct from peer initiatives that focus on the human scholar, the FAIR principles put a specific emphasis on enhancing the ability of machines to automatically find and use data or any digital object, in addition to supporting its reuse by individuals. The FAIR principles are guiding principles, not standards. FAIR describes qualities or behaviours that are required to make data maximally reusable \(e.g., description, citation\). Those qualities can be achieved by different standards.
+Bilim insanlarına odaklanan hakemlik girişimlerinden farklı olarak, FAIR ilkeleri, insanlar tarafından yeniden kullanımını desteklemenin yanı sıra, makinelerin verileri veya herhangi bir dijital nesneyi otomatik olarak bulma ve kullanma yeteneğini geliştirmenin özellikle üzerinde durmaktadır. FAIR ilkeleri standartlar değil, yol gösterici ilkelerdir. FAIR verileri en üst düzeyde yeniden kullanılabilir hale getirmek için gereken nitelikleri ve tutumları tanımlar \(örneğin, tanımlama, atıf\). Bu niteliklere farklı standartlarla ulaşılabilir.
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png)
 
-##### Data publishing
+##### Veri yayımlama
 
-Most researchers are more or less familiar with Open Access publishing of research articles and books \(see chapter 5\). More recently, and for the reasons mentioned above, data publishing has gained increasing attention. More and more funders expect the data produced in research projects they finance to be findable, accessible and as open as possible.
+Çoğu araştırmacı, araştırma makalelerinin ve kitaplarının Açık Erişim yayıncılığına az çok aşinadır \(bkz. Bölüm 5\). Daha yakın zamanlarda ve yukarıda belirtilen nedenlerden dolayı veri yayımlama giderek artan bir ilgi görmeye başlamıştır. Gittikçe daha fazla fon sağlayıcı, finanse ettikleri araştırma projeleri kapsamında üretilen verilerin keşfedilebilir, erişilebilir ve mümkün olduğunca açık olmasını beklemektedir.
 
-There are several distinct ways to make research data accessible, including \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
+Araştırma verilerini erişilebilir yapmanın \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\)'yı da içeren birkaç farklı yolu vardır:
 
-* Publishing data as supplemental material associated with a [research article](https://en.wikipedia.org/wiki/Research_article), typically with the data files hosted by the publisher of the article.
+* Verilerin, [araştırma makalesi](https://en.wikipedia.org/wiki/Research_article) ile ilişkili ek materyal olarak, genellikle makalenin yayıncısı tarafından tutulan veri dosyaları ile birlikte yayımlanması.
 
-* Hosting data on a publicly-available website, with files available for download.
+* Verileri, indirilebilecek dosyalarla birlikte, kamuya açık bir web sitesinde tutma.
 
-* Depositing data in a repository that has been developed to support data publication, e.g., [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repository)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
+* Verileri, veri yayımlamayı desteklemek için oluşturulmuş bir veri havuzunda depolama. Örneğin, [Dataverse](https://en.wikipedia.org/wiki/Dataverse), [Dryad](https://en.wikipedia.org/wiki/Dryad_(repository)), [figshare](https://en.wikipedia.org/wiki/Figshare), [Zenodo](https://en.wikipedia.org/wiki/Zenodo).
 
-* A large number of general and domain or subject specific data repositories exist which can provide additional support to researchers when depositing their data.
+* Araştırmacılara verilerini depolarken ek destek sağlayabilecek çok sayıda genel ve alana veya konuya özel veri havuzu mevcuttur.
 
-* Publishing a data paper about the dataset, which may be published as a preprint, in a journal, or in a data journal that is dedicated to supporting data papers. The data may be hosted by the journal or hosted separately in a data repository. Examples of data journals include [Scientific Data](https://www.nature.com/sdata/) \(by SpringerNature\) and the [Data Science Journal](http://www.codata.org/publications/data-science-journal) \(by CODATA\). For a comprehensive review of data journals, see [Candela et al](https://doi.org/10.1002%2Fasi.23358).
+* Veri seti ile ilgli, bir dergide veya veri makalelerini (data paper) desteklemeye ayrılmış bir veri dergisinde ön baskı olarak yayımlanabilecek bir veri makalesi (data paper) yayımlamak. Veriler dergi tarafından veya bir veri havuzunda ayrı olarak tutulabilir. Veri dergilerine örnek olarak \(SpringerNature'ın\) [Scientific Data](https://www.nature.com/sdata/) dergisi ile \(CODATA'nın\) [Data Science Journal](http://www.codata.org/publications/data-science-journal) adlı dergisi örnek verilebilir. Veri dergilerinin daha kapsamlı bir değerlendirmesi için bkz. [Candela et al](https://doi.org/10.1002%2Fasi.23358).
 
 The CESSDA ERIC [Expert tour guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes) provides an overview of pros and cons of different data publication routes. Sometimes, your funder or another external party requires you to use a specific repository. If you are free to choose, you may consider the order of preference in the [recommendations by OpenAIRE](https://www.openaire.eu/opendatapilot-repository-guide):
 
