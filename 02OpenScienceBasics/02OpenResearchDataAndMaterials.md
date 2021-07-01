@@ -50,7 +50,7 @@ Bilim insanlarına odaklanan hakemlik girişimlerinden farklı olarak, FAIR ilke
 
 Çoğu araştırmacı, araştırma makalelerinin ve kitaplarının Açık Erişim yayıncılığına az çok aşinadır \(bkz. Bölüm 5\). Daha yakın zamanlarda ve yukarıda belirtilen nedenlerden dolayı veri yayımlama giderek artan bir ilgi görmeye başlamıştır. Gittikçe daha fazla fon sağlayıcı, finanse ettikleri araştırma projeleri kapsamında üretilen verilerin keşfedilebilir, erişilebilir ve mümkün olduğunca açık olmasını beklemektedir.
 
-Araştırma verilerini erişilebilir yapmanın \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\)'yı da içeren birkaç farklı yolu vardır:
+Araştırma verilerini erişilebilir yapmanın aşağıdakileri de içeren birçok farklı yolu vardır\([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
 
 * Verilerin, [araştırma makalesi](https://en.wikipedia.org/wiki/Research_article) ile ilişkili ek materyal olarak, genellikle makalenin yayıncısı tarafından tutulan veri dosyaları ile birlikte yayımlanması.
 
@@ -62,7 +62,7 @@ Araştırma verilerini erişilebilir yapmanın \([Wikipedia](https://en.wikipedi
 
 * Veri seti ile ilgili, bir dergide veya veri makalelerini (data paper) desteklemeye ayrılmış bir veri dergisinde ön baskı olarak yayımlanabilecek bir veri makalesi (data paper) yayımlamak. Veriler dergi tarafından veya bir veri havuzunda ayrı olarak tutulabilir. Veri dergilerine örnek olarak \(SpringerNature'ın\) [Scientific Data](https://www.nature.com/sdata/) dergisi ile \(CODATA'nın\) [Data Science Journal](http://www.codata.org/publications/data-science-journal) adlı dergisi örnek verilebilir. Veri dergilerinin daha kapsamlı bir değerlendirmesi için bkz. [Candela et al](https://doi.org/10.1002%2Fasi.23358).
 
-CESSDA ERIC [Veri Yönetimi konusunda uzman tur rehberi](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes), farklı veri yayımlama yollarının artıları ve eksileri ile ilgili genel bir bakış sağlamaktadır. Bazen fon sağlayıcınız ya da diğer bir harici taraf belli bir veri havuzunu kullanmanızı gerektirebilir. Seçim konusunda özgürseniz, [OpenAIRE önerileri](https://www.openaire.eu/opendatapilot-repository-guide)'ndeki tercih sırasını göz önünde bulundurabilirsiniz:
+CESSDA ERIC [Veri Yönetimi konusunda uzman tur rehberi](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes), farklı veri yayımlama yollarının artıları ve eksileri ile ilgili genel bir bakış sağlamaktadır. Bazen fon sağlayıcınız ya da diğer bir harici taraf belli bir veri havuzunu kullanmanızı gerektirebilir. Seçim konusunda özgürseniz, [OpenAIRE önerilerindeki](https://www.openaire.eu/opendatapilot-repository-guide) tercih sırasını göz önünde bulundurabilirsiniz:
 
 1. Use an external data archive or repository already established for your research domain to preserve the data according to recognised standards in your discipline.
 
