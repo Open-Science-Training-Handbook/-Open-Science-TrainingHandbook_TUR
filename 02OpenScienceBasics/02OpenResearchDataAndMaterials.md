@@ -64,9 +64,9 @@ Araştırma verilerini erişilebilir yapmanın aşağıdakileri de içeren birç
 
 CESSDA ERIC [Veri Yönetimi konusunda uzman tur rehberi](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes), farklı veri yayımlama yollarının artıları ve eksileri ile ilgili genel bir bakış sağlamaktadır. Bazen fon sağlayıcınız ya da diğer bir harici taraf belli bir veri havuzunu kullanmanızı gerektirebilir. Seçim konusunda özgürseniz, [OpenAIRE önerilerindeki](https://www.openaire.eu/opendatapilot-repository-guide) tercih sırasını göz önünde bulundurabilirsiniz:
 
-1. Use an external data archive or repository already established for your research domain to preserve the data according to recognised standards in your discipline.
+1. Verileri kendi disiplininizde tanınan standartlara göre korumak için araştırma alanınız için önceden kurulmuş harici bir veri arşivi veya havuzu kullanın.
 
-2. If available, use an institutional research data repository, or your research group’s established data management facilities.
+2. Eğer mevutsa, kurumsal bir araştırma veri havuzu yada araştırma grubunuzun varolan veri yönetimi olanaklarını kullanın.
 
 3. Use a cost-free data repository such as [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) or [Zenodo](https://zenodo.org/).
 
