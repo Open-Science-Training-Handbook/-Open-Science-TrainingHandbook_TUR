@@ -66,64 +66,64 @@ CESSDA ERIC [Veri Yönetimi konusunda uzman tur rehberi](https://www.cessda.eu/R
 
 1. Verileri kendi disiplininizde tanınan standartlara göre korumak için araştırma alanınız için önceden kurulmuş harici bir veri arşivi veya havuzu kullanın.
 
-2. Eğer mevutsa, kurumsal bir araştırma veri havuzu yada araştırma grubunuzun varolan veri yönetimi olanaklarını kullanın.
+2. Eğer mevcutsa, kurumsal bir araştırma veri havuzu ya da araştırma grubunuzun varolan veri yönetimi olanaklarını kullanın.
 
-3. Use a cost-free data repository such as [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) or [Zenodo](https://zenodo.org/).
+3. [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) ya da [Zenodo](https://zenodo.org/)gibi ücretsiz bir veri havuzu kullanın.
 
-4. Search for other data repositories in [re3data](https://www.re3data.org/). There is no single filter option in re3data covering the FAIR principles, but considering the following filter options will help you to find FAIR-compatible repositories: access categories, data usage licenses, trustworthy data repositories \(with a certificate or explicitly adhering to archival standards\) and whether a repository gives the data a persistent identifier \(PID\). Another aspect to consider is whether the repository supports versioning.
+4. [re3data](https://www.re3data.org/)'daki diğer veri havuzlarını araştırın. re3data'da FAIR ilkelerini kapsayan tek bir filtreleme seçeneği yoktur, ancak filtreleme şu seçeneklerini göz önünde bulundurmak FAIR uyumlu veri havuzlarını bulmanıza yardımcı olacaktır: erişim kategorileri, veri kullanım lisansları, güvenilir veri havuzları \(sertifika ile ya da doğrudan arşiv standarlarına bağlı kalarak\) ve havuzun verilere kalıcı tanımlayıcı \(persistent identifier - PID\) verip vermediği. Dikkate alınması gereken bir diğer husus havuzun farklı dosya sürümleri oluşturmayı (versioning) destekleyip desteklemediğidir.
 
 ## <img src="/Images/Icons/archive.png" width="150" height="150" />
-You should consider where to deposit and publish your data already in your research data management plan. CESSDA offers some practical questions, which are recommended to be considered. For example: Which data and associated metadata, documentation and code will be deposited? How long does the data need to be retained? For how long should the data remain reusable? How will the data be made available? What access category will you choose? For more questions check [Adapt your DMP: part 6](https://www.cessda.eu/Research-Infrastructure/Training/Expert-Tour-Guide-on-Data-Management/6.-Archive-Publish/Adapt-your-DMP-part-6). On the other hand don’t forget to check if a chosen repository meets requirements of your research and of your funder. Some repositories have already gained certification, like CoreTrustSeal, which certifies them to be trustworthy and to be able to meet Core Trustworthy Data Repositories Requirements. It is worth mentioning that some domain specific repositories may accept only high-quality data with a potential for reuse and that can be publicly shared.
+Araştırma veri yönetim planınızda verilerinizi nerede depolayacağınızı ve yayımlayacağınızı düşünmüş olmalısınız. CESSDA, gözününde bulundurulması önerilen bazı uygulamaya yönelik sorular sunmaktadır. Örneğin: For example: Hangi veriler, ilişkili üst veriler, dokümanlar ve kodlar depolanacak? Verilerin ne kadar süre saklanması gerekiyor? Veriler ne kadar süreyle yeniden kullanılabilir durumda kalmalıdır? Veriler nasıl kullanıma sunulacak? Hangi erişim kategorisini seçeceksiniz? Daha fazla soru için bkz. [Adapt your DMP: part 6](https://www.cessda.eu/Research-Infrastructure/Training/Expert-Tour-Guide-on-Data-Management/6.-Archive-Publish/Adapt-your-DMP-part-6). Diğer taraftan, seçilen bir veri havuzunun araştırmanız ve fon sağlayıcınız için gereklilikleri karşılayıp karşılamadığını kontrol etmeyi unutmayın. Bazı veri havuzları halihazırda güvenilir olduklarını ve Temel Güvenilir Veri Havuzu Gereksinimlerini karşıladıklarını onaylayan CoreTrustSeal gibi sertifikaları almışlardır. Bazı alana özgü veri havuzlarının, yalnızca yeniden kullanım potansiyeli olan ve herkese açık olarak paylaşılabilen yüksek kalitedeki verileri kabul edeceğini belirtmekte fayda vardır.
 
-Since there are several routes to publish your data, you should note that for a dataset to "count" as a publication, it should follow a similar publication process as an article \([Brase et al., 2009](https://doi.org/10.3233/ISU-2009-0595)\) and should be:
+Verilerinizi yayımlamanın birçok yolu olduğundan, bir veri setinin yayın olarak "sayılması" için bir makaleye benzer bir yayın sürecini izlemesi gerektiğine \([Brase et al., 2009](https://doi.org/10.3233/ISU-2009-0595)\) ve:
 
-* Properly documented with metadata;
+* Üst verilerle birlikte uygun şekilde dokümante edilmiş;
 
-* Reviewed for quality, e.g. content of the study, methodology, relevance, legal consistency and documentation of materials;
+* Nitelik yönünden gözden geçirilmiş, örneğin çalışmanın içeriği, metodoloji, ilgililik, yasal uygunluk ve materyallerin dokümantasyonu;
 
-* Searchable and discoverable in catalogues \(or databases\);
+* Kataloglarda \(ya da veri tabanlarında\) aranabilir ve keşfedilebilir;
 
-* Citable in articles.
+* Makalelerde atıf yapılabilir olmalıdır.
 
 ## <img src="/Images/Icons/metadata.png" width="150" height="150" />
-##### Data citation
+##### Veri atıfı
 
-Data citation services help research communities discover, identify, and cite research data \(and often other research objects\) with confidence. This typically involves the creation and allocation of Digital Object Identifiers \(DOIs\) and accompanying metadata through services such as [DataCite](https://www.datacite.org), and can be integrated with research workflows and standards. This is an emerging field, and involves aspects such as conveying to journal publishers the importance of appropriate data citation in articles, as well as enabling research articles themselves to be linked to any underlying data. Through this, citable data become legitimate contributions to the process of scholarly communication, and can help pave the way for new metrics and publication models that recognize and reward data sharing.
+Veri atıf hizmetleri/faaliyetleri, araştırma topluluklarının araştırma verilerini \(ve genellikle diğer araştırma objelerini\) güvenle keşfetmesine, tanımlamasına ve bunlara atıf yapmasına yardımcı olur. Bu genellikle, digital nesne tanımlayıcıları Digital Object Identifiers \(Digital Object Identifiers - DOIs\) ve veriye eşlik eden üst verilerin [DataCite](https://www.datacite.org) gibi hizmetler aracılığıyla oluşturulması ve tahsisini/atanmasını içerir ve araştırma iş akışları ve standartlar ile entegre edilebilir.   Bu, gelişmekte olan bir alandır ve makalelerde verilere uygun şekilde atıf yapmanın önemini dergi yayıncılarına iletmek ve aynı zamanda araştırma makalelerinin araştırmanın verileri ile ilişkilendirilmesinin sağlanması gibi konuları kapsar. Bu sayede, atıf yapılabilir veriler bilimsel iletişim sürecine yerinde katkılar haline gelir ve veri paylaşımını tanıyan ve ödüllendiren yeni ölçevler ve yayın modellerinin önünü açmaya yardımcı olabilir.
 
-As an initial step towards good practice for data citation, the Data Citation Synthesis Group of FORCE11 has put forward the [Joint Declaration of Data Citation Principles](https://doi.org/10.25490/a97f-egyk), targeted at both researchers and data service providers. Adhering to these principles, data repositories usually provide researchers with a reference they can use when referring to a given dataset.
+Veri atıfı için iyi uygulamaya yönelik ilk adım  olarak, FORCE11'in Veri Atıf Sentezi Grubu (Data Citation Synthesis Group), hem araştırmacıları hem de veri hizmet sağlayıcılarını hedef alan [Veri Atıf İlkeleri Ortak Bildirisini - Joint Declaration of Data Citation Principles](https://doi.org/10.25490/a97f-egyk) önermiştir. Bu ilkelere bağlı kalarak, veri havuzları genellikle araştırmacılara belirli bir veri setine atıfta bulunurken kullanabilecekleri bir dayanak/örnek sunar.
 
 ## <img src="/Images/Icons/database.png" width="150" height="150" />
-##### Data packaging
+##### Veri paketleme
 
-Data packages are containers for describing and sharing accompanying data files, and typically comprise a metadata file describing the features and context of a dataset. This can include aspects such as creation information, provenance, size, format type, field definitions, as well as any relevant contextual files, such as data creation scripts or textual documentation. From the [Data Packaging Guide](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md):
+Veri paketleri,  verilere eşlik eden veri dosyalarının tanımlanması ve paylaşılmasına yönelik paketler olup ve tipik olarak bir veri setinin özelliklerini ve içeriğini açıklayan bir üst veri dosyası içerirler. Veri paketleri, veri oluşturma komut dosyaları veya metin belgeleri gibi ilgili içerik dosyaların yanı sıra veri setini oluşturma ile ilgili bilgileri, provenans, verinin boyutu, formatı/türü, alan tanımları gibi kaynak, boyut, biçim türü, alan tanımları gibi hususları içerebilir. [Veri Paketleme Rehberinde](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md) belirtildiği üzere:
 
-* Data are forever: Datasets outlive their original purpose. Limitations of data may be obvious within their original context, such as a library catalog, but may not be evident once data is divorced from the application it was created for.
+* Veriler sonsuza dek yaşar: Veri setleri ortaya çıkış amaçlarından daha uzun ömürlüdür. context
+* Verilerin sınırlılıkları, bir kütüphane kataloğu gibi asıl ortamları içinde göze çarpabilir, ancak veriler oluşturuldukları kullanım amacının dışına çıktığında belirgin olmayabilir.
 
-* Data cannot stand alone: Information about the context and provenance of the data--how and why it was created, what real-world objects and concepts it represents, the constraints on values--is necessary to helping consumers interpret it responsibly.
+* Veri tek başına olamaz: Verinin içeriği ve provenansı hakkındaki bilgi--nasıl ve neden oluşturulduğu, hangi gerçek dünya nesneleri ve kavramlarını temsil ettiği, değerler üzerindeki kısıtlamalar--kullanıcıların veriyi sorumlu bir şekilde yorumlamalarına yardımcı olmak için gereklidir.
 
-* Structuring metadata about datasets in a standard, machine-readable way encourages the promotion, shareability, and reuse of data.
+* Veri setleri ile ilgili üst verileri standart, makinaca okuanbilir şekilde yapılandırmak verilerin tanıtımı, paylaşılabilirliğini ve yeniden kullanımını teşvik eder. 
 
 ## <img src="/Images/Icons/privacy.png" width="150" height="150" />
-##### Sharing sensitive and proprietary data
+##### Hassas ve kişisel verilerin paylaşılması
 
 With appropriate data management planning much sensitive and proprietary data can be shared, reused, and FAIR. The metadata can almost always be shared. Guidance and best practices for sharing sensitive data are necessarily region-specific because of differing regulations \(see for example UKDS’[Companion material for Managing and Sharing Research Data handbook](https://www.ukdataservice.ac.uk/manage-data/handbook)\). [International Association for Social Science Information Services and Technology](http://www.iassistdata.org/resources/data-management/best-practices) keeps a list of international guidance in data management that is a good starting point. There are several approaches and initiatives to help researchers achieve this. [DCC’s DMPonline tool](http://www.dcc.ac.uk/dmponline) includes a number of templates for funders. [The CESSDA Expert Tour Guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection) provides information and practical examples on how to share personal data and on copyright and database issues across the European countries. The Tour Guide also gives an overview on the impact of the GDPR which will harmonize personal data legislation in Europe \(May 2018\), and provides an updated overview on [EU diversity on data protection](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection).[ ](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Processing-personal-data/Diversity-in-data-protection)
 
-###### Data brokers
+###### Veri simsarlığı
 
-Data brokers are knowledgeable, independent parties who act as data stewards for sensitive data. Researchers can transfer their sensitive data and jurisdiction over access to that data to the broker. This is especially common with patient-level data from clinical studies. Brokers provide a level of independence in the evaluation of whose data requests are scientifically valid and will not violate the privacy of research participants. Examples of data brokers include [The YODA Project](http://yoda.yale.edu/), [ClinicalStudyDataRequest.com](https://www.clinicalstudydatarequest.com/), [National Sleep Research Resource](https://sleepdata.org/) and [Supporting Open Access for Researchers \(SOAR\)](https://dcri.org/our-approach/data-sharing/).
+Veri simsarları Data brokers are knowledgeable, independent parties who act as data stewards for sensitive data. Researchers can transfer their sensitive data and jurisdiction over access to that data to the broker. This is especially common with patient-level data from clinical studies. Brokers provide a level of independence in the evaluation of whose data requests are scientifically valid and will not violate the privacy of research participants. Examples of data brokers include [The YODA Project](http://yoda.yale.edu/), [ClinicalStudyDataRequest.com](https://www.clinicalstudydatarequest.com/), [National Sleep Research Resource](https://sleepdata.org/) and [Supporting Open Access for Researchers \(SOAR\)](https://dcri.org/our-approach/data-sharing/).
 
 ## <img src="/Images/Icons/data.png" width="150" height="150" />
-##### Analysis portals
-
+##### Analiz portalları
 Analysis portals are platforms that allow approved analysis of data without allowing full access \(viewing or downloading\) or controlling where and who gets access. Some data brokers also use analysis portals. Analysis portals control what additional datasets can be pooled with the sensitive data as well as what analyses can be run to ensure that personal information is not revealed during reanalysis. Examples of virtual analysis portals include [Project Data Sphere](https://www.projectdatasphere.org/projectdatasphere/html/home), [Vivli](http://vivli.org/), [RAIRD](http://raird.no/), [Corpuscle](http://clarino.uib.no/korpuskel/page), and [INESS](http://clarino.uib.no/iness/page).
 
 Social science and other researchers with sensitive data use a single-site analysis portal that can be accessed only under controlled regime. Approved researchers can access the data on-site, in a safe room, for scientific purposes. However, the metadata describing the data should be openly available and adhering to the FAIR principles.
 
-##### De-identified and synthetic data
+##### Kimliği gizlenmiş ve yapay veriler De-identified and synthetic data
 
 Many datasets containing participant-level private information can be shared once the dataset has been de-identified \(Safe Harbor method\) or a expert has determined that the dataset is not individually identifiable \(Expert Determination method\). Consult with your Research Ethics Board / Institutional Review Board to learn how to do this with your data. We also recommend [the CESSDA Expert Tour Guide on Data Management](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/5.-Protect/Ethics-and-data-protection), which provides information and practical examples on how to share personal data. However, some datasets cannot be safely de-identified and shared. Researchers can still improve the openness of research on such data by creating and sharing synthetic data. Synthetic data is similar in structure, content, and distribution to the real data and aims to attain "analytic validity": statistical analysis will return the same results for the synthetic data as the real data. The United States Census Bureau, for example, uses [synthetic data and analysis portals](https://census.gov/content/dam/Census/programs-surveys/sipp/methodology/SSBdescribe_nontechnical.pdf) in combination to allow reuse of highly sensitive data.
 
-###### DataTags
+###### Veri Etiketleri
 
 [DataTags](https://datatags.org/) is a framework designed to enable computer-assisted assessments of the legal, contractual, and policy restrictions that govern data sharing decisions. The DataTags system asks a user a series of questions to elicit the key properties of a given dataset and applies inference rules to determine which laws, contracts, and best practices are applicable. The output is a set of recommended DataTags, or simple, iconic labels that represent a human-readable and machine-actionable data policy, and a license agreement that is tailored to the individual dataset. The DataTags system is being designed to integrate with data repository software, and it will also operate as a standalone tool. DataTags is being developed at Harvard University. In Europe, DANS is working on adjusting DataTags to European legislation / General Data Protection Regulation \([GDPR](https://www.eugdpr.org/)\) \(cf. [DANS GDPR DataTags](https://zingtree.com/host.php?style=buttons&tree_id=442670046&persist_names=Restart&persist_node_ids=58#58)\).
 
@@ -139,7 +139,7 @@ In addition to data sharing, the openness of research relies on sharing of mater
 
 A reagents is a substance, compound or mixture that can be added to a system in order to create a chemical or other reaction. Reagents can be deposited with repositories like [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. License your materials so they can be reused by other researchers.
 
-###### Protocols
+###### Protocoller
 
 A protocol describes a formal or official record of scientific experimental observations in a structured format. Deposit virtual protocols for citation, adaptation, and reuse using [Protocols.](https://www.protocols.io/)[io](https://www.protocols.io/).
 
