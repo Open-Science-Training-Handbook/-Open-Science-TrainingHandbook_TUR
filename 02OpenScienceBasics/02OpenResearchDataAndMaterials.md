@@ -167,31 +167,31 @@ Q: "Verilerimi FAIR yapmam çok fazla ek iş yaratır mı?"
 
 A: "Tam olarak değil! Verilerin FAIR yapılması sadece bireysel olarak araştırmacıların değil tüm grubun sorumluluğundadır. Verilerinizin FAIR olduğundan emin olmak için en iyi yol bir Veri Yönetim Planı hazırlayarak herşeyi önceden planlamaktır. Veri toplama ve veri işleme esnasında bir veri havuzu tarafından önerilen disiplinin standartlarına ya da önlemlere uyun.
 
-Q: "I want to share my data. How should I license them?"
+Q: "Verilerimi paylaşmak istiyorum. Nasıl lisanslamalıyım?"
 
-A: "That’s a good question. First of all think about who owns the data? A research funder or an institution that you work for. Then, think about authorship. Applying a suitable license to your data is crucial in order to make them reusable. For more information about licensing, please see [6. Open Licensing and File Formats](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
+A: "Bu güzel bir soru. Öncelikle verinin sahibinin küm olduğunu düşünün. Bir araştırma fonlayıcı mıya da çalıştığınız kurum mu? Sonrasında, yazarlığı düşünün. Uygun biir lisans kullanmak, verilerinizi yeniden kullanılanilir kılmak için çok önemlidir. Lisanslama hakkında daha fazla bilgi için lütfen bkz. [6. Açık Lisanslama ve Dosya Formatları](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
 
-Q: "I cannot make my data directly available—they are too large to share conveniently / have restrictions related to privacy issues. What should I do?"
+Q: "Verilerimi doğrudan erişilebilir hale getiremiyorum—rahatça paylaşılamayacak kadar büyük / gizlilik konularıyla ilgili kısıtlamalar söz konusu. Ne yapmalıyım?"
 
-A: "You should talk to experts in domain specific repositories on how to provide sufficient instructions to make your data findable and accessible."
+A: "Alana özgü veri havuzlarındaki uzmanlarla, verilerinizi keşfedilebilir ve erişilebilir hale getirmek için uygun talimatların nasıl sağlanacağı konusunda konuşmalısınız."
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
 
-1. Understand the characteristics of open data, and in particular the FAIR principles.
+1. Açık verinin özelliklerinin ve özellikle FAIR ilkelerini anlamak.
 
-2. Be familiar with some of the arguments for and against open data.
+3. Açık verilerine lehine ve aleyhine olan bazı argümanlara aşina olmak.
 
-3. Be able to differentiate and address sensitive data and opFAIR data; these two categories are not necessarily incompatible.
+3. Hassas verileri ve opFAIR verileri ayırt edebilme ve adresleyebilme; bu iki kategori mutlaka uyumsuz değildir.
 
-4. Be able to transform a dataset into one that is sufficient for open sharing \(non-proprietary format\), meets the standards of the FAIR principles, and is designed for maximized accessibility, transparency and re-use by providing sufficient metadata.
+4. Bir veri setini, açık paylaşıma uygun \(telif ile korunmayan format\), FAIR ilkelerinin standartlarını karşılayan ve uygun üst veri sağlayarak en üst düzeyde erişilebilirlik, şeffaflık ve yeniden kullanım için tasarlanmış bir veri setine dönüştürebilmek.
 
-5. Know the difference between raw and processed \(or cleaned\) data, and the importance of version labels.
+6. Ham ve işlenmiş \(veya temizlenmiş\) veriler arasındaki farkı ve sürüm etiketlerinin önemini bilmek.
 
-6. Know commonly used file formats and community standards for maximum re-usability.
+6. En üst düzeyde yeniden kullanım için yaygın kullanılan dosya formatlarını ve topluluk standartlarını öğrenmek.
 
-7. Be able to write a data management plan.
+7. Bir veri yönetim planı yazabilmek.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
