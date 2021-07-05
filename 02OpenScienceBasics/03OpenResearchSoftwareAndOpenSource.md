@@ -7,22 +7,22 @@ Açık araştırma yazılımları ya da açık kaynak araştırma yazılımları
 
 ### Gerekçe
 
-Modern research relies on software, and building upon—or reproducing—that research requires access to the full source code behind that software \([Barnes, 2010](https://doi.org/10/cj8t6n); [Morin et al., 2012](https://doi.org/10/m5t); [Ince et al., 2012](https://doi.org/10/hqg); [Prins et al. 2015](https://doi.org/10/f3mn4p); [Lowndes et al., 2018](https://doi.org/10/gc4jb3)\). As Buckheit and Donoho put it, paraphrasing Jon Claerbout, ‘‘An article about a computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result’’ \([Buckheit & Donoho, 1995](https://doi.org/10.1007/978-1-4612-2544-7_5)\). Open access to the source code of research software also helps improve the impact of the research \([Vandewalle, 2012](https://doi.org/10/gc5sjp)\).
+Modern araştırmalar yazılıma dayanır ve bu araştırmalar üzerine inşa edilmiş ya da türetilmiş—yazılımın ardındaki tam kaynak koduna erişimi gerektirir \([Barnes, 2010](https://doi.org/10/cj8t6n); [Morin et al., 2012](https://doi.org/10/m5t); [Ince et al., 2012](https://doi.org/10/hqg); [Prins et al. 2015](https://doi.org/10/f3mn4p); [Lowndes et al., 2018](https://doi.org/10/gc4jb3)\). Buckheit ve Donoho'nun Jon Claerbout'tan alıntı yaparak belirttiği gibi, ‘‘Hesaplamaya dayanan bir sonuçla ilgili bir makale reklamdır, bilim değil. Asıl bilim, sonucu üreten tam yazılım ortamı, kod ve verilerdir’’ \([Buckheit & Donoho, 1995](https://doi.org/10.1007/978-1-4612-2544-7_5)\). Araştırma yazılımlarının kaynak koduna açık erişim araştırmanın etkisini de artırır \([Vandewalle, 2012](https://doi.org/10/gc5sjp)\).
 
-Sharing software used for research \(whether computational in nature, or that relies on any software-based analysis/interpretation\) is a necessary, though not sufficient, condition for reproducibility. This is due to the unavoidable ambiguity that arises when trying to fully describe software using natural language, e.g., in a paper \([Ince et al., 2012](https://doi.org/10/hqg)\). Furthermore, many \(if not most\) software programs may contain some undetected errors \([Soergel, 2015](https://doi.org/10/gc5sjg)\), so even a "perfect" written description of software would not be able to account for all results.
+Araştırma için kullanılan yazılımların paylaşılması \(doğası gereği hesaplamalı veya herhangi bir yazılım tabanlı analize/yoruma dayalı olsun olmasın\) tekrarlanabilirlik için yeterli olmasa da gerekli bir koşuldur. Bunun nedeni, yazılımı doğal dil kullanarak, örneğin bir kağıtta tam olarak tanımlamaya çalışırken ortaya çıkan kaçınılmaz belirsizliktir  \([Ince et al., 2012](https://doi.org/10/hqg)\). Ayrıca, \(pek çoğu olmasa da\) çoğu yazılım programı tespit edilmemiş hatalar içerebilir \([Soergel, 2015](https://doi.org/10/gc5sjg)\), bu nedenle yazılımın "mükemmel" bir yazılı açıklaması dahi tüm sonuçları açıklayamayabilir.
 
-In addition to reproducibility, sharing software openly allows developers to receive career credit for their efforts, either through direct citation \([Smith et al., 2016](https://doi.org/10/bw3g)\) or via software meta-articles published in, e.g., the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) or the [Journal of Open Source Software](http://joss.theoj.org) \([Smith et al., 2018](https://doi.org/10/gc5sjf)\). Neil Chue Hong maintains a [list of many domain-specific journals](https://www.software.ac.uk/which-journals-should-i-publish-my-software) that publish software articles.
+Tekrarlanabilirliğe ek olarak, yazılımı açık bir şekilde paylaşmak, geliştiricilerin çabaları karşılıdığında doğrudan atıf \([Smith et al., 2016] ya da [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) veya [Journal of Open Source Software](http://joss.theoj.org) gibi dergilerde yayımlanmış yazılım meta-makaleleri (software meta-articles) aracılığyla \([Smith et al., 2018](https://doi.org/10/gc5sjf)\) kariyer kredisi almalarına olanak sağlar. Neil Chue Hong, yazılım makaleleri yayımlayan maintains a [birçok alana özgü derginin listesini](https://www.software.ac.uk/which-journals-should-i-publish-my-software) tutmaktadır.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme hedefleri
 
-1. Learn the characteristics of open software; understand the ethical, legal, economic, and research-impact arguments for and against open software, and further understand the quality requirements of open code.
+1. Açık yazılımların özelliklerini öğrenmek; açık yazılımların lehine ve aleyhine olan etik, yasal, ekonomik ve araştırma etkisi argümanlarını anlamak ve açık kodların kalite koşullarını daha iyi anlamak.
 
-2. Learn how to use existing open software and appropriately attribute \(cite\) it.
+2. Mevcut açık yazılımları nasıl kullanacapını ve uygun şekilde nasıl niteleyeceğini \(atıf yapacağını\) öğrenmek.
 
-3. Learn how to use common tools and services for sharing research codes openly.
+3. Araştırma kodlarını açık bir biçimde paylaşamk için yaygın araç ve hizmetleri nasıl kullanacağını öğrenmek.
 
-4. Be able to choose the appropriate license for their software, and understand the difference between permissive and non-permissive licenses.
+4. Yazılımı için uygun lisansı seçebilmek ve izin veren ve izin vermeyen lisanslar arasındaki farkı anlayabilmek.
 
 ### Temel unsurlar
 
