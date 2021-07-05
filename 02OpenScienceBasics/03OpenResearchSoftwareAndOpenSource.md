@@ -1,11 +1,11 @@
 <img src="/Images/Icons/open_source_software.png" width="150" height="150" /> <img src="/Images/Icons/publish.png" width="150" height="150" />
-## 3. Open Research Software and Open Source
+## 3. Açık Araştırma Yazılımları ve Açık Kaynak
 
-### What is it?
+### Nedir?
 
-Open research software, or open-source research software, refers to the use and development of software for analysis, simulation, visualization, etc. where the full source code is available. In addition, according to the [Open Source Definition](https://opensource.org/osd), open-source software must be distributed in source and/or compiled form \(with the source code available in the latter case\), and must be shared under a license that allows modification, derivation, and redistribution.
+Açık araştırma yazılımları ya da açık kaynak araştırma yazılımları, analiz, simulasyon ve görselleştirme vb. için tüm kaynak kodlarının erişilebilir olduğu yazılımların kullanılması ve geliştirilmesi anlamına gelir. Aynı zamanda, [Open Source Definition](https://opensource.org/osd) tanımına göre, açık kaynak yazılımlar kaynak dosya biçiminde ve/veya derlenmiş biçimde \(ikinci durumda kaynak kodu erişilebilir olacak şekilde\) dağıtılmalı ve değişiklik, türetme ve yeniden dağıtıma izin veren bir lisans ile paylaşılmalıdır.
 
-### Rationale
+### Gerekçe
 
 Modern research relies on software, and building upon—or reproducing—that research requires access to the full source code behind that software \([Barnes, 2010](https://doi.org/10/cj8t6n); [Morin et al., 2012](https://doi.org/10/m5t); [Ince et al., 2012](https://doi.org/10/hqg); [Prins et al. 2015](https://doi.org/10/f3mn4p); [Lowndes et al., 2018](https://doi.org/10/gc4jb3)\). As Buckheit and Donoho put it, paraphrasing Jon Claerbout, ‘‘An article about a computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result’’ \([Buckheit & Donoho, 1995](https://doi.org/10.1007/978-1-4612-2544-7_5)\). Open access to the source code of research software also helps improve the impact of the research \([Vandewalle, 2012](https://doi.org/10/gc5sjp)\).
 
@@ -14,7 +14,7 @@ Sharing software used for research \(whether computational in nature, or that re
 In addition to reproducibility, sharing software openly allows developers to receive career credit for their efforts, either through direct citation \([Smith et al., 2016](https://doi.org/10/bw3g)\) or via software meta-articles published in, e.g., the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) or the [Journal of Open Source Software](http://joss.theoj.org) \([Smith et al., 2018](https://doi.org/10/gc5sjf)\). Neil Chue Hong maintains a [list of many domain-specific journals](https://www.software.ac.uk/which-journals-should-i-publish-my-software) that publish software articles.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Öğrenme hedefleri
 
 1. Learn the characteristics of open software; understand the ethical, legal, economic, and research-impact arguments for and against open software, and further understand the quality requirements of open code.
 
@@ -24,10 +24,10 @@ In addition to reproducibility, sharing software openly allows developers to rec
 
 4. Be able to choose the appropriate license for their software, and understand the difference between permissive and non-permissive licenses.
 
-### Key components
+### Temel unsurlar
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Bilgi
 
 There are several different platforms that support open sharing and collaboration on software, research or otherwise. First of all, you can use this checklist to evaluate openness of existing research software:
 
@@ -62,12 +62,12 @@ When you use software — whether you wrote it, or someone else did and made it 
 Additional, more complicated concepts include automated testing and continuous integration of software, packaging of software in binary formats, and governance and management of multi-person open-source projects \(i.e., codes of conduct, contributing guides\). Some of these topics are described by [Scopatz and Huff \(2015\)](http://lilith.fisica.ufmg.br/~dickman/transfers/comp/textos/Effective%20Computation%20in%20Physics%20(Python).pdf). [Wilson et al. \(2017\)](https://doi.org/10/gbkbwp) also provide a practical guide to best practices for scientific computing that includes advice specifically on research software development.
 
 ## <img src="/Images/Icons/laptop.png" width="150" height="150" />
-##### Open Source Hardware
+##### Açık Kaynak Donanımı
 
 The open source principles above extend to hardware. Researchers often use proprietary instrumentation or hardware in their research that is not freely accessible, reusable, or adaptable. Scientific hardware includes everything from sequencing tools and microscopes to specialized testing equipment and particle colliders. Open Science Hardware \(OScH\) community, for example, is leading a push for the open source movement to include scientific tools, hardware, and research infrastructures through their [Global Open Science Hardware Roadmap](http://openhardware.science/global-open-science-hardware-roadmap/).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Beceriler
 
 * Create a repository on GitHub, and enable the integration with Zenodo. Mint the first release of the software.
 
@@ -78,7 +78,7 @@ The open source principles above extend to hardware. Researchers often use propr
 * Appropriately cite software used for a paper.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Sorular, engeller ve yaygın kavramsal yanılgılar
 
 Q: "I can’t share my software—it’s too messy / it doesn’t have good documentation / I didn’t leave good comments!"
 
@@ -95,7 +95,7 @@ A: Although potential users may ask you for help, either via email or \(e.g.\) i
 Common misconception: simply putting code online makes it open-source software. In fact, unless the software is accompanied by a license that grants permission for others to use, copy, modify, and/or distribute, then the developer\(s\) retain exclusive copyright. A open-source license needs to accompany the code to make it open-source software.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Öğrenme çıktıları
 
 1. Be able to share software under the most appropriate license \(i.e., both the tools and the licensing\).
 
@@ -104,7 +104,7 @@ Common misconception: simply putting code online makes it open-source software. 
 3. Be able to cite software used for a research article.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Ek okuma listesi
 
 * Balasegaram et al. (2017). An open source pharma roadmap. [doi.org/10.1371/journal.pmed.1002276](https://doi.org/10.1371/journal.pmed.1002276) 
 
