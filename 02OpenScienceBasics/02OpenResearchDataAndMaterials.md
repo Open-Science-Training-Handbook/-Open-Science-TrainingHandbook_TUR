@@ -95,7 +95,7 @@ Veri atıfı için iyi uygulamaya yönelik ilk adım  olarak, FORCE11'in Veri At
 ## <img src="/Images/Icons/database.png" width="150" height="150" />
 ##### Veri paketleme
 
-Veri paketleri,  verilere eşlik eden veri dosyalarının tanımlanması ve paylaşılmasına yönelik paketler olup ve tipik olarak bir veri setinin özelliklerini ve içeriğini açıklayan bir üst veri dosyası içerirler. Veri paketleri, veri oluşturma komut dosyaları veya metin belgeleri gibi ilgili içerik dosyaların yanı sıra veri setini oluşturma ile ilgili bilgileri, provenans, verinin boyutu, formatı/türü, alan tanımları gibi kaynak, boyut, biçim türü, alan tanımları gibi hususları içerebilir. [Veri Paketleme Rehberinde](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md) belirtildiği üzere:
+Veri paketleri, verilere eşlik eden veri dosyalarının tanımlanması ve paylaşılmasına yönelik veri konteynerleri olup ve tipik olarak bir veri setinin özelliklerini ve içeriğini açıklayan bir üst veri dosyası içerirler. Veri paketleri, veri oluşturma komut dosyaları veya metin belgeleri gibi ilgili içerik dosyaların yanı sıra veri setini oluşturma ile ilgili bilgileri, provenans, verinin boyutu, formatı/türü, alan tanımları gibi kaynak, boyut, biçim türü, alan tanımları gibi hususları içerebilir. [Veri Paketleme Rehberinde](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md) belirtildiği üzere:
 
 * Veriler sonsuza dek yaşar: Veri setleri ortaya çıkış amaçlarından daha uzun ömürlüdür. context
 * Verilerin sınırlılıkları, bir kütüphane kataloğu gibi asıl ortamları içinde göze çarpabilir, ancak veriler oluşturuldukları kullanım amacının dışına çıktığında belirgin olmayabilir.
@@ -143,29 +143,29 @@ Reaktifler, kimyasal veya başka bir reaksiyon oluşturmak için bir sisteme ekl
 
 Bir protokol, yapılandırılmış bir formattaki bilimsel içerikli deneysel gözlemlerin resmi ya da biçimsel kaydını tanımlar. Atıf, uyarlama  ve yeniden kullanım sanal protokollerini [Protocols.](https://www.protocols.io/)[io](https://www.protocols.io/) ile depolayın. Deposit virtual protocols for citation, adaptation, and reuse using [Protocols.](https://www.protocols.io/)[io](https://www.protocols.io/).
 
-###### Notebooks, containers, software, and hardware
+###### Not defterleri, konteynerler, yazılım ve donanım
 
-Reproducible analysis is aided by the use of literate programming, container technology, and virtualization. In addition to sharing your code and data, also share your Jupyter notebooks, Docker images, or other analysis materials or software dependencies. Share notebooks with Open services such as [mybinder](http://mybinder.org) that allow for public viewing and execution of the entire notebook on shared resources. Containers and notebooks can be shared with [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/). Software and hardware used in your research should be shared following best practices for documentation as outlined in [Section 3](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md). Read-only protocols should be deposited in your disciplines registry such as [ClinicalTrials.gov](https://clinicaltrials.gov/) and [SocialScienceRegistry](https://www.socialscienceregistry.org/) or a general registry like [Open Science](https://osf.io/)[ Framework](https://osf.io/). Many journals, such as [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/), or [Bio-Protocol](https://bio-protocol.org/), will publish your protocol. Best practices for publishing your protocol open access are the same as publishing your report open access \(see [Section 5](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)\).
+Tekrarlanabilir analizler, kolay anlaşılır (literate) programlama, konteyner teknolojisi ve sanallaştırma kullanımııyla desteklenir. Kodlarınızı ve verilerinizi paylaşmanın yanı sıra, Jupyter not defterlerinizi, Docker imajlarınızı veya analiz materyalleri ya da yazılım destek dosyalarını da paylaşın. Not defterlerini, paylaşın kaynakların tümünü herkesin görüntülemesine ve düzenlemesine izin veren [mybinder](http://mybinder.org) gibi açık servislerle paylaşın. Konteynerler ve not defterleri [Rocker](https://arxiv.org/abs/1710.03675) ya da [Code Ocean](https://codeocean.com/) ile paylaşılabilir. Araştırmanızda kullanılan yazılım ve donanım, [Bölüm 3'te](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md) özetlendiği gibi dokümantasyon için en iyi uygulamalar izlenerek paylaşılmalıdır. Salt okunur protokoller, [ClinicalTrials.gov](https://clinicaltrials.gov/) ve [SocialScienceRegistry](https://www.socialscienceregistry.org/) gibi disipline özgü veri tabanlarında ya da [Open Science](https://osf.io/)[ Framework](https://osf.io/) gibi genel veri tabanlarında depolanmalıdır. [Trials](https://trialsjournal.biomedcentral.com/), [JMIR Research Protocols](https://www.researchprotocols.org/) ya da [Bio-Protocol](https://bio-protocol.org/) gibi birçok dergi protokolünüzü yayımlayacaktır. Protokolünüzü açık erişimli yayımlamak için en iyi uygulamalar, raporunuzu açık erişim yayımlamak için olanlarla aynıdır \(bkz. [Bölüm 5](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)\).
 
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın kavramsal yanılgılar
 
-Q: "Is it sufficient to make my data openly available?"
+Q: "Verilerimi açık erişimli yapmam yeterli midir?"
 
-A: "No—openness is a necessary but not sufficient condition for maximum reuse. Data have to be FAIR in addition to open."
+A: "Hayır—Açıklık, en üst düzeyde yeniden kullanım için gerekli ancak yeterli olmayan bir koşuldur. Veriler açık olmasının yanısıra FAIR olmalıdır."
 
-Q: "What do the FAIR principles mean/imply for different stakeholders/audiences?"
+Q: "FAIR ilkeleri farklı paydaşlar/hedef kitleler için ne anlama gelir/kasteder?"
 
-A: "This is a great topic for discussion!"
+A: "Bu tartışma için harika bir konu!"
 
-Obstacle: Researchers may be reluctant to share their data because they are afraid that others will reuse them before they have extracted the maximum usage from them, or that others might not fully understand the data and therefore mis-use them.
+Engel: Araştırmacılar verilerini paylaşmak için gönülsüz olabilirler çünkü kendileri verileri en üst düzeyde fayda elde etmeden başkalarının yeniden kullanmasından ya da verileri tam olarak anlayamayabileceği ve bu nedenle kötüye kullanabileceğinden korkarlar.
 
-\(suggested\) A: You may publish your data to make them findable with metadata, but set an embargo period on the data to make sure that you can publish your own article\(s\) first.
+\(öneri\) A: Verilerinizi keşfedilebilir kılmak için üst verilerle birlikte paylaşabilir, ancak önce kendi makale\(lerinizi\) yayımlayabileceğinizden emin olmak için veriye bir ambargo süresi koyabilirsiniz.
 
-Q: "Is making my data FAIR a lot of extra work?"
+Q: "Verilerimi FAIR yapmam çok fazla ek iş yaratır mı?"
 
-A: "Not necessarily! Making data FAIR is not only the responsibility of the individual researchers but of the whole group. The best way to ensure that your data is FAIR is to create a Data Management Plan and plan everything beforehand. During the data collection and data processing follow the discipline standards and measures recommended by a repository.
+A: "Tam olarak değil! Verilerin FAIR yapılması sadece bireysel olarak araştırmacıların değil tüm grubun sorumluluğundadır. Verilerinizin FAIR olduğundan emin olmak için en iyi yol bir Veri Yönetim Planı hazırlayarak herşeyi önceden planlamaktır. Veri toplama ve veri işleme esnasında bir veri havuzu tarafından önerilen disiplinin standartlarına ya da önlemlere uyun.
 
 Q: "I want to share my data. How should I license them?"
 
