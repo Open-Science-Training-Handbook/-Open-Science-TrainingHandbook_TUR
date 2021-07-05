@@ -7,16 +7,16 @@ Her bölüm, konunun kısa bir tanımını, Açık Bilim ile olan ilgisinin bir 
 
 ## Bölümler
 
-* [1. Açık Kavramlar ve İlkeler](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
-* [2. Açık Araştırma Verisi ve Materyalleri](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
-* [3. Açık Araştırma Yazılımları ve Açık Kaynak](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
-* [4. Tekrarlanabilir Araştırma ve Veri Analizi](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
-* [5. Yayımlanmış Araştırma Çıktılarına Açık Erişim](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
-* [6. Açık Lisanslama ve Dosya Formatları](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
-* [7. Katılımcı Platformlar](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
-* [8. Açık Hakem Değerlendirme Ölçevleri ve Değerlendirme](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
-* [9. Açık Bilim Politikaları](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/09OpenSciencePolicies.md)
-* [10. Yurttaş Bilimi](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/10CitizenScience.md)
-* [11. Açık Eğitim Kaynakları](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/11OpenEducationalResources.md)
-* [12. Açık Savunuculuk](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
+* [1. Açık Kavramlar ve İlkeler](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+* [2. Açık Araştırma Verisi ve Materyalleri](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+* [3. Açık Araştırma Yazılımları ve Açık Kaynak](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
+* [4. Tekrarlanabilir Araştırma ve Veri Analizi](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
+* [5. Yayımlanmış Araştırma Çıktılarına Açık Erişim](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
+* [6. Açık Lisanslama ve Dosya Formatları](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/06OpenLicensingAndFileFormats.md)
+* [7. Katılımcı Platformlar](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
+* [8. Açık Hakem Değerlendirme Ölçevleri ve Değerlendirme](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/08OpenPeerReviewMetricsAndEvaluation.md)
+* [9. Açık Bilim Politikaları](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/09OpenSciencePolicies.md)
+* [10. Yurttaş Bilimi](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/10CitizenScience.md)
+* [11. Açık Eğitim Kaynakları](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/11OpenEducationalResources.md)
+* [12. Açık Savunuculuk](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
 
