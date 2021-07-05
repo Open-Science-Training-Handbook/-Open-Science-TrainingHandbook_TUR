@@ -84,7 +84,7 @@ Verilerinizi yayımlamanın birçok yolu olduğundan, bir veri setinin yayın ol
 * Kataloglarda \(ya da veri tabanlarında\) aranabilir ve keşfedilebilir;
 
 * Makalelerde atıf yapılabilir olmalıdır.
-* 
+
 ## <img src="/Images/Icons/metadata.png" width="150" height="150" />
 ##### Veri atıfı
 
