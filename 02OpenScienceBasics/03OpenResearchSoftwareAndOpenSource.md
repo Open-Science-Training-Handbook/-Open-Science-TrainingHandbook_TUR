@@ -18,7 +18,7 @@ Tekrarlanabilirliğe ek olarak, yazılımı açık bir şekilde paylaşmak, geli
 
 1. Açık yazılımların özelliklerini öğrenmek; açık yazılımların lehine ve aleyhine olan etik, yasal, ekonomik ve araştırma etkisi argümanlarını anlamak ve açık kodların kalite koşullarını daha iyi anlamak.
 
-2. Mevcut açık yazılımları nasıl kullanacapını ve uygun şekilde nasıl niteleyeceğini \(atıf yapacağını\) öğrenmek.
+2. Mevcut açık yazılımları nasıl kullanacağını ve uygun şekilde nasıl niteleyeceğini \(atıf yapacağını\) öğrenmek.
 
 3. Araştırma kodlarını açık bir biçimde paylaşamk için yaygın araç ve hizmetleri nasıl kullanacağını öğrenmek.
 
@@ -29,31 +29,31 @@ Tekrarlanabilirliğe ek olarak, yazılımı açık bir şekilde paylaşmak, geli
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 #### Bilgi
 
-There are several different platforms that support open sharing and collaboration on software, research or otherwise. First of all, you can use this checklist to evaluate openness of existing research software:
+Yazılım, araştırma veya başka konularda açık paylaşımı ve işbirliğini destekleyen birçok farklı platform vardır. Öncelikle, mevcut araştırma yazılımının açıklığını değerlendiirmek için şu kontrol listesini kullanabiilirsiniz:
 
-* Is the software available to download and install?
+* Yazılım indirilebilir ve yüklenebilir/kurulabilir mi?
 
-* Can the software easily be installed on different platforms?
+* Yazılım farklı platformlara kolayca kurulabilir mi?
 
-* Does the software have conditions on the use?
+* Yazılımın kullanım şartları var mı? 
 
-* Is the source code available for inspection?
+* Kaynak kodu inceleme/kontrol için mevcut mu?
 
-* Is the full history of the source code available for inspection through a publicly available version history?
+* Kaynak kodunun tüm geçmişi herkesçe erişilebilir bir sürüm geçmişi (version history) ile inceleme/kontrol için mevcut mu?
 
-* Are the dependencies of the software \(hardware and software\) described properly? Do these dependencies require only a reasonably minimal amount of effort to obtain and use?
+* Yazılım gereklilikleri \(donanım ve yazılım\) açık bir şekilde tanımlanıyor mu? Gereklilikleri temin etmek ve kullanmak için gereken çaba maakul ölçüde az mı?
 
-These qualities relate to and build on the [Open Source Definition](https://opensource.org/osd).
+Bu nitelikler, [Açık Kaynak Tanımı](https://opensource.org/osd) ile ilgilidir ve bunun üzerine inşa edilmiştir.
 
-[GitHub](www.github.com) is a popular tool that allows version control: management and overall tracking of changes in a particular piece of software. Services such as [GitHub](www.github.com), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/), and others provide an interface to the tool as well as remote storage services that can be used to maintain, share, and collaborate on research software. As a tool it is quite widespread and, although it has an initial learning curve, it has proven invaluable to establishing an open and reproducible research workflow.
+[GitHub](www.github.com) sürüm kontrolüne (belirli bir yazılım parçasındaki değişikliklerin yönetimi ve genel takibi) olanak sağlayan popüler bir yazılımdır. Services such as [GitHub](www.github.com), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) gibi hizmetler ve diğerleri araştırma yazılımını sürdürmek, paylaşmak ve üzerinde işbirliği yapmak için kullanılabilecek uzaktan depolama hizmetlerinin yanı sıra geliştirilen araca bir arayüz sağlar. Github, bir araç olarak oldukça yaygındır ve bir başlangıç öğrenme eğrisine sahip olmasına rağmen, açık ve tekrarlanabilir bir araştırma iş akışı oluşturmak için çok değerli olduğu kanıtlanmıştır.
 
-Having the research software on GitHub is just the first part; it is equally important to have a published and persistent identifier associated with it, such as a DOI. There are several ways of associating a DOI with a GitHub repository; the easiest one is to employ [Zenodo](www.https://zenodo.org/) \(a free, open catch-all repository created by [OpenAIRE](https://www.openaire.eu/) and [CERN](https://home.cern/)\) to do the assignment, although other repositories for archiving software and obtaining a DOI do exist, such as [Figshare](https://figshare.com/). [Zenodo integrates with GitHub](https://guides.github.com/activities/citable-code/) to archive the software and provide a DOI when developers make a formal release on GitHub.
+Araştırma yazılımının Github üzerinde olması işin yalnızca ilk adımıdır; DOI gibi yazılım ile ilişkilendirilmiş, yayınlanmış ve sabit bir tanımlayıcısının olması eşit düzeyde önem taşımaktadır. DOI'yi GitHub ile ilişkilendirmenin birçok yolu bulunmaktadır; [Figshare](https://figshare.com/) gibi yazılım arşivlemek ve DOI almak için başka havuzlar olmasına rağmen, bu iş için en kolay yol [Zenodo](www.https://zenodo.org/) kullanmaktır \([OpenAIRE](https://www.openaire.eu/) ve [CERN](https://home.cern/) tarafından oluşturulmuş ücretsiz, kapsayıcı bir havuz\). Zenodo, yazılımı arşivlemek ve geliştiriciler GitHub'da resmi bir yayın yaptığında bir DOI sağlamak için [GitHub ile entegre çalışır](https://guides.github.com/activities/citable-code/).
 
-Publicly shared software is not actually open source unless accompanied by a suitable license, because by default software \(along with any other creative work\) falls under exclusive copyright to the creators, meaning no one else can use, copy, distribute, or modify your work \([choosealicense.com](https://choosealicense.com/no-permission/)\). \(If you truly want to share your code with no restrictions whatsoever, you can [dedicate it to the public domain](https://choosealicense.com/licenses/#unlicense).\) Instead, you should choose an appropriate license for your software, based on what you would prefer to let others do \(or prevent them from doing\) with your code; the [choosealicense.org](https://choosealicense.com) site is a helpful resource to differentiate between licenses, although it does not feature [every available or popular open-source license](https://opensource.org/licenses). Once you select a license, put the text—edited to include the author name\(s\) and year—in the software repository as a plaintext LICENSE file.
+Herkesle paylaşılmış yazılımlar uygun bir lisansla lisanslanmadıkça gerçek anlamda açık kaynak değildir, çünkü yazılımın \(diğer yaratıcı çalışmalar gibi\), kimsenin kullanamayacağı, kopyalayamayacağı, dağıtamayacağı ve değiştiremeyeceği anlamına gelen yaratıcısının münhasır telif hakkı kapsamında olduğu varsayılır \([choosealicense.com](https://choosealicense.com/no-permission/)\). \(Kodunuzu herhangi bir kısıtlama olmaksızın tamamen paylaşmak istiyorsanız, [onu kamu malı olarak tahsis edebilirsiniz](https://choosealicense.com/licenses/#unlicense).\) Bunun yerine, diğer kişilerin kodlarınız ile ne yapmasına izin vermeyi \(veya ne yapmasını engellemeyi\) tercih ettiğinize göre yazılımınız için uygun bir lisans seçmelisiniz; [choosealicense.org](https://choosealicense.com) sitesi [mevcut veya popüler her açık kaynak lisansını](https://opensource.org/licenses) içermese de, lisanslar arasında ayrım yapmak için yararlı bir sitedir. Bir lisans seçtikten sonra, —yazar ad\(lar\)ı ve yılı içerecek şekilde düzenlenmiş— metni, düzmetin LİSANS dosyası (plaintext LICENSE file) biçiminde yazılım havuzuna koyun.
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_research_software_open_source.png)
 
-Although sharing software in any form is better than not sharing it, your software will have more impact and be more easily used by others—and your future self!—if you include documentation. This can include helpful comments in the code that explain **why** you did something \(rather than what you did, which should be evident\), an informative README file that describes what your software does and gives some helpful information \(e.g., how to install, how to cite, how to run, important dependencies\), tutorials/examples, and/or API documentation \(which may be automatically generated from properly formatted comments in the code\).
+Yazılımı herhangi bir formda paylaşmanın hiç paylaşmamaktansa daha iyi olmasına rağmen, yazılım ile ilgili dokümantasyonu eklerseniz yazılımınız daha fazla etkiye sahip olacak ve başkaları —ve gelecekteki kendiniz— tarafından daha kolay kullanılacaktır. This can include helpful comments in the code that explain **why** you did something \(rather than what you did, which should be evident\), an informative README file that describes what your software does and gives some helpful information \(e.g., how to install, how to cite, how to run, important dependencies\), tutorials/examples, and/or API documentation \(which may be automatically generated from properly formatted comments in the code\).
 
 Missing or inaccessible dependencies or insufficient documentation of the computational environment are very common barriers to reuse and reproducibility. One approach to address these barriers is to share your code with your computational environment using container technology. Containers package the code with the dependencies and computational environment so others can more easily run your analysis. Examples of container implementation in research include [Rocker](https://arxiv.org/abs/1710.03675), [Binder](https://mybinder.readthedocs.io/en/latest/), and [Code Ocean](https://codeocean.com/).
 
