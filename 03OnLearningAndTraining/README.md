@@ -1,15 +1,15 @@
 ## <img src="/Images/Icons/open_education.png" width="200" height="200" />
-## On Learning and Training
+## Öğrenme ve Eğitim Üzerine
 
-This chapter is providing context on training strategies, practical guidance in designing a course as well as an overview of pedagogical theories. It will focus on three key concepts in teaching and training:
+Bu bölüm, eğitim stratejileri hakkında bağlam, bir kurs tasarlamada pratik rehberlik ve pedagojik teorilere genel bir bakış sağlamaktadır. Öğretim ve eğitimdeki üç temel kavrama odaklanacaktır:
 
-1. Preparation
+1. Hazırlık
 
-2. Execution
+2. Uygulama
 
-3. Reflection
+3. Etki
 
-Teaching and training is firstly about preparation before delivering a course. Preparation includes the choice of content, deciding on appropriate teaching methods and putting them into a sequence to maximise the effectiveness and impact of your training. Secondly, teaching is about delivering a course \(i.e., how you act and interact with the participants\). Even if you are feeling very confident on a particular topic, it is very advisable to avoid starting the delivery before having finished the preparation. Moreover, you may need to test your content, especially the practical exercises. Then, during the course delivery, you need a good portion of flexibility, because things rarely happen completely as you expect. Finally, teaching is also about evaluation and self-assessment once you have delivered a course. It is more than likely that you have to engage yourself in the same or a similar course several times, in particular if the evaluation shows that it was good.
+Öğretme ve eğitim, öncelikle bir kursu vermeden önce yapılan hazırlık ile ilgilidir. Hazırlık, içerik seçimi, uygun öğretim yöntemlerine karar verme ve eğitimin etkisini ve etkililiğini en üst düzeye çıkarmak için bunların bir sıraya konmasını içerir. İkinci olarak, öğretme kursun gerçekleştirilmesi/verilmesi ile ilgilidir \(yani katılımcılara nasıl davrandığınız ve onlarla nasıl etkileşim kurduğunuz). Belli bir konuda kendinize çok güveniyor olsanız dahi, hazırlığı bitirmeden kursa başlamaktan kaçınmanız oldukça makuldür. Ayrıca içeriğinizi, özellikle de pratik alıştırmaları test etmeniz gerekebilir. Then, during the course delivery, you need a good portion of flexibility, because things rarely happen completely as you expect. Finally, teaching is also about evaluation and self-assessment once you have delivered a course. It is more than likely that you have to engage yourself in the same or a similar course several times, in particular if the evaluation shows that it was good.
 
 To better prepare yourself for future events, you should reflect on what worked well and what did not work so well, and use this to iteratively define your preparations and delivery. Briefly said, there is a “before”, a “during” and an “after” class, i.e. activities in a cycle, similar to science. This chapter provides a practical guidance for the trainers on how to prepare and deliver a course to various audiences: what are the main obstacles one has to overcome and what are the main issues one needs to keep in mind when putting together a training.
 
