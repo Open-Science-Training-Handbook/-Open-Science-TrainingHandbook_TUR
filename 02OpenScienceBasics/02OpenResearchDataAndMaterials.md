@@ -149,7 +149,7 @@ Tekrarlanabilir analizler, kolay anlaşılır (literate) programlama, konteyner 
 
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Sorular, engeller ve yaygın kavramsal yanılgılar
+### Sorular, engeller ve yaygın yanlış anlamalar
 
 Q: "Verilerimi açık erişimli yapmam yeterli midir?"
 
