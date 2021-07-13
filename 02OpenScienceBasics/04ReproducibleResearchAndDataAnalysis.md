@@ -4,9 +4,9 @@
 
 ### Nedir?
 
-Reproducibility means that research data and code are made available so that others are able to reach the same results as are claimed in scientific outputs. Closely related is the concept of replicability, the act of repeating a scientific methodology to reach similar conclusions. These concepts are core elements of empirical research.
+Tekrarlanabilirlik (reproducibility), araştırma verileri ve kodlarının, başkalarının bilimsel çıktılarda iddia edilen sonuçlara ulaşabilmesini sağlayacak şekilde erişime açılması anlamına gelir. Benzer sonuçlara ulaşmak içim bilimsel bir metodolojiyi tekrarlama eylemi olan "replicability" kavramı ile yakından ilgilidir. These concepts are core elements of empirical research (Çevirenin notu: Her iki kavram da Türkçe'ye tekrarlanabilirlik olarak çevrilmekle birlikte, "reproducibility" aynı verileri kullanarak aynı sonuçlara ulaşma, "replicability" ise farklı verilerle aynı araştırma sorularına aynı doğrultuda yanıt verme olarak tanımlanmaktadır).
 
-Improving reproducibility leads to increased rigour and quality of scientific outputs, and thus to greater trust in science. There has been a growing need and willingness to expose research workflows from initiation of a project and data collection right through to the interpretation and reporting of results. These developments have come with their own sets of challenges, including designing integrated research workflows that can be adopted by collaborators while maintaining high standards of integrity.
+Tekrarlanabilirliği iyileştirmek, bilimsel çıktılarda artan titizlik ve kaliteye ve dolayısıyla da bilime daha fazla güvenilmesine sebep olur. Bir projenin başlangıcından ve verilerin toplanmasından sonuçların yorumlanması ve raporlanmasına kadar araştırma iş akışlarını açma konusunda artan bir ihtiyaç ve isteklilik olmuştur. These developments have come with their own sets of challenges, including designing integrated research workflows that can be adopted by collaborators while maintaining high standards of integrity.
 
 The concept of reproducibility is directly applied to the scientific method, the cornerstone of Science, and particularly to the following five steps:
 
