@@ -76,7 +76,7 @@ Açık Bilim, yukarıda tanımlandığı gibi, hakim kültürün genellikle hiye
   * Genel anlamda açık araştırma çıktıları, yeniden kullanımı en üst düzeye çıkarmak için çalışma sahibine çalışmanın mülkiyetini elinde tutma ve çalışmaları için kredi alma imkanı veren açık lisanslarla lisanslanır.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Sorular, engeller ve yaygın kavramsal yanılgılar
+### Sorular, engeller ve yaygın yanlış anlamalar
 
 Q: "Açık Bilim ile ‘bilim’ arasındaki farklılık nedir?"
 
