@@ -64,44 +64,44 @@ Ek olarak, daha karmaşık kavramlar arasında yazılımım otomatik olarak test
 ## <img src="/Images/Icons/laptop.png" width="150" height="150" />
 ##### Açık Kaynak Donanımı
 
-The open source principles above extend to hardware. Researchers often use proprietary instrumentation or hardware in their research that is not freely accessible, reusable, or adaptable. Scientific hardware includes everything from sequencing tools and microscopes to specialized testing equipment and particle colliders. Open Science Hardware \(OScH\) community, for example, is leading a push for the open source movement to include scientific tools, hardware, and research infrastructures through their [Global Open Science Hardware Roadmap](http://openhardware.science/global-open-science-hardware-roadmap/).
+Yukarıdaki açık kaynak ilkeleri donanıma kadar uzanır. Araştırmacılar, araştırmalarında genellikle özgürce erişilemeyen, yeniden kullanılamayan ve uyarlanamayan araçlar veya donanımlar kullanır. Bilimsel donanım, sıralama araçlarından ve mikroskoplardan özel test ekipmanlarına ve parçacık çarpıştırıcılarına kadar her şeyi içerir. Örneğin, Açık Bilim Donanım topluluğu \(Open Science Hardware community - OScH\), [Küresel Açık Bilim Yol Haritası (Global Open Science Hardware Roadmap)](http://openhardware.science/global-open-science-hardware-roadmap/) aracılığıyla, açık bilim hareketinin bilimsel araçları, donanımı ve araştırma altyapılarını içerecek şekilde yürütülmesine öncülük ediyor.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Beceriler
 
-* Create a repository on GitHub, and enable the integration with Zenodo. Mint the first release of the software.
+* GitHub üzerinde bir havuz oluşturma ve Zenodo ile etkileşimini sağlama. Yazılımın ilk versiyonunu yayınlama.
 
-* Choose a software license using \(e.g.\) [choosealicense](https://choosealicense.com) or the [Open Source Initiative](https://opensource.org/licenses).
+* \(Örneğin\) [choosealicense](https://choosealicense.com) ya da [Open Source Initiative](https://opensource.org/licenses) platformlarını kullanarak bir yazılım lisansı seçme.
 
-* Create documentation for a software package, including README, comments, and examples.
+* Bir yazılım paketi için, BENİOKU dosyasını, açıklamaları ve örnekleri içeren dokümantasyon oluşturma.
 
-* Appropriately cite software used for a paper.
+* Bir yayın için kullanılan yazılıma uygun şekilde atıf yapma.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın kavramsal yanılgılar
 
-Q: "I can’t share my software—it’s too messy / it doesn’t have good documentation / I didn’t leave good comments!"
+Q: "Yazılımımı paylaşamıyorum—çok karışık / iyi dokümantasyona sahip değil / iyi açıklamalar yapmadım!"
 
-A: Developers of research software around the world empathize with this feeling—people rarely feel like their code is "ready" to publicly share or that it is “finished”. However, as [Barnes \(2010\)](https://doi.org/10/cj8t6n) put it, “if your code is good enough to do the job, then it is good enough to release—and releasing it will help your research and your field.” In other words, if you feel comfortable enough with your software to publish a study or report results, then the code is sufficiently developed to share with your colleagues. \(In the other direction, if you don’t feel comfortable sharing the code, then perhaps it requires more development or testing before using in a publication\). Plus, sharing your code allows others to improve and build upon it, leading to even greater impact and innovation \(and citations for you!\).
+A: Dünyanın dört bir yanındaki araştırma yazılımı geliştiricileri bu his ile empati kuruyor—insanlar çok nadir olarak kodlarının herkesle paylaşmaya "hazır" ya da "tamamlanmış" olduğunu hissediyorlar. Ancak, [Barnes \(2010\)](https://doi.org/10/cj8t6n)'in belirttiği gibi, “eğer kodunuz iş görecek kadar iyiyse, yayınlamak için yeterince iyidir—ve kodu yayınlamak araştırmanıza ve alanınıza katkı sağlayacaktır.” Başka bir ifadeyle, bir çalışma yayımlamak ya da sonuçları raporlamak anlamında yazılımınız konusunda içiniz yeterince rahatsa, yazılım meslektaşlarınızla paylaşmak için yeterince geliştirilmiş demektir. \(Diğer taraftan bakınca, kodu paylaşamk konusunda rahat hissetmiyorsanız, bir yayında kullanılmadan önce muhtemelen daha fazla geliştirilmesi ya da test edilmesi gerekiyordur\). Ek olarak, kodlarınızı paylaşamk diğerlerinin geliştirmesine ve üzerine eklemesine olanak vererek daha büyük etki ve yeniliklere \(ve daha fazla atıfa!\) öncülük eder.
 
-Q: "What if someone takes the code I have shared and uses it for nefarious purposes, or claims they wrote it?"
+Q: "Birileri paylaştığım kodları alır ve kötü amaçlarla kullanır ya da kendisinin yazdığını iddia ederse ne olacak?"
 
-A: Selecting an appropriate license for your software will help protect you from any uses of your software by others; for example, the common [MIT License](https://choosealicense.com/licenses/mit/) includes both limitations of liability and states that no warranty is provided. If someone else tries to claim that they wrote the software you made available, then you can point to the timestamps on your repository or archived versions as proof of your prior work.
+A: Yazılımınız için uygun bir lisans seçmek, yazılımınızın başkalarınca herhangi bir şekilde kullanımına karşı korunmanıza yardımcı olacaktır; örneğin, yaygın [MIT Lisansı](https://choosealicense.com/licenses/mit/) sorumluluğun sınırlandırılmasını içerir ve hiçbir garanti verilmediğini belirtir. Eğer herhangi birisi sizin erişime açtığınız kodu kendisinin yazdığını iddia etmeye çalışırsa, önceki çalışmanızın kanıtı olarak deponuzdaki veya arşivlenmiş sürümlerinizdeki zaman damgalarını gösterebilirsiniz.
 
-Q: "If I share my code in an online repository, I will be deluged with requests for user support."
+Q: "Kodumu çevrimiçi bir havuzda paylaşırsam, kullanıcı destek taleplerine maruz kalacağım."
 
-A: Although potential users may ask you for help, either via email or \(e.g.\) issues filed on the online repository, you are under no obligation to provide support if you prefer not to or cannot do so. An appropriate license even provides you with legal protection for this \(e.g., the no-warranty clause of the [MIT License](https://choosealicense.com/licenses/mit/)\).
+A: Potansiyel kullanıcılar e-posta ya da \(örneğin\) çevrimiçi havuzlarda açılan konu başlıkları aracılığıyla sizden yardım isteyebilecek olsa da, istemiyor ya da yapamıyorsanız destek vermekle yükümlü değilsiniz. Uygun bir lisans, size bunun için yasal koruma dahi sağlar \(örneğin, [MIT Lisansının](https://choosealicense.com/licenses/mit/) garanti dışı maddesi\).
 
-Common misconception: simply putting code online makes it open-source software. In fact, unless the software is accompanied by a license that grants permission for others to use, copy, modify, and/or distribute, then the developer\(s\) retain exclusive copyright. A open-source license needs to accompany the code to make it open-source software.
+Yaygın kavram yanılgısı: Kodu sadece çevrimiçi hale getirmek onu açık kaynaklı yapar. Gerçekte, yazılımın diğerleri tarafından kullanıma, kopyalanmasına, uyarlanmasına ve/veya dağıtımına izin veren bir lisans eşlik etmiyorsa, geliştiriciler münhasır telif hakkını elinde tutar. Açık kaynaklı yazılım yapmak için kodla birlikte bir açık kaynak lisansının olması gerekir.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
 
-1. Be able to share software under the most appropriate license \(i.e., both the tools and the licensing\).
+1. Yazılımı en uygun lisansla paylaşabilmek \(yani, hem araçlar hem de lisanslama\).
 
-2. Be able to upload, version, and register a piece of code under a persistent identifier.
+2. Bir kod parçasını kalıcı bir tanımlayıcı ile yükleyebilmek, sürümlendirebilmek ve kaydedebilmek.
 
-3. Be able to cite software used for a research article.
+3. Bir araştırma makalesinde kullanılan yazılıma atıf yapabilmek.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
