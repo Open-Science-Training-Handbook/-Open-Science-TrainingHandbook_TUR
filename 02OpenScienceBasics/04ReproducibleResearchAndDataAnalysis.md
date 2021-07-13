@@ -4,31 +4,31 @@
 
 ### Nedir?
 
-Tekrarlanabilirlik (reproducibility), araştırma verileri ve kodlarının, başkalarının bilimsel çıktılarda iddia edilen sonuçlara ulaşabilmesini sağlayacak şekilde erişime açılması anlamına gelir. Benzer sonuçlara ulaşmak içim bilimsel bir metodolojiyi tekrarlama eylemi olan "replicability" kavramı ile yakından ilgilidir. These concepts are core elements of empirical research (Çevirenin notu: Her iki kavram da Türkçe'ye tekrarlanabilirlik olarak çevrilmekle birlikte, "reproducibility" aynı verileri kullanarak aynı sonuçlara ulaşma, "replicability" ise farklı verilerle aynı araştırma sorularına aynı doğrultuda yanıt verme olarak tanımlanmaktadır).
+Tekrarlanabilirlik (reproducibility), araştırma verileri ve kodlarının, başkalarının bilimsel çıktılarda iddia edilen sonuçlara ulaşabilmesini sağlayacak şekilde erişime açılması anlamına gelir. Benzer sonuçlara ulaşmak içim bilimsel bir metodolojiyi tekrarlama eylemi olan "replicability" kavramı ile yakından ilgilidir. These concepts are core elements of empirical research (Çevirenin notu: Her iki kavram da Türkçe'ye "tekrarlanabilirlik" olarak çevrilmekle birlikte, "reproducibility" aynı verileri kullanarak aynı sonuçlara ulaşma, "replicability" ise farklı verilerle aynı araştırma sorularına aynı doğrultuda yanıt verme olarak tanımlanmaktadır. Metinde "tekrarlanabilirlik", aksi belirtilmedikçe "reproducibility" kelimesinin karşılığı olacak şekilde kullanılmıştır).
 
-Tekrarlanabilirliği iyileştirmek, bilimsel çıktılarda artan titizlik ve kaliteye ve dolayısıyla da bilime daha fazla güvenilmesine sebep olur. Bir projenin başlangıcından ve verilerin toplanmasından sonuçların yorumlanması ve raporlanmasına kadar araştırma iş akışlarını açma konusunda artan bir ihtiyaç ve isteklilik olmuştur. These developments have come with their own sets of challenges, including designing integrated research workflows that can be adopted by collaborators while maintaining high standards of integrity.
+Tekrarlanabilirliği iyileştirmek, bilimsel çıktılarda artan titizlik ve kaliteye ve dolayısıyla da bilime daha fazla güvenilmesine sebep olur. Bir projenin başlangıcından ve verilerin toplanmasından sonuçların yorumlanması ve raporlanmasına kadar araştırma iş akışlarını açma konusunda artan bir ihtiyaç ve isteklilik olmuştur. Bu gelişmeler, yüksek bütünlük standartlarını korurken ortak çalışanlar tarafından benimsenebilecek entegre araştırma iş akışlarının tasarlanması da dahil olmak üzere kendine has zorluklarla birlikte gelmiştir.
 
-The concept of reproducibility is directly applied to the scientific method, the cornerstone of Science, and particularly to the following five steps:
+Tekrarlanabilirlik kavramı bilimin yapı taşı olan bilimsel yönteme ve özellikle aşağıdaki beş adımda doğrudan uygulanmaktadır:
 
-1. Formulating a hypothesis
+1. Bir hipotezin formüle edilmesi
 
-2. Designing the study
+2. Çalışmanın tasarlanması
 
-3. Running the study and collecting the data
+3. Çalışmanın gerçekleştirilmesi ve veri toplanması
 
-4. Analyzing the data
+4. Verilerin analiz edilmesi
 
-5. Reporting the study
+5. Çalışmanın raporlanması
 
-Each of these steps should be clearly reported by providing clear and open documentation, and thus making the study transparent and reproducible.
+Çalışmanın  şeffaf ve tekrarlanabilir (reproducible) olması için bu adımların her biri net ve açık dokümantasyon sağlanarak açık bir şekilde raporlanmalıdır.
 
 ![](/Images/02%20Open%20Science%20Basics/02_reproducible_research_data_analysis.png)
 
 ### Gerekçe
 
-Overarching factors can further contribute to the causes of non-reproducibility, but can also drive the implementation of specific measures to address these causes. The culture and environment in which research takes place is an important ‘top-down’ overarching factor. From a ‘bottom-up’ perspective, continuing education and training for researchers can raise awareness and disseminate good practice.
+Kapsayıcı (overarching) faktörler tekrarlanamazlığın nedenlerine daha fazla katkıda bulunabilir, fakat aynı zamanda bu nedenlerin adreslenmesi için belli önlemlerin uygulanmasını da yönlendirebilir. Araştırmanın yapıldığı kültür ve çevre, önemli bir ‘yukarıdan aşağıya (top-down)’ kapsayıcı faktördür. ‘Aşağıdan yukarıya’ bir bakış açısıyla, araştırmacılar için sürekli eğitim ve öğretim, farkındalığı artırabilir ve iyi uygulamaları yaygınlaştırabilir.
 
-While understanding the full range of factors that contribute to reproducibility is important, it can also be hard to break down these factors into steps that can immediately be adopted into an existing research program and immediately improve its reproducibility. One of the first steps to take is to assess the current state of affairs, and to track improvement as steps are taken to increase reproducibility even more. Some of the common issues with research reproducibility are shown in the figure below.
+Tekrarlanabilirliğe katkıda bulunan faktörlerin tamamını anlamak önemli olmakla birlikte, bu faktörleri mevcut bir araştırma programına hemen adapte edilebilecek ve tekrarlanabilirliğini hemen iyileştirebilecek adımlara bölmek de zor olabilir. Atılması gereken ilk adımlardan biri, mevcut durumu değerlendirmek ve tekrarlanabilirliği daha da artırmak için adımlar atıldıkça iyileştirmeyi izlemektir. Araştırmaların tekrarlanabilirliği ile ilgili bazı  yaygın sorunlar aşağıdaki şekilde gösterilmektedir.
 
 ![](/Images/image_2.png)
 
