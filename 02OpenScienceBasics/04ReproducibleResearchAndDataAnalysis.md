@@ -111,7 +111,7 @@ Track changes to your files, especially your analysis code, using version contro
 
 Document everything done by hand in a README file. Create a data dictionary \(also known as a codebook\) to describe important information about your data. For an easy introduction, use: [Karl Broman’s Data Organization module](http://kbroman.org/dataorg/pages/dictionary.html) and refer to Data Management.
 
-###### Literate programming
+###### Kolay anlaşılır (literate) programlama
 
 Consider using [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr), or other approaches to literate programming to integrate your code with your narrative and documentation.
 
