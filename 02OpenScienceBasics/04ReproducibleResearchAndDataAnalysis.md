@@ -32,26 +32,26 @@ Tekrarlanabilirliğe katkıda bulunan faktörlerin tamamını anlamak önemli ol
 
 ![](/Images/image_2.png)
 
-Source: Symposium report, October 2015. Reproducibility and reliability of biomedical research: improving research practice [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
+Kaynak: Sempozyum raporu, Ekim 2015. Reproducibility and reliability of biomedical research: improving research practice [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
 
-[Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) note that in epidemiology, computational biology, economics, and clinical trials, reproducibility is often defined as:
+[Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) epidemiyoloji, hesaplamalı biyoloji, ekonomi ve klinik deneylerde tekrarlanabilirliğin çoğunlukla aşağıdaki gibi tanımlandığını belirtmişlerdir:
 
-_"the ability of a researcher to duplicate the results of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results."_
+_"bir araştırmacının orijinal araştırmacı tarafından kullanılan materyallerin aynısını kullanarak önceki bir çalışmanın sonuçlarını tekrarlama becerisi. Yani, ikinci bir araştırmacı, aynı analiz dosyalarını oluşturmak için aynı ham verileri kullanabilir ve aynı sonuçları elde etmek amacıyla aynı istatistiksel analizleri uygulayabilir."_
 
-This is distinct from replicability: _"which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected."_ A simpler way of thinking about this might be that reproducibility is methods-oriented, whereas replicability is results-oriented.
+Bu, "replicability" karşılığı olan tekrarlanabilirlikten farklıdır: _"replicability karşılığı olan tekrarlanabilirlik, bir araştırmacının aynı prosedürleri takip ederek ancak yeni veri toplayarak önceki bir çalışmanın sonuçlarını tekrarlama becerisini ifade eder."_ Bunu düşünmenin daha basit bir yolu, "reproducibility" karşılığı olan tekrarlanabilirliğin yöntem odaklı, "replicability" karşılığı olan tekrarlanabilirliği  ise sonuç odaklı olması olabilir.
 
-Reproducibility can be assessed at several different levels: at the level of an individual project \(e.g., a paper, an experiment, a method or a dataset\), an individual researcher, a lab or research group, an institution, or even a research field. Slightly different kinds of criteria and points of assessment might apply to these different levels. For example, an institution upholds reproducibility practices if it institutes policies that reward researchers who conduct reproducible research. On the other hand, a research field might be considered to have a higher level of reproducibility if it develops community-maintained resources that promote and enable reproducible research practices, such as data repositories, or common data-sharing standards.
+Tekrarlanabilirlik birkaç farklı düzeyde değerlendirilebilir: bireysel bir proje \(örneğin, bir yayın, bir deney, bir yöntem ya da bir veri seti\), bireysel bir araştırmacı, bir laboratuvar ya da araştırma grubu, bir kurum ya da hatta bir araştırma alanı düzeyinde. Bu farklı düzeyler için biraz farklı türde kriterler ve değerlendirme noktaları geçerli olabilir. Örneğin bir kurum, tekrarlanabilir araştırma yürüten araştırmacıları ödüllendiren politikalar oluşturuyorsa, tekrarlanabilirlik uygulamalarını destekler. Diğer taraftan, bir araştırma alanı veri havuzları ya da ortak veri paylaşım standartları gibi tekrarlanabilir araştırma pratiklerini destekleyen ve bunlara olanak veren topluluk tarafından sürdürülen kaynaklar geliştiriyorsa, o araştırma alanının yüksek tekrarlanabilirlik düzeyinin olduğu düşünülebilir. 
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme çıktıları
 
-There are three major objectives that need to be addressed here:
+Burada ele alınması gereken üç ana hedef vardır:
 
-1. Understand the important impact of creating reproducible research.
+1. Tekrarlanabilir araştırma yapmanın önemli etkilerini anlamak.
 
-2. Understand the overall setup of reproducible research \(including workflow design, data management and dynamic reporting\).
+2. Tekrarlanabilir araştırmanın \(iş akışı tasarımı, veri yönetimi ve dinamik raporlamayı içeren\) genel düzenini/planını anlamak.
 
-3. Be aware of the individual steps in the reproducibility process, as well as the corresponding resources that can be employed.
+3. Tekrarlanabilirlik sürecindeki bireysel adımların yanısıra kullanılabilecek kaynakların farkında olmak.
 
 ### Temel unsurlar
 
