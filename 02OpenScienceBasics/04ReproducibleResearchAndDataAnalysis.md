@@ -120,18 +120,18 @@ Kodlarınızı anlatı ve dokümantasyonunuzla entegre etmek için [Jupyter Note
 
 ###### Veri
 
-Avoid supplementary files, decide on an acceptable permissive license, and share your data using a repository. Follow best practices as outlined in the Open Research Data and Materials chapter.
+Ek dosyalardan kaçının, kabul edilebilir serbestlik sunan bir lisansa karar verin ve verilerinizi bir havuz kullanarak paylaşın. Açık Araştırma Verileri ve Materyaller bölümünde ana hatlarıyla belirtilen en iyi uygulama örneklerine uyun.
 
 ###### Materyaller
 
-Share your materials so they can be reused. Deposit reagents with repositories like [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), and [ATCC](https://www.atcc.org/) to make them easily accessible to other researchers. For more information, see the Open Materials subsection of [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md).
+Materyallerinizi tekrar kullanılabilecek şekilde paylaşın. Reaktifleri/ayıraçları (reagents), diğer araştırmacıların kolaylıkla erişebilmesi için [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) ve [ATCC](https://www.atcc.org/) gibi havuzlarda depolayın. Daha fazla bilgi için [Açık Araştırma Verisi ve Materyaller](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md) bölümünün Açık Matertaller başlıklı alt bölümünü gözden geçirin.
 
 ###### Yazılım, not defterleri ve konteynerler
 
-License your code to inform about how it may be \(re\)used. Share notebooks with services such as [mybinder](http://mybinder.org) that allow for public viewing and execution of the entire notebook on shared resources. Share containers or notebooks with services such as [Rocker](https://arxiv.org/abs/1710.03675) or [Code Ocean](https://codeocean.com/). Follow best practices outlined in Open Research Software and Open Source.
+Nasıl \(yeniden\) kullanılabileceği ile ilgili bilgi vermek için kodunuzu lisanslayın. Not defterlerini, tüm not defterinin paylaşılan kaynaklarda herkes tarafından görüntülemesine ve düzenlenmesine izin veren [mybinder](http://mybinder.org) gibi hizmetlerle paylaşın. Koyteynerleri ya da not defterlerini [Rocker](https://arxiv.org/abs/1710.03675) ya da [Code Ocean](https://codeocean.com/) gibi hizmetlerle paylaşın. Açık Araştırma Verileri ve Materyaller bölümünde ana hatlarıyla belirtilen en iyi uygulama örneklerine uyun.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
-##### **4. Araştırmanızı şeffa biir biçimde raporlayın**
+##### **4. Araştırmanızı şeffa bir biçimde raporlayın**
 
 Report and publish your methods and interventions explicitly and transparently and fully to allow for replication. Guidelines from the [Equator Network](http://www.equator-network.org/), tools like [Protocols.io](https://www.protocols.io/), or processes like [Registered Reports](https://cos.io/rr/) can help you report reproducibly. Remember to post your results to your public registration platform \(such as [ClinicalTrials.gov](https://www.socialscienceregistry.org/) or the [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) within a year of finishing your study no matter the nature or direction of your results.
 
