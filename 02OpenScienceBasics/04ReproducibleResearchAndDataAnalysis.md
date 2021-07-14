@@ -92,7 +92,7 @@ Tekrarlanabilirliği sağlamak için gerekli bilgi ve becerileri belirlerken ak�
 
 ###### Tekrarlanabilir bir proje oluşturun
 
-Tüm araşştırma dosyaları için çevrimiçi bir platform, merkezi bir havuz ya da klasör kullanarak proje yönetimiinizi merkezileştirin ve organiza edin. Github'ı proje dosyalarını birarada tutacak ya da [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/) ya da [SciNote](https://scinote.net/) gibi elektronik bir laboratuvar not defteri kullanarak herşeyi yönetecek bir yer olarak kullanabilirsiniz. Ham verilerinizi salt okunur yapın ve işlenmiş verilerden ayrı tutun \(Veri Yönetimi başlığına bakın\).
+Tüm araştırma dosyaları için çevrimiçi bir platform, merkezi bir havuz ya da klasör kullanarak proje yönetimiinizi merkezileştirin ve organiza edin. Github'ı proje dosyalarını birarada tutacak ya da [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/) ya da [SciNote](https://scinote.net/) gibi elektronik bir laboratuvar not defteri kullanarak herşeyi yönetecek bir yer olarak kullanabilirsiniz. Ham verilerinizi salt okunur yapın ve işlenmiş verilerden ayrı tutun \(Veri Yönetimi başlığına bakın\).
 
 Araştırma dosyalarınızı kaydederken ya da yedeklerken, yeniden kullanıma izin veren formatlar ve bilgilendirici dosya adları seçin. Dosya adları hem makina hem de insan tarafından okunabilir olmalıdır \(Veri Yönetimi başlığına bakın\). Analizlerinizde ve yazılım kodunuzda göreceli yolları (relative paths) kullanın. Özel dosya formatlarından kaçının ve açık dosya formatlarını kullanın  Avoid proprietary file formats and use open file formats \(bkz. Bölüm 2.6: Açık Lisanslama ve Doya Formatları\).
 
@@ -101,19 +101,19 @@ Araştırma dosyalarınızı kaydederken ya da yedeklerken, yeniden kullanıma i
 
 ###### Kayıt
 
-Preregister important study design and analysis information to increase transparency and counter publication bias of negative results. Free tools to help you make your first registration include [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/), and [Registered Reports](https://cos.io/rr/). Clinical trials should use [Clinicaltrials.gov](https://clinicaltrials.gov/).
+Negatif sonuçların şeffaflığını artırmakve yayın yanlılığına karşı koymak için çalışma tasarımı ve analizi ile ilgili önemli bilgilerini önceden kaydedin. İlk kaydınızı yapmak için size yardımcı olacak ücretsiz araçlar arasında [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/) ve [Registered Reports](https://cos.io/rr/) yer almaktadır. Klinik araştırmalarda [Clinicaltrials.gov](https://clinicaltrials.gov/) kullanılmalıdır.
 
 ###### Sürüm kontrolü
 
-Track changes to your files, especially your analysis code, using version control \(see Open Research Software and Open Source\).
+Sürüm kontrolünü kullanarak, dosyalarınızdaki ve özellikle analiz kodlarınızdaki değişiklikleri takip edin \(bkz. Açık Araştırma Yazılımı ve Açık Kaynak\).
 
 ###### Dokümantasyon
 
-Document everything done by hand in a README file. Create a data dictionary \(also known as a codebook\) to describe important information about your data. For an easy introduction, use: [Karl Broman’s Data Organization module](http://kbroman.org/dataorg/pages/dictionary.html) and refer to Data Management.
+Elle yapılan herşeyi bir BENİOKU dosyası içerisinde dokümante edin. Verinizle ilgili önemli bilgileri vermek için \(kod kitabı (codebook) olarak da bilinen\) bir veri dosyası oluşturun. Kolay bir giriş için [Karl Broman’nın Verinin Organizayonu modülünü](http://kbroman.org/dataorg/pages/dictionary.html) kullanın ve Veri Yönetimine bakın.
 
 ###### Kolay anlaşılır (literate) programlama
 
-Consider using [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr), or other approaches to literate programming to integrate your code with your narrative and documentation.
+Kodlarınızı anlatı ve dokümantasyonunuzla entegre etmek için [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr) ya da kolay anlaşılır (literate) programlama ile ilgili diğer yaklaşımları kullanmayı düşünün.
 
 ## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
 ##### **3. Araştırmanızı paylaşın ve lisanslayın**
