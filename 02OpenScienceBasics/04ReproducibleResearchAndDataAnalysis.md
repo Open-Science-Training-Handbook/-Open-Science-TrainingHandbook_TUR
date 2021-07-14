@@ -58,43 +58,43 @@ Burada ele alınması gereken üç ana hedef vardır:
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 #### Bilgi
 
-The following is an indicative list of take-away points on reproducibility:
+Aşağıda tekrarlanabilirliğin temel noktalarını gösteren bir liste yer almaktadır:
 
-* What is the ‘reproducibility crisis’, and meta-analyses of reproducibility.
+* What is the ‘Tekrarlanabilirlik krizi’ ve tekrarlanabilirliğin meta analizi nedir?
 
-* Principles of reproducibility, and integrity and ethics in research.
+* Araştırmada tekrarlanabilirlik, bütünlük ve etik ilkeleri.
 
-* What are the computing options and environments that allow collaborative and reproducible set up.
+* İşbirliğine dayalı ve tekrarlanabilirliğe olanak veren bilgisayar ortamları nelerdir? 
 
-* Factors that affect reproducibility of research.
+* Araştırmalarda tekrarlanabilirliği etkileyen faktörler.
 
-* Data analysis documentation and open research workflows.
+* Veri analiz dokümantasyonu ve açık araştırma iş akışları.
 
-* Reproducible analysis environments \(virtualization\).
+* Tekrarlanabilir analiz ortamları \(sanallaştırma\).
 
-* Addressing the "Researcher Degrees of Freedom" \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
+* "Araştırmacıların ÖZgürlük Düzeylerine" hitap etmek \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Beceriler
 
-There are several practical tips for reproducibility that one should have in mind when setting out the particular skills necessary to ensure this. Best practices in reproducibility borrow from Open Science practices more generally but their integration offers benefits to the individual researcher themselves, whether they choose to share their research or not. The reason that integrating reproducibility best practices benefits the individual researcher is that they improve the planning, organization, and documentation of research. Below we outline one example of implementing reproducibility into a research workflow with references to these practices in the handbook.
+Tekrarlanabilirliği sağlamak için gerekli bilgi ve becerileri belirlerken akılda tutulması gereken birkaç pratik ipucu vardır. Tekrarlanabilirlikle ilgili en iyi uygulamalar daha genel olarak Açık Bilimden ödünç alınmıştır. Ancak bunların entegrasyonu, araştırmalarını paylaşmayı seçseler de seçmeseler de bireysel olarak araştırmacılara fayda sağlar.  Tekrarlanabilikle ilgili en iyi uygulamaların entegre edilmesinin bireysel olarak araştırmacıya fayda sağlamasının nedeni, araştırmanın planlanması, organizasyonu ve dokümantasyonunu iyileştirmesidir. Aşağıda, bu el kitabında yer alan uygulamalara göndermelerle tekrarlanabilirliğin bir araştırma iş akışına uygulanması ile ilgili bir örnek ana hatlarıyla gösterilmektedir.
 
 ## <img src="/Images/Icons/task.png" width="150" height="150" />
 ##### **1. Başlamadan önce tekrarlanabilirlik için plan yapın**
 
 ###### Bir çalışma planı ya da protokolü oluşturun.
 
-Begin documentation at study inception by writing a study plan or protocol that includes your proposed study design and methods. Use a reporting guideline from the [Equator Network](http://www.equator-network.org/) if applicable. Track changes to your study plan or protocol using version control \(reference to Version Control\). Calculate the power or sample size needed and report this calculation in your protocol as underpowered studies are prone to irreproducibility.
+Çalışmanın başında, önerilen çalışma tasarımı ve metodlarını içeren bir çalışma planı ya da protokolü yazarak dokümantasyona başlayın. Mevcut ise [Equator Network](http://www.equator-network.org/) üzerinden bir raporlama kılavuzu kullanın. Sürüm kontrolünü kullanarak çalışma planınız ya da protokolünüzdeki değişiklikleri izleyin\(Sürüm Kontrolü başlığına bakın\). Gereken gücü (power) ve örneklem büyüklüğünü hesaplayın ve düşük güçlü çalışmalar tekrarlanamama eğiliminde olduğunda bu hesaplamayı raporlayın.
 
 ###### Tekrarlanabilir araçları ya da materyalleri seçin
 
-Select antibodies that work using an antibody search engine like [CiteAb](https://www.citeab.com/). Avoid irreproducibility through misidentified cell lines by choosing ones that are authenticated by the [International Cell Line Authentication Committee](http://iclac.org/). Whenever possible, choose software and hardware tools where you retain ownership of your research and can migrate your research out of the platform for reuse \(see Open Research Software and Open Source\).
+[CiteAb](https://www.citeab.com/) gibi bir antikor arama motoru kullanarak çalışan antikorları seçin. [Uluslararası Hücre Hattı Kimlik Doğrulama Komitesi - International Cell Line Authentication Committee](http://iclac.org/)] tarafından kimliği doğrulanmış olanları seçerek yanlış tanımlanmış hücre hatları yoluyla tekrarlanamazlıktan kaçının. Her mümkün olduğunda, araştırmanızın mülkiyetini elinizde bulundurduğunuz ve araştırmanızı yeniden kullanım için platform dışına taşıyabileceğiniz yazılım ve donanım araçlarını seçin \(bkz. Açık Araştırma Yazılımı ve Açık Kaynak\).
 
 ###### Tekrarlanabilir bir proje oluşturun
 
-Centralize and organize your project management using an online platform, a central repository, or folder for all research files. You could use GitHub as a place to store project files together or manage everything using a electronic lab notebook such as [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/),or [SciNote](https://scinote.net/). Within your centralized project, follow best practices by separating your data from your code into different folders. Make your raw data read-only and keep separate from processed data \(reference to Data Management\).
+Tüm araşştırma dosyaları için çevrimiçi bir platform, merkezi bir havuz ya da klasör kullanarak proje yönetimiinizi merkezileştirin ve organiza edin. Github'ı proje dosyalarını birarada tutacak ya da [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/) ya da [SciNote](https://scinote.net/) gibi elektronik bir laboratuvar not defteri kullanarak herşeyi yönetecek bir yer olarak kullanabilirsiniz. Ham verilerinizi salt okunur yapın ve işlenmiş verilerden ayrı tutun \(Veri Yönetimi başlığına bakın\).
 
-When saving and backing up your research files, choose formats and informative file names that allow for reuse. File names should be both machine and human readable \(reference to Data Management\). In your analysis and software code, use relative paths. Avoid proprietary file formats and use open file formats \(see 6 Open Licensing and File Formats\).
+Araştırma dosyalarınızı kaydederken ya da yedeklerken, yeniden kullanıma izin veren formatlar ve bilgilendirici dosya adları seçin. Dosya adları hem makina hem de insan tarafından okunabilir olmalıdır \(Veri Yönetimi başlığına bakın\). Analizlerinizde ve yazılım kodunuzda göreceli yolları (relative paths) kullanın. Özel dosya formatlarından kaçının ve açık dosya formatlarını kullanın  Avoid proprietary file formats and use open file formats \(bkz. Bölüm 2.6: Açık Lisanslama ve Doya Formatları\).
 
 ## <img src="/Images/Icons/handson.png" width="150" height="150" />
 ##### **2. Kayıt tutun**
