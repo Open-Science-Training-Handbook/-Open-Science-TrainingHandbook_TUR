@@ -131,33 +131,33 @@ Materyallerinizi tekrar kullanılabilecek şekilde paylaşın. Reaktifleri/ayır
 Nasıl \(yeniden\) kullanılabileceği ile ilgili bilgi vermek için kodunuzu lisanslayın. Not defterlerini, tüm not defterinin paylaşılan kaynaklarda herkes tarafından görüntülemesine ve düzenlenmesine izin veren [mybinder](http://mybinder.org) gibi hizmetlerle paylaşın. Koyteynerleri ya da not defterlerini [Rocker](https://arxiv.org/abs/1710.03675) ya da [Code Ocean](https://codeocean.com/) gibi hizmetlerle paylaşın. Açık Araştırma Verileri ve Materyaller bölümünde ana hatlarıyla belirtilen en iyi uygulama örneklerine uyun.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
-##### **4. Araştırmanızı şeffa bir biçimde raporlayın**
+##### **4. Araştırmanızı şeffaf bir biçimde raporlayın**
 
-Report and publish your methods and interventions explicitly and transparently and fully to allow for replication. Guidelines from the [Equator Network](http://www.equator-network.org/), tools like [Protocols.io](https://www.protocols.io/), or processes like [Registered Reports](https://cos.io/rr/) can help you report reproducibly. Remember to post your results to your public registration platform \(such as [ClinicalTrials.gov](https://www.socialscienceregistry.org/) or the [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) within a year of finishing your study no matter the nature or direction of your results.
+Yöntem ve müdahalelerinizi açık, şeffaf ve tekrarlanabilirliğe (replication) izin verecek şekilde raporlayın ve yayınlayın. [Equator Network](http://www.equator-network.org/) yönergeleri, [Protocols.io](https://www.protocols.io/) gibi araçlar ya da [Registered Reports](https://cos.io/rr/) platformunda olduğu gibi işlem adımları tekrarlanabilirliği rapor etmeniz konusunda yardımcı olabilir. Sonuçları, niteliği ve gidişatı nasıl olursa olsun, çalışmayı bitirdikten sonraki bir yıl içinde kayıt için herkese açık \( [ClinicalTrials.gov](https://www.socialscienceregistry.org/) ya da [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) benzeri genel bir platforma göndermeyi unutmayın.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller, yaygın  obstacles, and yaygın yanlış anlamalar
 
-Q: "Everything is in the paper; anyone can reproduce this from there!"
+Q: "Herşey yayının içinde mevcut; isteyen herkes çalışmayı bu bilgileri kullanarak tekrarlayabilir!"
 
-A: This is one of the most common misconceptions. Even having an extremely detailed description of the methods and workflows employed to reach the final result will not be sufficient in most cases to reproduce it. This can be due to several aspects, including different computational environments, differences in the software versions, implicit biases that were not clearly stated, etc.
+A: Bu en yaygın yanılgılardan biridir. Nihai sonuca ulaşabilmek için kullanılan yöntem ve iş akışları ile ilgili son derece ayrıntılı açıklama yapılmış olması bile çoğu durumda çalışmayı tekrarlamak için yeterli olmayacaktır. Bunun farklı hesaplama ortamları, yazılım sürümleri arasındaki farklılıklar, açıkça belirtilmeyen örtük yanlılıklar vb. gibi çeşitli nedenleri olabilir.
 
-Q: "I don’t have the time to learn and establish a reproducible workflow."
+Q: "Tekrarlanabilir iş akışlarını öğrenecek ve oluşturacak zamanım yok."
 
-A: In addition to a significant number of freely available online services that can be combined and facilitate the setting up of an entire workflow, spending the time and effort to put this together will increase both the scientific validity of the final results as well as minimize the time of re-running or extending it in further studies.
+A: Birleştirilebilen ve tüm bir iş akışının oluşturulmasını kolaylaştıran önemli sayıda ücretsiz çevrimiçi servise ek olarak, bunları bir araya getirmek için zaman ve çaba harcamak hem nihai sonuçların bilimsel geçerliliğini artıracak hem de ileriki çalışmalarda yeniden kullanma ve genişletme için gereken zamanı en aza indirecektir.
 
-Q: "Terminologies describing reproducibility are challenging."
+Q: "Tekrarlanabilirlik terminolojisi zor."
 
-A: See Barba \(2018\) for a discussion on terminology describing reproducibility and replicability.
+A: "Reproducibility" ve "replicability" terimlerine karşılık gelen tekrarlanabilirlik terminolojisi üzerine bir tartışma için bkz. Barba \(2018\).
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
 
-1. Understand the necessity of reproducible research and its reasoning.
+1. Tekrarlanabilir araştırmanın gerekliliğini ve gerekçesini anlamak.
 
-2. Be able to establish a reproducible workflow within the context of an example task.
+2. Örnek bir çalışma bağlamında tekrarlanabilir bir iş akışı oluşturabilmek.
 
-3. Know tools that can support reproducible research.
+3. Tekrarlanabilir araştırmaları destekleyebilecek araçları bilmek.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
