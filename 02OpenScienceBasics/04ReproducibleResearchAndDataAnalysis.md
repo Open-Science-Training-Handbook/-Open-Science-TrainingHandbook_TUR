@@ -60,7 +60,7 @@ Burada ele alınması gereken üç ana hedef vardır:
 
 Aşağıda tekrarlanabilirliğin temel noktalarını gösteren bir liste yer almaktadır:
 
-* What is the ‘Tekrarlanabilirlik krizi’ ve tekrarlanabilirliğin meta analizi nedir?
+* ‘Tekrarlanabilirlik krizi’ ve tekrarlanabilirliğin meta analizi nedir?
 
 * Araştırmada tekrarlanabilirlik, bütünlük ve etik ilkeleri.
 
@@ -72,7 +72,7 @@ Aşağıda tekrarlanabilirliğin temel noktalarını gösteren bir liste yer alm
 
 * Tekrarlanabilir analiz ortamları \(sanallaştırma\).
 
-* "Araştırmacıların ÖZgürlük Düzeylerine" hitap etmek \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
+* "Araştırmacıların Özgürlük Düzeylerine" hitap etmek \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Beceriler
