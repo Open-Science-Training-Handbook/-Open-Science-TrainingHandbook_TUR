@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/open_licenses.png" width="200" height="200" />
-## 6. Open Licensing and File Formats
+## 6. Açık Lisanslama ve Dosya Formatları
 
-### What is it?
+### Nedir?
 
 A license is a legal document that grants specific rights to user to reuse and redistribute a material under some conditions. Any right that is not granted by default by the licensor through the license can be asked. Licenses can be applied to any material \(e.g., sound, text, image, multimedia, software\) where some exploitation or usage rights exist.
 
@@ -11,7 +11,7 @@ A file format is a standard way that information is encoded for storage in a com
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_licensing.png)
 
-### Rationale
+### Gerekçe
 
 Applying an open license to a scientific work \(whether it is an article, dataset or other type of research output\) is a way for the copyright holder to express the conditions under which the work can be accessed, re-used and modified.
 
@@ -20,7 +20,7 @@ It is important to know that a license builds on existing copyright regulations.
 When sharing any open content it is not enough to attach a license you must take into account the format. A choice of a non-open file format may make impossible to reuse the content. For that reason is important to know the options available when deciding in which format you want to share your content.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Öğrenme hedefleri
 
 1. Participants should learn about differences among licenses and how they can suit some open-science definitions, open-science requirements, or how they fit into different research outcomes.
 
@@ -30,10 +30,10 @@ When sharing any open content it is not enough to attach a license you must take
 
 4. Learn about the differences between proprietary and open file formats, and how these can prevent or facilitate reusability and interoperability.
 
-### Key components
+### Temel unsurlar
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
+#### Bilgi ve beceriler
 
 Basic concepts of copyright are needed in order to understand how the licenses work. Since copyright laws are not internationally harmonized you must refer to the applicable laws in your context.
 
@@ -78,7 +78,7 @@ Within the context of Open Science, and for optimal long-term archiving, files s
 Some file formats cannot be converted to open formats, but are nonetheless archived. They are often device-specific, but have a broad user community. Check if the repository where you want to deposit a publication has a list of preferred formats.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Sorular, engeller ve yaygın yanlış anlamalar
 
 Q: "Why should I use the CC-BY license for my written/creative content?"
 
@@ -93,14 +93,14 @@ Interoperability of licenses: be aware that sometimes when you mix content licen
 Suitability of licenses: for instance, CC licenses should not be used for software, there are specific licenses for databases \(Open Data Commons\), and CC licenses were not suitable for databases before version 4.0.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Öğrenme çıktıları
 
 1. Will be able to use existing resources to choose an appropriate license for written research work, based on the desired freedom/limitation for others to use/reuse.
 
 2. Will be able to use existing resources to choose an appropriate license for data, based on the desired freedom/limitation for others to use/reuse.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Ek okuma listesi
 
 * Creative Commons License Picker. [creativecommons.org](https://creativecommons.org/choose/)
 
