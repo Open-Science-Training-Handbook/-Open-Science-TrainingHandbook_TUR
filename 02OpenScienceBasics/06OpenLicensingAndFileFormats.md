@@ -5,41 +5,41 @@
 
 Lisans, kullanıcıya belirli koşullar altında bir materyali yeniden kullanma ve yeniden dağıtma hakkı veren yasal bir belgedir. Lisans veren tarafından lisans aracılığıyla verilmeyen her türlü hak talep edilebilir. Lisanslar, kötüye kullanma ya da kullanım haklarının söz konusu olduğu her materyale uygulanabilir \(örneğin, ses, metin, görüntü, multimedya, yazılım\).
 
-[Free con](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses) are licenses that grant permission to access, re-use, and redistribute material with few or no restrictions. Those licenses range from very open to very restrictive. The more restrictions, the more difficult it becomes to combine differently licenses content—thus potentially preventing interoperability.
+[Ücretsiz içerik lisansları](https://en.wikipedia.org/wiki/List_of_free_content_licenses) çok az kısıtlama ile veya hiç kısıtlama olmaksızın materyallere erişim, yeniden kullanım ve yeniden dağıtım izni veren lisanslardır. Bu lisanslar çok açıktan çok kısıtlayıcıya kadar değişir. Ne kadar fazla kısıtlama olursa farklı lisans içeriklerini birleştirmek o kadar zorlaşır—bu da potansiyel olarak birlikte çalışabilirliği engeller.
 
-A file format is a standard way that information is encoded for storage in a computer file; however, not all formats have freely available specification documents, partly because some developers view their specification documents as trade secrets.
+Dosya biçimi, bilgilerin bir bilgisayar dosyasında saklanmak üzere kodlanmasının standart bir yoludur; ancak, özellikle bazı geliştiriciler tarafından ticari bir sır olarak görüldüğünden, tüm formatlar için serbestçe kullanılabilen açıklayıcı dokümanlar yoktur.
 
 ![](/Images/02%20Open%20Science%20Basics/02_open_licensing.png)
 
 ### Gerekçe
 
-Applying an open license to a scientific work \(whether it is an article, dataset or other type of research output\) is a way for the copyright holder to express the conditions under which the work can be accessed, re-used and modified.
+Bilimsel bir çalışmaya açık bir lisans uygulamak \(çalışma bir makale, veri seti ya da diğer türde bir araştırma çıktısı olsa da \) telif hakkı sahibi için çalışmaya hangi şartlarda erişilebileceğini, çalışmanın hangi şartlarda yeniden kullanılabileceğini ve değiştirilebileceğini belirtmenin bir yoludur.
 
-It is important to know that a license builds on existing copyright regulations. In other words: you can only license content if you are the rights owner, and you cannot license any forms of reuse if they do not fall under existing copyright regulations.
+Bir lisansın mevcut telif hakkı düzenlemelerine dayandığını bilmek önemlidir. Başka bir deyişle: içeriği yalnızca hak sahibiyseniz lisanslayabilirsiniz ve mevcut telif hakkı düzenlemelerine girmiyorsa herhangi bir yeniden kullanım biçimini lisanslayamazsınız.
 
-When sharing any open content it is not enough to attach a license you must take into account the format. A choice of a non-open file format may make impossible to reuse the content. For that reason is important to know the options available when deciding in which format you want to share your content.
+Herhangi bir açık içeriği paylaşırken lisans eklemek yeterli değildir, formatı dikkate almalısınız. Açık olmayan bir dosya formatının seçimi içeriğin yeniden kullanımını imkansız hale getirebilir. Bu nedenle, içeriğinizi hangi formatta paylaşak istediğnize karar verirken mevcut seçenekleri bilmek önemlidir.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme hedefleri
 
-1. Participants should learn about differences among licenses and how they can suit some open-science definitions, open-science requirements, or how they fit into different research outcomes.
+1. Katılımcılar, lisanslar arasındaki farklılıkları ve bazı açık bilim tanımlarına, açık bilim gereksinimlerine nasıl uyabileceklerini veya farklı araştırma sonuçları için nasıl uygun hale getirilebileceğini öğrenmelidir.
 
-2. Learn about the different building blocks of licenses, such as attribution, \(non-\)commercial, derivatives, etc.
+2. Atıf/ilişkilendirme, ticari \(-olmayan\), türetme gibi lisanslar ile ilgili farklı temel kavramları öğrenme.
 
-3. Learn the importance of defining who holds the copyright or related rights of research output.
+3. Araştırma çıktısının telif haklarına veya ilgili haklarına kimin sahip olduğununu tanımlamanın önemini öğrenme.
 
-4. Learn about the differences between proprietary and open file formats, and how these can prevent or facilitate reusability and interoperability.
+4. Tescilli ve açık dosya formatları arasındaki farkları ve bunların yeniden kullanımve birlikte çalışabiliriliği nasıl önlediği ya da kolaylaştırdığını öğrenme.
 
 ### Temel unsurlar
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Bilgi ve beceriler
 
-Basic concepts of copyright are needed in order to understand how the licenses work. Since copyright laws are not internationally harmonized you must refer to the applicable laws in your context.
+Lisansların nasıl çalıştığını anlamak için telid hakları ile ilgili temel kavramları bilmek gerekir. Telif hakkı yasaları uluslararası olarak uyumlu hale getirilmediğinden, kendi çevrenizde geçerli yasalara başvurmanız gerekir.
 
-Among the range of free content licenses there are the copyleft licenses, originated in the free software community, that allow a broad reuse of materials under the condition that any new material build upon the existing one must be licensed under the same license. This fact has brought some interoperable problems that newer versions overcomed by stating that the derived materials should be licensed under the same terms of the original license.
+Ücretsiz içerik lisanları arasında, özgür yazılım topluluğunun başlattığı ve mevcut materyale dayalı olarak geliştirilen herhangi bir yeni materyalin aynı lisansla lisanlanması şartıyla, materyallerin geniş bir yelpazede yeniden kullanımına izin veren copyleft (telif izinli) lisanslar vardır. Bu durum, türetilen materyallerin orijinal lisansla aynı koşullar altında lisanslanması gerektiğini belirterek daha yeni sürümlerde üstesinden gelinen birtakım birlikte çalışma problemlerine yol açmıştır.
 
-The most used licenses for scientific content are [Creative Commons licenses](https://creativecommons.org/licenses/). In general, a CC BY license \(requiring only attribution\) is a good option for works such articles, books, working papers, and reports while a dedication to the public domain using CC Zero (CC0) is recommended for datasets and databases \(NOTE:  In the US and EU, individual facts cannot be copyrighted, although collections of facts that underwent some creative selection or organization may be copyrighted. Additionally, in the EU there is a sui generis right granted to the maker of a database for the investment made in its compilation, even when this does not involve any creativity.\). Creative Commons licenses should not be used for licensing software because they were not designed for that purpose, as the organisation states. Instead, software developers should use appropriate licenses like those collected by the [Open Source Initiative](https://opensource.org/licenses) or [Free Software Foundation](https://www.fsf.org/licensing/). You can check your options at [choosealicense](https://choosealicense.com).
+Bilimsel içerik için en çok kullanılan lisanslar [Creative Commons lisanslarıdır](https://creativecommons.org/licenses/). Genel olarak, veri setlerinin ve veri tabanlarının CC Zero (CC0) lisansı kullanılarak kamu malı olarak ithafı önerilirken, bir CC BY lisansı \(sadece atıf gerektiren\) makaleler, kitaplar, çalışma dokümanları (working papers) ve raporlar için iyi bir seçenektir \(NOT:  ABD ve AB'de bireysel olgular (individual facts) telif hakkıyla korunamaz, ancak bazı yaratıcı seçimlerden ya da düzenlemelerden geçen olgu kolekisyonları telif hakkıyla korunabilir. Ek olarak, AB'de, herhangi bir yaratıcılık içermese bile, derlenmesi için yapılan yatırım dolayısıyla veri tabanı geliştiricierine  tanınan bir sui generis (emsali olmayan) hakkı vardır.\). Creative Commons lisanları, kuruluş tarafından da belirtildiği gibi bu amaçla geliştirilmediğinden yazılımların lisanslanması için kullanılmamalıdır. Bunun yerine, yazılım geliştiriciler [Open Source Initiative (Açık Kaynak Girişimi)](https://opensource.org/licenses) ya da  [Free Software Foundation (Özgür Yazılım Vakfı)](https://www.fsf.org/licensing/) tarafından derlenenler gibi uygun lisansları kullanmalıdır. Seçeneklerinizi You can check your options at [choosealicense](https://choosealicense.com) adresinden kontrol edebilirsiniz.
 
 CC0 was originally created as a legal tool to release scientific databases without any restriction, and especially to overcome the different treatments of legal protection when publishing a database. CC0 has been seen as a tool for dedicating works to the public domain but it is more than a simple waiver. CC0 is a three-step instrument built to allow its use in jurisdictions where a full public domain dedication is not possible \(for instance in many continental Europe countries\). First, by using CC0, the copyright holder waives any right to the maximum extent allowed by applicable law. Second, if there is any remaining unwaivable right, CC0 acts as a license to grant any of those remaining rights without any restriction or obligation. And finally, the copyright holder asserts not to enforce any right that could not been possible to waive or grant by the applicable law. The idea behind CC0 is to convince researchers to follow community norms instead of using licenses in materials as a database where, in many cases, its contents are uncopyrightable.
 
