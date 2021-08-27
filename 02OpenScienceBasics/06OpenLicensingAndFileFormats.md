@@ -3,7 +3,7 @@
 
 ### Nedir?
 
-A license is a legal document that grants specific rights to user to reuse and redistribute a material under some conditions. Any right that is not granted by default by the licensor through the license can be asked. Licenses can be applied to any material \(e.g., sound, text, image, multimedia, software\) where some exploitation or usage rights exist.
+Lisans, kullanıcıya belirli koşullar altında bir materyali yeniden kullanma ve yeniden dağıtma hakkı veren yasal bir belgedir. Lisans veren tarafından lisans aracılığıyla verilmeyen her türlü hak talep edilebilir. Lisanslar, kötüye kullanma ya da kullanım haklarının söz konusu olduğu her materyale uygulanabilir \(örneğin, ses, metin, görüntü, multimedya, yazılım\).
 
 [Free con](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[tent license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses) are licenses that grant permission to access, re-use, and redistribute material with few or no restrictions. Those licenses range from very open to very restrictive. The more restrictions, the more difficult it becomes to combine differently licenses content—thus potentially preventing interoperability.
 
