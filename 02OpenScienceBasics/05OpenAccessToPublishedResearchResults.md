@@ -22,7 +22,7 @@ Açık erişim dergileri ile ilgili birçok iş modelinin ortaya çıkması, ara
 Kendi kendine arşivleme konusunda, bir yayının bir havuzda depolanabileceği sürüm ve bu sürüme herkes tarafından ne zaman erişilebileceği ile ilgili yayıncıların farklı gerekliliklerinin olması araştırmacıların kafasını karıştırmaktadır. Tam metne herkesin erişimindeki bu gecikme genellikle ambargo süresi olarak adlandırılmakta ve tüm dergiler için aynı olmamaktadır. Araştırmacıları için bir açık erişim havuzu sağlayan kurumlar, tüm bu yayıncı gereksinimlerini dikkate alarak kendi kendine arşivleme uygulamalarını kolaylaştırmalıdır.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Öğrenme çıktıları
+### Öğrenme hedefleri
 
 1. Bir araştırmacının bir yayının nerede yayınlayacağına karar verirken, fon sağlayıcı gerekliliklerini de içeren farklı seçenekleri öğrenmek.
 
