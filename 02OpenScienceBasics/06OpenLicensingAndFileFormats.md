@@ -45,37 +45,37 @@ CC0 başlangıçta bilimsel veri tabanlarını herhangi bir kısıtlama olmaksı
 
 Bir eğitmen olarak, lisanslar arasındaki farkları ve bunların bazı açık bilim tanımlarına ve açık bilim gerekliliklerine ya da farklı araştırma çıktılarına nasıl uyum sağlayacağını göstermelisiniz. Hedef kitlenizin ön bilgisine bağlı olarak, lisansların farklı yapı taşlarına \(atıf/ilişkilendirme, ticari \(olmayan\), türetme vb\) genel bir bakış sunabilir veya her yapı taşının ayrıntılı bir analizini ve bunların yeniden kullanım ve birlikte çalışabilirlik üzerindeki etkileri hakkında bilgi verebilirsiniz. Telif hakkı kuralları, yetki alanına göre büyük ölçüde değişiklik gösterdiğinden \(aynı zamanda Avrupa Birliği içinde de ortak hukuk ülkelerine karşı medeni hukuk ülkeleri\), lisansların kullanılabilirliği büyük ölçüde değişebilir. Hedef kitlenin lisanlama hakkında ön bilgisi varsa, bu ayrıntılı olarak tartışılabilir; ancak konu onlar için nispeten yeniyse, bu ayrıntılı olarak tartışılmamalıdır.
 
-\([Data Packaging Guide (Veri Paketleme Kılavuzu)](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md)\)'na göre dikkate alınması gereken temel lisanslama unsurları:
+\([Data Packaging Guide - Veri Paketleme Kılavuzu](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md)\)'na göre dikkate alınması gereken temel lisanslama unsurları:
 
-* Choosing an open license.
+* Açık bir lisans seçmek.
 
-* Stating the chosen license clearly and prominently, preferably in a machine readable format.
+* Seçilen lisansı tercihen makinece okunabilir bir formatta açık ve görünür bir şekilde belirtmek.
 
-* Explain the liberations/limitations of the chosen license, and what barriers or restrictions may apply.
+* Seçilen lisansın serbestliklerini/sınırlılıklarını ve hangi engel veya kısıtllamaların geçerli olabileceğini açıklamak.
 
-* Let users know where they can find more information about this license.
+* Kullanıcıları lisansla ilgili daha fazla bilgiyi nerede bulabilecekleri konusundak yönlendirmek.
 
-* Explain that the license applies to the data, and not the content that the data represents \(an open license on the metadata is not the same as the content itself being open, out of copyright, or able to be used freely\).
+* Lisansın verilerin temsil ettiği içerik için değil, veriler için geçerli olduğunu açıklamak. \(üst veriler üzerindeki açık bir lisans içeriğin açık olduğu, telif hakkı dışında olduğu veya serbestçe kullanılabileceği anlamına gelmemektedir\).
 
-* Explain why this license was chosen.
+* Neden bu lisansın seçildiğini açıklamak.
 
-Training should provide an overview of intellectual property policies in universities and public research institutions. It is important to stress the need to define who holds copyright or any other related rights of the research output. The copyright holder is the one who can decide to lift restrictions if they are not lifted by default through the licenses. Regarding research outputs, the copyright holder can be a researcher, a publisher, a scientific society, a research institution, a funder, etc.
+Eğitim, üniversitelerde ve kamuya ait araştırma kuruluşlarındaki fikri mülkiyet politikalarına genel bir bakış sağlamalıdır. Araştırma çıktısının telif hakkına veya diğer ilgili haklara kimin sahip olduğunu tanımlama ihtiyacını vurgulamak önemlidir. Telif hakkı sahibi, lisanslar aracılığıyla varsayılan olarak kaldırılmayan kısıtlamaların kaldırılmasına karar verebilecek kişidir. Araştırma çıktılarıyla ilgili olarak, telif hakkı sahibi bir araştırmacı, bir yayıncı, bir bilimsel topluluk, bir araştırma kurumu, bir fon sağlayıcı vb. olabilir.
 
-Within the context of Open Science, and for optimal long-term archiving, files should not be compressed and should avoid proprietary or patent-encumbered formats and in favor of open formats based on documented standards. This ensures the access and re-usability of the content. Only unencrypted files should be published and archived. Examples for open file formats are:
+Açık bilim bağlamında ve en uygun uzun süreli arşivleme için, dosyalar sıkıştırılmamalı ve tescilli ve patentli formatlardan kaçınılarak, belgelenmiş standartlara dayalı açık formatlar olmalıdır. Bu, içeriğe erişimi ve içeriğin yeniden kullanılabilirliğini sağlar. Yalnızca şifrelenmemiş dosyalar yayınlanmalı ve arşivlenmelidir. Açık dosya formatlarına örnekler:
 
-* Text: TXT, ODT, PDF/A, XML
+* Metin: TXT, ODT, PDF/A, XML
 
-* Tabular data: CSV, TSV
+* Tablo verisi (Tabular data): CSV, TSV
 
-* Image: TIFF, PNG, JPG 2000, SVG, WebP
+* Görüntü: TIFF, PNG, JPG 2000, SVG, WebP
 
-* Audio: WAV, FLAC, OPUS
+* Ses: WAV, FLAC, OPUS
 
 * Video: MPEG2, Theora, VP8, VP9, AV1, Motion JPG 2000 \(MJ2\),
 
-* Binary hierarchical data: HDF5
+* İkili hiyerarşik veri (Binary hierarchical data): HDF5
 
-Some file formats cannot be converted to open formats, but are nonetheless archived. They are often device-specific, but have a broad user community. Check if the repository where you want to deposit a publication has a list of preferred formats.
+Bazo dosya formatları açık formatlara dönüştürülemez, fakat yine de arşivlenir. Genellikle cihaza özeldirler ancak geniş bir kullanıcı topluluğuna sahiptirler. Bir yayını depolamak istediğiniz havuzda tercih edilen formatlar listesi olup olmadığını kontrol edin.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
