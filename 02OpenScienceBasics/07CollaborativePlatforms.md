@@ -1,20 +1,20 @@
 ## <img src="/Images/Icons/collaborate.png" width="200" height="200" />
-## 7. Collaborative Platforms
+## 7. Katılımcı Platformlar
 
-### What is it?
+### Nedir?
 
 Online collaborative platforms connect geographically-dispersed researchers to enable them to cooperate seamlessly on their research, sharing research objects as well and ideas and experiences. Collaborative platforms are usually online services that provide a virtual environment to which multiple people can concurrently connect and work on the same task. These can range from extensive virtual research environments \(VREs\) which encompass a host of tools to facilitate sharing and collaboration, including web forums and wikis, collaborative document hosting, and discipline-specific tools such as data analysis or visualisation, right down to single specific tools which enable researchers to work together in real time on specific aspects of research \(such as writing or analysis\).
 
 ![](/Images/02%20Open%20Science%20Basics/02_collaborative_platforms.png)
 
-### Rationale
+### Gerekçe
 
 Research collaboration is growing exponentially and teams are becoming ever more interdisciplinary as researchers increasingly work in international and cross-disciplinary consortia to enable a multitude of perspectives on specific research questions. Fostering national and international collaborative research is increasingly a funder priority. It lies, for example, at the heart of EC Research Commissioner Carlos Moedas’ strategy, i.e., ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
 
 Virtual Research Environments \(VRE\) and collaborative platforms enable collaboration across continents, time zones and disciplines. In this module you will develop an understanding of collaborative platforms that work today, and how they can greatly enhance your research workflows.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Öğrenme hedefleri
 
 1. Learn what major types of collaborative platforms are available and what the use cases for each might be.
 
@@ -22,12 +22,12 @@ Virtual Research Environments \(VRE\) and collaborative platforms enable collabo
 
 3. Identify any possible shortcomings of collaborating via such platforms and how to overcome them.
 
-### Key components
+### Temel unsurlar
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Knowledge & Skills
 
-**Virtual research environments \(VREs\)**
+**Sanal araştırma ortamları Virtual research environments \(VREs\)**
 
 Virtual research environments have been defined as "innovative, dynamic, and ubiquitous research supporting environments where scattered scientists can seamlessly access data, software, and processing resources managed by diverse systems in separate administration domains through their browser" \([Candela, Castelli and Pagano, 2013](https://doi.org/10.2481/dsj.GRDI-013)\).
 
