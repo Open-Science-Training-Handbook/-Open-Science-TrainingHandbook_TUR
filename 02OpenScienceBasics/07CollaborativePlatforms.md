@@ -25,9 +25,9 @@ Virtual Research Environments \(VRE\) and collaborative platforms enable collabo
 ### Temel unsurlar
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /> <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Knowledge & Skills
+#### Bilgi ve beceriler
 
-**Sanal araştırma ortamları Virtual research environments \(VREs\)**
+**Sanal araştırma ortamları - Virtual research environments \(VREs\)**
 
 Virtual research environments have been defined as "innovative, dynamic, and ubiquitous research supporting environments where scattered scientists can seamlessly access data, software, and processing resources managed by diverse systems in separate administration domains through their browser" \([Candela, Castelli and Pagano, 2013](https://doi.org/10.2481/dsj.GRDI-013)\).
 
@@ -51,31 +51,31 @@ Some libraries already offer personalised VREs for specific projects. For exampl
 
 An especially important collaborative platform in the context of Open Science is the [Open Science Framework](https://osf.io/) \(OSF\). Based on open source technologies and created by the not-for-profit [Center for Open Science](https://cos.io/), the OSF brands itself as "a scholarly commons to connect the entire research cycle". The OSF enables researchers to work on projects privately with a limited number of collaborators and make any part or the whole of their project public. It connects directly with many other collaborative systems like dropbox, GitHub and Google Docs, and can be used to store and archive research data, protocols, and materials.
 
-**Collaborative writing platforms**
+**Birlikte/Ortak yazma platformları**
 
 Especially in the currently-predominant "publish or perish" culture of research, writing is a core task in the life of researchers. Several online tools and platforms now enable researchers to work together on documents in real-time, and so avoid the versioning-hell of emailing Word documents back and forth. Platforms include [Overleaf](https://www.overleaf.com/), [Authorea](https://www.authorea.com/), [Fidus Writer](https://www.fiduswriter.org/), [ShareLaTeX](https://www.sharelatex.com) and [Google Docs](https://www.google.com/docs). Note that many of these tools are based on proprietary technologies and some require payment for advanced features.
 
-**Reference management & discovery**
+**Kaynak/atıf yönetimi ve keşfi**
 
 There are plenty of tools which enable groups to store and manage references. Examples include [Zotero](https://www.zotero.org/), [Citavi](http://www.citavi.com/) and [CiteUlike](http://www.citeulike.org/). [Mendeley](http://www.mendeley.com/) incorporates a sharable reference manager, as well as a social network and article visualization tools. Relatedly, [BibSonomy](http://www.bibsonomy.org/) allows researchers to share bookmarks and lists of literature.
 
-**Annotation and review**
+**Dipnot/açıklama ve gözden geçirme/değerlendirme**
 
 The power of the Web enables new modes of post-publication collaborative review through services like [PubPeer](https://pubpeer.com/) and [Academic Karma](http://academickarma.org/), as well as annotation tools like [Hypothes.is](http://hypothes.is/) and [PaperHive](https://paperhive.org/).
 
-**Academic social networks**
+**Akademik sosyal ağlar**
 
 Researchers have long made use of the Web for social networking - either via mainstream social networks like [Twitter](https://twitter.com/), [Facebook ](https://www.facebook.com/)and [Linkedin](https://www.linkedin.com/) or dedicated academic social networks like [ResearchGate](https://www.researchgate.net/), [Academia.edu](http://www.academia.edu/) and [Loop](http://community.frontiersin.org/).
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Sorular, engeller ve yaygın yanlış anlamalar
 
 Q: "Why should I add another layer of complexity to my collaboration process? Sharing the doc file is sufficient!"
 
 A: This is incorrect; although it may seem that you are introducing additional tools and platforms into your usual working approach, they are actually resolving communication issues that you were probably not aware of in the first place. For example, using just a doc file \(with or without track changes\), only shows the higher level of information and usually only at the tail of the entire scientific process. Working in the context of a collaborative environment, from design to reporting, establishes both clear communication and adequate provenance.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Öğrenme çıktıları
 
 1. The researcher will become familiar with the range of options available to aid greater collaborative research.
 
@@ -84,7 +84,7 @@ A: This is incorrect; although it may seem that you are introducing additional t
 3. The researcher will be able to collaborate with colleagues to write documents collaboratively, annotate articles and share this discussion.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Ek okuma listesi
 
 * Candela et al. (2013). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81. [doi.org/10.2481/dsj.GRDI-013](http://doi.org/10.2481/dsj.GRDI-013)
 
