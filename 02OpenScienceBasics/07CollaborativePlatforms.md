@@ -9,7 +9,7 @@
 
 ### Gerekçe
 
-Araştırmacılar belirli araştırma soruları üzerinde çok sayıda bakış açısına imkan vermek üzere uluslararası ve disiplinlerarası konsorsiyumlarda giderek daha fazla çalıştıkça, araştırma işbirliği katlanarak artmakta ve araştırma grupları herzamankinden daha fazla çokdisiplinli olmaktadır. Ulusal ve uluslararası işbirliğine dayalı araştırmaları teşvik etmek, fon sağlayıcıların giderek artan bir önceliği haline gelmektedir. Örneğin, Avrupa Komisyonu temsilcisi Carlos Moedas'ın stratejisinin kalbinde yer alır, bkz. ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world).
+Araştırmacılar belirli araştırma soruları üzerinde çok sayıda bakış açısına imkan vermek üzere uluslararası ve disiplinlerarası konsorsiyumlarda giderek daha fazla çalıştıkça, araştırma işbirliği katlanarak artmakta ve araştırma grupları herzamankinden daha fazla çokdisiplinli olmaktadır. Ulusal ve uluslararası işbirliğine dayalı araştırmaları teşvik etmek, fon sağlayıcıların giderek artan bir önceliği haline gelmektedir. Örneğin, Avrupa Komisyonu temsilcisi Carlos Moedas'ın stratejisinin kalbinde yer alır (bkz. ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world)).
 
 Virtual Research Environments \(VRE\) and collaborative platforms enable collaboration across continents, time zones and disciplines. In this module you will develop an understanding of collaborative platforms that work today, and how they can greatly enhance your research workflows.
 
