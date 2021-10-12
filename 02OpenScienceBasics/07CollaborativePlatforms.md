@@ -49,39 +49,39 @@ Burada önemli bir husus, bu araçların çoğunun disipline özgü doğasıdır
 
 Bazı kütüphaneler halihazırda belirli projeler için kişiselleştirilmiş sanal araştırma ortamları sunmaktadır. Örneğin, [Leiden Üniversitesi Kütüphanesi](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools) beşten daha fazla kişinin yer aldığı tüm dış kaynaklı projeler için sanal araştırma ortamları sunmaktadır.
 
-Açık Bilim bağlamında özellikle önemli bir katılımcı platform [Open Science Framework](https://osf.io/)\(OSF\)'tür. An especially important collaborative platform in the context of Open Science is the . Based on open source technologies and created by the not-for-profit [Center for Open Science](https://cos.io/), the OSF brands itself as "a scholarly commons to connect the entire research cycle". The OSF enables researchers to work on projects privately with a limited number of collaborators and make any part or the whole of their project public. It connects directly with many other collaborative systems like dropbox, GitHub and Google Docs, and can be used to store and archive research data, protocols, and materials.
+Açık Bilim bağlamında özellikle önemli bir katılımcı platform [Open Science Framework](https://osf.io/)'tür \(OSF\). Açık kaynak teknolojileri temelli ve kar amacı gütmeyen [Center for Open Science](https://cos.io/) tarafından oluşturulan OSF, kendisini "tüm araştırma döngüsünü birbirine bağlayan bilimsel bir ortak alan" olarak markalaştırmaktadır. OSF, araştırmacıların sınırlı sayıda ortak çalışanla projeler üzerinde özel olarak çalışmalarına ve projelerinin herhangi bir kısmını veya tamamını açık hale getirmelerine imkan verir. Dropbox, GitHub ve Google Dokümanlar gibi diğer ortak çalışma sistemi ile doğrudan bağlantılıdır ve araştırma verilerini, protokolleri ve materyalleri depolamak ve arşivlemek için kullanılabilir.
 
-**Birlikte/Ortak yazma platformları**
+**Birlikte yazma platformları**
 
-Especially in the currently-predominant "publish or perish" culture of research, writing is a core task in the life of researchers. Several online tools and platforms now enable researchers to work together on documents in real-time, and so avoid the versioning-hell of emailing Word documents back and forth. Platforms include [Overleaf](https://www.overleaf.com/), [Authorea](https://www.authorea.com/), [Fidus Writer](https://www.fiduswriter.org/), [ShareLaTeX](https://www.sharelatex.com) and [Google Docs](https://www.google.com/docs). Note that many of these tools are based on proprietary technologies and some require payment for advanced features.
+Özellikle şu anda baskın olan "yayınla ya da yok ol" araştırma kültüründe yazmak, araştırmalarında hayatındaki temel bir görevdir. Birçok çevrimiçi araç ve platform, araştırmacılara dokümanlar üzerinde gerçek zamanlı olarak birlikte çalışma imkanı verir ve böylece Word belgelerinin e-posta üzerinden alış-verişi ile sürüm oluşturma eziyetinden kurtarır. [Overleaf](https://www.overleaf.com/), [Authorea](https://www.authorea.com/), [Fidus Writer](https://www.fiduswriter.org/), [ShareLaTeX](https://www.sharelatex.com) ve [Google Docs](https://www.google.com/docs) bu platformlardandır. Bu araçların birçoğunun özel teknolojilere dayandığını ve bazılarının gelişmiş özellikler için ödeme gerektirdiği unutmayın.
 
-**Kaynak/atıf yönetimi ve keşfi**
+**Kaynak yönetimi ve keşfi**
 
-There are plenty of tools which enable groups to store and manage references. Examples include [Zotero](https://www.zotero.org/), [Citavi](http://www.citavi.com/) and [CiteUlike](http://www.citeulike.org/). [Mendeley](http://www.mendeley.com/) incorporates a sharable reference manager, as well as a social network and article visualization tools. Relatedly, [BibSonomy](http://www.bibsonomy.org/) allows researchers to share bookmarks and lists of literature.
+Çalışma gruplarının kaynaklarını depolamasına ve yönetmesine olanak veren birçok araç vardır. Örnekler arasında [Zotero](https://www.zotero.org/), [Citavi](http://www.citavi.com/) ve [CiteUlike](http://www.citeulike.org/) sayılabilir. [Mendeley](http://www.mendeley.com/)  paylaşılabilir bir kaynak yönetiminin yanı sıra bünyesinde bir sosyal ağ ile makale görselleştirme araçlarını da  bulundurur. Benzer şekilde, [BibSonomy](http://www.bibsonomy.org/) araştırmacıların yer imlerini (bookmarks) ve literatür listelerini paylaşmalarına olanak tanır.
 
-**Dipnot/açıklama ve gözden geçirme/değerlendirme**
+**Dipnot/açıklama ve değerlendirme**
 
-The power of the Web enables new modes of post-publication collaborative review through services like [PubPeer](https://pubpeer.com/) and [Academic Karma](http://academickarma.org/), as well as annotation tools like [Hypothes.is](http://hypothes.is/) and [PaperHive](https://paperhive.org/).
+Web'in gücü, [PubPeer](https://pubpeer.com/) ve [Academic Karma](http://academickarma.org/) gibi hizmetler ve bunun yanı sıra [Hypothes.is](http://hypothes.is/) ve [PaperHive](https://paperhive.org/) gibi dipnot/açıklama araçları aracılığıyla yayın sonrası ortak değerlendirmenin yeni yöntemlerini mümkün kılar.
 
 **Akademik sosyal ağlar**
 
-Researchers have long made use of the Web for social networking - either via mainstream social networks like [Twitter](https://twitter.com/), [Facebook ](https://www.facebook.com/)and [Linkedin](https://www.linkedin.com/) or dedicated academic social networks like [ResearchGate](https://www.researchgate.net/), [Academia.edu](http://www.academia.edu/) and [Loop](http://community.frontiersin.org/).
+Araştırmacılar Web'i uzun zamandır [Twitter](https://twitter.com/), [Facebook ](https://www.facebook.com/) ve [Linkedin](https://www.linkedin.com/) gibi ana akım sosyal ağlar ya da [ResearchGate](https://www.researchgate.net/), [Academia.edu](http://www.academia.edu/) ve [Loop](http://community.frontiersin.org/) gibi either via mainstream social networks like [Twitter](https://twitter.com/), [Facebook ](https://www.facebook.com/)and [Linkedin](https://www.linkedin.com/) or özel akademik sosyal ağlar aracılığıyla sosyal ağ oluşturmak için kullanmaktadır.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
 
-Q: "Why should I add another layer of complexity to my collaboration process? Sharing the doc file is sufficient!"
+Q: "İşbirliği sürecime neden bir düzey daha karmaşıklık eklemeliyim? doc dosyasını paylaşmak yeterli!"
 
-A: This is incorrect; although it may seem that you are introducing additional tools and platforms into your usual working approach, they are actually resolving communication issues that you were probably not aware of in the first place. For example, using just a doc file \(with or without track changes\), only shows the higher level of information and usually only at the tail of the entire scientific process. Working in the context of a collaborative environment, from design to reporting, establishes both clear communication and adequate provenance.
+A: Bu doğru değil; This is incorrect; alışılmış çalışma tarzınıza yeni araçlar ve platformlar ekliyormuşsunuz gibi görünse de, bunlar aslında ilk etapta farkında olmadığınız iletişim sorunlarını çözmektedir. Örneğin, sadece \(yapılan değişikliklerin işaretli olduğu ya da olmadığı\) bir doc dosyası kullanmak, daha üst düzey bilgiye işaret eder ve genellikle yalnızca tüm bilimsel sürecin sonunda olur. Planlamadan raporlamaya kadar katılımcı bir ortam bağlamında çalışmak, hem açık iletişim hem de yeterli kaynak sağlar.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
 
-1. The researcher will become familiar with the range of options available to aid greater collaborative research.
+1. Araştırmacı, daha fazla katılımcı araştırmaya yardımcı olmak için mevcut seçenekler yelpazesine aşina olacaktır.
 
-2. After deciding what works optimally for their workflow, the researcher will be able to use collaborative tools such as GitHub and the Open Science Framework for increased collaboration for the research process, writing/authoring, and sharing your research outputs.
+2. Araştırmacılar, iş akışları için netin en iyi olduğuna kaar verdikten sonra, araştırma süreci, yazma/oluşturma ve araştırma sonuçlarını paylaşma için daha fazla işbirliği amacıyla GitHub ve Open Science Framework gibi katılımcı araçları kullanabileceklerdir.
 
-3. The researcher will be able to collaborate with colleagues to write documents collaboratively, annotate articles and share this discussion.
+3. Araştırmacı, ortak doküman yazma, makalelere açıklama ekleme ve bu tartışmayı paylaşma amacıyla meslektaşları ile işbirliği yapabilecektir.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
