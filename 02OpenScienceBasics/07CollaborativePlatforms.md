@@ -16,7 +16,7 @@ Sanal Araştırma Ortamları - Virtual Research Environments \(VRE\) ve katılı
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme hedefleri
 
-1. Başlıca işbirilikçi paltform türlerinin neler olduğunu ve her birinin kullanım gerekliliklerini öğrenmek.
+1. Başlıca işbirlikçi paltform türlerinin neler olduğunu ve her birinin kullanım gerekliliklerini öğrenmek.
 
 2. Bu gibi sistemlerin avantajlarını öğrenmek.
 
@@ -49,7 +49,7 @@ Burada önemli bir husus, bu araçların çoğunun disipline özgü doğasıdır
 
 Bazı kütüphaneler halihazırda belirli projeler için kişiselleştirilmiş sanal araştırma ortamları sunmaktadır. Örneğin, [Leiden Üniversitesi Kütüphanesi](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools) beşten daha fazla kişinin yer aldığı tüm dış kaynaklı projeler için sanal araştırma ortamları sunmaktadır.
 
-Açık Bilim bağlamında özellikle önemli bir katılımcı platform [Open Science Framework](https://osf.io/) \(OSF\)'tür. An especially important collaborative platform in the context of Open Science is the . Based on open source technologies and created by the not-for-profit [Center for Open Science](https://cos.io/), the OSF brands itself as "a scholarly commons to connect the entire research cycle". The OSF enables researchers to work on projects privately with a limited number of collaborators and make any part or the whole of their project public. It connects directly with many other collaborative systems like dropbox, GitHub and Google Docs, and can be used to store and archive research data, protocols, and materials.
+Açık Bilim bağlamında özellikle önemli bir katılımcı platform [Open Science Framework](https://osf.io/)'tür \(OSF\). An especially important collaborative platform in the context of Open Science is the . Based on open source technologies and created by the not-for-profit [Center for Open Science](https://cos.io/), the OSF brands itself as "a scholarly commons to connect the entire research cycle". The OSF enables researchers to work on projects privately with a limited number of collaborators and make any part or the whole of their project public. It connects directly with many other collaborative systems like dropbox, GitHub and Google Docs, and can be used to store and archive research data, protocols, and materials.
 
 **Birlikte/Ortak yazma platformları**
 
