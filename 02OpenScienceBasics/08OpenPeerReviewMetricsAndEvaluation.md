@@ -75,26 +75,26 @@ Altmetriklerle (alternatif ölçevlerle) ile ilgili olarak, [Priem et al. (2010)
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 ### Beceriler
 
-Example exercises
+Örnek uygulamalar
 
-* Trainees work in groups of three. Each individually writes a review of a short academic text
+* Kursiyerler üçerli gruplar halinde çalışır. Her biri bireysel olarak kısa bir akademik metne değerlendirme yazar.
 
-* Review a paper on a pre-print server
+* Önbaskı sunucusundaki bir çalışma değerlendirilir,
 
-* Use a free bibliometrics or altmetrics service \(e.g. [Impactstory](https://impactstory.org/), [Paperbuzz](https://paperbuzz.org/), [Altmetric bookmarklet](https://www.altmetric.com/products/free-tools/bookmarklet/), [Dimensions.ai](https://www.dimensions.ai/)\) to look up metrics for a paper, then write a short explanation of how exactly various metrics reported by each service are calculated \(it’s harder than you’d assume; this would get at the challenges of finding proper metrics documentation for even the seemingly most transparent services\)
+* Bir çalışmaya ilişkin ölçevlere incelemek için ücertsiz bir bibliyometri ya da altmetri servisi kullanılır \(örneğin, [Impactstory](https://impactstory.org/), [Paperbuzz](https://paperbuzz.org/), [Altmetric bookmarklet](https://www.altmetric.com/products/free-tools/bookmarklet/), [Dimensions.ai](https://www.dimensions.ai/)\), sonrasında her bir servis tarafından sunulan farklı ölçevlerin tam olarak nasıl hesaplandığı ile ilgili kısa bir açıklama yazılır \(umudğunuzdan daha zordur; görünüşte en şeffaf servislerde bile ölçevlerele ilgili uygun dokümantasyon bulma zorluklarını beraberinde getirecektir\).
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
-Q: Is research evaluation fair?
+Q: Araştırma değerlendirme adil midir?
 
-A: Research evaluation is as fair as its methods and evaluation techniques. Metrics and altmetrics try to measure research quality with research output quantity, which can be accurate, but does not have to be.
+A: Araştırma değerlendirme yöntemleri ve değerlendirme teknikleri ölçüsünde adildir. Ölçevler ve altmetrikler, araştırtma kalitesini, doğru olabilen ancak olması gerekmeyen araştırma çıktı miktarı ile ölçmeye çalışır.
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
 
-1. Trainees will be able to identify open peer review journals
-2. Trainees will be aware of a range of metrics, their advantages and disadvantages
+1. Kursiyerler açık hakem/akran değerlendirmeli dergileri tanımlayabilecektir.
+2. Kursiyerler bir dizi ölçevin, bunların avantaj ve dezavantajlarının ayırdında olacaktır.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
