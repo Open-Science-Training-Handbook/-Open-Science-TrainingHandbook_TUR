@@ -3,7 +3,7 @@
 
 Bu bölüm, Açık Bilimle en ilgili konular için önemli noktaların yanı sıra somut bağlam sağlamayı amaçlamaktadır. Açık Bilimin temel kavram ve ilkelerinden başlayıp, Açık Araştırma Verileri, Açık Erişim, Açık Hakem Değerlendirmesi ve Açık Bilim Politikaları gibi bileşenlerini ve beraberinde Tekrarlanabilir Araştırma, Açık Kaynak Yazılımlar ve Açık Lisanslama ve Dosya Formatları gibi daha pratik yönlerini ele alarak devam etmektedir.
 
-Her bölüm, konunun kısa bir tanımını, Açık Bilim ile olan ilgisinin bir açıklamasını, bir eğitim oturumu bağlamında vurgulanması gereken temel öğrenme hedeflerini, dahil edilmesi gereken ana bileşenleri \(bilgi ve beceriler\), söz konusu konu için sık karşılaşılan bazı soruları/engelleri/kavramsal yanılgıları ve son olarak bir eğitim oturumundan beklenen çıktıları ve ek okuma listelerini içerecek şekilde yapılandırılmıştır.
+Her bölüm, konunun kısa bir tanımını, Açık Bilim ile olan ilgisinin bir açıklamasını, bir eğitim oturumu bağlamında vurgulanması gereken temel öğrenme hedeflerini, dahil edilmesi gereken ana bileşenleri \(bilgi ve beceriler\), söz konusu konu için sık karşılaşılan bazı soruları/ engelleri/ kavramsal yanılgıları ve son olarak bir eğitim oturumundan beklenen çıktıları ve ek okuma listelerini içerecek şekilde yapılandırılmıştır.
 
 ## Bölümler
 
