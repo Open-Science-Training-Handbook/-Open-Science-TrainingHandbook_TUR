@@ -33,44 +33,44 @@ Gttikçe daha fazla sayıda fon sağlayıcı ve kurum, örneğin, basitçe sayma
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme hedefleri
 
-1. Recognise the key elements of open peer review and their potential advantages and disadvantages
-2. Understand the differences between types of metrics used to assess research and researchers
-3. Engage with the debate over the way in which evaluation schema affect the ways in which scholarship is performed
+1. Açık hakem/akran değerlendirmesinin temel unusrlarını ve bunların avantaj ve dezavantajların bilmek
+2. Araştırma ve araştırmacıların değerlendirilmesi için kullanılan ölçev türleri arasındaki farkları anlamak
+3. Değerlendirme düzeninin mesleğin gerçekleştirilmesi şeklini nasıl etkilediği konusundaki tartışmalara dahil olmak
 
 ### Temel unsurlar
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 ### Bilgi
 #### Açık hakem değerlendirmesi
 
-Popular venues for OPR include journals from publishers like Copernicus, Frontiers, BioMed Central, eLife and F1000research.
+Açık hakem/akran değerlendirmesi için popüler ortamlar Copernicus, Frontiers, BioMed Central, eLife ve F1000research gibi yayıncıların dergileridir.
 
-Open peer review, in its different forms, has many potential advantages for reviewers and authors:
+Açık hakem/akran değerlendirmesi, farklı biçimleriyle, yazarlar ve hakemler için birçok potansiyel avantaja sahiptir:
 
-* Open identities \(non-blinded\) review fosters greater accountability amongst reviewers and reduces the opportunities for bias or undisclosed conflicts of interest.
+* Açık kimliklerle \(körleme olmadan\) değerlendirme hakemler arasında daha fazla verebilirliği teşvik eder ve taraflı davranma ya da örtülü çıkar çatışması (conflict of interest) fırsatlarını azaltır.
 
-* Open review reports add another layer of quality assurance, allowing the wider community to scrutinize reviews to examine decision-making processes.
+* Açık değerlendirme raporları, daha geniş bir topluluğun karar verme süreçlerini incelemek için değerlendirmeleri gözden geçirmesine olanak veren başka bir nitelik güvencesi katmanı ekler.
 
-* In combination, open identities and open reports are theorized to lead to better reviews, as the thought of having their name publicly connected to a work or seeing their review published encourages reviewers to be more thorough.
+* Adlarının bir çalışma ile herkese açık bir şekilde ilişkilendirilmesi veya değerlendirmelerinin yayınlandığını görme düşüncesi hakemleri daha kapsamlı değerlendirmeler yapmaya teşvik edeceğinden, açık kimlikler ve açık değerlendirme raporları, birlikte, daha iyi değerlendirmeler yapılmasını sağlayacak şekilde teorikleştirilir. 
 
-* Open identities and open reports enable reviewers to gain public credit for their review work, thus incentivising this vital activity and allowing review work to be cited in other publications and in career development activities linked to promotion and tenure.
+* Açık kimlikler ve açık değerlendirme raporları, hakemlerin değerlendirmeleri için genel itibar kazanmaları yoluyla bu önemli faaliyeti teşvik eder ve değerlendirmeye diğer yayınlarda ve atama ve görev süresi bağlantılı kariyer geliştirme faaliyetlerinde atıf yapılmasına imkan verir.
 
-* Open participation could overcome problems associated with editorial selection of reviewers \(e.g., biases, closed-networks, elitism\). Especially for early career researchers who do not yet receive invitations to review, such open processes may also present a chance to build their research reputation and practice their review skills.
+* Açık katılım, hakemlerin editoryal seçimi ile ilişkili sorunların \(örneğin, yanlı davranma, kapalı ağlar, elitizm\) üstesinden gelebilir. Bu gibi açık süreçler, özellikle henüz hakemlik daveti almayan kariyerinin başındaki araştırmacılar için araştırma itibarlarını oluşturma ve hakemlik becerilerini geliştirme şansı da sunabilir.
 
-There are some potential pitfalls to watch out for, including:
+Aşağıdakileri de içeren, dikkat edilmesi gereken bazı potansiyel tuzaklar söz konusudur:
 
-* Open identities removes anonymity conditions for reviewers \(single-blind\) or authors and reviewers \(double-blind\) which are traditionally in place to counteract social biases \(although there is not strong-evidence that such anonymity has been effective\). It’s therefore important for reviewers to constantly question their assumptions to ensure their judgements reflect only the quality of the manuscript, and not the status, history, or affiliations of the author\(s\). Authors should do the same in receiving peer review comments.
+* Açık kimlikler hakemler için \(tek körleme\) ya da yazarlar ve hakemler için \(çift körleme\) geleneksel olarak sosyal yanlılığı önlemek için mevcut olan \(böyle bir anonimliğin etkili olduğuna dair güçlü bir kanıt bulunmamasına rağmen\) anonimlik koşullarını ortadan kaldırır. Bu yüzden, hakemlerin kararlarının, yazar\(lar\)ın mevkilerini, geçmişlerini ya da bağlı oldukları kurumu değil yalnızca çalışmanın kalitesini yansıtmasını sağlamak için varsayımlarını sürekli olarak sorgulamaları önemlidir.
 
-* Giving and receiving criticism is often a process fraught with unavoidably emotional reactions - authors and reviewers may subjectively agree or disagree on how to present the results and/or what needs improvement, amendment or correction. In open identities and/or open reports, the transparency could exacerbate such difficulties. It is therefore essential that reviewers ensure that they communicate their points in a clear and civil way, in order to maximise the chances that it will be received as valuable feedback by the author\(s\).
+* Eleştirmek ve eleştiri almak çoğu zaman kaçınılmaz olarak duygusal tepkilerle dolu bir süreçtir - yazarlar ve hakemler sonuçların nasıl sunulacağı ve/veya neyin iyileştirilmesi, değiştirilmesi veya düzeltilmesi gerektiği konusunda öznel olarak aynı ya da farklı fikirlerde olabilir. Açık kimliklerde ve/veya açık raporlarda, şeffaflık bu tür zorlukları hiddetlendirebilir. Bu nedenle, hakem geri dönüşlerinin yazar\(lar\) tarafından değerli algılanması şansını en üst düzeye çıakrmak adına, hakemlerin üzerinde durdukları konuların açık ve medeni bir şekilde iletimini sağlamaları çok önemlidir.
 
-* Lack of anonymity for reviewers in open identities review might subvert the process by discouraging reviewers from making strong criticisms, especially against higher-status colleagues.
+* Açık kimlikli değerlendirmede, hakemlerin anonim olmaması, özellikle yüksek mevki sahibi meslektaşlarına karşı güçlü eleştiriler yapmalarına engel olarak süreci altüst edebilir.
 
-* Finally, given these issues, potential reviewers may be more likely to decline to review.
+* Son olarak, bu sorunlar göz önüne alındığında, potansiyel hakemlerin değerlendirme teklifini reddetme olasılığı daha yüksek olabilir.
 
 #### Açık ölçevler
 
-The [San Francisco Declaration on Research Assessment \(DORA\)](https://sfdora.org/) recommends moving away from journal based evaluations, consider all types of output and use various forms of metrics and narrative assessment in parallel. DORA has been signed by thousands of researchers, institutions, publishers and funders, who have now committed themselves to putting this in practice. The [Leiden Manifesto](http://www.leidenmanifesto.org/) provides guidance on how to use metrics responsibly.
+[Araştırma Değerlendirme Üzerine San Francisco Deklerasyonu \(DORA\)](https://sfdora.org/) dergi bazlı değerlendirmelerden uzaklaşmayı, tüm bilimsel çıktı türlerini dikkate almayı ve çeşitli ölçev ve anlatı değerlendirme (narrative assessment) biçimlerini kullanmayı önerir. DORA, halihazırda kendilerini bunu uygulamaya koymaya adamış binlerce araştırmacı, kurum, yayıncı ve fon sağlayıcı tarafından imzalanmıştır. [Leiden Manifestosu](http://www.leidenmanifesto.org/) ölçevlerin sorumlu bir şekilde nasıl kullanılacağına ilişkin rehberlik sağlamaktadır.
 
-Regarding Altmetrics, [Priem et al. (2010)](http://altmetrics.org/manifesto/) advise that altmetrics have the following benefits: they accumulate quicker than citations; they can gauge the impact of research outputs other than journal publications (e.g. datasets, code, protocols, blog posts, tweets, etc.); and they can provide diverse measures of impact for individual objects. The timeliness of altmetrics presents a particular advantage to early-career researchers, whose research-impact may not yet be reflected in significant numbers of citations, yet whose career-progression depends upon positive evaluations. In addition, altmetrics can help with early identification of influential research and potential connections between researchers. A recent report by the EC’s Expert Group on Altmetrics ([Wilsdon et al. (European Commission), 2017](https://ec.europa.eu/research/openscience/pdf/report.pdf)) identified challenges of altmetrics, including lack of robustness and susceptibility to ‘gaming’; that any measure ceases to be a good measure once it becomes a target (‘Goodhart’s Law’); relative lack of social media uptake in some disciplines and geographical regions; and a reliance on commercial entities for the underlying data.
+Altmetriklerle (alternatif ölçevlerle) ile ilgili olarak, [Priem et al. (2010)](http://altmetrics.org/manifesto/) altmetrikleri şu faydalarından dolayı tavsiye etmektedir: atıflardan daha hızlı şekilde birikirler; derg yayınları dışındaki araştırma çıktılarının (örneğin, veri setleri, kodlar, protokoller, blog gönderileri, tweetler vb.) etkisini ölçebilirler; ve özgün objeleri için farklı etki ölçevleri sağlayabilirler. Altmetriklerin güncelliği, araştırma etkisi henüz atıf sayısına yansımamış, ancak kariyer ilerlemesi pozitif değerlendirmelere bağlı olan, kariyerlerinin başındaki araştırmacılara özel bir avantaj sunar. Ayrıca, altmetrikler etkili araştırmaların erken tepiti ve araştırmacılar arasındaki potansiyel bağlantılar için de yardımcı olabilir. Avrupa Komisyonunun altmetrikler konusundaki uzman grubu tarafından oluşturulan yeni bir rapor ([Wilsdon et al. (European Commission), 2017](https://ec.europa.eu/research/openscience/pdf/report.pdf)), dayanıklılık (robustness) anlamındaki eksiklik ve manipülasyona (gaming) yatkınlık dahil olmak üzere altmetriklerle ilgili sorunları tespit etmiştir; bir ölçev hedef haline geldiğinde iyi bir ölçev olmaktan çıkması (‘Goodhart Yasası’); bazı disiplinlerde ve coğrafi bölgelerde sosyal medyanın tutunması anlamında göreli eksiklik; ve temel veriler için ticari kuruluşlara güvenme.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 ### Beceriler
