@@ -1,18 +1,18 @@
 ## <img src="/Images/Icons/open_government.png" width="200" height="200" />
-## 9. Open Science Policies
+## 9. Açık Bilim Politikaları
 
-### What is it?
+### Nedir?
 
 We could define Open Science policies as those strategies and actions aimed at promoting Open Science principles and at acknowledging Open Science practices. Those policies are usually established by research performing institutions, research funders, governments or publishers. The initial policies were aimed at requiring an open dissemination of the research results based on the idea that results achieved from publicly funded research should be available to the public without any restriction. However, now the scope of the policies has grown and we may find national policies fostering Open Science practices at any point of the research level. Moreover, we might find specific provisions in new and existing laws, regulations or directives.
 
 ## <img src="/Images/02 Open Science Basics/02_open_policies.png" />
 
-### Rationale
+### Gerekçe
 
 Since one of the main drivers to Open Science are the current policies established by institutions, funders, governments and publishers, it is important to know how they affect any researcher. If you are planning to design a policy aimed at the adoption and acknowledgement of Open Science practices is important to know the existing policies in order to avoid any overlapping or contradiction. Therefore researchers and policy makers should have a knowledge of the current policies and should be able to understand how they affect them.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Öğrenme hedefeleri
 
 1. Depending on your audience the objectives of the training session would be different. We can make a broad division between researchers \(in a broad sense\) and policy makers \(within an institution or funders - in a broad sense\).
 
@@ -22,10 +22,10 @@ Since one of the main drivers to Open Science are the current policies establish
 
 4. If we want to train funders or policy makers within an institution then it should be important to show how to design, develop, implement and monitor a policy
 
-### Key components
+### Temel unsurlar
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Bilgi
 
 You must review all the policies that affect your training audience. First of all check all the institutional policies at institutional level, for instance; copyright, intellectual property, open access, research data.
 
@@ -40,7 +40,7 @@ Also at the international level, some publishers have introduced new policies, e
 If your training audience is willing to develop a roadmap or agenda to implement a national Open Science policy it could be advisable to benchmark what has been done in other parts. As a starting point, the [2016 Amsterdam Call for Action](https://www.government.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science) could show some of the issues that must be taken into account and to whom are addressed. Examples of the [Netherlands](https://www.openscience.nl/), [Portugal](http://www.ciencia-aberta.pt), or [Finland](https://openscience.fi/) can help to plan national policies, outline some actions and find how to measure their implementation.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Beceriler
 
 Trainees would need to identify the main features of each policy mainly: to whom is addressed, what are the requirements, how they overlap with each other.
 
@@ -49,7 +49,7 @@ You might show how researchers can fulfill with the different policies: where ar
 When designing an Open Science policy, trainees would need to be able to define the main purposes of having such a policy and to establish the goals or changes they are pursuing. Once defined, they must be able to find key performance indicators to measure if the policy have achieved its goals and they must be able to review and update the policy if the goals are not achieved.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Sorular, engeller ve yaygın yanlış anlamalar
 
 The main question coming from researchers in training sessions on policies is how they can fulfill the requirements without losing any freedom on deciding where to publish, for instance. You as a trainer, may describe all the available options researchers have because in general, Open Science policies provide a range of options.
 
@@ -60,7 +60,7 @@ A common misconception regarding research data policy is that researchers should
 When planning a policy is important to know what do you intend to achieve or solve. Sometimes policies are created following other initiatives without thinking if there is a need for another one and if your new policy will overlap other existing ones. The main challenge when creating a policy is to align it with other initiatives and to avoid contradictions with laws or regulations.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Öğrenme çıktıları
 
 1. Trainees would be able to identify the requirements of any policy that could affect them when performing Open Science.
 2. They would be able to distinguish among general policies like copyright or data protection and specific policies related to Open Science, for instance regarding how to disseminate research outputs. 
@@ -68,7 +68,7 @@ When planning a policy is important to know what do you intend to achieve or sol
 4. Trainees attending a session aimed at policy making would be able to plan an Open Science policy, establishing objectives and indicators to measure its implementation.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further Reading
+### Ek okuma listesi
 
 * EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science. [ec.europa.eu](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg)
 
@@ -78,18 +78,12 @@ When planning a policy is important to know what do you intend to achieve or sol
 
 * Guidance for Developing a Research Data Management (RDM) Policy. In: Leaders Activating Research Networks, LEARN Project (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 137-140). [learn-rdm.eu](https://doi.org/10.14324/000.learn.27)
 
-### Projects and initiatives
+### Projeler ve girişimler
 
 * FOSTER. Designing Successful Open Access and Open Data Policies: Introductory. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2081) 
 
 * FOSTER. Designing Successful Open Access and Open Data Policies: Intermediate. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2075)
 
 * LEARN Project 2015-2017. Toolkit of Best Practice for Research Data Management [learn-rdm.eu](http://learn-rdm.eu/en/about/)
- 
 
 * Pasteur4OA. [pasteur4oa.eu](http://www.pasteur4oa.eu/)
-
-
-
-
-
