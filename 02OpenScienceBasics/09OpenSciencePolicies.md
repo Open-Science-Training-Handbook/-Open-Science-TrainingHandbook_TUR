@@ -3,24 +3,23 @@
 
 ### Nedir?
 
-We could define Open Science policies as those strategies and actions aimed at promoting Open Science principles and at acknowledging Open Science practices. Those policies are usually established by research performing institutions, research funders, governments or publishers. The initial policies were aimed at requiring an open dissemination of the research results based on the idea that results achieved from publicly funded research should be available to the public without any restriction. However, now the scope of the policies has grown and we may find national policies fostering Open Science practices at any point of the research level. Moreover, we might find specific provisions in new and existing laws, regulations or directives.
-
+Açık bilim politkalarını, açık bilim ilkelerini teşvik etmeyi ve açık bilim uygulamalarını kabul etmeyi amaçlayan strateji ve eylemler olarak tanımlayabiliriz. Bu politikalar genellikle araştırma yapan kurumlar, fon sağlayıcılar, hükümetler ya da yayıncılar tarafından oluşturulmaktadır. İlk politikalar, kamu tarafından finanse edilen araştırmalardan elde edilen sonuçlarının herhangi bir kısıtlama olmaksızın kamuya açık olması gerektiği düşüncesine dayalı olarak araştırma sonuçlarının açık bir şekilde yayımlanmasını talep etmeyi amaçlamıştı. Ancak artık politikaların kapsamı genişledi ve araştırma sürecinin herhangi bir noktasında açık bilim uygulamalarını teşvik eden ulusal politikalar bulabiliyoruz. Ayrıca, yeni ve mevcut kanun, yönetmelik ve yönergelerde özel hükümler de bulabiliyoruz.
 ## <img src="/Images/02 Open Science Basics/02_open_policies.png" />
 
 ### Gerekçe
 
-Since one of the main drivers to Open Science are the current policies established by institutions, funders, governments and publishers, it is important to know how they affect any researcher. If you are planning to design a policy aimed at the adoption and acknowledgement of Open Science practices is important to know the existing policies in order to avoid any overlapping or contradiction. Therefore researchers and policy makers should have a knowledge of the current policies and should be able to understand how they affect them.
+Açık bilimin ana etmenlerinden biri kurumlar, fon saplaycılar ve yayıncılar tarafından oluşturulan mevcut politikalar olduğundan bunların araştırmacıları nasıl etkilediğini bilmek önemlidir. Açık bilim uygulamalarının benimsenmesini ve kabul edilmesini amaçlayan bir politika tasarlamayı planlıyorsanız, örtüşme ve çelişkilerden kaçınmak için mevcut politikaları bilmek önemlidir. Bu nedenle, araştırmacılar ve politika yapıcılar, mevcut politikalar ile ilgili bilgi sahibi olmalı ve bunların kendilerini nasıl etkilediğini bilmelidir.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme hedefeleri
 
-1. Depending on your audience the objectives of the training session would be different. We can make a broad division between researchers \(in a broad sense\) and policy makers \(within an institution or funders - in a broad sense\).
+1. Hedef kitlenize bağlı olarak, eğitim oturumunun amaçları farklı olacaktır. Araştırmacılar \(geniş anlamda\) ve politika yapıcılar  \(bir kurum içindeki ya da fon sağlayıcılar - geniş anlamda\) arasında geniş bir ayrım yapabiliriz.
 
-2. If your training program is addressed mainly to researchers, including all "levels", then the main objective is to review how Open Science policies affect them.
+2. Eğitim programınız esas olarak tüm "seviyeler" dahil olmak üzere araştırmacılara yönelikse, bu durumda temel hedef açık bilim politikalarının onları nasıl etkilediğini ele almaktır.
 
-3. If your training program is addressed to policy makers, you might focus in designing and implement a policy to foster Open Science.
+3. Eğitim programınız politika yapıcıları hedef alıyorsa, açık bilimi teşvik etmek üzere bir politika tasarlama ve bunu uygulamaya odaklanmalısınız.
 
-4. If we want to train funders or policy makers within an institution then it should be important to show how to design, develop, implement and monitor a policy
+4. Fon sağlayıcıları ya da bir kurumdaki politika yapıcıları eğitmek istiyorsanız, bir politikanın nasıl tasarlandığını, geliştirildiğini, uygulamaya konduğunu ve izlendiğini/denetlendiğini göstermek önemli olmalıdır.
 
 ### Temel unsurlar
 
