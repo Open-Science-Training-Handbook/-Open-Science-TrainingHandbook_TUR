@@ -137,11 +137,11 @@ Veri paylaşımına ek olarak, araştırmaların açıklığı materyallerin pay
 
 ###### Reaktif/Ayıraç (Reagent)
 
-Reaktifler, kimyasal veya başka bir reaksiyon oluşturmak için bir sisteme eklenebilen bir madde, bileşen veya karışımdır. Reaktifler, diğer araştırmacılar için kolayca erişilebilir hale getirilmek üzere [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/), ve [ATCC](https://www.atcc.org/) gibi havuzlarda depolanabilir. Materyallerinizi, diğer araştırmacıılar tarafından kullanılabilmeleri için lisanslayın.
+Reaktifler, kimyasal veya başka bir reaksiyon oluşturmak için bir sisteme eklenebilen bir madde, bileşen veya karışımdır. Reaktifler, diğer araştırmacılar için kolayca erişilebilir hale getirilmek üzere [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) ve [ATCC](https://www.atcc.org/) gibi havuzlarda depolanabilir. Materyallerinizi, diğer araştırmacıılar tarafından kullanılabilmeleri için lisanslayın.
 
 ###### Protokoller
 
-Bir protokol, yapılandırılmış bir formattaki bilimsel içerikli deneysel gözlemlerin resmi ya da biçimsel kaydını tanımlar. Atıf, uyarlama  ve yeniden kullanım sanal protokollerini [Protocols.](https://www.protocols.io/)[io](https://www.protocols.io/) ile depolayın. Deposit virtual protocols for citation, adaptation, and reuse using [Protocols.](https://www.protocols.io/)[io](https://www.protocols.io/).
+Bir protokol, yapılandırılmış bir formattaki bilimsel içerikli deneysel gözlemlerin resmi ya da biçimsel kaydını tanımlar. Atıf, uyarlama  ve yeniden kullanım sanal protokollerini [Protocols.](https://www.protocols.io/)[io](https://www.protocols.io/) ile depolayın.
 
 ###### Not defterleri, konteynerler, yazılım ve donanım
 
