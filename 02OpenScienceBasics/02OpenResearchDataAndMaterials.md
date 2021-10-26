@@ -95,14 +95,14 @@ Veri atıfı için iyi uygulamaya yönelik ilk adım  olarak, FORCE11'in Veri At
 ## <img src="/Images/Icons/database.png" width="150" height="150" />
 ##### Veri paketleme
 
-Veri paketleri, verilere eşlik eden veri dosyalarının tanımlanması ve paylaşılmasına yönelik veri konteynerleri olup ve tipik olarak bir veri setinin özelliklerini ve içeriğini açıklayan bir üst veri dosyası içerirler. Veri paketleri, veri oluşturma komut dosyaları veya metin belgeleri gibi ilgili içerik dosyaların yanı sıra veri setini oluşturma ile ilgili bilgileri, provenans, verinin boyutu, formatı/türü, alan tanımları gibi kaynak, boyut, biçim türü, alan tanımları gibi hususları içerebilir. [Veri Paketleme Rehberinde](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md) belirtildiği üzere:
+Veri paketleri, verilere eşlik eden veri dosyalarının tanımlanması ve paylaşılmasına yönelik veri konteynerleri olup ve tipik olarak bir veri setinin özelliklerini ve içeriğini açıklayan bir üst veri dosyası içerirler. Veri paketleri, veri oluşturma komut dosyaları veya metin belgeleri gibi ilgili içerik dosyalarının yanı sıra veri setini oluşturma ile ilgili bilgileri, provenans, verinin boyutu, formatı/türü, alan tanımları gibi hususları içerebilir. [Veri Paketleme Rehberinde](https://github.com/saverkamp/beyond-open-data/blob/master/DataGuide.md) belirtildiği üzere:
 
-* Veriler sonsuza dek yaşar: Veri setleri ortaya çıkış amaçlarından daha uzun ömürlüdür. context
+* Veriler sonsuza dek yaşar: Veri setleri ortaya çıkış amaçlarından daha uzun ömürlüdür.
 * Verilerin sınırlılıkları, bir kütüphane kataloğu gibi asıl ortamları içinde göze çarpabilir, ancak veriler oluşturuldukları kullanım amacının dışına çıktığında belirgin olmayabilir.
 
 * Veri tek başına olamaz: Verinin içeriği ve provenansı hakkındaki bilgi--nasıl ve neden oluşturulduğu, hangi gerçek dünya nesneleri ve kavramlarını temsil ettiği, değerler üzerindeki kısıtlamalar--kullanıcıların veriyi sorumlu bir şekilde yorumlamalarına yardımcı olmak için gereklidir.
 
-* Veri setleri ile ilgili üst verileri standart, makinaca okuanbilir şekilde yapılandırmak verilerin tanıtımı, paylaşılabilirliğini ve yeniden kullanımını teşvik eder. 
+* Veri setleri ile ilgili üst verileri standart, makinece okunabilir şekilde yapılandırmak verilerin tanıtımını, paylaşılabilirliğini ve yeniden kullanımını teşvik eder. 
 
 ## <img src="/Images/Icons/privacy.png" width="150" height="150" />
 ##### Hassas ve kişisel verilerin paylaşılması
