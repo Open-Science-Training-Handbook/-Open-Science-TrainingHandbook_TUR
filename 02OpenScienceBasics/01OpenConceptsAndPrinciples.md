@@ -7,11 +7,11 @@ Açık Bilim, araştırma verilerinin, laboratuvar notlarının ve diğer araşt
 
 Açık Bilim, araştırmalarda artan titizlik, hesap verebilirlik ve tekrarlanabilirlik ile ilgilidir. Kapsayıcılık, açıklık, eşitlik ve paylaşım ilkelerine dayanmakta, en nihayetinde araştırmanın yapılma şeklini, kimin dahil olduğunu ve nasıl değer gördüğünü değiştirmeyi hedefler. Araştırmanın, dünyanın faydalanması için katılıma, değerlendirmeye/çürütmeye, geliştirmeye ve \(yeniden\) kullanıma açık olmasını amaçlar.
 
-Bilimin farklı yanları ile ilgili çeşitli "açıklık" tanımları vardır; [Open Definition](http://opendefinition.org/) tanımı şu şekildedir: “Açık veri ve içerik, herkes tarafından herhangi bir sebeple serbestçe kullanılabilir, uyarlanabilir ve paylaşılabilir”. Açık Bilim, genellikle yayınlara açık erişim, açık araştırma verisi, açık kaynak yazılımlar/araçlar, açık iş akışları, vatandaş bilimi, açık eğitim kaynakları ve açık hakem değerlendirmesi dahil araştırma değerlendirme için alternatif yöntemler gibi alanları içeren çeşitli uygulamaları kapsamaktadır \([Pontika et al., 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).
+Bilimin farklı yanları ile ilgili çeşitli "açıklık" tanımları vardır; [Open Definition](http://opendefinition.org/) tanımı şu şekildedir: “Açık veri ve içerik, herkes tarafından herhangi bir sebeple serbestçe kullanılabilir, uyarlanabilir ve paylaşılabilir”. Açık Bilim, genellikle yayınlara açık erişim, açık araştırma verisi, açık kaynak yazılımlar/araçlar, açık iş akışları, vatandaş bilimi, açık eğitim kaynakları ve açık hakem değerlendirmesi dahil araştırma değerlendirme için alternatif yöntemler gibi alanları içeren çeşitli uygulamaları kapsamaktadır \([Pontika ve diğerleri, 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).
 
-![](/Images/image_0.png)Pontika et al. \(2015\)
+![](/Images/image_0.png)Pontika ve diğerleri \(2015\)
 
-Bu çeşitli uygulamaları gerçekleştirme çabasının altında yatan amaçlar ve varsayımlar Fecher & Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\) tarafından analiz edilmiş, literatürün  incelenmesi ile beş ana konu ya da "düşünce ekolü" bulunmuştur. Bunlar:
+Bu çeşitli uygulamaları gerçekleştirme çabasının altında yatan amaçlar ve varsayımlar Fecher ve Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\) tarafından analiz edilmiş, literatürün  incelenmesi ile beş ana konu ya da "düşünce ekolü" bulunmuştur. Bunlar:
 
 * **Demokratik ekol:** Bilgiye erişimde eşit olmayan bir dağılımın olduğuna inanan bu ekol, bilimsel bilgiyi \(yayınlar ve veriler dahil\) herkes için ücretsiz olarak erişilebilir kılmakla ilgilenir.
 
