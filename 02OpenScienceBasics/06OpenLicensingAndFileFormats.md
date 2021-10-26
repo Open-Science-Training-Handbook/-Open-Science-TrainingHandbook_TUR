@@ -106,9 +106,9 @@ Lisansların uygunluğu: örneğin, CC lisansları yazılım için kullanılmama
 
 * How to License Research Data. [dcc.ac.uk](http://www.dcc.ac.uk/resources/how-guides/license-research-data)
 
-* Klimpe (2012). Free knowledge thanks to Creative Commons Licenses - Why a non-commercial clause often won‘t serve your needs. [Original PDF in German](https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf), [English translation PDF](openglam.org/files/2013/01/iRights_CC-NC_Guide_English.pdf)
+* Klimpe (2012). Free knowledge thanks to Creative Commons Licenses - Why a non-commercial clause often won't serve your needs. [Original PDF in German](https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf), [English translation PDF](https://irights.info/wp-content/uploads/2014/11/Open_Content_A_Practical_Guide_to_Using_Open_Content_Licences_web.pdf)
 
-* Kreutzer (n.y.). Validity of the Creative Commons Zero 1.0 Universal Public Domain Dedication and its usability for bibliographic metadata from the perspective of German Copyright Law. [PDF](https://www.rd-alliance.org/sites/default/files/cc0-analysis-kreuzer.pdf)
+* Kreutzer (t.y.). Validity of the Creative Commons Zero 1.0 Universal Public Domain Dedication and its usability for bibliographic metadata from the perspective of German Copyright Law. [PDF](https://www.rd-alliance.org/sites/default/files/cc0-analysis-kreuzer.pdf)
 
 * List of open formats. [Wikipedia](https://en.wikipedia.org/wiki/List_of_open_formats)
 
