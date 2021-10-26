@@ -44,7 +44,7 @@ Açık Bilim, yukarıda tanımlandığı gibi, hakim kültürün genellikle hiye
 ![](/Images/02%20Open%20Science%20Basics/02_open_concepts_and_principles.png)
 
 #### Bilgi ve Beceriler
-* Açık Bilim, kod, veri ve araştırma makalelerini içeren bilimsel araştırma sonuçlarının daha erişilebilir hale getirmeye yardımcı olan harekettir.
+* Açık Bilim, kod, veri ve araştırma makalelerini içeren bilimsel araştırma sonuçlarını daha erişilebilir hale getirmeye yardımcı olan harekettir.
 
   * Açık yayıncılık, açık veri, açık kaynak kod, açık defter bilimi, açık hakem değerlendirmesi, açık dağıtım ve açık materyaller gibi bütün araştırma yaşam döngüsüne etki eden birçok farklı ancak genellikle birbiriyle ilişkili konuyu kapsar \(tanımlar için terimler sözlüğüne bakınız\).
 
