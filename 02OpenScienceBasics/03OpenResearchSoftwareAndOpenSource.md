@@ -110,13 +110,13 @@ Yaygın kavram yanılgısı: Kodu sadece çevrimiçi hale getirmek onu açık ka
 
 * Dryden ve diğerleri. (2017). Upon the Shoulders of Giants: Open-Source Hardware and Software in Analytical Chemistry. [doi.org/10.1021/acs.analchem.7b00485](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b00485) 
 
-* Ince ve diğerleri. (2012). The case for open computer programs.[doi.org/10.1038/nature10836](https://doi.org/10.1038/nature10836)
+* Ince ve diğerleri. (2012). The case for open computer programs. [doi.org/10.1038/nature10836](https://doi.org/10.1038/nature10836)
 
 * Iskoujina ve Roberts (2015). Knowledge sharing in open source software communities: motivations and management. [PDF](https://pdfs.semanticscholar.org/f2a2/c5129cf5656af7acc7ffaf84c9c9bafe72c5.pdf)
 
-* Jiménez ve diğerleri. (2017).Four simple recommendations to encourage best practices in research software. [doi.org/10.12688/f1000research.11407.1](https://doi.org/10.12688/f1000research.11407.1) 
+* Jiménez ve diğerleri. (2017). Four simple recommendations to encourage best practices in research software. [doi.org/10.12688/f1000research.11407.1](https://doi.org/10.12688/f1000research.11407.1) 
 
-* Martinez-Torres ve Diaz-Fernandez (2013).Current issues and research trends on open-source software communities [PDF](https://idus.us.es/xmlui/bitstream/handle/11441/32245/Current%20issues%20and%20research%20trends.pdf?sequence=1) 
+* Martinez-Torres ve Diaz-Fernandez (2013). Current issues and research trends on open-source software communities. [PDF](https://idus.us.es/xmlui/bitstream/handle/11441/32245/Current%20issues%20and%20research%20trends.pdf?sequence=1) 
 
 * Morin ve diğerleri. (2012). Shining Light into Black Boxes. [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4203337/pdf/nihms588981.pdf)
 
