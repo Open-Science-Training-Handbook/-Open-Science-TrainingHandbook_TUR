@@ -169,7 +169,7 @@ A: "Tam olarak değil! Verilerin FAIR yapılması sadece bireysel olarak araşt�
 
 Q: "Verilerimi paylaşmak istiyorum. Nasıl lisanslamalıyım?"
 
-A: "Bu güzel bir soru. Öncelikle verinin sahibinin küm olduğunu düşünün. Bir araştırma fonlayıcı mıya da çalıştığınız kurum mu? Sonrasında, yazarlığı düşünün. Uygun biir lisans kullanmak, verilerinizi yeniden kullanılanilir kılmak için çok önemlidir. Lisanslama hakkında daha fazla bilgi için lütfen bkz. [6. Açık Lisanslama ve Dosya Formatları](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
+A: "Bu güzel bir soru. Öncelikle verinin sahibinin küm olduğunu düşünün. Bir araştırma fonlayıcı mıya da çalıştığınız kurum mu? Sonrasında, yazarlığı düşünün. Uygun biir lisans kullanmak, verilerinizi yeniden kullanılanilir kılmak için çok önemlidir. Lisanslama hakkında daha fazla bilgi için lütfen bkz. [6. Açık Lisanslama ve Dosya Formatları](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
 
 Q: "Verilerimi doğrudan erişilebilir hale getiremiyorum—rahatça paylaşılamayacak kadar büyük / gizlilik konularıyla ilgili kısıtlamalar söz konusu. Ne yapmalıyım?"
 
