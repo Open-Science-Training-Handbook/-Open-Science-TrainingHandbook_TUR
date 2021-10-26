@@ -4,11 +4,11 @@
 
 ### Nedir?
 
-Tekrarlanabilirlik (reproducibility), araştırma verileri ve kodlarının, başkalarının bilimsel çıktılarda iddia edilen sonuçlara ulaşabilmesini sağlayacak şekilde erişime açılması anlamına gelir. Benzer sonuçlara ulaşmak içim bilimsel bir metodolojiyi tekrarlama eylemi olan "replicability" kavramı ile yakından ilgilidir. These concepts are core elements of empirical research (Çevirenin notu: Her iki kavram da Türkçe'ye "tekrarlanabilirlik" olarak çevrilmekle birlikte, "reproducibility" aynı verileri kullanarak aynı sonuçlara ulaşma, "replicability" ise farklı verilerle aynı araştırma sorularına aynı doğrultuda yanıt verme olarak tanımlanmaktadır. Metinde "tekrarlanabilirlik", aksi belirtilmedikçe "reproducibility" kelimesinin karşılığı olacak şekilde kullanılmıştır).
+Tekrarlanabilirlik (reproducibility), araştırma verileri ve kodlarının, başkalarının bilimsel çıktılarda iddia edilen sonuçlara ulaşabilmesini sağlayacak şekilde erişime açılması anlamına gelir. Benzer sonuçlara ulaşmak içim bilimsel bir metodolojiyi tekrarlama eylemi olan "replicability" kavramı ile yakından ilgilidir. Bu kavramlar ampirik araştırmanın temel unsurlarıdır. (Çevirenin notu: Her iki kavram da Türkçe'ye "tekrarlanabilirlik" olarak çevrilmekle birlikte, "reproducibility" aynı verileri kullanarak aynı sonuçlara ulaşma, "replicability" ise farklı verilerle aynı araştırma sorularına aynı doğrultuda yanıt verme olarak tanımlanmaktadır. Metinde "tekrarlanabilirlik", aksi belirtilmedikçe "reproducibility" kelimesinin karşılığı olacak şekilde kullanılmıştır.)
 
 Tekrarlanabilirliği iyileştirmek, bilimsel çıktılarda artan titizlik ve kaliteye ve dolayısıyla da bilime daha fazla güvenilmesine sebep olur. Bir projenin başlangıcından ve verilerin toplanmasından sonuçların yorumlanması ve raporlanmasına kadar araştırma iş akışlarını açma konusunda artan bir ihtiyaç ve isteklilik olmuştur. Bu gelişmeler, yüksek bütünlük standartlarını korurken ortak çalışanlar tarafından benimsenebilecek entegre araştırma iş akışlarının tasarlanması da dahil olmak üzere kendine has zorluklarla birlikte gelmiştir.
 
-Tekrarlanabilirlik kavramı bilimin yapı taşı olan bilimsel yönteme ve özellikle aşağıdaki beş adımda doğrudan uygulanmaktadır:
+Tekrarlanabilirlik kavramı bilimin yapı taşı olan bilimsel yöntemde ve özellikle aşağıdaki beş adımda doğrudan uygulanmaktadır:
 
 1. Bir hipotezin formüle edilmesi
 
@@ -32,9 +32,9 @@ Tekrarlanabilirliğe katkıda bulunan faktörlerin tamamını anlamak önemli ol
 
 ![](/Images/image_2.png)
 
-Kaynak: Sempozyum raporu, Ekim 2015. Reproducibility and reliability of biomedical research: improving research practice [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf).
+Kaynak: Sempozyum raporu, Ekim 2015. Reproducibility and reliability of biomedical research: improving research practice. [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf)
 
-[Goodman, Fanelli, & Ioannidis \(2016\)](https://doi.org/10/gc5sjs) epidemiyoloji, hesaplamalı biyoloji, ekonomi ve klinik deneylerde tekrarlanabilirliğin çoğunlukla aşağıdaki gibi tanımlandığını belirtmişlerdir:
+[Goodman, Fanelli ve Ioannidis \(2016\)](https://doi.org/10/gc5sjs) epidemiyoloji, hesaplamalı biyoloji, ekonomi ve klinik deneylerde tekrarlanabilirliğin çoğunlukla aşağıdaki gibi tanımlandığını belirtmişlerdir:
 
 _"bir araştırmacının orijinal araştırmacı tarafından kullanılan materyallerin aynısını kullanarak önceki bir çalışmanın sonuçlarını tekrarlama becerisi. Yani, ikinci bir araştırmacı, aynı analiz dosyalarını oluşturmak için aynı ham verileri kullanabilir ve aynı sonuçları elde etmek amacıyla aynı istatistiksel analizleri uygulayabilir."_
 
@@ -72,36 +72,36 @@ Aşağıda tekrarlanabilirliğin temel noktalarını gösteren bir liste yer alm
 
 * Tekrarlanabilir analiz ortamları \(sanallaştırma\).
 
-* "Araştırmacıların Özgürlük Düzeylerine" hitap etmek \([Wicherts et al., 2016](https://doi.org/10/gc5sjn)\).
+* "Araştırmacıların Özgürlük Düzeylerine" hitap etmek \([Wicherts ve diğerleri 2016](https://doi.org/10/gc5sjn)\).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Beceriler
 
-Tekrarlanabilirliği sağlamak için gerekli bilgi ve becerileri belirlerken akılda tutulması gereken birkaç pratik ipucu vardır. Tekrarlanabilirlikle ilgili en iyi uygulamalar daha genel olarak Açık Bilimden ödünç alınmıştır. Ancak bunların entegrasyonu, araştırmalarını paylaşmayı seçseler de seçmeseler de bireysel olarak araştırmacılara fayda sağlar.  Tekrarlanabilikle ilgili en iyi uygulamaların entegre edilmesinin bireysel olarak araştırmacıya fayda sağlamasının nedeni, araştırmanın planlanması, organizasyonu ve dokümantasyonunu iyileştirmesidir. Aşağıda, bu el kitabında yer alan uygulamalara göndermelerle tekrarlanabilirliğin bir araştırma iş akışına uygulanması ile ilgili bir örnek ana hatlarıyla gösterilmektedir.
+Tekrarlanabilirliği sağlamak için gerekli bilgi ve becerileri belirlerken akılda tutulması gereken birkaç pratik ipucu vardır. Tekrarlanabilirlikle ilgili en iyi uygulamalar daha genel olarak Açık Bilimden ödünç alınmıştır. Ancak bunların entegrasyonu, araştırmalarını paylaşmayı seçseler de seçmeseler de bireysel olarak araştırmacılara fayda sağlar.  Tekrarlanabilirlikle ilgili en iyi uygulamaların entegre edilmesinin bireysel olarak araştırmacıya fayda sağlamasının nedeni, araştırmanın planlanması, organizasyonu ve dokümantasyonunu iyileştirmesidir. Aşağıda, bu el kitabında yer alan uygulamalara göndermelerle tekrarlanabilirliğin bir araştırma iş akışına uygulanması ile ilgili bir örnek ana hatlarıyla gösterilmektedir.
 
 ## <img src="/Images/Icons/task.png" width="150" height="150" />
 ##### **1. Başlamadan önce tekrarlanabilirlik için plan yapın**
 
 ###### Bir çalışma planı ya da protokolü oluşturun.
 
-Çalışmanın başında, önerilen çalışma tasarımı ve metodlarını içeren bir çalışma planı ya da protokolü yazarak dokümantasyona başlayın. Mevcut ise [Equator Network](http://www.equator-network.org/) üzerinden bir raporlama kılavuzu kullanın. Sürüm kontrolünü kullanarak çalışma planınız ya da protokolünüzdeki değişiklikleri izleyin\(Sürüm Kontrolü başlığına bakın\). Gereken gücü (power) ve örneklem büyüklüğünü hesaplayın ve düşük güçlü çalışmalar tekrarlanamama eğiliminde olduğunda bu hesaplamayı raporlayın.
+Çalışmanın başında, önerilen çalışma tasarımı ve metodlarını içeren bir çalışma planı ya da protokolü yazarak dokümantasyona başlayın. Mevcut ise [Equator Network](http://www.equator-network.org/) üzerinden bir raporlama kılavuzu kullanın. Sürüm kontrolünü kullanarak çalışma planınız ya da protokolünüzdeki değişiklikleri izleyin \(Sürüm Kontrolü başlığına bakın\). Gereken gücü (power) ve örneklem büyüklüğünü hesaplayın ve düşük güçlü çalışmalar tekrarlanamama eğiliminde olduğunda bu hesaplamayı raporlayın.
 
 ###### Tekrarlanabilir araçları ya da materyalleri seçin
 
-[CiteAb](https://www.citeab.com/) gibi bir antikor arama motoru kullanarak çalışan antikorları seçin. [Uluslararası Hücre Hattı Kimlik Doğrulama Komitesi - International Cell Line Authentication Committee](http://iclac.org/)] tarafından kimliği doğrulanmış olanları seçerek yanlış tanımlanmış hücre hatları yoluyla tekrarlanamazlıktan kaçının. Her mümkün olduğunda, araştırmanızın mülkiyetini elinizde bulundurduğunuz ve araştırmanızı yeniden kullanım için platform dışına taşıyabileceğiniz yazılım ve donanım araçlarını seçin \(bkz. Açık Araştırma Yazılımı ve Açık Kaynak\).
+[CiteAb](https://www.citeab.com/) gibi bir antikor arama motoru kullanarak çalışan antikorları seçin. [Uluslararası Hücre Hattı Kimlik Doğrulama Komitesi - International Cell Line Authentication Committee](http://iclac.org/) tarafından kimliği doğrulanmış olanları seçerek yanlış tanımlanmış hücre hatları yoluyla tekrarlanamazlıktan kaçının. Her mümkün olduğunda, araştırmanızın mülkiyetini elinizde bulundurduğunuz ve araştırmanızı yeniden kullanım için platform dışına taşıyabileceğiniz yazılım ve donanım araçlarını seçin \(bkz. Açık Araştırma Yazılımı ve Açık Kaynak\).
 
 ###### Tekrarlanabilir bir proje oluşturun
 
-Tüm araştırma dosyaları için çevrimiçi bir platform, merkezi bir havuz ya da klasör kullanarak proje yönetimiinizi merkezileştirin ve organiza edin. Github'ı proje dosyalarını birarada tutacak ya da [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/) ya da [SciNote](https://scinote.net/) gibi elektronik bir laboratuvar not defteri kullanarak herşeyi yönetecek bir yer olarak kullanabilirsiniz. Ham verilerinizi salt okunur yapın ve işlenmiş verilerden ayrı tutun \(Veri Yönetimi başlığına bakın\).
+Tüm araştırma dosyaları için çevrimiçi bir platform, merkezi bir havuz ya da klasör kullanarak proje yönetiminizi merkezileştirin ve organize edin. Github'ı proje dosyalarını birarada tutacak ya da [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/) veya [SciNote](https://scinote.net/) gibi elektronik bir laboratuvar not defteri kullanarak herşeyi yönetecek bir yer olarak kullanabilirsiniz. Ham verilerinizi salt okunur yapın ve işlenmiş verilerden ayrı tutun \(Veri Yönetimi başlığına bakın\).
 
-Araştırma dosyalarınızı kaydederken ya da yedeklerken, yeniden kullanıma izin veren formatlar ve bilgilendirici dosya adları seçin. Dosya adları hem makina hem de insan tarafından okunabilir olmalıdır \(Veri Yönetimi başlığına bakın\). Analizlerinizde ve yazılım kodunuzda göreceli yolları (relative paths) kullanın. Özel dosya formatlarından kaçının ve açık dosya formatlarını kullanın  Avoid proprietary file formats and use open file formats \(bkz. Bölüm 2.6: Açık Lisanslama ve Doya Formatları\).
+Araştırma dosyalarınızı kaydederken ya da yedeklerken, yeniden kullanıma izin veren formatlar ve bilgilendirici dosya adları seçin. Dosya adları hem makina hem de insan tarafından okunabilir olmalıdır \(Veri Yönetimi başlığına bakın\). Analizlerinizde ve yazılım kodunuzda göreceli yolları (relative paths) kullanın. Özel dosya formatlarından kaçının ve açık dosya formatlarını kullanın \(bkz. Bölüm 2.6: Açık Lisanslama ve Doya Formatları\).
 
 ## <img src="/Images/Icons/handson.png" width="150" height="150" />
 ##### **2. Kayıt tutun**
 
 ###### Kayıt
 
-Negatif sonuçların şeffaflığını artırmakve yayın yanlılığına karşı koymak için çalışma tasarımı ve analizi ile ilgili önemli bilgilerini önceden kaydedin. İlk kaydınızı yapmak için size yardımcı olacak ücretsiz araçlar arasında [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/) ve [Registered Reports](https://cos.io/rr/) yer almaktadır. Klinik araştırmalarda [Clinicaltrials.gov](https://clinicaltrials.gov/) kullanılmalıdır.
+Negatif sonuçların şeffaflığını artırmak ve yayın yanlılığına karşı koymak için çalışma tasarımı ve analizi ile ilgili önemli bilgileri önceden kaydedin. İlk kaydınızı yapmak için size yardımcı olacak ücretsiz araçlar arasında [AsPredicted](https://aspredicted.org/), [Open Science Framework](https://osf.io/) ve [Registered Reports](https://cos.io/rr/) yer almaktadır. Klinik araştırmalarda [Clinicaltrials.gov](https://clinicaltrials.gov/) kullanılmalıdır.
 
 ###### Sürüm kontrolü
 
@@ -124,11 +124,11 @@ Ek dosyalardan kaçının, kabul edilebilir serbestlik sunan bir lisansa karar v
 
 ###### Materyaller
 
-Materyallerinizi tekrar kullanılabilecek şekilde paylaşın. Reaktifleri/ayıraçları (reagents), diğer araştırmacıların kolaylıkla erişebilmesi için [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) ve [ATCC](https://www.atcc.org/) gibi havuzlarda depolayın. Daha fazla bilgi için [Açık Araştırma Verisi ve Materyaller](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md) bölümünün Açık Matertaller başlıklı alt bölümünü gözden geçirin.
+Materyallerinizi tekrar kullanılabilecek şekilde paylaşın. Reaktifleri/ayıraçları (reagents), diğer araştırmacıların kolaylıkla erişebilmesi için [Addgene](https://www.addgene.org/), [The Bloomington Drosophila Stock Center](https://bdsc.indiana.edu/) ve [ATCC](https://www.atcc.org/) gibi havuzlarda depolayın. Daha fazla bilgi için [Açık Araştırma Verisi ve Materyaller](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md) bölümünün Açık Materyaller başlıklı alt bölümünü gözden geçirin.
 
 ###### Yazılım, not defterleri ve konteynerler
 
-Nasıl \(yeniden\) kullanılabileceği ile ilgili bilgi vermek için kodunuzu lisanslayın. Not defterlerini, tüm not defterinin paylaşılan kaynaklarda herkes tarafından görüntülemesine ve düzenlenmesine izin veren [mybinder](http://mybinder.org) gibi hizmetlerle paylaşın. Koyteynerleri ya da not defterlerini [Rocker](https://arxiv.org/abs/1710.03675) ya da [Code Ocean](https://codeocean.com/) gibi hizmetlerle paylaşın. Açık Araştırma Verileri ve Materyaller bölümünde ana hatlarıyla belirtilen en iyi uygulama örneklerine uyun.
+Nasıl \(yeniden\) kullanılabileceği ile ilgili bilgi vermek için kodunuzu lisanslayın. Not defterlerini, tüm not defterinin paylaşılan kaynaklarda herkes tarafından görüntülenmesine ve düzenlenmesine izin veren [mybinder](http://mybinder.org) gibi hizmetlerle paylaşın. Konteynerleri ya da not defterlerini [Rocker](https://arxiv.org/abs/1710.03675) ya da [Code Ocean](https://codeocean.com/) gibi hizmetlerle paylaşın. Açık Araştırma Verileri ve Materyaller bölümünde ana hatlarıyla belirtilen en iyi uygulama örneklerine uyun.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
 ##### **4. Araştırmanızı şeffaf bir biçimde raporlayın**
@@ -162,8 +162,8 @@ A: "Reproducibility" ve "replicability" terimlerine karşılık gelen tekrarlana
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
 
-* Button et al. (2013). Power failure: why small sample size undermines the reliability of neuroscience. [doi.org/10.1038/nrn3475](https://doi.org/10.1038/nrn3475)
+* Button ve diğerleri (2013). Power failure: why small sample size undermines the reliability of neuroscience. [doi.org/10.1038/nrn3475](https://doi.org/10.1038/nrn3475)
 
-* Karl Broman (n.y.). Data Organization. Choose good names for things. [kbroman.org](http://kbroman.org/dataorg/pages/names.html)
+* Karl Broman (t.y.). Data Organization. Choose good names for things. [kbroman.org](http://kbroman.org/dataorg/pages/names.html)
 
 
