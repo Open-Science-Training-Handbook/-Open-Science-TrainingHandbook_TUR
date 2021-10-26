@@ -153,13 +153,13 @@ Tekrarlanabilir analizler, kolay anlaşılır (literate) programlama, konteyner 
 
 Q: "Verilerimi açık erişimli yapmam yeterli midir?"
 
-A: "Hayır—Açıklık, en üst düzeyde yeniden kullanım için gerekli ancak yeterli olmayan bir koşuldur. Veriler açık olmasının yanısıra FAIR olmalıdır."
+A: "Hayır—Açıklık, en üst düzeyde yeniden kullanım için gerekli ancak yeterli olmayan bir koşuldur. Veriler açık olmasının yanı sıra FAIR olmalıdır."
 
-Q: "FAIR ilkeleri farklı paydaşlar/hedef kitleler için ne anlama gelir/kasteder?"
+Q: "FAIR ilkeleri farklı paydaşlar/hedef kitleler için ne anlama gelir?"
 
 A: "Bu tartışma için harika bir konu!"
 
-Engel: Araştırmacılar verilerini paylaşmak için gönülsüz olabilirler çünkü kendileri verileri en üst düzeyde fayda elde etmeden başkalarının yeniden kullanmasından ya da verileri tam olarak anlayamayabileceği ve bu nedenle kötüye kullanabileceğinden korkarlar.
+Engel: Araştırmacılar verilerini paylaşmak için gönülsüz olabilirler çünkü kendileri verileri en üst düzeyde fayda elde etmeden başkalarının yeniden kullanmasından ya da verileri tam olarak anlayamayabileceğinden ve bu nedenle kötüye kullanabileceğinden korkarlar.
 
 \(öneri\) A: Verilerinizi keşfedilebilir kılmak için üst verilerle birlikte paylaşabilir, ancak önce kendi makale\(lerinizi\) yayımlayabileceğinizden emin olmak için veriye bir ambargo süresi koyabilirsiniz.
 
@@ -169,7 +169,7 @@ A: "Tam olarak değil! Verilerin FAIR yapılması sadece bireysel olarak araşt�
 
 Q: "Verilerimi paylaşmak istiyorum. Nasıl lisanslamalıyım?"
 
-A: "Bu güzel bir soru. Öncelikle verinin sahibinin küm olduğunu düşünün. Bir araştırma fonlayıcı mıya da çalıştığınız kurum mu? Sonrasında, yazarlığı düşünün. Uygun biir lisans kullanmak, verilerinizi yeniden kullanılanilir kılmak için çok önemlidir. Lisanslama hakkında daha fazla bilgi için lütfen bkz. [6. Açık Lisanslama ve Dosya Formatları](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
+A: "Bu güzel bir soru. Öncelikle verinin sahibinin kim olduğunu düşünün. Bir araştırma fonlayıcı mı ya da çalıştığınız kurum mu? Sonrasında, yazarlığı düşünün. Uygun bir lisans kullanmak, verilerinizi yeniden kullanılanilir kılmak için çok önemlidir. Lisanslama hakkında daha fazla bilgi için lütfen bkz. [6. Açık Lisanslama ve Dosya Formatları](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/tree/master/02OpenScienceBasics/06OpenLicensingAndFileFormats).
 
 Q: "Verilerimi doğrudan erişilebilir hale getiremiyorum—rahatça paylaşılamayacak kadar büyük / gizlilik konularıyla ilgili kısıtlamalar söz konusu. Ne yapmalıyım?"
 
@@ -179,9 +179,9 @@ A: "Alana özgü veri havuzlarındaki uzmanlarla, verilerinizi keşfedilebilir v
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
 
-1. Açık verinin özelliklerinin ve özellikle FAIR ilkelerini anlamak.
+1. Açık verinin özelliklerini ve özellikle FAIR ilkelerini anlamak.
 
-3. Açık verilerine lehine ve aleyhine olan bazı argümanlara aşina olmak.
+3. Açık verilerin lehine ve aleyhine olan bazı argümanlara aşina olmak.
 
 3. Hassas verileri ve opFAIR verileri ayırt edebilme ve adresleyebilme; bu iki kategori mutlaka uyumsuz değildir.
 
