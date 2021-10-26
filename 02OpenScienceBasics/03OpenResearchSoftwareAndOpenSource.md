@@ -7,11 +7,11 @@ Açık araştırma yazılımları ya da açık kaynak araştırma yazılımları
 
 ### Gerekçe
 
-Modern araştırmalar yazılıma dayanır ve bu araştırmalar üzerine inşa edilmiş—ya da türetilmiş—yazılımın ardındaki tam kaynak koduna erişimi gerektirir \([Barnes, 2010](https://doi.org/10/cj8t6n); [Morin et al., 2012](https://doi.org/10/m5t); [Ince et al., 2012](https://doi.org/10/hqg); [Prins et al. 2015](https://doi.org/10/f3mn4p); [Lowndes et al., 2018](https://doi.org/10/gc4jb3)\). Buckheit ve Donoho'nun Jon Claerbout'tan alıntı yaparak belirttiği gibi, ‘‘Hesaplamaya dayanan bir sonuçla ilgili bir makale reklamdır, bilim değil. Asıl bilim, sonucu üreten tam yazılım ortamı, kod ve verilerdir’’ \([Buckheit & Donoho, 1995](https://doi.org/10.1007/978-1-4612-2544-7_5)\). Araştırma yazılımlarının kaynak koduna açık erişim araştırmanın etkisini de artırır \([Vandewalle, 2012](https://doi.org/10/gc5sjp)\).
+Modern araştırmalar yazılıma dayanır ve bu araştırmalar üzerine inşa edilmiş—ya da türetilmiş—yazılımın ardındaki tam kaynak koduna erişimi gerektirir \([Barnes, 2010](https://doi.org/10/cj8t6n); [Morin ve diğerleri, 2012](https://doi.org/10/m5t); [Ince ve diğerleri, 2012](https://doi.org/10/hqg); [Prins ve diğerleri, 2015](https://doi.org/10/f3mn4p); [Lowndes ve diğerleri, 2018](https://doi.org/10/gc4jb3)\). Buckheit ve Donoho'nun Jon Claerbout'tan alıntı yaparak belirttiği gibi, ‘‘Hesaplamaya dayanan bir sonuçla ilgili bir makale reklamdır, bilim değil. Asıl bilim, sonucu üreten tam yazılım ortamı, kod ve verilerdir’’ \([Buckheit ve Donoho, 1995](https://doi.org/10.1007/978-1-4612-2544-7_5)\). Araştırma yazılımlarının kaynak koduna açık erişim araştırmanın etkisini de artırır \([Vandewalle, 2012](https://doi.org/10/gc5sjp)\).
 
-Araştırma için kullanılan yazılımların paylaşılması \(doğası gereği hesaplamalı veya herhangi bir yazılım tabanlı analize/yoruma dayalı olsun olmasın\) tekrarlanabilirlik için yeterli olmasa da gerekli bir koşuldur. Bunun nedeni, yazılımı doğal dil kullanarak, örneğin bir kağıtta tam olarak tanımlamaya çalışırken ortaya çıkan kaçınılmaz belirsizliktir  \([Ince et al., 2012](https://doi.org/10/hqg)\). Ayrıca, \(pek çoğu olmasa da\) çoğu yazılım programı tespit edilmemiş hatalar içerebilir \([Soergel, 2015](https://doi.org/10/gc5sjg)\), bu nedenle yazılımın "mükemmel" bir yazılı açıklaması dahi tüm sonuçları açıklayamayabilir.
+Araştırma için kullanılan yazılımların paylaşılması \(doğası gereği hesaplamalı veya herhangi bir yazılım tabanlı analize/yoruma dayalı olsun olmasın\) tekrarlanabilirlik için yeterli olmasa da gerekli bir koşuldur. Bunun nedeni, yazılımı doğal dil kullanarak, örneğin bir kağıtta tam olarak tanımlamaya çalışırken ortaya çıkan kaçınılmaz belirsizliktir  \([Ince ve diğerleri, 2012](https://doi.org/10/hqg)\). Ayrıca, \(pek çoğu olmasa da\) çoğu yazılım programı tespit edilmemiş hatalar içerebilir \([Soergel, 2015](https://doi.org/10/gc5sjg)\), bu nedenle yazılımın "mükemmel" bir yazılı açıklaması dahi tüm sonuçları açıklayamayabilir.
 
-Tekrarlanabilirliğe ek olarak, yazılımı açık bir şekilde paylaşmak, geliştiricilerin çabaları karşılıdığında doğrudan atıf \([Smith et al., 2016] ya da [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) veya [Journal of Open Source Software](http://joss.theoj.org) gibi dergilerde yayımlanmış yazılım meta-makaleleri (software meta-articles) aracılığyla \([Smith et al., 2018](https://doi.org/10/gc5sjf)\) kariyer kredisi almalarına olanak sağlar. Neil Chue Hong, yazılım makaleleri yayımlayan maintains a [birçok alana özgü derginin listesini](https://www.software.ac.uk/which-journals-should-i-publish-my-software) tutmaktadır.
+Tekrarlanabilirliğe ek olarak, yazılımı açık bir şekilde paylaşmak, geliştiricilerin çabaları karşılıdığında doğrudan atıf \([Smith ve diğerleri, 2016] ya da [Journal of Open Research Software](http://openresearchsoftware.metajnl.com) veya [Journal of Open Source Software](http://joss.theoj.org) gibi dergilerde yayımlanmış yazılım meta-makaleleri (software meta-articles) aracılığyla \([Smith ve diğerleri, 2018](https://doi.org/10/gc5sjf)\) kariyer kredisi almalarına olanak sağlar. Neil Chue Hong, yazılım makaleleri yayımlayan maintains a [birçok alana özgü derginin listesini](https://www.software.ac.uk/which-journals-should-i-publish-my-software) tutmaktadır.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme hedefleri
@@ -106,29 +106,29 @@ Yaygın kavram yanılgısı: Kodu sadece çevrimiçi hale getirmek onu açık ka
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
 
-* Balasegaram et al. (2017). An open source pharma roadmap. [doi.org/10.1371/journal.pmed.1002276](https://doi.org/10.1371/journal.pmed.1002276) 
+* Balasegaram ve diğerleri. (2017). An open source pharma roadmap. [doi.org/10.1371/journal.pmed.1002276](https://doi.org/10.1371/journal.pmed.1002276) 
 
-* Dryden et al. (2017). Upon the Shoulders of Giants: Open-Source Hardware and Software in Analytical Chemistry. [doi.org/10.1021/acs.analchem.7b00485](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b00485) 
+* Dryden ve diğerleri. (2017). Upon the Shoulders of Giants: Open-Source Hardware and Software in Analytical Chemistry. [doi.org/10.1021/acs.analchem.7b00485](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b00485) 
 
-* Ince et al. (2012). The case for open computer programs.[doi.org/10.1038/nature10836](https://doi.org/10.1038/nature10836)
+* Ince ve diğerleri. (2012). The case for open computer programs.[doi.org/10.1038/nature10836](https://doi.org/10.1038/nature10836)
 
-* Iskoujina and Roberts (2015). Knowledge sharing in open source software communities: motivations and management. [PDF](https://pdfs.semanticscholar.org/f2a2/c5129cf5656af7acc7ffaf84c9c9bafe72c5.pdf)
+* Iskoujina ve Roberts (2015). Knowledge sharing in open source software communities: motivations and management. [PDF](https://pdfs.semanticscholar.org/f2a2/c5129cf5656af7acc7ffaf84c9c9bafe72c5.pdf)
 
-* Jiménez et al. (2017).Four simple recommendations to encourage best practices in research software. [doi.org/10.12688/f1000research.11407.1](https://doi.org/10.12688/f1000research.11407.1) 
+* Jiménez ve diğerleri. (2017).Four simple recommendations to encourage best practices in research software. [doi.org/10.12688/f1000research.11407.1](https://doi.org/10.12688/f1000research.11407.1) 
 
-* Martinez-Torres and Diaz-Fernandez (2013).Current issues and research trends on open-source software communities [PDF](https://idus.us.es/xmlui/bitstream/handle/11441/32245/Current%20issues%20and%20research%20trends.pdf?sequence=1) 
+* Martinez-Torres ve Diaz-Fernandez (2013).Current issues and research trends on open-source software communities [PDF](https://idus.us.es/xmlui/bitstream/handle/11441/32245/Current%20issues%20and%20research%20trends.pdf?sequence=1) 
 
-* Morin et al. (2012). Shining Light into Black Boxes. [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4203337/pdf/nihms588981.pdf)
+* Morin ve diğerleri. (2012). Shining Light into Black Boxes. [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4203337/pdf/nihms588981.pdf)
 
-* Oishi et al. (2018). Perspectives on Reproducibility and Sustainability of Open-Source Scientific Software from Seven Years of the Dedalus Project. [arXiv:1801.08200v1 [astro-ph.IM]](https://arxiv.org/abs/1801.08200)
+* Oishi ve diğerleri. (2018). Perspectives on Reproducibility and Sustainability of Open-Source Scientific Software from Seven Years of the Dedalus Project. [arXiv:1801.08200v1 [astro-ph.IM]](https://arxiv.org/abs/1801.08200)
 
 * Scacchi (2010). The Future of Research in Free/Open Source Software Development. [PDF](http://www.ics.uci.edu/~wscacchi/Papers/New/FoSER-Scacchi-2010.pdf)
 
-* Sandve et al. (2013). Ten simple rules for reproducible computational research [doi.org/10.1371/journal.pcbi.1003285](https://doi.org/10.1371/journal.pcbi.1003285) 
+* Sandve ve diğerleri. (2013). Ten simple rules for reproducible computational research [doi.org/10.1371/journal.pcbi.1003285](https://doi.org/10.1371/journal.pcbi.1003285) 
 
-* Shamir et al. (2013).Practices in source code sharing in astrophysics. [arXiv:1304.6780v1 [astro-ph.IM]](https://arxiv.org/abs/1304.6780) 
+* Shamir ve diğerleri. (2013).Practices in source code sharing in astrophysics. [arXiv:1304.6780v1 [astro-ph.IM]](https://arxiv.org/abs/1304.6780) 
 
-* Steinmacher et al. (2014). A systematic literature review on the barriers faced by newcomers to open source software projects. [PDF](http://igor.pro.br/publica/papers/IST_SysReview_PrePrint.pdf) 
+* Steinmacher ve diğerleri. (2014). A systematic literature review on the barriers faced by newcomers to open source software projects. [PDF](http://igor.pro.br/publica/papers/IST_SysReview_PrePrint.pdf) 
 
 * Stodden (2010). The Scientific Method in Practice: Reproducibility in the Computational Sciences.[PDF](http://datascienceassn.org/sites/default/files/The%20Scientific%20Method%20in%20Practice%20-%20Reproducibility%20in%20the%20Computational%20Sciences.pdf)
 
