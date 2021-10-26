@@ -50,7 +50,7 @@ Bilim insanlarına odaklanan hakemlik girişimlerinden farklı olarak, FAIR ilke
 
 Çoğu araştırmacı, araştırma makalelerinin ve kitaplarının Açık Erişim yayıncılığına az çok aşinadır \(bkz. Bölüm 5\). Daha yakın zamanlarda ve yukarıda belirtilen nedenlerden dolayı veri yayımlama giderek artan bir ilgi görmeye başlamıştır. Gittikçe daha fazla fon sağlayıcı, finanse ettikleri araştırma projeleri kapsamında üretilen verilerin keşfedilebilir, erişilebilir ve mümkün olduğunca açık olmasını beklemektedir.
 
-Araştırma verilerini erişilebilir yapmanın aşağıdakileri de içeren birçok farklı yolu vardır\([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
+Araştırma verilerini erişilebilir yapmanın aşağıdakileri de içeren birçok farklı yolu vardır \([Wikipedia](https://en.wikipedia.org/wiki/Data_publishing)\):
 
 * Verilerin, [araştırma makalesi](https://en.wikipedia.org/wiki/Research_article) ile ilişkili ek materyal olarak, genellikle makalenin yayıncısı tarafından tutulan veri dosyaları ile birlikte yayımlanması.
 
