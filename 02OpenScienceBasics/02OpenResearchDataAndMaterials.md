@@ -64,11 +64,11 @@ Araştırma verilerini erişilebilir yapmanın aşağıdakileri de içeren birç
 
 CESSDA ERIC [Veri Yönetimi konusunda uzman tur rehberi](https://www.cessda.eu/Research-Infrastructure/Training/Expert-tour-guide-on-Data-Management/6.-Archive-Publish/Data-publishing-routes), farklı veri yayımlama yollarının artıları ve eksileri ile ilgili genel bir bakış sağlamaktadır. Bazen fon sağlayıcınız ya da diğer bir harici taraf belli bir veri havuzunu kullanmanızı gerektirebilir. Seçim konusunda özgürseniz, [OpenAIRE önerilerindeki](https://www.openaire.eu/opendatapilot-repository-guide) tercih sırasını göz önünde bulundurabilirsiniz:
 
-1. Verileri kendi disiplininizde tanınan standartlara göre korumak için araştırma alanınız için önceden kurulmuş harici bir veri arşivi veya havuzu kullanın.
+1. Verileri kendi disiplininizde tanınan standartlara göre korumak amacıyla araştırma alanınız için önceden kurulmuş harici bir veri arşivi veya havuzu kullanın.
 
 2. Eğer mevcutsa, kurumsal bir araştırma veri havuzu ya da araştırma grubunuzun varolan veri yönetimi olanaklarını kullanın.
 
-3. [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) ya da [Zenodo](https://zenodo.org/)gibi ücretsiz bir veri havuzu kullanın.
+3. [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/pages/faq#depositing-cost), [figshare](https://figshare.com/) ya da [Zenodo](https://zenodo.org/) gibi ücretsiz bir veri havuzu kullanın.
 
 4. [re3data](https://www.re3data.org/)'daki diğer veri havuzlarını araştırın. re3data'da FAIR ilkelerini kapsayan tek bir filtreleme seçeneği yoktur, ancak filtreleme şu seçeneklerini göz önünde bulundurmak FAIR uyumlu veri havuzlarını bulmanıza yardımcı olacaktır: erişim kategorileri, veri kullanım lisansları, güvenilir veri havuzları \(sertifika ile ya da doğrudan arşiv standarlarına bağlı kalarak\) ve havuzun verilere kalıcı tanımlayıcı \(persistent identifier - PID\) verip vermediği. Dikkate alınması gereken bir diğer husus havuzun farklı dosya sürümleri oluşturmayı (versioning) destekleyip desteklemediğidir.
 
