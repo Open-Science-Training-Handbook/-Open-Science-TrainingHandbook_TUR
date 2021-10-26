@@ -46,7 +46,7 @@ eğitim uzmanları tarafından test edilmiş ve onaylanmış bir dizi örnek uyg
 
 Gelişmekte olan diğer herhangi bir alan gibi, Açık Bilim oldukça fazla ve bazen de anlaşılması güç bir terminoloji kullanmaktadır. Bunların bir kısmına aşina olmayabilirsiniz.  Cesaretiniz kırılmasın! [__"Terimler Sözlüğü"__](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/tree/master/06Glossary) daha az bilinen terim ve kavramların çoğunu açıklayacaktır.  
 
-Bu el kitabı, yaşayan bir kaynak formatında oluşturulmuştur. Bunun anlamı, Açık Bilimdeki yeni gelişmelerin yanı sıra Açık Bilim eğitmenleri ve genel hitap kitlemizden gelen geri bildirim ve öneriler doğrultusunda düzenli olarak güncelleneciğidir. İyi uygulamalarınızı, örnekleri, kaynakları, görüş ve deneyimlerinizi Github üzerinden eklemekten lütfen çekinmeyin. 
+Bu el kitabı, yaşayan bir kaynak formatında oluşturulmuştur. Bunun anlamı, Açık Bilimdeki yeni gelişmelerin yanı sıra Açık Bilim eğitmenleri ve genel hitap kitlemizden gelen geri bildirim ve öneriler doğrultusunda düzenli olarak güncelleneceğidir. İyi uygulamalarınızı, örnekleri, kaynakları, görüş ve deneyimlerinizi Github üzerinden eklemekten lütfen çekinmeyin. 
 
 Bu el kitabını okumaktan keyif alacağınızı umuyor ve gelecekteki Açık Bilim eğitiminiz için en iyisini diliyoruz!
 
