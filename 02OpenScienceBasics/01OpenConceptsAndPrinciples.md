@@ -84,7 +84,7 @@ A: Açık Bilim, örneğin kod ve verileri açıkça paylaşarak geleneksel bili
 
 Q: "Sosyal ve Beşeri Bilimler ‘Açık Bilim’ kapsamında değil midir?"
 
-A: Hayır, Açık Bilim terimi kapsayıcıdır. Aslında durum şu ki, Açık Bilim bazen diğer displinler, ilkeler ve uygulamalar anlamında daha kapsayıcı olması için daha geniş içerikli  ‘Açık Araştırma (Open Research)’ ya da ‘Açık Akademi (Open Scholarship)’ terimleri ile adlandırılmaktadır. Bununla birlikte, Açık Bilim birçok düzeyde yaygın kullanılan terimdir ve bu nedenle, tüm araştırma disiplinlerini içermesi koşuluyla, iletişim amaçlı olarak benimsenmesi makul görülmektedir.
+A: Hayır, Açık Bilim terimi kapsayıcıdır. Aslında durum şu ki, Açık Bilim bazen diğer disiplinler, ilkeler ve uygulamalar anlamında daha kapsayıcı olması için daha geniş içerikli  ‘Açık Araştırma (Open Research)’ ya da ‘Açık Akademi (Open Scholarship)’ terimleri ile adlandırılmaktadır. Bununla birlikte, Açık Bilim birçok düzeyde yaygın kullanılan terimdir ve bu nedenle, tüm araştırma disiplinlerini içermesi koşuluyla, iletişim amaçlı olarak benimsenmesi makul görülmektedir.
 
 Q: "Açık Bilim, araştırmanın kötüye kullanılmasına veya yanlış anlaşılmasına yol açar mı??"
 
