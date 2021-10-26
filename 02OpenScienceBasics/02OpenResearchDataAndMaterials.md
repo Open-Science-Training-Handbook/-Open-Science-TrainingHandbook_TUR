@@ -22,7 +22,7 @@ Birçok araştırma projesinin genellikle en değerli çıktısı olan araştır
 
 4. Veri yönetim planını kullanabilmek ve araştırma sonuçlarınızı hassas veri içeriyor olsa dahi keşfedilebilir ve erişilebilir hale getirebilmek.
 
-5. Farklı veri türlerini açıkça paylaşmanın artılarını ve eksilerini anlamak \(örneğin, gizlilik, hassasiyet, kimlik gizleme, aracılı erişim\)Understand the pros and cons of openly sharing different types of data \(e.g., privacy, sensitivity, de-identification, mediated access\).
+5. Farklı veri türlerini açıkça paylaşmanın artılarını ve eksilerini anlamak \(örneğin, gizlilik, hassasiyet, kimlik gizleme, aracılı erişim\).
 
 6. Araştırma verilerinin sürdürülebilir şekilde arşivlenmesi için uygun üst verilerin önemini anlamak.
 
