@@ -86,13 +86,13 @@ Q: "Sosyal ve Beşeri Bilimler ‘Açık Bilim’ kapsamında değil midir?"
 
 A: Hayır, Açık Bilim terimi kapsayıcıdır. Aslında durum şu ki, Açık Bilim bazen diğer disiplinler, ilkeler ve uygulamalar anlamında daha kapsayıcı olması için daha geniş içerikli  ‘Açık Araştırma (Open Research)’ ya da ‘Açık Akademi (Open Scholarship)’ terimleri ile adlandırılmaktadır. Bununla birlikte, Açık Bilim birçok düzeyde yaygın kullanılan terimdir ve bu nedenle, tüm araştırma disiplinlerini içermesi koşuluyla, iletişim amaçlı olarak benimsenmesi makul görülmektedir.
 
-Q: "Açık Bilim, araştırmanın kötüye kullanılmasına veya yanlış anlaşılmasına yol açar mı??"
+Q: "Açık Bilim, araştırmanın kötüye kullanılmasına veya yanlış anlaşılmasına yol açar mı?"
 
 A: Hayır, Açık Bilim ilkelerinin uygulanması aslında kötüye kullanıma veya yanlış anlaşılmaya karşı bir güvencedir. Şeffaflık inancı, güveni besler ve diğer kişilerin araştırma sürecini doğrulaması ve onaylamasına olanak sağlar.
 
 Q: "Açık Bilim çok fazla bilgi yüklemesine yol açar mı?"
 
-A: Çok az bilgiye sahip olup önemli kısımları kaçırma riskiyle yaşamaktansa, çok fazla bilgiye sahip olup bunlarla uğraşmak daha iyidir. It is better to have too much information and deal with it, than to have too little and live with the risk of missing the important parts. Ayrıca RSS beslemeleri, makine öğrenimi ve yapay zeka gibi içerik toplamayı kolaylaştıran teknolojiler de vardır.
+A: Çok az bilgiye sahip olup önemli kısımları kaçırma riskiyle yaşamaktansa, çok fazla bilgiye sahip olup bunlarla uğraşmak daha iyidir. Ayrıca RSS beslemeleri, makine öğrenimi ve yapay zeka gibi içerik toplamayı kolaylaştıran teknolojiler de vardır.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
