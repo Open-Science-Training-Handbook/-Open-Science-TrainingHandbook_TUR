@@ -133,7 +133,7 @@ Nasıl \(yeniden\) kullanılabileceği ile ilgili bilgi vermek için kodunuzu li
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
 ##### **4. Araştırmanızı şeffaf bir biçimde raporlayın**
 
-Yöntem ve müdahalelerinizi açık, şeffaf ve tekrarlanabilirliğe (replication) izin verecek şekilde raporlayın ve yayınlayın. [Equator Network](http://www.equator-network.org/) yönergeleri, [Protocols.io](https://www.protocols.io/) gibi araçlar ya da [Registered Reports](https://cos.io/rr/) platformunda olduğu gibi işlem adımları tekrarlanabilirliği rapor etmeniz konusunda yardımcı olabilir. Sonuçları, niteliği ve gidişatı nasıl olursa olsun, çalışmayı bitirdikten sonraki bir yıl içinde kayıt için herkese açık \( [ClinicalTrials.gov](https://www.socialscienceregistry.org/) ya da [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) benzeri genel bir platforma göndermeyi unutmayın.
+Yöntem ve müdahalelerinizi açık, şeffaf ve tekrarlanabilirliğe (replication) izin verecek şekilde raporlayın ve yayınlayın. [Equator Network](http://www.equator-network.org/) yönergeleri, [Protocols.io](https://www.protocols.io/) gibi araçlar ya da [Registered Reports](https://cos.io/rr/) platformunda olduğu gibi işlem adımları tekrarlanabilirliği rapor etmeniz konusunda yardımcı olabilir. Sonuçları, niteliği ve gidişatı nasıl olursa olsun, çalışmayı bitirdikten sonraki bir yıl içinde kayıt için herkese açık \( [ClinicalTrials.gov](https://www.socialscienceregistry.org/) ya da [SocialScienceRegistry](https://www.socialscienceregistry.org/) benzeri\) genel bir platforma göndermeyi unutmayın.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller, yaygın yanlış anlamalar
