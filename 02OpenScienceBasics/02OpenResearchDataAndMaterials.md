@@ -18,7 +18,7 @@ Birçok araştırma projesinin genellikle en değerli çıktısı olan araştır
 
 2. Hassas olarak kabul edilebilecek veri türleri ve bunların açık bir şekilde paylaşılmasına ilişkin kısıtlamalar veya engeller hakkında bilgi.
 
-3. Uygun veri yönetimi ve üst verilerle bir veri yönetimi planında gereken tedbirleri alarak ‘kapalı’ bir veri setini ‘açık’ hale dönüştürebilmek 
+3. Uygun veri yönetimi ve üst verilerle bir veri yönetimi planında gereken tedbirleri alarak ‘kapalı’ bir veri setini ‘açık’ hale dönüştürebilmek. 
 
 4. Veri yönetim planını kullanabilmek ve araştırma sonuçlarınızı hassas veri içeriyor olsa dahi keşfedilebilir ve erişilebilir hale getirebilmek.
 
