@@ -57,7 +57,7 @@ Açık Bilim, yukarıda tanımlandığı gibi, hakim kültürün genellikle hiye
 
   * Artan şeffaflığın sahteciliği, veri manipülasyonunu ve sonuçların seçici raporlanmasını azaltabileceği etik durumlar.
 
-* Mevcut durum, kamu tarafından finanse edilen araştırmaların genellikle hızlandırılmış toplumsal veya ekonomik büyüme ve yenilik amacıyla daha açık bir şekilde paylaşılması yönünde araştırma akademilerileri ve hükümetler tarafından yapılan baskılardan doğmuştur.
+* Mevcut durum, kamu tarafından finanse edilen araştırmaların genellikle hızlandırılmış toplumsal veya ekonomik büyüme ve yenilik amacıyla daha açık bir şekilde paylaşılması yönünde araştırma akademileri ve hükümetler tarafından yapılan baskılardan doğmuştur.
 
   * Kamu tarafından finanse edilen araştırmaların çıktıları kamuya açık olmalıdır.
 
