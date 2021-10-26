@@ -15,11 +15,11 @@ Bu çeşitli uygulamaları gerçekleştirme çabasının altında yatan amaçlar
 
 * **Demokratik ekol:** Bilgiye erişimde eşit olmayan bir dağılımın olduğuna inanan bu ekol, bilimsel bilgiyi \(yayınlar ve veriler dahil\) herkes için ücretsiz olarak erişilebilir kılmakla ilgilenir.
 
-* **Pragmatik ekol:** Bilgi üretmenin işbirliği yoluyla daha verimli hale geldiği ve eleştiri yoluyla güçlendiği ilkesini benimseyen bu ekol, bilim adamlarını arasındaki iletişimi sağlayarak ve bilimsel yöntemleri şeffaf hale getirerek ağ (network) etkilerinden yararlanmayı amaçlamaktadır.
+* **Pragmatik ekol:** Bilgi üretmenin işbirliği yoluyla daha verimli hale geldiği ve eleştiri yoluyla güçlendiği ilkesini benimseyen bu ekol, bilim adamlarının arasındaki iletişimi sağlayarak ve bilimsel yöntemleri şeffaf hale getirerek ağ (network) etkilerinden yararlanmayı amaçlamaktadır.
 
 * **Altyapı ekolü:** Bu ekol, etkili araştırmanın yaygınlaştırma ve işbirliği için hazır platformlar, araç ve hizmetler gerektirdiği varsayımından hareket etmektedir.
 
-* **Kamu ekolü:** Gerçek toplumsal etkinin, araştırmaya toplumsal katılımı ve bilimsel sonuçların kolayca anlaşılabilir iletişimini gerektirdiği kabulune dayanan bu ekol, halkı yurttaş bilimi aracılığıyla araştırmalarda işbirliği yapmaya ve bilimi basit özetler (lay summaries), blog yazma ve diğer daha az resmi iletişim yöntemleri aracılığıyla daha kolay anlaşılır hale getirmeye çalışır.
+* **Kamu ekolü:** Gerçek toplumsal etkinin, araştırmaya toplumsal katılımı ve bilimsel sonuçların kolayca anlaşılabilir iletişimini gerektirdiği kabulune dayanan bu ekol, halkı yurttaş bilimi aracılığıyla araştırmalarda işbirliği yapmaya ve bilimi, basit özetler (lay summaries), blog yazma ve diğer daha az resmi iletişim yöntemleri aracılığıyla daha kolay anlaşılır hale getirmeye çalışır.
 
 * **Ölçüm ekolü:** Bu ekol, bilimsel etkiyi ölçmek için geleneksel metriklerin sorunlu olduğunun \(örneğin, genellikle yalnızca dergi düzeyinde yayınlara çok fazla odaklanarak\) kabulünden hareketle, önceden görünmeyen faaliyetler yoluyla bilimin etkisini izleyecek ve ölçecek dijital olarak ağa bağlı araçların yeni olanaklarından yararlanabilecek "alternatif ölçevler" aramaktadır.
 
