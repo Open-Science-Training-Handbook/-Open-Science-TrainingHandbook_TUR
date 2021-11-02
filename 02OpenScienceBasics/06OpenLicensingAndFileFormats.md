@@ -90,7 +90,7 @@ Engel: farklı ülkelerin, istenen lisansın seçilmesini yada çalışmanın ka
 
 Lisansların birlikte çalışabilirliği: bazen farklı şekilde lisanslanmış içerikleri birleştirdiğinizde, türetilebilir çalışma üretmenin imkansız olabileceğinin farkında olun. Örneğin, SA lisansı ile dağıtılmış bir materyal yalnızca SA lisanslı diğer içeriklerle birleştirilebilir.
 
-Lisansların uygunluğu: örneğin, CC lisansları yazılım için kullanılmamalıdır, veri tabanları için özel lisanslar \(Open Data Commons\) vardır ve ürüm 4.0'ten önceki CC lisansları veri tabanları için uygun değildir.
+Lisansların uygunluğu: örneğin, CC lisansları yazılım için kullanılmamalıdır, veri tabanları için özel lisanslar \(Open Data Commons\) vardır ve sürüm 4.0'ten önceki CC lisansları veri tabanları için uygun değildir.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
@@ -106,7 +106,7 @@ Lisansların uygunluğu: örneğin, CC lisansları yazılım için kullanılmama
 
 * How to License Research Data. [dcc.ac.uk](http://www.dcc.ac.uk/resources/how-guides/license-research-data)
 
-* Klimpe (2012). Free knowledge thanks to Creative Commons Licenses - Why a non-commercial clause often won't serve your needs. [Original PDF in German](https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf), [English translation PDF](https://irights.info/wp-content/uploads/2014/11/Open_Content_A_Practical_Guide_to_Using_Open_Content_Licences_web.pdf)
+* Klimpe (2012). Free knowledge thanks to Creative Commons Licenses - Why a non-commercial clause often won't serve your needs. [Almanca orijinal PDF](https://irights.info/wp-content/uploads/userfiles/CC-NC_Leitfaden_web.pdf), [İngilizce çeviri PDF](https://irights.info/wp-content/uploads/2014/11/Open_Content_A_Practical_Guide_to_Using_Open_Content_Licences_web.pdf)
 
 * Kreutzer (t.y.). Validity of the Creative Commons Zero 1.0 Universal Public Domain Dedication and its usability for bibliographic metadata from the perspective of German Copyright Law. [PDF](https://www.rd-alliance.org/sites/default/files/cc0-analysis-kreuzer.pdf)
 
