@@ -11,7 +11,7 @@ Açık bilim politkalarını, açık bilim ilkelerini teşvik etmeyi ve açık b
 Açık bilimin ana etmenlerinden biri kurumlar, fon saplaycılar ve yayıncılar tarafından oluşturulan mevcut politikalar olduğundan bunların araştırmacıları nasıl etkilediğini bilmek önemlidir. Açık bilim uygulamalarının benimsenmesini ve kabul edilmesini amaçlayan bir politika tasarlamayı planlıyorsanız, örtüşme ve çelişkilerden kaçınmak için mevcut politikaları bilmek önemlidir. Bu nedenle, araştırmacılar ve politika yapıcılar, mevcut politikalar ile ilgili bilgi sahibi olmalı ve bunların kendilerini nasıl etkilediğini bilmelidir.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Öğrenme hedefeleri
+### Öğrenme hedefleri
 
 1. Hedef kitlenize bağlı olarak, eğitim oturumunun amaçları farklı olacaktır. Araştırmacılar \(geniş anlamda\) ve politika yapıcılar  \(bir kurum içindeki ya da fon sağlayıcılar - geniş anlamda\) arasında geniş bir ayrım yapabiliriz.
 
@@ -26,45 +26,44 @@ Açık bilimin ana etmenlerinden biri kurumlar, fon saplaycılar ve yayıncılar
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 #### Bilgi
 
-You must review all the policies that affect your training audience. First of all check all the institutional policies at institutional level, for instance; copyright, intellectual property, open access, research data.
+Eğitim hedef kitlenizi etkileyen tüm politikaları gözden geçirmelisiniz. İlk olarak kurumsal düzeydeki tüm kurumsal politikaları kontrol edin. Örneğin; telif hakkı, fikri mülkiyet, açık erişim, araştırma verisi.
 
-Secondly you may review any national policy or law that can affect researchers when performing Open Science, for instance laws with open access provisions or decrees affecting PhD dissertations , Call for projects.
+İkinci olarak, açık bilimi gerçekleştirirken araştırmacıları etkileyebilecek herhangi bir ulusal politika ya da yasayı gözden geçirin. Örneğin, açık erişim hükümleri olan yasalar veya doktora tezlerini etkileyen kararnameler.
 
-At the national level there could be some laws or decrees that directly or indirectly could influence a policy or pose some requirements. For instance you could review the national open access policies in Europe available at [OpenAIRE](https://www.openaire.eu/member-states-overview).
+Ulusal düzeyde, bir politikayı doğrudan veya dolaylı olarak etkileyebilecek veya bazı gereklilikleri ortaya çıkarabilecek bazı kanunlar veya kararnameler olabilir. Örneğin, [OpenAIRE](https://www.openaire.eu/member-states-overview) adresinde bulunan Avrupa'daki ulusal açık erişim politikalarını inceleyebilirsiniz.
 
-Since science is international, then we should review any international policy that could affect your audience, mainly coming from international funders. At the European level we have the policies coming from the [H2020 research Framework](https://www.google.com/url?q=https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf&sa=D&ust=1521447690441000&usg=AFQjCNHsEo1FZkHkLDRxIUQr7BpfirASbQ) regarding the dissemination of research outputs but we could have other policies affecting other parts of the research cycle.
+Bilim uluslararası olduğundan, esas olarak uluslararası fon sağlayıcılardan gelen hedef kitlemizi etkileyebilecek herhangi bir uluslararası politikayı gözden geçirmeliyiz. Avrupa düzeyinde, araştırma çıktılarının yayılmasına ilişkin [H2020 Araştırma Çerçevesinden](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf) gelen politikalar mevcuttur, ancak araştırma döngüsünün diğer kısımlarını etkileyen başka politikalarımız da olabilir.
 
-Also at the international level, some publishers have introduced new policies, especially regarding the publication of research data when submitting a paper.
+Ayrıca uluslararası düzeyde bazı yayıncılar, özellikle bir çalışma gönderirken araştırma verilerinin yayınlanmasına ilişkin yeni politikalar getirmiştir.
 
-If your training audience is willing to develop a roadmap or agenda to implement a national Open Science policy it could be advisable to benchmark what has been done in other parts. As a starting point, the [2016 Amsterdam Call for Action](https://www.government.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science) could show some of the issues that must be taken into account and to whom are addressed. Examples of the [Netherlands](https://www.openscience.nl/), [Portugal](http://www.ciencia-aberta.pt), or [Finland](https://openscience.fi/) can help to plan national policies, outline some actions and find how to measure their implementation.
+Eğitim hedef kitleniz ulusal bir açık bilim politikası uygulamak için bir yol haritası ya da gündem (agenda)geliştirme konusunda istekli ise diğer bölümlerde yapılanları karşılaştırmanız tavsiye edilebilir. Bir başlangıç noktası olarak, [2016 Amsterdam Eylem Çağrısı](https://www.government.nl/documents/reports/2016/04/04/amsterdam-call-for-action-on-open-science) dikkate alınması gereken bazı konuları ve kime hitap edildiğini gösterebilir. [Hollanda](https://www.openscience.nl/), [Portekiz](http://www.ciencia-aberta.pt) ya da [Finlandiya](https://openscience.fi/) ulusal politikaların planlanması, bazı eylemlerin ana hatlarıyla belirlenmesi ve uygulanmasının/yürütülmesinin nasıl ölçüleceğini bulmaya yardımcı olabilir.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Beceriler
 
-Trainees would need to identify the main features of each policy mainly: to whom is addressed, what are the requirements, how they overlap with each other.
+Kursiyerlerin her bir politikanın temel özelliklerini belirlemesi gerekecektir: kime hitap ediliyor, gereksinimler neler, birbirleriyle nasıl örtüşüyorlar.
 
-You might show how researchers can fulfill with the different policies: where are the services, the tools that the institution can provide but also where they can find alternatives. For instance, an institution might not provide an infrastructure for depositing and publishing research data; but it can point out external solutions that fulfill policy requirements. It is also useful to compare those solutions with other external options with not desired features.
+Araştırmacıların farklı politikaların gereğini nasıl yapacaklarını gösterebilirsiniz: hizmetlerin nerede olduğu, kurumun sağlayabileceği araçlar ve bunların alternatiflerini nerede bulabilecekleri. Örneğin, bir kurum araştırma verilerini depolamak ve yayınlamak için bir altyapı sağlamıyor olabilir; ancak politika gereksinimlerini karşılayan harici çözümlere işaret edebilir. Bu çözümlerin, istenen özelliklere sahip olmayan başka harici çözümlerle karşılaştırılması da yararlıdır.
 
-When designing an Open Science policy, trainees would need to be able to define the main purposes of having such a policy and to establish the goals or changes they are pursuing. Once defined, they must be able to find key performance indicators to measure if the policy have achieved its goals and they must be able to review and update the policy if the goals are not achieved.
-
+Bir açık bilim politikası tasarlarken, kursiyerler, böyle bir bir politikaya sahip olmanın temel amaçlarını tanımlayabilmeleri ve gerçekleştirmeye çalıştıkları hedef ve değişiklikleri  saptayabilmeleri gerekmektedir. Bir kez tanımlandıktan sonra, politikanın amaçlarına ulaşıp ulaşmadığının ölçülmesi için temel performans ölçütlerini bulabilmelidirler ve hedeflere ulaşılmazsa politikayı gözden geçirip güncelleyebilmelidirler.
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
 
-The main question coming from researchers in training sessions on policies is how they can fulfill the requirements without losing any freedom on deciding where to publish, for instance. You as a trainer, may describe all the available options researchers have because in general, Open Science policies provide a range of options.
+Politikalara ilişkin eğitim oturumlarında araştırmacılardan gelen temel soru, nerede yayın yapılacağına karar verme gibi özgürlükleri kaybetmeden politika gerekliliklerinin nasıl karşılanabileceğidir. Bir eğitimci olarak, araştırmacıların sahip olduğu tüm mevcut seçenekleri açıklayabilirsiniz, çünkü genel olarak açık bilim politikaları bir dizi seçemek sunmaktadır.
 
-Another question often raised is what happens if researchers don’t fulfill the requirements. In this case you may give examples of projects monitored by funders or warnings received by researchers.
+Sıkça sorulan bir diğer soru da, araştırmacılar politika gerekliliklerini yerine getirmediğinde ne olacağıdır. Bu durumda, fon sağlayıcılar tarafından izlenen projelerden ya da araştırmacılardan alınan uyarılardan örnekler verebilirsiniz.
 
-A common misconception regarding research data policy is that researchers should share all data openly. To overcome it, you must highlight the different excerpts in the text of a policy where there are explanations about which is the data affected by the policy and when it must be shared. We might also remark all the opt-out choices that policies include. A good resource to clarify those issues can be an infographic like the [one available from Horizon 2020](https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=1521447690670000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ).
+Araştırma veri politikası ile ilgili yaygın bir yanlış anlama araştırmacıların tüm verileri açık olarak paylaşaması gerektiğidir. Bunun üstesinden gelmek için, bir politika metninde hangi verilerin politikadan etkilendiği ve ne zaman paylaşılması gerektiğine ilişkin açıklamaların bulunduğu farklı kısımlara dikkat çekmelisiniz. Politikalarda yer alan tüm hariç tutulma (opt-out) seçeneklerini de belirtebiliriz. Bu konuları netleştiren iyi bir kaynak [Horizon 2020 üzerinden erişilebilen şu örnekteki gibi] (https://ec.europa.eu/research/participants/data/ref/h2020/other/hi/oa-pilot/h2020-infograph-oa-sci-publ_en.pdf) bir infografik olabilir.
 
-When planning a policy is important to know what do you intend to achieve or solve. Sometimes policies are created following other initiatives without thinking if there is a need for another one and if your new policy will overlap other existing ones. The main challenge when creating a policy is to align it with other initiatives and to avoid contradictions with laws or regulations.
+Bir politika tasarlarken neyi başarmak ya da çözmek istediğinizi bilmek önemlidir. Bazen, yeni bir politika ihtiyacı olup olmadığı ve yeni politikanın mevcut olanlarla örtüşüp örtüşmeyeceği düşünülmeden, diğer girişimler takip edilerek politikalar oluşturulur. Sometimes policies are created following other initiatives without thinking if there is a need for another one and if your new policy will overlap other existing ones. Bir politika oluştururken temel zorluk, politikanın diğer girişimlerle uyumunu sağlamak ve yasa ve yönetmeliklerle çelişmesinden kaçınmaktır.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
 
-1. Trainees would be able to identify the requirements of any policy that could affect them when performing Open Science.
-2. They would be able to distinguish among general policies like copyright or data protection and specific policies related to Open Science, for instance regarding how to disseminate research outputs. 
-3. They would be able to outline the steps to fulfill a certain policy.
-4. Trainees attending a session aimed at policy making would be able to plan an Open Science policy, establishing objectives and indicators to measure its implementation.
+1. Kursiyerler, açık bilimi gerçekleştirirken kendilerini etkileyebilecek herhangi bir politikaya ilişkin gereklilikleri belirleyebileceklerdir.
+2. Telif hakkı ya da veri koruma gibi genel politikalar ve örneğin araştırma sonuçlarının nasıl yayılacağına ilişkin açık bilim ile ilgili spesifik politikaların ayrımını yapabileceklerdir.
+3. Belirli bir politikanın gereğini yapmak için adımları özetleyebileceklerdir.
+4. Politika oluşturmaya yönelik bir oturuma katılan kursiyerler, uygulanmasının/yürütülmesinin ölçümü için hedef ve ölçütler oluşturabildikleri bir açık erişim politikası tasarlayabileceklerdir.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
