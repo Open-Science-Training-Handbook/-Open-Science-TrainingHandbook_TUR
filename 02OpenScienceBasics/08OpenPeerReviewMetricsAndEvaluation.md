@@ -79,15 +79,15 @@ Altmetriklerle (alternatif ölçevlerle) ile ilgili olarak, [Priem ve diğerleri
 
 * Kursiyerler üçerli gruplar halinde çalışır. Her biri bireysel olarak kısa bir akademik metne değerlendirme yazar.
 
-* Önbaskı sunucusundaki bir çalışma değerlendirilir,
+* Ön baskı sunucusundaki bir çalışma değerlendirilir.
 
-* Bir çalışmaya ilişkin ölçevlere incelemek için ücertsiz bir bibliyometri ya da altmetri servisi kullanılır \(örneğin, [Impactstory](https://impactstory.org/), [Paperbuzz](https://paperbuzz.org/), [Altmetric bookmarklet](https://www.altmetric.com/products/free-tools/bookmarklet/), [Dimensions.ai](https://www.dimensions.ai/)\), sonrasında her bir servis tarafından sunulan farklı ölçevlerin tam olarak nasıl hesaplandığı ile ilgili kısa bir açıklama yazılır \(umudğunuzdan daha zordur; görünüşte en şeffaf servislerde bile ölçevlerele ilgili uygun dokümantasyon bulma zorluklarını beraberinde getirecektir\).
+* Bir çalışmaya ilişkin ölçevleri incelemek için ücretsiz bir bibliyometri ya da altmetri servisi kullanılır \(örneğin, [Impactstory](https://impactstory.org/), [Paperbuzz](https://paperbuzz.org/), [Altmetric bookmarklet](https://www.altmetric.com/products/free-tools/bookmarklet/), [Dimensions.ai](https://www.dimensions.ai/)\), sonrasında her bir servis tarafından sunulan farklı ölçevlerin tam olarak nasıl hesaplandığı ile ilgili kısa bir açıklama yazılır \(umduğunuzdan daha zordur; görünüşte en şeffaf servislerde bile ölçevlerle ilgili uygun dokümantasyon bulma zorluklarını beraberinde getirecektir\).
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
 Q: Araştırma değerlendirme adil midir?
 
-A: Araştırma değerlendirme yöntemleri ve değerlendirme teknikleri ölçüsünde adildir. Ölçevler ve altmetrikler, araştırtma kalitesini, doğru olabilen ancak olması gerekmeyen araştırma çıktı miktarı ile ölçmeye çalışır.
+A: Araştırma değerlendirme, yöntemleri ve değerlendirme teknikleri ölçüsünde adildir. Ölçevler ve altmetrikler, araştırma kalitesini, doğru olabilen ancak olması gerekmeyen araştırma çıktı miktarı ile ölçmeye çalışır.
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
@@ -101,7 +101,7 @@ A: Araştırma değerlendirme yöntemleri ve değerlendirme teknikleri ölçüs�
 
 * Directorate-General for Research and Innovation (European Commission) (2017). Evaluation of Research Careers Fully Acknowledging Open Science Practices: Rewards, Incentives and/or Recognition for Researchers Practicing Open Science. [doi.org/10.2777/75255](https://doi.org/10.2777/75255)
 
-* Hicks et al. (2015) Bibliometrics: The Leiden Manifesto for research metrics. [doi.org/10.1038/520429a](www.doi.org/10.1038/520429a), [leidenmanifesto.org](http://www.leidenmanifesto.org/)
+* Hicks ve diğerleri (2015) Bibliometrics: The Leiden Manifesto for research metrics. [doi.org/10.1038/520429a](https://doi.org/10.1038/520429a), [leidenmanifesto.org](http://www.leidenmanifesto.org/)
 
 * Peer Review the Nuts and Bolts (2012). A Guide for Early Career Researchers. [PDF](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
 
