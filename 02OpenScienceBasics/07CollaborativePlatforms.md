@@ -9,14 +9,14 @@
 
 ### Gerekçe
 
-Araştırmacılar belirli araştırma soruları üzerinde çok sayıda bakış açısına imkan vermek üzere uluslararası ve disiplinlerarası konsorsiyumlarda giderek daha fazla çalıştıkça, araştırma işbirliği katlanarak artmakta ve araştırma grupları herzamankinden daha fazla çokdisiplinli olmaktadır. Ulusal ve uluslararası işbirliğine dayalı araştırmaları teşvik etmek, fon sağlayıcıların giderek artan bir önceliği haline gelmektedir. Örneğin, Avrupa Komisyonu temsilcisi Carlos Moedas'ın stratejisinin kalbinde yer alır (bkz. ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world)).
+Araştırmacılar belirli araştırma soruları üzerinde çok sayıda bakış açısına imkan vermek üzere uluslararası ve disiplinlerarası konsorsiyumlarda giderek daha fazla çalıştıkça, araştırma işbirliği katlanarak artmakta ve araştırma grupları her zamankinden daha fazla çokdisiplinli olmaktadır. Ulusal ve uluslararası işbirliğine dayalı araştırmaları teşvik etmek, fon sağlayıcıların giderek artan bir önceliği haline gelmektedir. Örneğin, Avrupa Komisyonu temsilcisi Carlos Moedas'ın stratejisinin kalbinde yer alır (bkz. ["Open Science, open innovation, open to the world"](https://euraxess.ec.europa.eu/content/open-science-%E2%80%93-open-innovation-%E2%80%93-open-world)).
 
 Sanal Araştırma Ortamları - Virtual Research Environments \(VRE\) ve katılımcı platformlar kıtalar, zaman dilimleri ve disiplinler arasında işbirliği fırsatı sunar. Bu modülde, günümüzde işleyen durumdaki katılımcı platformlar ve bunların araştırma iş akışlarınızı nasıl iyileştirebileceği ile ilgili bir anlayış geliştireceksiniz.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme hedefleri
 
-1. Başlıca işbirlikçi paltform türlerinin neler olduğunu ve her birinin kullanım gerekliliklerini öğrenmek.
+1. Başlıca işbirlikçi platform türlerinin neler olduğunu ve her birinin kullanım gerekliliklerini öğrenmek.
 
 2. Bu gibi sistemlerin avantajlarını öğrenmek.
 
@@ -29,9 +29,9 @@ Sanal Araştırma Ortamları - Virtual Research Environments \(VRE\) ve katılı
 
 **Sanal araştırma ortamları - Virtual research environments \(VREs\)**
 
-Sanal araştırma ortamları "yenilikçi, dinamik ve her zaman her yerde olabilen (ubiquitous), dağınık konumlardaki bilim insanlarının farklı yönetim alanlarında farklı sistemler tarafından yönetilen verilere, yazılımlara erişebildiği ve kaynaklar üzerinde işlem yapabildiği araştırma destek ortamlar" olarak tanımlanmaktadır \([Candela, Castelli and Pagano, 2013](https://doi.org/10.2481/dsj.GRDI-013)\).
+Sanal araştırma ortamları "yenilikçi, dinamik ve her zaman her yerde olabilen (ubiquitous), dağınık konumlardaki bilim insanlarının farklı yönetim alanlarında farklı sistemler tarafından yönetilen verilere, yazılımlara erişebildiği ve kaynaklar üzerinde işlem yapabildiği araştırma destek ortamları" olarak tanımlanmaktadır \([Candela, Castelli ve Pagano, 2013](https://www.jstage.jst.go.jp/article/dsj/advpub/0/advpub_GRDI-013/_article/-char/en)\).
 
-Burada önemli bir husus, bu araçların çoğunun disipline özgü doğasıdır. Avrupa Komisyonu, araştırmacıların farklı kaynaklardan gelen heterojen yapıdaki verileri entegre etmesini, modellemesini, simülasyon, veri keşfi, madenleme ve görselleştirme gibi karmaşık görevleri işbirliği içerisinde gerçekleştirmelerini sağlamak için topluluklara özgü bir dizi sanal araştırma platformunu e-Altyapı fon akışı kapsamında finanse etmiştir:
+Burada önemli bir husus, bu araçların çoğunun disipline özgü doğasıdır. Avrupa Komisyonu, araştırmacıların farklı kaynaklardan gelen heterojen yapıdaki verileri entegre etmesini, modellemesini, simülasyon, veri keşfi, madenleme ve görselleştirme gibi karmaşık görevleri işbirliği içerisinde gerçekleştirmelerini sağlamak için topluluklara özgü bir dizi sanal araştırma platformunu e-altyapı fon akışı kapsamında finanse etmiştir:
 
 * [VI-SEEM](https://vi-seem.eu/) - Güneydoğu Avrupa ve Doğu Akdenizdeki disiplinlerarası topluluklar için bölgesel sanal araştırma ortamları
 
@@ -39,15 +39,15 @@ Burada önemli bir husus, bu araçların çoğunun disipline özgü doğasıdır
 
 * [OpenDreamKit](http://opendreamkit.org/) - Matematiğin ilerlemesi için açık dijital araştırma ortamı araç kutusu
 
-* [BlueBRIDGE](http://www.bluebridge-vres.eu/) - Mavi  büyümeyi (blue growth) desteklemek için inovasyonu, karar vermeyi, yönetişimi ve eğitimi teşvik etmek amacıyla araştırkma ortamları oluşturma
+* [BlueBRIDGE](http://www.bluebridge-vres.eu/) - Mavi  büyümeyi (blue growth) desteklemek için inovasyonu, karar vermeyi, yönetişimi ve eğitimi teşvik etmek amacıyla araştırma ortamları oluşturma
 
 * [VRE4EIC](https://www.vre4eic.eu/) - Çok disiplinli araştırma topluluklarını güçlendirmek ve yenilik ve işbirliğini hızlandırmak için Avrupa çağında birlikte çalışabilir sanal araştırma ortamı
 
-* [West-Life](https://about.west-life.eu/network/west-life/west-life) - Yapısal biyoloji için dünya çapında e-altyapı
+* [West-Life](https://west-life.eu/) - Yapısal biyoloji için dünya çapında e-altyapı
 
 ![](/Images/Icons/datamining.png)
 
-Bazı kütüphaneler halihazırda belirli projeler için kişiselleştirilmiş sanal araştırma ortamları sunmaktadır. Örneğin, [Leiden Üniversitesi Kütüphanesi](https://www.library.universiteitleiden.nl/research-and-publishing/collaboration-tools) beşten daha fazla kişinin yer aldığı tüm dış kaynaklı projeler için sanal araştırma ortamları sunmaktadır.
+Bazı kütüphaneler halihazırda belirli projeler için kişiselleştirilmiş sanal araştırma ortamları sunmaktadır. Örneğin, [Leiden Üniversitesi Kütüphanesi](https://www.library.universiteitleiden.nl/researchers/use-of-digital-data/vre) üçten daha fazla kişinin yer aldığı tüm dış kaynaklı projeler için sanal araştırma ortamları sunmaktadır.
 
 Açık Bilim bağlamında özellikle önemli bir katılımcı platform [Open Science Framework](https://osf.io/)'tür \(OSF\). Açık kaynak teknolojileri temelli ve kar amacı gütmeyen [Center for Open Science](https://cos.io/) tarafından oluşturulan OSF, kendisini "tüm araştırma döngüsünü birbirine bağlayan bilimsel bir ortak alan" olarak markalaştırmaktadır. OSF, araştırmacıların sınırlı sayıda ortak çalışanla projeler üzerinde özel olarak çalışmalarına ve projelerinin herhangi bir kısmını veya tamamını açık hale getirmelerine imkan verir. Dropbox, GitHub ve Google Dokümanlar gibi diğer ortak çalışma sistemi ile doğrudan bağlantılıdır ve araştırma verilerini, protokolleri ve materyalleri depolamak ve arşivlemek için kullanılabilir.
 
@@ -86,7 +86,7 @@ A: Bu doğru değil; This is incorrect; alışılmış çalışma tarzınıza ye
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
 
-* Candela et al. (2013). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81. [doi.org/10.2481/dsj.GRDI-013](http://doi.org/10.2481/dsj.GRDI-013)
+* Candela et al. (2013). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81. [doi.org/10.2481/dsj.GRDI-013](https://www.jstage.jst.go.jp/article/dsj/advpub/0/advpub_GRDI-013/_article/-char/en)
 
 * Open Science Framework. The promise of Open Science collaboration. [osf.io](https://osf.io/vmrgu/wiki/home/)
 
