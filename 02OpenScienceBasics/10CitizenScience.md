@@ -44,24 +44,23 @@ Bazı yurttaş bilimi faaliyetlerinin nasıl değerlendirileceği ile ilgili hal
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Beceriler
 
-* Be able to differentiate in different citizen science project approaches: projects where citizens just provide data versus projects where the citizen engagement is along the research project.
+* Farklı yurttaş bilimi projesi yaklaşımlarını ayırt edebilmek: yurttaşların sadece veri sağladığı projeler ya da araştırma projesi boyunca yurttaş katılımının olduğu projeler.  
+* Yurttaşlardan kişisel veri toplamanın da dahil olduğu verilerin toplanmasına ilişkin yasal ve etik yönler üzerine tavsiye verebilmek.
 
-* Be able to provide advice on legal and ethical aspects regarding the collection of data, including personal data from citizens.
-
-* Be able to provide different solutions on sharing research outputs.
+* Araştırma çıktılarının paylaşımı ile ilgili farklı çözümler sunabilmek.
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
 
-* One of the controversies that usually arise in citizen projects is how researchers make data gathered by citizens publicly available. Researchers should be aware on how this data can be shared taking into account legal and ethical aspects.
+* Yurttaş projelerinde genellikle ortaya çıkan tartışmalardan biri, araştırmacıların yurttaşlar tarafından toplanan verileri nasıl kamuya açık hale getireceğidir. Araştırmacılar yasal ve etik konuları dikkate alarak bu verinin nasıl paylaşılabileceğinin farkında olmalıdır.
 
-* The lack of rewards for citizen science practices if they do not end in a "traditional" research output: paper, proceeding etc. is a common issue when training on citizen science. Probably a good way to overcome this issue is to start a conversation on how participants would like to get rewarded and which methods they propose.
+* Makale, bildiri vb. gibi "gelenekesel" bir araştırma çıktısı ile sonuçlanmıyorsa, yurttaş bilimi uygulamaları için ödüllendirme eksikliği, yurttaş bilimi ile ilgili eğitim verirken ortak bir sorundur. Bu sorunun üstesinden gelmenin muhtemelen iyi bir yolu, katılımcıların nasıl ödüllendirilmek isteyecekleri ve hangi yöntemleri önerdikleri ile ilgili bir diyalog başlatmaktır.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
 
-1. Trainees will be able to know the different approaches of citizen science projects and how to deal with legal and ethical aspects, especially in relation with data management. 
-2. Participants in the training sessions would learn how to engage citizens in their research at any point of their research activities.
+1. Kursiyerler, yurttaş bilimi projelerinin farklı yaklaşımlarını ve özellikle veri yönetimiyle ilişkili yasal ve etik konuların nasıl üstesinden gelebileceklerini  bileceklerdir. 
+2. Eğitim oturumlarının katılımcıları, araştırma faaliyetlerinin herhangi bir noktasında yurttaşları araştırmalarına nasıl dahil edeceklerini öğreneceklerdir.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
