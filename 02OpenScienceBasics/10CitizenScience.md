@@ -35,11 +35,11 @@ Yurttaş bilimi açık bilimin hem amacı hem de kolaylaştırıcısıdır. Gene
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 #### Bilgi
 
-The European Citizen Science Association \(ECSA\) created a best practice guideline on what constitutes good citizen science and wrote the [10 principles of Citizen Science](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science). This statement has been translated into many languages. Those 10 principles offers a guidance of best practices for any project based on Citizen Science.
+Avrupa Yurttaş Bilimi Derneği - European Citizen Science Association \(ECSA\), iyi vatandaş bilimini neyin sağladığına dair bir en iyi uygulama kılavuzu oluşturmuş ve [Vatandaş Biliminin 10 ilkesini](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science) yazmıştır. Bu kılavuz birçok dile çevrilmiştir. Bu 10 ilke, yurttaş bilimine dayalı herhangi bir proje için bir en iyi uygulamalar rehberi sunar.
 
-When starting a citizen science project there are a few key elements that must be take into account: how are you going to engage citizens? how are you going to ensure data quality? how are you going to deal with ethics and legal issues?
+Bir yurttaş bilimi projesine başlarken dikkate alınması gereken birkaç temel unsur vardır: yurttaşları nasıl dahil edeceksiniz? veri kalitesini nasıl sağlayacaksınız? etik ve yasal konuların nasıl üstesinden geleceksiniz?
 
-Although there is still an open debate on how to assess some citizen science activities there are already some examples that can be included as societal impact in evaluation reports like the [cases studies](http://impact.ref.ac.uk/CaseStudies/Results.aspx?val=%22Citizen+Science%22) extracted from the UK Research Excellence Framework.
+Bazı yurttaş bilimi faaliyetlerinin nasıl değerlendirileceği ile ilgili hala devam eden bir tartışma olsa da, Birleşik Krallık Araştırma Mükemmeliyet Çerçevesinden alınmış (UK Research Excellence Framework) [vaka çalışmaları](http://impact.ref.ac.uk/CaseStudies/Results.aspx?val=%22Citizen+Science%22) gibi değerlendirme raporlarına toplumsal etki anlamında dahil edilebilecek bazı örnekler mevcuttur.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Beceriler
