@@ -53,7 +53,7 @@ Politikalara ilişkin eğitim oturumlarında araştırmacılardan gelen temel so
 
 Sıkça sorulan bir diğer soru da, araştırmacılar politika gerekliliklerini yerine getirmediğinde ne olacağıdır. Bu durumda, fon sağlayıcılar tarafından izlenen projelerden ya da araştırmacılardan alınan uyarılardan örnekler verebilirsiniz.
 
-Araştırma veri politikası ile ilgili yaygın bir yanlış anlama araştırmacıların tüm verileri açık olarak paylaşması gerektiğidir. Bunun üstesinden gelmek için, bir politika metninde hangi verilerin politikadan etkilendiği ve ne zaman paylaşılması gerektiğine ilişkin açıklamaların bulunduğu farklı kısımlara dikkat çekmelisiniz. Politikalarda yer alan tüm hariç tutulma (opt-out) seçeneklerini de belirtebiliriz. Bu konuları netleştiren iyi bir kaynak [Horizon 2020 üzerinden erişilebilen şu örnekteki gibi] (https://ec.europa.eu/research/participants/data/ref/h2020/other/hi/oa-pilot/h2020-infograph-oa-sci-publ_en.pdf) bir infografik olabilir.
+Araştırma veri politikası ile ilgili yaygın bir yanlış anlama araştırmacıların tüm verileri açık olarak paylaşması gerektiğidir. Bunun üstesinden gelmek için, bir politika metninde hangi verilerin politikadan etkilendiği ve ne zaman paylaşılması gerektiğine ilişkin açıklamaların bulunduğu farklı kısımlara dikkat çekmelisiniz. Politikalarda yer alan tüm hariç tutulma (opt-out) seçeneklerini de belirtebiliriz. Bu konuları netleştiren iyi bir kaynak [Horizon 2020 üzerinden erişilebilen şu örnekteki gibi](https://ec.europa.eu/research/participants/data/ref/h2020/other/hi/oa-pilot/h2020-infograph-oa-sci-publ_en.pdf) bir infografik olabilir.
 
 Bir politika tasarlarken neyi başarmak ya da çözmek istediğinizi bilmek önemlidir. Bazen, yeni bir politika ihtiyacı olup olmadığı ve yeni politikanın mevcut olanlarla örtüşüp örtüşmeyeceği düşünülmeden, diğer girişimler takip edilerek politikalar oluşturulur. Bir politika oluştururken temel zorluk, politikanın diğer girişimlerle uyumunu sağlamak ve yasa ve yönetmeliklerle çelişmesinden kaçınmaktır.
 
@@ -68,13 +68,13 @@ Bir politika tasarlarken neyi başarmak ya da çözmek istediğinizi bilmek öne
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
 
-* EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science. [ec.europa.eu](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg)
+* EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science. [op.europa.eu](https://op.europa.eu/en/publication-detail/-/publication/3b4e1847-c9ca-11e7-8e69-01aa75ed71a1)
 
 * Open Research Funders Group & SPARC. Open Policies 101. [PDF from orfg.org](https://static1.squarespace.com/static/5817749f8419c25c3b5b318d/t/5b75bfc1352f53d3f2e4409f/1534443459039/Grantee.pdf) 
 
-* Model Policy for Research Data Management (RDM) at Research Institutions/Institutes. In: Leaders Activating Research Networks (LEARN) (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 133-136). [learn-rdm.eu](http://discovery.ucl.ac.uk/id/eprint/1546606)
+* Model Policy for Research Data Management (RDM) at Research Institutions/Institutes. In: Leaders Activating Research Networks (LEARN) (ed.) LEARN Toolkit of Best Practice for Research Data Management. (s. 133-136). [learn-rdm.eu](http://discovery.ucl.ac.uk/id/eprint/1546606)
 
-* Guidance for Developing a Research Data Management (RDM) Policy. In: Leaders Activating Research Networks, LEARN Project (ed.) LEARN Toolkit of Best Practice for Research Data Management. (pp. 137-140). [learn-rdm.eu](https://doi.org/10.14324/000.learn.27)
+* Guidance for Developing a Research Data Management (RDM) Policy. In: Leaders Activating Research Networks, LEARN Project (ed.) LEARN Toolkit of Best Practice for Research Data Management. (s. 137-140). [learn-rdm.eu](https://doi.org/10.14324/000.learn.27)
 
 ### Projeler ve girişimler
 
