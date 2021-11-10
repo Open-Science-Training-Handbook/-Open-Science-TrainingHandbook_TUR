@@ -35,7 +35,7 @@ Yurttaş bilimi açık bilimin hem amacı hem de kolaylaştırıcısıdır. Gene
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 #### Bilgi
 
-Avrupa Yurttaş Bilimi Derneği - European Citizen Science Association \(ECSA\), iyi vatandaş bilimini neyin sağladığına dair bir en iyi uygulama kılavuzu oluşturmuş ve [Vatandaş Biliminin 10 ilkesini](https://ecsa.citizen-science.net/engage-us/10-principles-citizen-science) yazmıştır. Bu kılavuz birçok dile çevrilmiştir. Bu 10 ilke, yurttaş bilimine dayalı herhangi bir proje için bir en iyi uygulamalar rehberi sunar.
+Avrupa Yurttaş Bilimi Derneği - European Citizen Science Association \(ECSA\), iyi vatandaş bilimini neyin sağladığına dair bir en iyi uygulama kılavuzu oluşturmuş ve [Vatandaş Biliminin 10 ilkesini](https://ecsa.citizen-science.net/2016/05/17/10-principles-of-citizen-science/) yazmıştır. Bu kılavuz birçok dile çevrilmiştir. Bu 10 ilke, yurttaş bilimine dayalı herhangi bir proje için bir en iyi uygulamalar rehberi sunar.
 
 Bir yurttaş bilimi projesine başlarken dikkate alınması gereken birkaç temel unsur vardır: yurttaşları nasıl dahil edeceksiniz? veri kalitesini nasıl sağlayacaksınız? etik ve yasal konuların nasıl üstesinden geleceksiniz?
 
@@ -73,10 +73,10 @@ Bazı yurttaş bilimi faaliyetlerinin nasıl değerlendirileceği ile ilgili hal
 
 * Grey ve diğerleri (2016). Citizen science at universities. Trends, guidelines and recommendations. [leru.org](https://www.leru.org/publications/citizen-science-at-universities-trends-guidelines-and-recommendations)
 
-* Socientize consortium (2014). White Paper on Citizen Science for Europe. [socientize.eu](http://www.socientize.eu/sites/default/files/white-paper_0.pdf)
+* Socientize consortium (2014). White Paper on Citizen Science for Europe. [ec.europe.eu](https://ec.europa.eu/futurium/en/content/white-paper-citizen-science.html)
 
 * Pettibone ve diğerleri (2016). Citizen science for all – a guide for citizen science
-practitioners. Bürger Schaffen Wissen (GEWISS) publication. [PDF from buergerschaffenwissen.de](http://www.buergerschaffenwissen.de/sites/default/files/grid/2017/11/20/handreichunga5_engl_web.pdf)
+practitioners. Bürger Schaffen Wissen (GEWISS) publication. [eu-citizen.science](https://eu-citizen.science/resource/24)
 
 * Quality Criteria for Citizen Science Projects on 'Österreich forscht'. [fosterscience.eu](https://www.fosteropenscience.eu/content/quality-criteria-citizen-science-projects-osterreich-forscht)
 
@@ -86,7 +86,7 @@ practitioners. Bürger Schaffen Wissen (GEWISS) publication. [PDF from buergersc
 
   * ZOONIVERSE - People-powered research. [zooniverse.org](https://www.zooniverse.org/projects)
   
-  * Crowdcrafting scifabric. [crowdcrafting.org](https://crowdcrafting.org/)
+  * Crowdcrafting scifabric. [crowdcrafting.org](https://scifabric.com/crowdcrafting/)
   
   * German Citizen Science Projects. [citizen-science.at](https://www.citizen-science.at/)
 
