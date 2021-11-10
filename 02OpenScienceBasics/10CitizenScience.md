@@ -9,24 +9,24 @@ Yurttaş bilimi, esasen başarılı bilim iletişiminin veya halk katılımını
 
 ### Gerekçe
 
-Citizen science is both an aim and enabler of Open Science. It can refer to citizens actively and openly participating in the research process itself, often through crowdsourcing activities.This includes aspects such as data collection, data analysis, volunteer monitoring, and distributed computing. Alternatively, it can also mean greater public understanding of science facilitated through greater access to information about the research process, including the ability to use open research data and to access to journal articles openly available. The latter \(aka Do-It-Yourself Science\) involves examples such as patient innovation, patient activism/advocacy, NGOs and Civil Rights Groups. This leads to a clearer classification by distinguishing scientist and non-scientist led activities \(see [Outside the Academy – DIY Science Communities](https://speakerdeck.com/lu_cyp/outside-the-academy-diy-science-communities)\). The public can also be engaged in policy making through, for example, agenda-setting for research systems’ \(see the [European Commission’s Open Science Monitor](https://ec.europa.eu/research/openscience/index.cfm?pg=citizen&section=monitor)\).
+Yurttaş bilimi açık bilimin hem amacı hem de kolaylaştırıcısıdır. Genellikle kitle kaynaklı faaliyetler yoluyla yurttaşların araştırma sürecine aktif ve açık katılımı anlamını taşıyabilir. Bu, veri toplama, veri analizi, gönüllü izleme ve dağıtılmış bilgi işlem gibi tarafları içerir. Alternatif olarak, açık araştırma verilerini kullanma ve dergi makalelerine açık erişim dahil araştırma süreci ile ilgili bilgiye daha fazla erişim yoluyla kolaylaştırılan bilimin daha iyi anlaşılması anlamına da gelebilir. İkincisi \(diğer adıyla Kendin Yap Bilimi\), hasta inovasyonu, hasta aktivizmi/savunuculuğu, STK'lar ve Sivil Haklar Grupları gibi örnekleri içerir. Bu, bilim insanları tarafından yönlendirilen ve bilim insanı olmayanlar tarafından yönlendirilen faaliyetleri ayırt ederek daha net bir sınıflama yapmayı sağlar \(bkz. [Outside the Academy – DIY Science Communities](https://speakerdeck.com/lu_cyp/outside-the-academy-diy-science-communities)\). Halk, örneğin araştırma sistemleri için gündem belirleme gibi yollarla politika oluşturmaya da dahil edilebilir \(bkz. [European Commission’s Open Science Monitor](https://ec.europa.eu/info/research-and-innovation/strategy/strategy-2020-2024/our-digital-future/open-science/open-science-monitor_en)\).
 
-"_Citizen Science and Open Science together can address grand challenges, respond to diminishing societal trust in science, contribute to the creation of common goods and shared resources, and facilitate knowledge transfer between science and society to stimulate innovation. The issues of openness, inclusion and empowerment, education and training, funding, infrastructures and reward systems are discussed regarding critical challenges for both approaches. You might consider Citizen Science and Open Science jointly, to strengthen synergies by building on existing initiatives, launching targeted actions regarding education and training, and infrastructures_". Extracted from the [Policy Brief on Citizen Science and Open Science](https://ecsa.citizen-science.net/sites/default/files/ditos-policybrief3-20180208-citizen_science_and_open_science_synergies_and_future_areas_of_work.pdf) by the European Citizen Science Association \(ECSA\)
+"_Yurttaş Bilimi ve Açık Bilim birlikte büyük zorlukların üstesinden gelebilir, bilime olan toplumsal güvenin azalmasına yanıt verebilir, ortak yararların ve paylaşılan kaynakların yaratılmasına katkıda bulunabilir ve yeniliği teşvik etmek için bilim ile toplum arasında bilgi transferini kolaylaştırabilir. Açıklık, kapsama ve yetkilendirme, eğitim ve öğretim, fonlama, alt yapılar ve ödüllendirme sistemleri konuları, her iki yaklaşım için de kritik zorluklara ilişkin olarak tartışılmaktadır. Mevcut girişimlerin üzerine ekleyerek, eğitim-öğretim ve alt yapılara ilişkin hedefli eylemler başlatarak sinerjileri güçlendirmek için yurttaş bilimi ve açık bilim birlikte düşünülebilir_". Avrupa Yurttaş Bilimi Derneği - European Citizen Science Association \(ECSA\) tarafından hazırlanan [Yurttaş Bilimi ve Açık Bilim Politika Özetinden (Policy Brief on Citizen Science and Open Science)](https://ecsa.citizen-science.net/sites/default/files/ditos-policybrief3-20180208-citizen_science_and_open_science_synergies_and_future_areas_of_work.pdf) alınmıştır.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme hedefleri
 
-1. Understand the different aspects of citizen science \(collaborative versus DIY\).
+1. Yurttaş biliminin farklı yönlerini anlamak \(katılımcı ya da Kendin Yap\).
 
-2. Understand the basic concepts and viewpoints of a variety of stakeholders in science communication.
+2. Bilim iletişiminde temel kavramları ve çeşitli paydaşların bakış açılarını anlamak.
 
-3. Management of intellectual property in citizen science projects. A guide for this is available [here](https://www.wilsoncenter.org/sites/default/files/research_brief_guide_for_researchers.pdf).
+3. Yurttaş bilimi projelerinde entelektüel mülkiyetin yönetimi. [Şurada](https://www.wilsoncenter.org/sites/default/files/research_brief_guide_for_researchers.pdf) bunun için bir rehber yer almaktadır.
 
-4. Management of [citizen science data](http://www.ukeof.org.uk/documents/DataAdviceNote2.pdf).
+4. [Yurttaş bilimi verilerinin](http://www.ukeof.org.uk/documents/DataAdviceNote2.pdf) yönetilmesi.
 
-5. Identify the best strategies in establishing clear and concise communication of scientific principles.
+5. Bilimsel ilkelerle ilgili açık ve özlü iletişim kurmak için en iyi stratejileri belirlemek.
 
-6.  What are the best ways to communicate your research/story, with whom, and using what tools.
+6.  Araştırmanızı/hikayenizi iletmenin en iyi yolları nelerdir (kiminle ve hangi araçları kullanarak)?
 
 ### 
 
