@@ -3,9 +3,9 @@
 
 ### Nedir?
 
-Yurttaş bilimi, akademik olmayan halkın - toplumsal odaklı araştırmalar ya da küresel araştırmalar ile bilimsel araştırma sürecine katılımıdır \([citizenscience.org](http://citizenscience.org/)\). Yurttaşlar, sıklıkla uzmanlarla ya da bilimsel kurumlarla birlikte çalışarak bilimsel çalışma yaparlar. Araştırma verilerinin toplanması, analizi ya da tanımlanmasını destekler ve bilime değerli bir katkı sunarlar. Belgelenmiş ilk yurttaş bilimi projesi, 1900 yılında ABD'de Noel'de, Ulusal Audubon Derneği'nin [Christmas Bird Count](http://www.audubon.org/conservation/science/christmas-bird-count)'u hayata geçirmesiyle gerçekleşti. 150.000'den fazla katılımcıyla galaksileri bir yıl içinde sınıflandıran "[Galaxy Zoo](https://www.galaxyzoo.org)" muhtemelen şimdiye kadarki en başarılı yurttaş bilimi projesidir.
+Yurttaş bilimi, akademik olmayan halkın - toplumsal odaklı araştırmalar ya da küresel araştırmalar ile bilimsel araştırma sürecine katılımıdır \([citizenscience.org](http://citizenscience.org/)\). Yurttaşlar, sıklıkla uzmanlarla ya da bilimsel kurumlarla birlikte çalışarak bilimsel çalışma yaparlar. Araştırma verilerinin toplanması, analizi ya da tanımlanmasını destekler ve bilime değerli bir katkı sunarlar. Belgelenmiş ilk yurttaş bilimi projesi, 1900 yılında ABD'de Noel'de, Ulusal Audubon Derneği'nin [Christmas Bird Count](http://www.audubon.org/conservation/science/christmas-bird-count)'u hayata geçirmesiyle gerçekleşmiştir. 150.000'den fazla katılımcıyla galaksileri bir yıl içinde sınıflandıran "[Galaxy Zoo](https://www.galaxyzoo.org)" muhtemelen şimdiye kadarki en başarılı yurttaş bilimi projesidir.
 
-Yurttaş bilimi, esasen başarılı bilim iletişiminin veya halk katılımının doğrudan bir ürünüdür. Dijital ağ teknolojileri çağında, araştırmacılar çalışmalarını akademik olmayan daha geniş kitlelere yaymak için çok sayıda kanala sahiptir. Araştırma geleneksel olarak konferans bildirileri, araştırma makaleleri ve kitaplar aracılığıyla dar bir çerçevede dağıtılırken, araştırmacılar artık blogları, sosyal medyayı, video barındırma sitelerini ve çok çeşitli sosyal dijital ağları yaygınlaştırma faaliyetlerini hedeflemek ve genişletmek için kullanabilirler.
+Yurttaş bilimi, esasen başarılı bilim iletişiminin veya halk katılımının doğrudan bir ürünüdür. Dijital ağ teknolojileri çağında, araştırmacılar çalışmalarını akademik olmayan daha geniş kitlelere yaymak için çok sayıda kanala sahiptir. Araştırma geleneksel olarak konferans bildirileri, araştırma makaleleri ve kitaplar aracılığıyla dar bir çerçevede dağıtılırken, araştırmacılar artık blogları, sosyal medyayı, video barındırma sitelerini ve çok çeşitli sosyal dijital ağları, yaygınlaştırma faaliyetlerini hedeflemek ve genişletmek için kullanabilirler.
 
 ### Gerekçe
 
@@ -26,7 +26,7 @@ Yurttaş bilimi açık bilimin hem amacı hem de kolaylaştırıcısıdır. Gene
 
 5. Bilimsel ilkelerle ilgili açık ve özlü iletişim kurmak için en iyi stratejileri belirlemek.
 
-6.  Araştırmanızı/hikayenizi iletmenin en iyi yolları nelerdir (kiminle ve hangi araçları kullanarak)?
+6.  Araştırmanızı/hikayenizi iletmek için en iyi yolların (kiminle ve hangi araçları kullanarak) neler olduğunu anlamak.
 
 ### 
 
@@ -35,7 +35,7 @@ Yurttaş bilimi açık bilimin hem amacı hem de kolaylaştırıcısıdır. Gene
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
 #### Bilgi
 
-Avrupa Yurttaş Bilimi Derneği - European Citizen Science Association \(ECSA\), iyi vatandaş bilimini neyin sağladığına dair bir en iyi uygulama kılavuzu oluşturmuş ve [Vatandaş Biliminin 10 ilkesini](https://ecsa.citizen-science.net/2016/05/17/10-principles-of-citizen-science/) yazmıştır. Bu kılavuz birçok dile çevrilmiştir. Bu 10 ilke, yurttaş bilimine dayalı herhangi bir proje için bir en iyi uygulamalar rehberi sunar.
+Avrupa Yurttaş Bilimi Derneği - European Citizen Science Association \(ECSA\), iyi vatandaş bilimini neyin sağladığına dair bir en iyi uygulama kılavuzu oluşturmuş ve [Vatandaş Biliminin 10 ilkesini](https://ecsa.citizen-science.net/2016/05/17/10-principles-of-citizen-science/) yazmıştır. Bu kılavuz birçok dile çevrilmiştir. Söz konusu 10 ilke, yurttaş bilimine dayalı herhangi bir proje için bir en iyi uygulamalar rehberi sunar.
 
 Bir yurttaş bilimi projesine başlarken dikkate alınması gereken birkaç temel unsur vardır: yurttaşları nasıl dahil edeceksiniz? veri kalitesini nasıl sağlayacaksınız? etik ve yasal konuların nasıl üstesinden geleceksiniz?
 
