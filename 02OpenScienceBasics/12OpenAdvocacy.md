@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/shout.png" width="200" height="200" />
-## 12. Open Advocacy
+## 12. Açık Savunuculuk
 
-### What is it?
+### Nedir?
 
 Advocacy in all its forms seeks to ensure that people, particularly those who are most vulnerable in society, are able to:
 
@@ -15,22 +15,22 @@ Advocacy include actions of defending, influencing, changing, decision-making, p
 
 Open Advocacy focuses on the movement to promote Open Science at various levels of stakeholders, highlighting and stressing the societal, professional and personal advantages that it entails.
 
-### Rationale
+### Gerekçe
 
 Trainings \(workshops, seminars, presentations\) can be used as advocacy tools. The structured approach to advocacy practices helps to address the main issues the trainer has to keep in mind if the training is connected to an Open Science advocacy program. how to use advocacy strategies as tools for effecting specific changes, and on building the basic skills necessary for employing advocacy tools \(e.g., ad campaigns, meetings with policymakers\). Training here is considered as a tool for effecting specific changes, and for building an Open Science advocate community.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
-### Learning objectives
+### Öğrenme hedefleri
 
 1. Understand the context and goals of the advocacy program
 2. Be able to communicate effectively with audiences and draw community’s attention to an important issue and directing decision makers toward a resolution.
 
-### Key components
+### Temel unsurlar
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" />
-#### Knowledge
+#### Bilgi
 
-##### Objectives to achieve
+##### Hedefe ulaşmak
 
 **SMART** is a way of reminding you that your objectives should be:
 
@@ -60,7 +60,7 @@ Main goals of advocacy program:
 
 * To maintain the involvement of decision-makers and the public l by disseminating information on achievements to date and future challenges.
 
-##### Steps to good advocacy
+##### İy savunuculuk için adımlar
 
 1. Define your goals
    1. What needs changing?
@@ -83,7 +83,7 @@ Main goals of advocacy program:
 8. Plan next steps, identify achievable goals that set stage for larger work: advocacy strategy/plan
 9. Evaluate effectiveness regularly
 
-##### Aspects of advocacy
+##### Savunuculuğun farklı yönleri
 
 * Advocating for your own rights as an author
 
@@ -95,7 +95,7 @@ Main goals of advocacy program:
 
 * Talking to policymakers
 
-##### Tools and methods
+##### Araçlar ve yöntemler
 
 **Indirect**: stimulate participants to take action on their own behalf
 
@@ -122,7 +122,7 @@ Main goals of advocacy program:
 * Use of social media \(Twitter, Facebook\)
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
-#### Skills
+#### Beceriler
 
 * Write a letter for a newsletter or forum for your scholarly society about Open Access.
 
@@ -133,19 +133,19 @@ Main goals of advocacy program:
 * Find your local advocacy group and volunteer for them!
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
-### Questions, obstacles, and common misconceptions
+### Sorular, engeller ve yaygın yanlış anlamalar
 
 Lack of interest from audiences. Lack of understanding the value.
 
 The institution and/or senior management is concerned about the impact of the advocacy efforts.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning outcomes
+### Öğrenme hedefleri
 
 The trainer will be able to consider the training event in the context of a program.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Ek okuma listesi
 
 * A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch. [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) 
 
@@ -174,7 +174,7 @@ The trainer will be able to consider the training event in the context of a prog
 * 8 Steps to Good Advocacy. [PDF](http://www.chpca.net/media/7413/8_Steps_to_Good_Advocacy.pdf)
 
 
-### Initiatives and projects
+### Girişimler ve projeler
 
 * FOSTER Plus Project (2017-2019). Fostering the practical implementation of Open Science in Horizon 2020 and beyond. [fosteropenscience.eu](https://www.fosteropenscience.eu/about)
 
@@ -183,7 +183,3 @@ The trainer will be able to consider the training event in the context of a prog
 * PASTEUR4OA. Advocacy Resources. [pasteur4oa.eu](http://www.pasteur4oa.eu/resources)
 
 * Retraction Watch. [retractionwatch.com](http://retractionwatch.com/) 
-
-
-
-
