@@ -3,27 +3,27 @@
 
 ### Nedir?
 
-Advocacy in all its forms seeks to ensure that people, particularly those who are most vulnerable in society, are able to:
+Savunuculuk, tüm biçimleriyle, özellikle toplumda en korunaksız insanların şunları yapabilmesini sağlamayı hedefler:
 
-* Have their voice heard on issues that are important to them. Advocacy means giving voice to a group.
+* Onlar için önemli olan konularda seslerini duyurmak. Savunuculuk bir gruba söz hakkı tanımak anlamına gelir.
 
-* Defend and safeguard their rights.
+* Haklarını savunmak ve korumak.
 
-* Have their views and wishes genuinely considered when decisions are being made about their lives.
+* Hayatları hakkında kararlar alırken görüş ve isteklerinin  gerçekten dikkate alınmasını sağlamak.
 
-Advocacy include actions of defending, influencing, changing, decision-making, persuading, lobbying, attracting attention.
+Savunuculuk, savunma, etkileme, değiştirme, karar verme, ikna ekme, lobicilik, dikkat çekme eylemlerini içerir.
 
-Open Advocacy focuses on the movement to promote Open Science at various levels of stakeholders, highlighting and stressing the societal, professional and personal advantages that it entails.
+Açık savunuculuk içerdiği toplumsal, profesyonel ve kişisel avantajları vurgulayarak ve bunlara dikkat çekerek, çeşitli paydaşlar düzeyinde açık bilimi teşvik etme hareketine odaklanır.
 
 ### Gerekçe
 
-Trainings \(workshops, seminars, presentations\) can be used as advocacy tools. The structured approach to advocacy practices helps to address the main issues the trainer has to keep in mind if the training is connected to an Open Science advocacy program. how to use advocacy strategies as tools for effecting specific changes, and on building the basic skills necessary for employing advocacy tools \(e.g., ad campaigns, meetings with policymakers\). Training here is considered as a tool for effecting specific changes, and for building an Open Science advocate community.
+Eğitimler \(çalıştaylar, seminerler, sunumlar\) savunuculuk araçları olarak kullanılabilir. Savunuculuk uygulamalarına yönelik yapılandırılmış yaklaşım, eğitim bir açık savunuculuk programına bağlıysa, eğitmenin akılda tutması gereken temel konuların adreslenmesine yardımcı olur: savunuculuk stratejilerinin belli değişiklikleri etkileme araçları olarak nasıl kullanılacağı ve savunuculuk araçlarını kullanmak için gerekli temel becerilerin nasıl inşa edileceği \(örneğin, reklam kampanyaları, politika yapıcılarla toplantılar\). Buradaki eğitim, belirli değişiklikleri etkilemek ve bir açık bilim savunucusu topluluğu oluşturmak için bir araç olarak kabul edilir.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme hedefleri
 
-1. Understand the context and goals of the advocacy program
-2. Be able to communicate effectively with audiences and draw community’s attention to an important issue and directing decision makers toward a resolution.
+1. Savunuculuk programının bağlamını ve hedeflerini anlamak. 
+2. Katılımcılarla etkili iletişim kurabilmek ve topluluğun dikkatini önemli bir konuya çekip, karar vericileri bir çözüme yönlendirebilmek.
 
 ### Temel unsurlar
 
@@ -32,33 +32,33 @@ Trainings \(workshops, seminars, presentations\) can be used as advocacy tools. 
 
 ##### Hedefe ulaşmak
 
-**SMART** is a way of reminding you that your objectives should be:
+**SMART** hedeflerinizin şunlar olması gerektiğini size hatırlatmanın bir yoludur:
 
-**S**pecific — by this we mean that you need to set a specific objective for your programmes.
+**S**pecific (Belirli) — bununla, programlarınız için belirli bir hedef koymanız gerektiğini kastediyoruz.
 
-**M**easurable — your objective should be measurable.
+**M**easurable (Ölçülebilir) — hedefiniz ölçülebilir olmalı.
 
-**A**chievable — the objective should be attainable or practicable.
+**A**chievable (Başarılabilir) — hedef ulaşılabilir ve uygulanabilir olmalı.
 
-**R**ealistic — which also means credible.
+**R**ealistic (Gerçekçi) — aynı zamanda güvenilir olması anlamını taşır.
 
-**T**ime-bound — and should be accomplished and achieved within a certain amount of time.
+**T**ime-bound (Zaman sınırlı) — ve belirli bir süre içinde başarılmalı ve gerçekleştirilmelidir. and should be accomplished and achieved within a certain amount of time.
 
-Objectives can be long term or short term. Long-term objectives usually focus on changing the policy or practice of institutions, whereas shorter-term objectives can focus on attitude changes, raising awareness, getting an issue on the agenda, building a constituency of support or movement for change. It may be necessary to achieve some of the short-term objectives before you can achieve the longer-term ones.
+Hedefler uzun vadeli ya da kısa vadeli olabilir. Uzun vadeli hedefler genellikle politika veya kurumlardaki uygulamaları değiştirmeye odaklanırken, daha kısa vadeli hedefler tutum değişikliklerine, farkındalığı artırmaya, bir konuyu gündeme getirmeye, değişim için bir destek veya hareket birliği oluşturmaya odaklanır. Uzun vadeli olanlardan önce kısa vadeli hedeflerin bazılarını gerçekleştirmek gerekli olabilir.
 
-Main goals of advocacy program:
+Savunuculuk programlarının temel amaçları:
 
-* To increase awareness among influential groups and the public
+* Etkili gruplar ve halk arasında farkındalığı artırmak
 
-* To reduce stigma and fear
+* Damgalama ve korkuyu azaltmak
 
-* To engage and mobilize key stakeholders within the community who will champion the development
+* Toplum içerisindeki gelişimi destekleyecek kilit roldeki dahil etmek ve harekete geçirmek
 
-* To expand advocacy groups, including community volunteers
+* Topluluk gönüllüleri de dahil olmak üzere savunuculuk gruplarını genişletmek
 
-* To mobilize resources to support the implementation of key priority \(core\) interventions
+* En öncelikli (çekirdek) müdahalelerin yapılmasını desteklemek için kaynakları harekete geçirmek
 
-* To maintain the involvement of decision-makers and the public l by disseminating information on achievements to date and future challenges.
+* Bugüne kadar elde edilen başarılar ve gelecekteki zorluklarla ilgili bilgi yayarak karar vericilerin ve halkın katılımını sürdürmek
 
 ##### İy savunuculuk için adımlar
 
