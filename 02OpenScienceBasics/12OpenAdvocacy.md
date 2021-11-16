@@ -52,7 +52,7 @@ Savunuculuk programlarının temel amaçları:
 
 * Damgalama ve korkuyu azaltmak
 
-* Toplum içerisindeki gelişimi destekleyecek kilit roldeki dahil etmek ve harekete geçirmek
+* Toplum içerisindeki gelişimi destekleyecek kilit roldeki paydaşları dahil etmek ve harekete geçirmek
 
 * Topluluk gönüllüleri de dahil olmak üzere savunuculuk gruplarını genişletmek
 
@@ -62,64 +62,64 @@ Savunuculuk programlarının temel amaçları:
 
 ##### İy savunuculuk için adımlar
 
-1. Define your goals
-   1. What needs changing?
-   2. What do we want to ask for? Changing legislation, policy, regulation, programs, funding
-2. Understand your audience: different strategies for each target
-3. Build a profile of open access stakeholders and their attitudes
-4. Craft your message: create compelling messages that appeal to stakeholders’ interests
-   1. Be clear on what we are asking for
-   2. Keep it simple and focussed
-   3. Use positive language
-   4. Use evidence - facts carry more weight than anecdotal evidence
-   5. Economic arguments are important
-5. Plan and develop your communication and advocacy campaign
-6. Identify delivery methods:
-   1. Advocacy is relationship building,
-   2. Tactics change by target audience
-7. Identify Resources and Gaps:
-   1. Do a SWOT \(strengths, weaknesses, opportunities and threats\) analysis
-   2. Build on existing resources and opportunities
-8. Plan next steps, identify achievable goals that set stage for larger work: advocacy strategy/plan
-9. Evaluate effectiveness regularly
+1. Hedeflerinizi belirleyin
+   1. Neyin değişmesi gerekiyor?
+   2. Talebimiz ne? Mevzuatın, politikanın, düzenlemenin, programların, finansmanın değiştirilmesi
+2. Hedef kitlenizi anlayın: her hedef için farklı stratejiler
+3. Açık erişim paydaşlarının ve bunların tutumlarının bir profilini çıkarın
+4. Mesajınızı oluşturun: Paydaşların ilgi alanlarına hitap eden ikna edici mesajlar oluşturun.
+   1. Talebinizle ilgili açık olun
+   2. Basit ve hedefe odaklanmış olsun
+   3. Olumlu bir dil kullanın
+   4. Kanıt kullanın - gerçekler anektoda dayalı kanıtlardan daha etkilidir
+   5. Ekonomik argümanlar önemlidir
+5. İletişim ve savunuculuk kampanyanızı planlayın ve geliştirin 
+6. Dağıtım (delivery) yöntemlerinizi belirleyin:
+   1. Savunuculuk ilişki kurmaktır
+   2. Taktikler hedef kitleye göre değişir
+7. Kaynakları ve boşlukları belirleyin:
+   1. Bir SWOT analizi yapın \(güçlü yanlar, zayıf yanlar, fırsatlar ve tehditler\)
+   2. Mevcut kaynaklar ve fırsatlar temeline oturtun
+8. Sonraki adımları planlayın, daha büyük çalışmalara zemin hazırlayan ulaşılabilir hedefleri belirleyin: savunuculuk stratejisi/planı
+9. Etkinliği düzenli olarak değerlendirin 
 
 ##### Savunuculuğun farklı yönleri
 
-* Advocating for your own rights as an author
+* Yazar olarak kendi haklarınızı savunmak
 
-* The basic steps for achieving local culture change ([Kotter n.y.](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html))
+* Yerel anlamda kültürel değişimi sağlamak için temel adımlar ([Kotter t.y.](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html))
 
-* Advocating to your peers: Writing letters and articles advocating for Open
+* Akranlarınızı/meslektaşlarınızı savunmak: Açık kültürü savunan mektuplar ve yazılar yazmak
 
-* Talking to journal editors - having the OA conversation with your field
+* Dergi editörleri ile konuşmak - Alanınızla AE konusunda görüşmek
 
-* Talking to policymakers
+* Politika yapıcılarla konuşmak
 
 ##### Araçlar ve yöntemler
 
-**Indirect**: stimulate participants to take action on their own behalf
+**Dolaylı**: katılımcıları kendi adlarına harekete geçmeye teşvik etmek
 
-**Direct:** lobbying before decision makers by representatives on behalf of others
+**Doğrudan:** başkalarını temsil ederek karar vericiler önünde lobi yapmak
 
-**Campaigning:** generating a response from the wider public and using a variety of techniques such as:
+**Kampanya yürüterek:** daha geniş halktan bir yanıt üretmek ve aşağıdaki gibi çeşitli teknikleri kullanmak:
 
-* Chain e-mail or letter
+* Zincirleme e-posta ya da mektup
 
-* Opinion pieces and letters to the editor in newspapers
+* Gazetelerde görüş yazıları ve editöre mektuplar
 
-* Newsletters
+* Gazeteler
 
-* Celebrity endorsements
+* Ünlülerin yer aldığı faaliyetler
 
-* Media partnerships with newspapers, journalists and film-makers
+* Gazeteler, gazeteciler ve film yapımcıları ile medya ortaklıkları
 
-* Web-based bulletins and online discussions
+* Web tabanlı bültenler ve çevrimiçi tartışmalar
 
-* Public events
+* Halka açık etkinlikler
 
-* Large-scale advertising campaigns
+* Geniş ölçekli reklam kampanyaları
 
-* Use of social media \(Twitter, Facebook\)
+* Sosyal medya kullanımı \(Twitter, Facebook\)
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Beceriler
