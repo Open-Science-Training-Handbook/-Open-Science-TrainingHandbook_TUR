@@ -171,7 +171,7 @@ Eğitmen, eğitim etkinliğini bir program bağlamında değerlendirebilecektir.
 
 * Webinar Report: Organising and advocating (2018). How can early-career researchers make their voices heard? eLife ECRwednesday webinar. [elifesciences.org](https://elifesciences.org/inside-elife/c458eb7c/webinar-report-organising-and-advocating)
 
-* 8 Steps to Good Advocacy. [PDF](http://www.chpca.net/media/7413/8_Steps_to_Good_Advocacy.pdf)
+* 8 Steps to Good Advocacy. [PDF](https://www.chpca.ca/wp-content/uploads/2019/12/8_Steps_to_Good_Advocacy.pdf)
 
 
 ### Girişimler ve projeler
