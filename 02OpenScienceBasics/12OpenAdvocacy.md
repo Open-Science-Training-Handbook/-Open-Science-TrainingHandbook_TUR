@@ -11,13 +11,13 @@ Savunuculuk, tüm biçimleriyle, özellikle toplumda en korunaksız insanların 
 
 * Hayatları hakkında kararlar alırken görüş ve isteklerinin  gerçekten dikkate alınmasını sağlamak.
 
-Savunuculuk, savunma, etkileme, değiştirme, karar verme, ikna ekme, lobicilik, dikkat çekme eylemlerini içerir.
+Savunuculuk; savunma, etkileme, değiştirme, karar verme, ikna ekme, lobicilik, dikkat çekme eylemlerini içerir.
 
 Açık savunuculuk içerdiği toplumsal, profesyonel ve kişisel avantajları vurgulayarak ve bunlara dikkat çekerek, çeşitli paydaşlar düzeyinde açık bilimi teşvik etme hareketine odaklanır.
 
 ### Gerekçe
 
-Eğitimler \(çalıştaylar, seminerler, sunumlar\) savunuculuk araçları olarak kullanılabilir. Savunuculuk uygulamalarına yönelik yapılandırılmış yaklaşım, eğitim bir açık savunuculuk programına bağlıysa, eğitmenin akılda tutması gereken temel konuların adreslenmesine yardımcı olur: savunuculuk stratejilerinin belli değişiklikleri etkileme araçları olarak nasıl kullanılacağı ve savunuculuk araçlarını kullanmak için gerekli temel becerilerin nasıl inşa edileceği \(örneğin, reklam kampanyaları, politika yapıcılarla toplantılar\). Buradaki eğitim, belirli değişiklikleri etkilemek ve bir açık bilim savunucusu topluluğu oluşturmak için bir araç olarak kabul edilir.
+Eğitimler \(çalıştaylar, seminerler, sunumlar\) savunuculuk araçları olarak kullanılabilir. Savunuculuk uygulamalarına yönelik yapılandırılmış yaklaşım; eğitim bir açık savunuculuk programına bağlıysa, eğitmenin akılda tutması gereken temel konuların adreslenmesine yardımcı olur: savunuculuk stratejilerinin belli değişiklikleri etkileme araçları olarak nasıl kullanılacağı ve savunuculuk araçlarını kullanmak için gerekli temel becerilerin nasıl inşa edileceği \(örneğin, reklam kampanyaları, politika yapıcılarla toplantılar\). Buradaki eğitim, belirli değişiklikleri etkilemek ve bir açık bilim savunucusu topluluğu oluşturmak için bir araç olarak kabul edilir.
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme hedefleri
@@ -42,7 +42,7 @@ Eğitimler \(çalıştaylar, seminerler, sunumlar\) savunuculuk araçları olara
 
 **R**ealistic (Gerçekçi) — aynı zamanda güvenilir olması anlamını taşır.
 
-**T**ime-bound (Zaman sınırlı) — ve belirli bir süre içinde başarılmalı ve gerçekleştirilmelidir. and should be accomplished and achieved within a certain amount of time.
+**T**ime-bound (Zaman sınırlı) — ve belirli bir süre içinde başarılmalı ve gerçekleştirilmelidir.
 
 Hedefler uzun vadeli ya da kısa vadeli olabilir. Uzun vadeli hedefler genellikle politika veya kurumlardaki uygulamaları değiştirmeye odaklanırken, daha kısa vadeli hedefler tutum değişikliklerine, farkındalığı artırmaya, bir konuyu gündeme getirmeye, değişim için bir destek veya hareket birliği oluşturmaya odaklanır. Uzun vadeli olanlardan önce kısa vadeli hedeflerin bazılarını gerçekleştirmek gerekli olabilir.
 
@@ -91,9 +91,9 @@ Savunuculuk programlarının temel amaçları:
 
 * Akranlarınızı/meslektaşlarınızı savunmak: Açık kültürü savunan mektuplar ve yazılar yazmak
 
-* Dergi editörleri ile konuşmak - Alanınızla AE konusunda görüşmek
+* Dergi editörleri ile konuşmak - Alanınızla AE konusunda iletişim kurmak
 
-* Politika yapıcılarla konuşmak
+* Politika yapıcılarla görüşmek
 
 ##### Araçlar ve yöntemler
 
@@ -124,7 +124,7 @@ Savunuculuk programlarının temel amaçları:
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Beceriler
 
-* Bilimsel topluluğunuz için Açık Erişim ile ilgili bir bülten veya forum için bir mektup yazın.
+* Bilimsel topluluğunuz için açık erişim ile ilgili bir bülten veya forum için bir mektup yazın.
 
 * Kendinize, yalnızca AE dergileri için hakemlik yaptığınızı vb. belirten bir e-posta yanıtlama şablonu oluşturun. Bunu halihazırda mevcut olanları yeniden kullanarak oluşturun ya da onlar üzerine temellendirin.
 
