@@ -124,36 +124,36 @@ Savunuculuk programlarının temel amaçları:
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Beceriler
 
-* Write a letter for a newsletter or forum for your scholarly society about Open Access.
+* Bilimsel topluluğunuz için Açık Erişim ile ilgili bir bülten veya forum için bir mektup yazın.
 
-* Make your own email template reply about only reviewing for OA journals, etc. Reuse/base it on ones out there already.
+* Kendinize, yalnızca AE dergileri için hakemlik yaptığınızı vb. belirten bir e-posta yanıtlama şablonu oluşturun. Bunu halihazırda mevcut olanları yeniden kullanarak oluşturun ya da onlar üzerine temellendirin.
 
-* Outline concrete solutions and benefits Open Science can deliver for current headaches university administrators may struggle with.
+* Açık bilimin üniversite yöneticilerinin mücadele etmek durumunda kalabileceği mevcut sorunlar için sunabileceği somut çözümleri ve yararları ana hatlarıyla belirtin.
 
-* Find your local advocacy group and volunteer for them!
+* Yerel savunuculuk grubunuzu bulun ve onlar için gönüllü olun!
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
 
-Lack of interest from audiences. Lack of understanding the value.
+Hedef kitledeki ilgi eksikliği. Yapılan işin kıymetini anlamada eksiklik.
 
-The institution and/or senior management is concerned about the impact of the advocacy efforts.
+Kurum ve/veya üst yönetim, savunuculuk çabalarının etkisi konusunda endişelidir.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme hedefleri
 
-The trainer will be able to consider the training event in the context of a program.
+Eğitmen, eğitim etkinliğini bir program bağlamında değerlendirebilecektir.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
 
 * A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch. [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) 
 
-* Bolick et al. (2017). How open access is crucial to the future of science. [doi.org/10.1002/jwmg.21216](https://doi.org/10.1002/jwmg.21216) (*comment by authors: rebuttal article written in the Journal of Wildlife Management after a misleading / fear mongering article about OA*)
+* Bolick ve diğerleri (2017). How open access is crucial to the future of science. [doi.org/10.1002/jwmg.21216](https://doi.org/10.1002/jwmg.21216) (*yazarların yorumu: OA hakkında yanıltıcı / korku tacirliği yapan bir yazının ardından Journal of Wildlife Management'ta yazılan cevap yazısı*)
 
 * Clyburne-Sherin (FSCI2017). Advocating for transparency policies - a toolkit for researchers, staff, and librarians. [github.com](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)
 
-*  JISC Pathfinder project Pathways to Open Access (n.y.). Advocating Open Access - a toolkit for librarians and research support staff. [PDF](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf)
+*  JISC Pathfinder project Pathways to Open Access (t.y.). Advocating Open Access - a toolkit for librarians and research support staff. [PDF](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf)
 
 * Jones (2015). Open science and its advocacy. [fosteropenscience.eu](https://www.fosteropenscience.eu/content/open-science-and-its-advocacy)
 
