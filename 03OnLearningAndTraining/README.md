@@ -11,23 +11,23 @@ Bu bölüm, eğitim stratejileri hakkında bağlam, bir kurs tasarlamada pratik 
 
 Öğretme ve eğitim, öncelikle bir kursu vermeden önce yapılan hazırlık ile ilgilidir. Hazırlık, içerik seçimi, uygun öğretim yöntemlerine karar verme ve eğitimin etkisini ve etkililiğini en üst düzeye çıkarmak için bunların bir sıraya konmasını içerir. İkinci olarak, öğretme kursun gerçekleştirilmesi/verilmesi ile ilgilidir \(yani katılımcılara nasıl davrandığınız ve onlarla nasıl etkileşim kurduğunuz). Belli bir konuda kendinize çok güveniyor olsanız dahi, hazırlığı bitirmeden kursa başlamaktan kaçınmanız oldukça makuldür. Ayrıca içeriğinizi, özellikle de pratik alıştırmaları test etmeniz gerekebilir. Sonrasında, kurs esnasında işler nadiren tamamıyla umduğunuz şekilde gideceğinden iyi oranda esnekliğe ihtiyacınız vardır. Son olarak, öğretim aynı zamanda bir kursu gerçekleştirdikten sonra değerlendirme ve öz değerlendirme ile ilgilidir. Özellikle değerlendirme bunun iyi olduğunu gösteriyorsa, aynı ve benzer bir kursa birkaç kez katılmanız gerekebilir.
 
-To better prepare yourself for future events, you should reflect on what worked well and what did not work so well, and use this to iteratively define your preparations and delivery. Briefly said, there is a “before”, a “during” and an “after” class, i.e. activities in a cycle, similar to science. This chapter provides a practical guidance for the trainers on how to prepare and deliver a course to various audiences: what are the main obstacles one has to overcome and what are the main issues one needs to keep in mind when putting together a training.
+Kendinizi gelecekteki etkinliklere daha iyi hazırlamanız için neyin iyi gittiğine, neyin çok iyi gitmediğine kafa yormalı ve hazırlıklarınızı ve konuşmanızı yinelemei olarak sınırlamak için bunu kullanın. Kısacası, bir "öncesi", bir "sırasında" ve bir de "sonrası" dersi vardır; yani, faaliyetler bilime benzer bir döngü içerisindedir. Bu bölüm, eğitimciler için bir dersin nasıl hazırlanacağı ve farklı potansiyel kitelelere nasıl sunulacağı ile ilgili  pratik bir rehber sunmaktadır: üstesinden gelinmesi gereken başlıca engellerin ve bir eğitimi hazırlarken akılda tutulması gereken ana konuların neler olduğu.
 
-## Some reflections before you start
+## Başlamadan önce bazı fikirler
 
-In the following part, we will focus mainly on the first aspect \(preparation\) and then give you guidance on how to plan and manage your course. To start with, we will speak about some theoretical issues which will provide you with an idea of what teaching and learning means and how teaching adults differs from teaching teenagers or children.
+Takip eden bölümde, ağırlıklı olarak ilk kısma \(hazırlık\) odaklanacak ve ardından dersinizi/kursunuzu nasıl planlayacağınız ve yöneteceğiniz konusunda rehberlik edeceğiz. Başlangıç olarak, öğretme ve öğrenmenin ne anlama geldiği, yetişkinlere öğretmenin gençlere veya çocuklara öğretmekten nasıl farklılaştığı konusunda fikir verecek bazı teorik konulardan bahsedeceğiz.
 
-### Training vs. Teaching
+### Eğitim ve Öğretim
 
-* Teaching is more related to theoretical concepts than training, which is related to the practical application of knowledge \(i.e., development of skills\).
+* Öğretimin teorik kavramlarla ilgisi, bilginin pratik uygulaması \(yani becerilerin geliştirilmesi\) olan eğitimden daha fazladır.
 
-* Teaching seeks to impart new knowledge while training equips the already knowledgeable with tools and techniques to develop a specific skill set.
+* Eğitim, zaten bilgi sahibi olanları belli bir beceri geliştirmeleri için araç ve tekniklerle donatırken, öğretim yeni bilgi aktarmayı amaçlar. 
 
-* Teaching is, usually, done within the context of education and academic environments, while training is associated with post-high school and/or postgraduate short and intensive courses.
+* Eğitim, lise sonrası ve/veya lisansüstü kısa ve yoğun derslerle ilişkiliyken, öğretim genellikle eğitim ve akademik çevre bağlamında yapılır.
 
-* Usually, teachers give feedback to their students, while trainers receive feedback from the learners.
+* Genellikle, eğitmenler öğrenenlerden geri bildirim alırken, öğretmenler öğrencilerine geri bildirimde bulunur. 
 
-However...
+Buna rağmen...
 
 * Training is the process of teaching or learning a skill or job, and trainers do actually teach something. Therefore, training can be considered as a broader activity that may encompass teaching.
 
@@ -516,19 +516,19 @@ Similar exercises can be applied to training different audiences, for which you 
 * Students as Partners, Teaching, Learning and Support Office. Peer Support Icebreakers. [documents.manchester.ac.uk](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
 * The balance careers. The 10 Best Icebreaker Activities for Any Work Event. Activities for Meetings, Training, and Team Building Sessions. [thebalance.com](https://www.thebalance.com/top-ice-breakers-1918426)
 
-**References**
+**Kaynakça**
 
-* Ambrose, Bridges, DiPietro, Lovett, Norman and Mayer. How learning works. [Highlights summarized by Brent and Felder](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
+* Ambrose, Bridges, DiPietro, Lovett, Norman ve Mayer. How learning works. [Highlights summarized by Brent and Felder](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
 
-* Dale (1969). Audio-Visual Methods in Teaching, 3rd ed., Holt, Rinehart & Winston, New York, p.10.
+* Dale (1969). Audio-Visual Methods in Teaching, 3. bs., Holt, Rinehart & Winston, New York, s.10.
 
 * Döring (2008). Handbuch Lehren und Trainieren in der Weiterbildung. Beltz Verlag \(Weinheim, Basel\).
 
 * Fung (2017). A Connected Curriculum for Higher Education. UCL Press. [ucl.ac.uk](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
-* Felder and Brent (n.y.).  Active learning. An introduction. [PDF](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Tutorials/Active/Active-learning.pdf)
+* Felder ve Brent (t.y.).  Active learning. An introduction. [PDF](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Tutorials/Active/Active-learning.pdf)
 
-* Kirkpatrick and Kirkpatrick (1994). Evaluating Training Programs, Berrett-Koehler Publishers.
+* Kirkpatrick ve Kirkpatrick (1994). Evaluating Training Programs, Berrett-Koehler Publishers.
 
 * Mazur (2014). Peer Instruction for Active Learning. Serious science. [video](https://www.youtube.com/watch?v=Z9orbxoRofI)
 
@@ -541,6 +541,6 @@ Similar exercises can be applied to training different audiences, for which you 
 * Siemens (2006). Knowing Knowledge. [PDF](http://www.elearnspace.org/KnowingKnowledge_LowRes.pdf)
 
 
-For a deeper understanding of the matter:
+Konunun daha derinlemesine anlaşılması için:
 
-* Knowles, Holton, and Swanson (2011). The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development. Oxford: Butterworth-Heinemann.
+* Knowles, Holton ve Swanson (2011). The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development. Oxford: Butterworth-Heinemann.
