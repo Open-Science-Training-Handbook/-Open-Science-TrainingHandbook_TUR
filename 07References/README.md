@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/magnifying_glass.png" width="200" height="200" />
 ## References
 
-> *Not:* Bu kaynakça https://www.zotero.org/groups/2114699/open_science_book/items/collectionKey/XIUNJBME adresindeki *Açık Bilim Eğitim El Kitabı* topluluğu ile işbirliği içinde yürütülmektedir.
+> *Not:* Bu kaynakça https://www.zotero.org/groups/2114699/open_science_book/items/collectionKey/XIUNJBME adresindeki *Açık Bilim Eğitim El Kitabı* topluluğu ile birlikte yürütülmektedir.
 
 Balasegaram, Manica, Peter Kolb, John McKew, Jaykumar Menon, Piero Olliaro,
 Tomasz Sablinski, Zakir Thomas, Matthew H. Todd, Els Torreele ve John
