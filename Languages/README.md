@@ -4,4 +4,4 @@ Bu kitap İspanyolca, Portekizce ve İtalyancaya çevrilmiştir:
 * [İspanyolca çeviri](https://book.fosteropenscience.eu/es)
 * [İtalyanca çeviri](https://book.fosteropenscience.eu/it)
 
-Halihazırda, Yunanca, Almanca, Fransızca ve Türkçe gibi daha fazla dile çevrilmektedir. Çeviriler tamamlanır tamamlanmaz buradan onlara da bağlantı verilecektir.
+Halihazırda, Yunanca, Almanca, Fransızca, Slovakça ve Türkçe gibi daha fazla dile çevrilmektedir. Çeviriler tamamlanır tamamlanmaz buradan onlara da bağlantı verilecektir.
