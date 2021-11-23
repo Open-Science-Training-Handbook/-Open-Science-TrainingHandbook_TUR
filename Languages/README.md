@@ -1,7 +1,7 @@
-The handbook has been translated into Spanish and Portuguese: 
+Bu kitap İspanyolca, Portekizce ve İtalyancaya çevrilmiştir:
 
-* [Portuguese translation](https://book.fosteropenscience.eu/pt)
-* [Spanish translation](https://book.fosteropenscience.eu/es)
-* [Italian translation](https://book.fosteropenscience.eu/it)
+* [Portekizce çeviri](https://book.fosteropenscience.eu/pt)
+* [İspanyolca çeviri](https://book.fosteropenscience.eu/es)
+* [İtalyanca çeviri](https://book.fosteropenscience.eu/it)
 
-Currently, we are translating the book into more languages such as Greek, German and French. We will link them here as soon as they are availabe.
+Halihazırda, Yunanca, Almanca, Fransızca ve Türkçe gibi daha fazla dile çevrilmektedir. Çeviriler tamamlanır tamamlanmaz buradan onlara da bağlantı verilecektir.
