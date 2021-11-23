@@ -29,124 +29,122 @@ Takip eden bölümde, ağırlıklı olarak ilk kısma \(hazırlık\) odaklanacak
 
 Buna rağmen...
 
-* Training is the process of teaching or learning a skill or job, and trainers do actually teach something. Therefore, training can be considered as a broader activity that may encompass teaching.
+* Eğitim, bir beceriyi veya işi öğretme ya da öğrenme sürecidir ve eğitmenler aslında birşeyler öğretirler. Bu nedenle eğitim, öğretimi de kapsayabilecek daha geniş bir faaliyet olarak düşünülebilir,
 
-* Teaching may also include typical training activities and goals, such as practical sessions and demonstrations.
+* Öğretim, uygulamalı oturumlar ve gösterimler gibi tipik eğitim faaliyetlerini ve hedeflerini de içerebilir.
 
-* Despite the fact that teaching and training techniques may sometimes vary, the difference between training and teaching is not related to the process itself but to the focus, with training generally having a more specific focus than teaching.
+* Eğitim ve öğretim tekniklerinin zaman zaman farklılaşabileceğinden hareketle, eğitim ve öğretim arasındaki fark, sürecin kendisiyle değil, eğitimin genellikle öğretimden daha belirgin bir odağının olmasıyla ilgilidir.
 
-* In order to develop competencies as a professional, a person needs to attempt to understand the theoretical concepts as well as to have practical exposure. Therefore, teaching and training are equally important and complementary educational concepts.
+* Profesyonel olarak yetkinlikler geliştirmek için, bir kişinin uygulamanın yanı sıra teorik kavramları anlamaya çalışması gerekir. Bu nedenle, eğitim ve öğretim eşit düzeyde önemli ve tamamlayıcı eğitsel kavramlardır.
 
-![](/Images/03 On Learning and Training/03_teaching_vs_learning.png)
+![image alt text](/Images/03%20On%20Learning%20and%20Training/03_teaching_vs_learning.png)
 
-### Strategies
+### Stratejiler
 
-There are different theoretical approaches to learning and training, which are sometimes also influenced by the culture you live in. Some people like to talk and give lectures. Others like to listen, others don’t. Some exercises are simple and look for clear answers. Other exercises are centered around problems and focus on giving the participants time and space to reflect on them and find solutions. Finally, some trainings are designed to give the participants maximum freedom and let them be as creative as possible. Success in trainings like these is more difficult to evaluate.
+Öğrenme ve eğitim konusunda bazen içinde yaşadığınız kültürden de etkilenen farklı teorik yaklaşımlar mevcuttur. Bazı insanlar konuşmayı ve ders vermeyi sever. Bazıları dinlemeyi sever, bazısı ise sevmez. Bazı alıştırmalar basittir ve net cevapları vardır. Bazı alıştırmalar ise problemlere odaklanır ve katılımcılara zaman ve alan bırakarak bunlar üzerine derinlemesine düşünmelerine ve çözüm bulmalarına odaklanır. Sonuç olarak, bazı eğitimler katılımcılara en üst düzey özgürlüğü vermek ve mümkün olduğunca yaratıcı olmalarına sağlamak için tasarlanmıştır. Bu gibi eğitimlerin başarısını değerlendirmek daha zordur.
 
-Four well known learning theories are behaviorism, cognitivism, connectivism and constructivism. They describe different perspectives on how people learn.
+İyi bilinen dört öğrenme kuramı davranışçılık, bilişsellik, bağlantıcılık ve yapılandırmacılıktır. Bunlar, insanların nasıl öğrendiğine yönelik farklı bakış açılarını anlatırlar.
 
-This simplified diagram summarises their main characteristics in very practical terms:
+Bu basitleştirilmiş şema, bu dört öğrenme kuramının temel özelliklerini çok basit pratik terimlerle özetlemektedir:
 
 
 ![image alt text](/Images/image_3.png)
 
 
-Transcribed from:
+[https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/) adresinden alınmıştır.
 
-[https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/)
+Software Carpentry tarafından yapılmış çalışma da öğrenme süreçlerini anlamaya yardım edecektir: [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
 
-The work done by the Software Carpentry also helps to understand learning processes: [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
+### Bağlantılı Müfredat Çerçevesi (The Connected Curriculum Framework)
 
-### The Connected Curriculum Framework
+Yakın zamanlı ‘Bağlantılı Müfredat Çerçevesi’ hareketi, öğrenme yaklaşımlarını modernleştirmeyi ve 21. yüzyıl öğrenenlerine uyarlamayı amaçlamaktadır. Çerçevenin genel amacı, gereksiz uzlaşmazlıkları ortadan kaldırarak, öğrenci eğitimi ile araştırma uygulamaları arasındaki ilişkileri geliştirmektir. Çerçeve, öğrencilerin ve araştırmacıların yanı sıra üniversiteler ve daha geniş topluluklar arasında yoğun diyaloğa, aktif sorgulamaya, işbirliğine ve etkileşimlere önem verir. Bu, açık bilim ve yurttaşlık bilimi, kitle kaynak kullanımı vb. alanlarda ilgi çekici vaatler içerir. Bağlantılı Müfredat Çerçevesini şuradan okuyabilirsiniz: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
-The recent movement ‘Connected Curriculum Framework’ aims at modernizing learning approaches and adapting them to the 21st century learner. The general objective of the framework is to improve the relationships between student education and research practices by breaking down unnecessary divisions. The framework values rich dialogue, active inquiry, collaboration, and interactions between students and researchers as well as universities and wider communities. This carries interesting promises in the area of Open Science and Citizen Science, Crowdsourcing, etc. You can read the Connected Curriculum here: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
+#### Bu sizinle ne kadar ilgili?
 
-#### How is this relevant to you?
+Bilmenin önemli olduğu konu farklı yaklaşımların olduğu ve kendinizi yalnızca bir stratejiyi takip etmek zorunda hissetmemeniz, bunun yerine eğitiminizin hangi noktasında eğitim ve değerlendirme için hangi stratejiyi kullanacağınıza karar vermeniz gerektiğidir.
 
-What is important to know, is that there are different approaches and you should not feel obliged to follow only one strategy, but rather decide at which point of your training you should apply which strategy to teach and evaluate.
-
-In the end it is practice that matters and it may be helpful to check your content and practical exercises against one of the theoretical approaches in order to find out if they are appropriate at the given moment and for the target audience.
+Sonuç itibariyle, önemli olan uygulamadır ve sunuldukları zaman ve hedef kitle için uygun olup olmadıklarına karar vermek için içeriğinizi ve uygulamalı alıştırmaları teorik yaklaşımlardan birine göre kontrol etmek faydalı olabilir.
 
 ## <img src="/Images/03 On Learning and Training/03_expectations.png" width="300" height="300" />
-### Expectations about a trainer
+### Eğitmenle ilgili beklentiler
 
-Everyone that comes to your training will come with expectations, conscious and unconscious ones. Among others \(such as teaching methodology, content and prior knowledge\) they will have specific expectations about the trainer.
+Eğitiminize gelen herkesin, bilinçli ya da bilinçsiz beklentileri olacaktır. Among others \(Öğretme metodolojisi, içerik ve ön bilgi\) gibi unsurlardan ziyade spesifik beklentileri eğitimci ile ilgilidir.
 
-Most learners will expect you to:
+Çoğu öğrenen sizden şunları yapmanızı bekler:
 
-* Be enthusiastic about the topics that they are teaching.
+* Öğrendikleri konu ile ilgili hevesli olmanız.
 
-* Have a general understanding of core scientific \(or humanist\) values, and recognise the role of ‘openness’ as an intrinsic, core element of this.
+* Temel bilimsel \(ya da insancıl\) değerler konusunda genel bir anlayışınızın olması ve bunun içsel, temel bir unsuru olarak ‘açıklığın’ rolünü kabul etmeniz..
 
-* Understand the importance of factors such as research transparency and reproducibility, and the broader societal implications of these.
+* Araştırma şeffaflığı ve tekrarlanabilirliği gibi faktörlerin önemini ve bunların daha geniş toplumsal etkilerini anlamanız.
 
-* Show familiarity with the research process, including planning research, conducting research, producing research results, and communicating and publishing those results.
+* Araştırmayı planlama, yürütme, araştırma sonuçlarını üretme ve bu sonuçları iletme ve yayımlamayı içeren araştırma süreçleri ile aşina olduğunuzu göstermeniz.
 
-* Have knowledge about the different types of research processes and outputs that can be shared, including data, code and software, papers, communication, workflows, grant applications, and data management plans.
+* Verilerin, kod ve yazılımların, yayınların, iletişimin, iş akışlarının, hibe başvurularının ve veri yönetim planlarının da dahil olduğu paylaşılabilecek farklı türdeki araştırma süreçleri ve çıktılar hakkında bilgi sahibi olmanız.
 
-* Be aware of the policies, regulations and laws that could affect researchers when performing Open Science
+* Açık bilimi gerçekleştirirken araştırmacıları etkileyebilecek politikaların, düzenlemelerin ve yasaların farkında olmanız.
 
-* Understand the pressures that result from institutional policies, or lack of them, that shape the way in which researchers handle data and results, from the acquisition stage to the sharing and dissemination stages.
+* Araştırmacıların, elde etme aşamasından paylaşma ve yayma aşamasına kadar verileri ve çıktıları/sonuçları ele alma şeklini belirleyen kurumsal politikalardan ya da bunların eksikliğinden kaynaklı baskıları anlamanız.
 
-* Understand the expectations that are raised in the social fabric about the use of the resources and outcomes of scientific activities, such as its impacts in citizen science, the public understanding of science, the influence in the education providers, etc.
+* Yurttaş bilimindeki etkileri, toplumum bilim anlayışı, eğitim sağlayıcılar üzerindeki etkisi gibi bilimsel faaliyetlerin kaynak ve sonuçlarının kullanımı ile ilgili toplumsal dokuda ortaya çıkan beklentileri anlamanız.
 
-* Be able to teach and have a profound knowledge in Open Science. \(In fact, this is what this book is about.\)
+* Açık bilimi öğretebilme ve açık bilim ileilgili derin bir bilginizin olması. \(Aslında bu kitap bununla ilgili.\)
 
-* Provide links to online documents and resources that support newcomers.
+* Bu konuda yeni olanları destekleyecek çevrimiçi doküman ve kaynaklara bağlantı sağlamanız.
 
 ## <img src="/Images/Icons/target.png" width="150" height="150" />
-### Target audiences
+### Hedef kitle
 
-A good way to get started with your Open Science training is to address audiences that have some idea and/or are interested in the topic. Generally, these people may be more open to the idea of Open Science. Starting your training with a motivated audience has several advantages:
+Açık bilim eğitiminize başlamanın iyi bir yolu, konu ile ilgili olan ya da biraz fikri olan kitleyi hedeflemektir. Genellikle, bu kişiler açık bilim fikrine daha açık olabilirler. Eğitiminize motive bir kitle ile başlamanın birçok avantajı vardır: 
 
-* Knowing that your audience really is interested in the topic may make you more comfortable diving into a new training area/topic. You may contemplate running a survey to assess this in advance.
+* Kitlenizin gerçekten konu ile ilgili olduğunu bilmeniz, daha rahat bir şekilde yeni bir eğitim alanına/konusuna geçmenizi sağlayabilir. Bunu önceden değerlendirmek için bir anket yapmayı düşünebilirsiniz.
 
-* A motivated audience probably will contribute to discussion and provide you with useful input on how to further develop your training curriculum.
+* Motive olmuş bir kitle muhtemelen tartışmalara katkı sağlayacak ve eğitim içeriğinizi nasıl daha da geliştirebileceğiniz ile ilgili faydalı bilgiler sağlayacaktır.
 
-* Motivated audiences can become ambassadors of your training
+* Motive olmuş katılımcılar, eğitiminizin elçileri/temsilcileri olabilir.
 
-**Information you need to gather about your audience:**
+**Kitleniz hakkında toplamanız gereken bilgiler:**
 
-1. Maintaining an inclusive environment, and taking into consideration the diverse backgrounds of your potential attendees, is important for any successful training event. To learn how to make your workshop inclusive, see the [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+1. Kapsayıcı bir ortam yaratmak ve potansiyel katılımcılarınızın farklı arka planlarını dikkate almak, başarılı bir eğitim etkinliği için önemlidir. Çalıştayınızı nasıl kapsayıcıhale getireceğinizi öğrenmek için [SPARC'ın Konferans Planlama Kontrol Listesine](https://sparcopen.github.io/opencon-dei-report/checklist.html) bakın.
 
-2. Whether the audience members know one another or not in advance will impact the group dynamic and the sorts of activities you might want to conduct.
+2. Katılımcıların birbirlerini önceden tanıyıp tanımadıkları grup dinamiğine ve yapmak isteyeceğiniz etkinlik türlerine etki edecektir.
 
-3. Whether the participation is voluntary or not will influence their motivation.
+3. Katılımın gönüllü olup olmadığı katılımcıların motivasyonunu etkileyecektir.
 
-4. The knowledge level of the audience regarding the planned discussion topics will affect the content and style of presentations.
+4. Katılımcıların planlanmış tartışma konuları ile ilgili bilgi düzeyi, sunumlarının içeriğini ve tarzını etkileyecektir.
 
-5. Whether the audience is accustomed to a specific learning method might affect how the participants react to very different training format.
+5. Katılımcıların belirli bir öğrenme yöntemine alışkın olup olmadığı, katılımcıların çok farklı eğitim formatlarına nasıl tepki vereceğini etkileyebilir.
 
-6. Audience size:
+6. Katılımcı sayısı:
 
-   1. set a target audience size, based on the available space/capacity and available time for practical work..
+   1. Mevcut alan/kapasite ve uygulamalı çalışmalar için gerekli zamana dayalı olarak hedef katılımcı sayısını belirleyin.
 
-   2. the size of the audience will impact on how well they engage together and interact with the process.
+   2. Katılımcı sayısı, katılımcıların birbirleriyle ve süreçle ne kadar iyi etkileşim kurduklarını etkileyecektir.
 
-   3. if you want a larger audience, consider break-out groups, and the logistical requirements that might come with that.
+   3. Daha geniş bir kitle isterseniz, kitleyi daha küçük gruplara bölmeyi (break-out groups) ve bunun getireceği lojistik gereklilikleri gözönünde bulundurmalısınız.
 
-7. Consider whether your event will be open to the public or limited to those affiliated with the host institution. A public event may help increase and diversity attendance, while limiting it can help you focus on particular topics. In addition, attendees from the same institution are more likely to already know each other.
+7. Etkinliğinizin herkese açık mı yoksa düzenleyen kurum mensupları ile sınırlı mı olacağını düşünün. Etkinliği sınırlı tutmak, belli konulara odaklanmanıza yardımcı olabilecekken, herkese açık bir etkinlik katılımın ve çeşitliliğin artmasına yardımcı olabilir. Ayrıca, aynı kurumdan katılımcıların birbirini önceden tanıyor olması daha muhtemeldir. 
 
-8. Consider using video-lectures, as you might reach a broader audience. Though with a small group of people attending an on-site event it is often easier to maintain their attention, and to create and use the feeling of an authentic connection.
+8. Daha geniş bir kitleye ulaşabileceğiniz video dersleri kullanmayı düşünün. Yerinde (on-site) bir etkinliğe katılan küçük bir grup insanın dikkatlerini muhafaza etmek ve gerçek bir bağlantı hissi yaratmak ve kullanmak genellikle daha kolaydır.
 
-9. Consider what the best way is to approach different target audiences \(meeting, face to face workshops, webinar, newsletter, social media, etc.\)
+9. Farklı hedef kitlelere yaklaşmanın en iyi yolunun ne olduğunu düşünün \(toplantı, yüz yüze çalıştay, web semineri (webinar), haber bülteni, sosyal medya vb.\)
 
-10. With a heterogeneous audience, keep in mind the different stakeholders involved in order to address their different needs, knowledge and/or responsibilities:
+10. Heterojen bir hedef kitlede, farklı ihtiyaç, bilgi ve/veya sorumluluklarını adreslemek için katılan farklı paydaşlar olacağını unutmayın:
 
-    1. funder, institution/employer, researcher \(student, PhD student, researcher, project lead\),
+    1. fon sağlayıcı, kurum/iş veren, araştırmacı \(öğrenci, doktora öğrencisi, araştırmacı, proje lideri\),
 
-    2. support \(research office, library, IT\)
+    2. destek \(araştırma ofisi, kütüphane, BT\)
 
-    3. commercial partners in a project
+    3. bir projedeki ticari partnerler
 
-**The outcome of the training should be that the trainees:**
+**Eğitimin sonucunda katılımcılar:**
 
-1. have a better practical understanding of the key concepts and corresponding applications for Open Science.
-2. confidently use what was learned during the training, thus increasing their impact in their professional environment.
-3. become able to network with advocates from multiple disciplines,and act in a global Open Science initiative.
+1. açık bilimin temel kavramları ve ilgili uygulamalar konusunda daha iyi bir pratik anlayışa sahip olur.
+2. eğitim esnasında öğrenilenleri gönül rahatlığıyla kullanarak profesyonel çevrelerindeki etkilerini artırır.
+3. farklı disiplinlerden savunucularla savunucularla bağlantı (network) kurabilir ve küresel bir açık bilim girişiminde rol oynayabilir.
 
 ## <img src="/Images/Icons/guidance.png" width="150" height="150" />
-### Teaching adults
+### Yetişkinlere öğretmek
 
 Scholarly research is practised by adults, as such, the participants of any training in Open Science will most likely be adults, often with a first or second degree in higher education. It is therefore interesting to see, how far teaching children or teenagers \(pedagogy\) differs from teaching adults \(andragogy\). The Canadian Literacy and Learning Network did some interesting work on this difference and recapitulated it in seven principles:
 
@@ -503,14 +501,14 @@ Consider the following hypothetical situation: You have been invited to train pr
 Similar exercises can be applied to training different audiences, for which you may consider the same way of testing your knowledge.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-### Further reading
+### Ek okuma listesi
 
-**About Bloom's Taxonomy:**
+**Bloom'un Taksonomisi ile ilgili:**
 
-* Davis (2014). Using Bloom’s Taxonomy to Write Learning Outcomes. [pearsoened.com](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
-* Clinton Community College (1966-2017). List of Measurable Verbs Used to Assess Learning Outcomes. [clinton.edu](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
+* Davis (2014). Using Bloom’s Taxonomy to Write Learning Outcomes. [apprenticeshipblog.com](https://apprenticeshipblog.com/2014/07/21/how-to-use-blooms-taxonomy-to-write-learning-outcomes/)
+* Clinton Community College (1966-2017). List of Measurable Verbs Used to Assess Learning Outcomes. [clinton.edu](http://ccc.clinton.edu/CurriculumCommittee/ListofMeasurableVerbs.cxml)
 
-**Resources/Exercises for ice-breakers**
+**Aracılık yapanlar (ice-breakers) için kaynaklar/etkinlikler**
 
 * Mindtools. Ice Breakers. Easing Group Contribution. [mindtools.com](https://www.mindtools.com/pages/article/newLDR_76.htm)
 * Students as Partners, Teaching, Learning and Support Office. Peer Support Icebreakers. [documents.manchester.ac.uk](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
@@ -518,7 +516,7 @@ Similar exercises can be applied to training different audiences, for which you 
 
 **Kaynakça**
 
-* Ambrose, Bridges, DiPietro, Lovett, Norman ve Mayer. How learning works. [Highlights summarized by Brent and Felder](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
+* Ambrose, Bridges, DiPietro, Lovett, Norman ve Mayer. How learning works. [Highlights summarized by Brent and Felder](https://www.engr.ncsu.edu/wp-content/uploads/drive/1kLlZRp7ir79R7PPkOssZbPg7mbPFq-MQ/2011-r_Ambrose.pdf). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
 
 * Dale (1969). Audio-Visual Methods in Teaching, 3. bs., Holt, Rinehart & Winston, New York, s.10.
 
@@ -538,7 +536,7 @@ Similar exercises can be applied to training different audiences, for which you 
 
 * Rowe (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! Journal of Teacher Education, 37\(1\), 43–50. [doi.org/10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 
-* Siemens (2006). Knowing Knowledge. [PDF](http://www.elearnspace.org/KnowingKnowledge_LowRes.pdf)
+* Siemens (2006). Knowing Knowledge. [PDF](https://amysmooc.files.wordpress.com/2013/01/knowingknowledge_lowres-1.pdf)
 
 
 Konunun daha derinlemesine anlaşılması için:
