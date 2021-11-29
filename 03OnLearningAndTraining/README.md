@@ -180,7 +180,7 @@ Bu nedenle, şunlara ihtiyacınız olacak:
 
 ## <img src="/Images/03 On Learning and Training/03_bloom_s_taxonomy.png" width="300" height="300" />
 
-Günümüz versiyonu \(2001'den beri\) [burada da](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/) bulunabilir.
+Günümüz versiyonu \(2001'den beri\) [burada da](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/) bulunabilir.
 
 Bloom Taksonomisi altı seviyeli bir sınıflama yöntemidir. Bloom Taksonomisi kullanmak bunun için harcanan çabaya değer çünkü güçlü bir eğitim ve öğretim oluşturma isteğine yönelik önemli bir adımı temsil etmektedir. Bloom Taksonomisinin yanı sıra, açıklamalı terminolojiler, kurs planlamada ve değerlendirme soruları oluşturmada vb. kullanılacak ya da kaçınılması gereken fiiller gibi tasarım ile ilgili çeşitli yardımlar da bulabilirsiniz.
 
