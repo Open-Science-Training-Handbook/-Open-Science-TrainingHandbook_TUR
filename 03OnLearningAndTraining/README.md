@@ -198,48 +198,48 @@ Bu durumu açıklığa kavuşturmak ve belirsizlikleri ortadan kaldırmak için 
 
 #### **Öğrenme hedefleri**
 
-* Describe the goals and intentions of the instructor.
+* Eğitmenin amaç ve niyetlerini açıklayın.
 
-* State the purpose and goals of the course.
+* Kursun amaç ve gayelerini belirtin.
 
-* Focus on content and skills important within the classroom or programme.
+* Sınıfta ya da programda önemli olan içerik ve becerilere odaklanın.
 
-* May describe what the instructors will do.
+* Eğitmenlerin neler yapacağını açıklayabilirsiniz.
 
-* Should be specific and detailed.
+* Spesifik ve ayrıntılı olmalıdır.
 
 #### **Öğrenme çıktıları**
 
-* Student Learning Outcomes catalog the overarching "products" of the course and are the evidence that the goals or objectives were achieved.
+* Öğrenci öğrenme çıktıları, kursun kapsayısı "neticelerini" listeler ve amaç ya da hedeflere ulaşıldığının göstergesidir.
 
-* Learning Outcomes are statements that describe or list measurable and essential mastered content-knowledge—reflecting skills, competencies, and knowledge that students have achieved and can demonstrate upon successfully completing a course.
+* Öğrenme çıktıları, öğrencilerin bir kursu başarıyla tamamlayarak elde ettikleri ve sergileyebilecekleri becerileri, yetkinlikleri ve bilgileri yansıtan ölçülebilir ve öğrenilen temel içeriği-bilgiyi tanımlayan veya listeleyen ifadelerdir.
 
-* Outcomes express higher-level thinking skills that integrate course content and activities and can be observed as a behavior, skill, or discrete usable knowledge upon completing the course.
+* Çıktılar, kurs içeriği ve uygulamalarının entegrasyonu ile edinilen ve kursu tamamladıktan sonra bir davranış, beceri ya da ayrı bir kullanılabilir bilgi olarak gözlemlenebilen üst düzey düşünme becerilerini açıklar.
 
-* Outcomes are exactly what assessments are intended to show – specifically what the student will be able to do upon completing the course.
+* Çıktılar, özellikle öğrencinin kursu tamamladıktan sonra ne yapabileceği gibi tam olarak değerlendirmelerinin göstermesinin amaçlandığı şeylerdir.
 
-* An assessable outcome can be displayed or observed and evaluated against criteria.
+* Değerlendirilebilir bir çıktı, kriterlere göre görüntülenebilir veya gözlemlenebilir ve değerlendirilebilir.
 
-* Outcomes are clear and measurable criteria for guiding the teaching, learning, and assessment process in the course.
+* Çıktılar, kursun öğrenme, öğretme ve değerlendirme süreçlerine kılavuzluk eden açık ve ölçülebilir kriterlerdir.
 
-\(Adapted from[ http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
+\([http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\'dan uyarlanmıştır.)
 
-For Open Science Learning Objectives, see this FOSTER document: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(see page 13 & 14\)
+Açık bilim öğrenme hedefleri için FOSTER dokümanına bakabilirsiniz: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(bkz. sayfa 13-14\)
 
-**Example of a training objective:**
+**Bir eğitim hedefi örneği:**
 
-* "To learn how to use assessment and feedback in training with maximised effectiveness"
+* "Eğitimde değerlendirme ve geri bildirimin en üst düzeyde etkimlikle nasıl kullanılacağını öğrenmek"
 
-**Example of a training outcome: **
+**Bir eğitim çıktısı örneği:**
 
-* "Upon completing the course, the learner will be able to design a training exercise and a strategy to evaluate its effectiveness"
+* "Öğrenci kursu tamamladıktan sonra, bir eğitim uygulaması ve eğitimin etkinliğini değerlendirmek için bir strateji tasarlayabilecektir"
 
 ## <img src="/Images/03 On Learning and Training/03_motivation_demotivation.png" width="300" height="300" />
-### Motivation & demotivation
+### Motivasyon ve motivaston kaybı
 
-One of the key components in a training event is to make sure that the lack of confidence that the participants might have when being introduced to a new field \(Open Science, in this instance\) does not discourage them from pushing onwards. Even if some participants are generally familiar with the concepts presented in the training event, it is important to acknowledge when people are becoming confused. Acknowledging that their misunderstandings are valid is key to encouraging a growth mindset and motivating them to accept and endorse the Open Science practices.
+Bir eğitim etkinliğindeki en önemli bileşenlerden biri, katılımcıların yeni bir konuyla tanıştırıldıklarında \(bu örnekte açık bilim\) sahip olabilecekleri güven eksikliğinin onları ilerlemekten alıkoymadığından emin olmaktır. Bazı katılımcılar eğitim etkinliğinde sunulan kavramlarla genel anlamda aşina olsalar da, insanların kafaları karıştığında bunu kabullenmek önemlidir. Yanlış anlamalarının geçerliliğini kabul etmek, gelişen bir düşünce yapısını teşvik etmenin ve bu kişileri açık bilim uygulamalarını kabul etme ve destekleme konusunda motive etmenin anahtarıdır.
 
-There are several strategies that can be employed throughout the training event that can motivate participants. \(Taken from the Carpentry Instructor Training, [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
+Eğitim etkinliği boyunca katılımcıları motive etmek için uygulanabilecek çeşitli stratejiler mevcuttur. \(Carpentry Instructor Training^ten alınmıştır, [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
 
 * **Strategies to establish value**
 
@@ -503,7 +503,7 @@ Similar exercises can be applied to training different audiences, for which you 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
 
-**Bloom'un Taksonomisi ile ilgili:**
+**Bloom Taksonomisi ile ilgili:**
 
 * Davis (2014). Using Bloom’s Taxonomy to Write Learning Outcomes. [apprenticeshipblog.com](https://apprenticeshipblog.com/2014/07/21/how-to-use-blooms-taxonomy-to-write-learning-outcomes/)
 * Clinton Community College (1966-2017). List of Measurable Verbs Used to Assess Learning Outcomes. [clinton.edu](http://ccc.clinton.edu/CurriculumCommittee/ListofMeasurableVerbs.cxml)
