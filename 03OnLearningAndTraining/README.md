@@ -74,7 +74,7 @@ Eğitiminize gelen herkesin, bilinçli ya da bilinçsiz beklentileri olacaktır.
 
 * Öğrendikleri konu ile ilgili hevesli olmanız.
 
-* Temel bilimsel \(ya da insancıl\) değerler konusunda genel bir anlayışınızın olması ve bunun içsel, temel bir unsuru olarak ‘açıklığın’ rolünü kabul etmeniz..
+* Temel bilimsel \(ya da insancıl\) değerler konusunda genel bir anlayışınızın olması ve bunun içsel, temel bir unsuru olarak ‘açıklığın’ rolünü kabul etmeniz.
 
 * Araştırma şeffaflığı ve tekrarlanabilirliği gibi faktörlerin önemini ve bunların daha geniş toplumsal etkilerini anlamanız.
 
@@ -174,29 +174,29 @@ Bu nedenle, şunlara ihtiyacınız olacak:
 
 ### Bloom Taksonomisi
 
-Learning outcomes are often the most specific way of establishing how a training instance is delivered, by tailoring whatever is needed so that the best part of the expected outcomes are met by the best part of the audience. Learners meet outcomes in a variety of ways, often amenable to a quantitative evaluation.
+Öğrenme çıktıları genellikle, beklenen çıktılarının en iyi kısmı katılımcıların en iyi kısmı tarafından karşılanacak şekilde, ihtiyaç duyulan her şeyi uyarlayarak bir eğitim örneğinin nasıl sunulduğunu belirlemenin en iyi yoludur. Öğrenenler çıktıları, genellikle nicel bir değerlendirmeye uygun çeşitli şekillerde karşılarlar.
 
-Specifying outcomes is part of handling training as a cognitive process. In 1956 Benjamin Bloom created a taxonomy of cognitive levels that has been modified through time. This is a very useful tool to build consistent and reusable learning outcomes in any subject matter. Transitions between non-contiguous levels of cognition is generally not acceptable. The taxonomy helps to detect potentially difficult situations where assessment can fail because the cognition level of the learning delivery is not the same as the cognition level of the assessment that is being used.
+Çıktıları belirlemek, eğitimi bilişsel bir süreç olatak ele almanın bir parçasıdır. 1956 yılında Benjamin Bloom zamanla değiştirilmiş bir bilişsel düzeyler taksonomisi oluşturmuştur. Bu, herhangi bir konuda tutarlı ve yeniden kullanılabilir öğrenme çıktıları oluşturmak için oldukça kullanışlı bir araçtır. Ardarda olmayan biliş düzeyleri arasındaki geçişler genellikle kabul edilemez. Taksonomi, öğrenme biliş düzeyi kullanılan değerlendirmenin biliş düzeyi ile aynı olmadığı için değerlendirmenin başarısız olabileceği potansiyel olarak zor durumları belirlemeye yardım eder.
 
 ## <img src="/Images/03 On Learning and Training/03_bloom_s_taxonomy.png" width="300" height="300" />
 
-A present day version  \(since 2001\) can also be found [here] (https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/)
+Günümüz versiyonu \(2001'den beri\) [burada da](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/](https://thesecondprinciple.com/teaching-essentials/beyond-bloom-cognitive-taxonomy-revised/) bulunabilir.
 
-Bloom’s Taxonomy is a classification method with six levels. Using Bloom’s Taxonomy is worth the effort because it represents a significant step towards a desire to build robust training and teaching. Together with Bloom’s Taxonomy you can find several types of design aids such as annotated terminologies, verbs to use or to avoid in course planning and building assessment questions, etc.
+Bloom Taksonomisi altı seviyeli bir sınıflama yöntemidir. Bloom Taksonomisi kullanmak bunun için harcanan çabaya değer çünkü güçlü bir eğitim ve öğretim oluşturma isteğine yönelik önemli bir adımı temsil etmektedir. Bloom Taksonomisinin yanı sıra, açıklamalı terminolojiler, kurs planlamada ve değerlendirme soruları oluşturmada vb. kullanılacak ya da kaçınılması gereken fiiller gibi tasarım ile ilgili çeşitli yardımlar da bulabilirsiniz.
 
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" /> <img src="/Images/Icons/output.png" width="150" height="150" />
-### Learning objectives & learning outcomes
+### Öğrenme hedefleri ve öğrenme çıktıları
 
-These two terms are often used interchangeably by the training community. Objectives, comprising aims or goals, and Outcomes, comprising tangible results, may overlap, but are not genuinely the same.
+Bu iki terim, eğitim camiası tarafından sıklıkla birbiri yerine kullanılmaktadır. Amaç ve gayeleri (aim and goals) içeren hedefler (objectives) ile somut sonuçları (results) içeren çıktılar (outcomes) örtüşebilir ancak gerçekte aynı değildir.
 
-When designing training, you should think primarily of objectives, then list what outcomes you want your audience to reach for. Do not worry if they seem to overlap here and there, or if, as in most cases, an objective encloses one or more outcomes. Design all your practical exercises around specific outcomes.
+Eğitim tasarlarken öncelikle hedefleri düşünmeli, ardından katılımcılarınızın ulaşmasını hedeflediğiniz çıktıları listelemelisiniz. Hedefler ile çıktılar örtüşüyorsa ya da çoğu durumda olduğu gibi bir hedef bir veya daha fazla çıktıyı kapsıyorsa endişelenmeyin. Tüm pratik uygulamalarınızı belli çıktılar çerçevesinde tasarlayın.
 
-Note: you should avoid using the abbreviation LO as it becomes ambiguous.
+Not: Anlaşılmaz olduğu için Öğrenme Çıktıları için ÖÇ kısaltmasını kullanmaktan kaçınmalısınız.
 
-Here is an attempt to clarify this situation and remove ambiguities:
+Bu durumu açıklığa kavuşturmak ve belirsizlikleri ortadan kaldırmak için bir deneme:
 
-#### **Learning objectives**
+#### **Öğrenme hedefleri**
 
 * Describe the goals and intentions of the instructor.
 
@@ -208,7 +208,7 @@ Here is an attempt to clarify this situation and remove ambiguities:
 
 * Should be specific and detailed.
 
-#### **Learning outcomes**
+#### **Öğrenme çıktıları**
 
 * Student Learning Outcomes catalog the overarching "products" of the course and are the evidence that the goals or objectives were achieved.
 
