@@ -139,40 +139,40 @@ Açık bilim eğitiminize başlamanın iyi bir yolu, konu ile ilgili olan ya da 
 
 **Eğitimin sonucunda katılımcılar:**
 
-1. açık bilimin temel kavramları ve ilgili uygulamalar konusunda daha iyi bir pratik anlayışa sahip olur.
-2. eğitim esnasında öğrenilenleri gönül rahatlığıyla kullanarak profesyonel çevrelerindeki etkilerini artırır.
-3. farklı disiplinlerden savunucularla savunucularla bağlantı (network) kurabilir ve küresel bir açık bilim girişiminde rol oynayabilir.
+1. Açık bilimin temel kavramları ve ilgili uygulamalar konusunda daha iyi bir pratik anlayışa sahip olur.
+2. Eğitim esnasında öğrenilenleri gönül rahatlığıyla kullanarak profesyonel çevrelerindeki etkilerini artırır.
+3. Farklı disiplinlerden savunucularla savunucularla bağlantı (network) kurabilir ve küresel bir açık bilim girişiminde rol oynayabilir.
 
 ## <img src="/Images/Icons/guidance.png" width="150" height="150" />
 ### Yetişkinlere öğretmek
 
-Scholarly research is practised by adults, as such, the participants of any training in Open Science will most likely be adults, often with a first or second degree in higher education. It is therefore interesting to see, how far teaching children or teenagers \(pedagogy\) differs from teaching adults \(andragogy\). The Canadian Literacy and Learning Network did some interesting work on this difference and recapitulated it in seven principles:
+Bilimsel araştırma yetişkinler tarafından yapılır; bu nedenle, açık bilimle ilgili herhangi bir eğitimin katılımcıları büyük ihtimalle çoğu birinci ya da ikinci düzey yükseköğrenim görmüş yetişkinler olacaktır. Bu nedenle, çocuklara ve gençlere öğretmenin \(pedagoji\) yetişkinlere öğretmekten \(andragoji\) ne kadar farklı olduğunu görmek ilginçtir. Kanada Okuryazarlık ve Öğrenim Ağı (The Canadian Literacy and Learning Network) bu fark üzerine bazı ilginç çalışmalar yapmış ve bu farkı yedi ilke ile özetlemiştir: 
 
-1. **Adults must want to learn.** This means that the inner motivation and added values are decisive and it might be worth to know them before starting the course.
+1. **Yetişkinler öğrenmeyi istemelidir.** Bu,  içsel motivasyonun ve katma değerlerin belirleyici olduğu ve kursa başlamadan önce bunların bilinmeye değer olabileceği anlamına gelir.
 
-2. **Adults will learn only what they feel they need to learn.** Adults are practical in their approach to learning; they want to know, "How is this going to help me right now?" You should therefore be practical and direct.
+2. **Yetişkinler yalnızca öğrenmeleri gerektiğini düşündükleri şeyleri öğreneceklerdir.** Yetişkinler öğrenmeye yaklaşımlarında pratiktir; "Bu bana şu an nasıl yardımcı olacak?" sorusunun cevabını bilmek isterler. Bu nedenle pratik ve direkt olmalısınız.
 
-3. **Adults learn by doing.** This is true for children too, but active and immediate participation matters more for adults.
+3. **Yetişkinler yaparak öğrenir.** Bu çocuklar için de böyledir, fakat aktif ve anlık katılım yetişkinler için daha önemlidir. 
 
-4. **Adult learning focuses on problems and the problems must be realistic.** The participants will often come with a problem and it will be your task to discover gaps and try to close them.
+4. **Yetişkin öğrenimi sorunlara odaklanır ve sorunlar gerçekçi olmalıdır.** Katılımcılar çoğunlukla bir sorunla gelecek ve boşlukları keşfedip kapatmaya çalışmak sizin işiniz olacaktır. 
 
-5. **Experience affects adult learning.** Adults have more experience than children, either negative or positive. You can make use of this experience by avoiding negative associations.
+5. **Deneyim yetişkinlerin öğrenmesini etkiler.** Yetişkinlerin, olumlu ya da olumsuz çocuklardan daha fazla deneyimi vardır. Olumsuz çağrışımlardan kaçınarak, bu deneyimden faydalanabilirsiniz.
 
-6. **Adults learn best in an informal situation.** School-age youngsters usually have to follow a curriculum.  Often, adults learn only what they feel they need to know. You should therefore try to involve your audience in the learning process. This may happen by making the environment relaxed, informal and inviting.
+6. **Yetişkinler en iyi resmi olmayan bir durumda öğrenir.** Okul çağındaki gençler genellikle bir müfredatı takip etmek durumundadır. Yetişkinler çoğu zaman, bilmeleri gerektiğini düşündükleri şeyleri öğrenirler. Bu nedenle, katılımcılarınızı öğrenme sürecine dahil etmeye çalışmalısınız. Bu, öğrenme ortamını rahat, gayri remi ve davetkar hale getirerek yapılabilir.
 
-7. **Adults want guidance.** Adults want information that will help them improve their situation or solve problems, but they do not want to be told what to do, but rather choose options based on their individual needs.
+7. **Yetişkinler rehberlik ister.** Yetişkinler, durumlarını iyileştirmelerine ya da sorunları çözmelerine yardımcı olacak bilgileri isterler, ancak ne yapacaklarının söylenmesini istemez, bunun yerine bireysel ihtiyaçlarına göre seçim yaparlar.
 
-Therefore, you will need to
+Bu nedenle, şunlara ihtiyacınız olacak:
 
-* provide the discovery points, tools and support where researchers will find them
+* Araştırmacılara bulabilecekleri keşif noktalarını, araçları ve desteği sağlayın.
 
-* prepare online documentation with clear, understandable, and up to date guidance
+* Açık, anlaşılır ve güncel rehberlik sunacak çevrimiçi dokümanlar hazırlayın.
 
-* put together good usable \(and discoverable\) tools or templates to generate it.
+* Bunları oluşturmak için iyi, kullanılabilir \(ve keşfedilebilir\) araç ve şablonları biraraya getirin.
 
-In summary, adults have their interests focused on their own improvement and see training as a self-centered, capacity-building exercise. Adults like to be respected as such, and that their expectations are individually met, in an exhaustive way whenever possible.
+Özetle, yetişkinlerin ilgi alanları kendi gelişimlerine odaklanır ve eğitimi ben merkezli, kapasite geliştirici bir çalışma olarak görürler. Yetişkinler bu şekilde saygı görmekten ve beklentilerinin mümkün olduğunca kapsamlı bir şekilde bireysel olarak karşılanmasından hoşlanırlar.
 
-### Bloom’s Taxonomy
+### Bloom Taksonomisi
 
 Learning outcomes are often the most specific way of establishing how a training instance is delivered, by tailoring whatever is needed so that the best part of the expected outcomes are met by the best part of the audience. Learners meet outcomes in a variety of ways, often amenable to a quantitative evaluation.
 
