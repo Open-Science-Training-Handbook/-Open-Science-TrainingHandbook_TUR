@@ -51,13 +51,13 @@ Bu basitleştirilmiş şema, bu dört öğrenme kuramının temel özelliklerini
 ![image alt text](/Images/image_3.png)
 
 
-[https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/) adresinden alınmıştır.
+[Şu](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/) adresten alınmıştır.
 
-Software Carpentry tarafından yapılmış çalışma da öğrenme süreçlerini anlamaya yardım edecektir: [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
+Software Carpentry tarafından yapılmış [çalışma](https://carpentries.github.io/instructor-training/) da öğrenme süreçlerini anlamaya yardım edecektir. 
 
 ### Bağlantılı Müfredat Çerçevesi (The Connected Curriculum Framework)
 
-Yakın zamanlı ‘Bağlantılı Müfredat Çerçevesi’ hareketi, öğrenme yaklaşımlarını modernleştirmeyi ve 21. yüzyıl öğrenenlerine uyarlamayı amaçlamaktadır. Çerçevenin genel amacı, gereksiz uzlaşmazlıkları ortadan kaldırarak, öğrenci eğitimi ile araştırma uygulamaları arasındaki ilişkileri geliştirmektir. Çerçeve, öğrencilerin ve araştırmacıların yanı sıra üniversiteler ve daha geniş topluluklar arasında yoğun diyaloğa, aktif sorgulamaya, işbirliğine ve etkileşimlere önem verir. Bu, açık bilim ve yurttaşlık bilimi, kitle kaynak kullanımı vb. alanlarda ilgi çekici vaatler içerir. Bağlantılı Müfredat Çerçevesini şuradan okuyabilirsiniz: [http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
+Yakın zamanlı ‘Bağlantılı Müfredat Çerçevesi’ hareketi, öğrenme yaklaşımlarını modernleştirmeyi ve 21. yüzyıl öğrenenlerine uyarlamayı amaçlamaktadır. Çerçevenin genel amacı, gereksiz uzlaşmazlıkları ortadan kaldırarak, öğrenci eğitimi ile araştırma uygulamaları arasındaki ilişkileri geliştirmektir. Çerçeve, öğrencilerin ve araştırmacıların yanı sıra üniversiteler ve daha geniş topluluklar arasında yoğun diyaloğa, aktif sorgulamaya, işbirliğine ve etkileşimlere önem verir. Bu, açık bilim ve yurttaşlık bilimi, kitle kaynak kullanımı vb. alanlarda ilgi çekici vaatler içerir. Bağlantılı Müfredat Çerçevesini [şuradan](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education) okuyabilirsiniz.
 
 #### Bu sizinle ne kadar ilgili?
 
@@ -222,9 +222,9 @@ Bu durumu açıklığa kavuşturmak ve belirsizlikleri ortadan kaldırmak için 
 
 * Çıktılar, kursun öğrenme, öğretme ve değerlendirme süreçlerine kılavuzluk eden açık ve ölçülebilir kriterlerdir.
 
-\([http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\'dan uyarlanmıştır.)
+[Şu sayfadan](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes) uyarlanmıştır.
 
-Açık bilim öğrenme hedefleri için FOSTER dokümanına bakabilirsiniz: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(bkz. sayfa 13-14\)
+Açık bilim öğrenme hedefleri için [FOSTER dokümanına](https://doi.org/10.5281/zenodo.15603) (sayfa 13-14) bakabilirsiniz.
 
 **Bir eğitim hedefi örneği:**
 
@@ -239,56 +239,55 @@ Açık bilim öğrenme hedefleri için FOSTER dokümanına bakabilirsiniz: [http
 
 Bir eğitim etkinliğindeki en önemli bileşenlerden biri, katılımcıların yeni bir konuyla tanıştırıldıklarında \(bu örnekte açık bilim\) sahip olabilecekleri güven eksikliğinin onları ilerlemekten alıkoymadığından emin olmaktır. Bazı katılımcılar eğitim etkinliğinde sunulan kavramlarla genel anlamda aşina olsalar da, insanların kafaları karıştığında bunu kabullenmek önemlidir. Yanlış anlamalarının geçerliliğini kabul etmek, gelişen bir düşünce yapısını teşvik etmenin ve bu kişileri açık bilim uygulamalarını kabul etme ve destekleme konusunda motive etmenin anahtarıdır.
 
-Eğitim etkinliği boyunca katılımcıları motive etmek için uygulanabilecek çeşitli stratejiler mevcuttur. \(Carpentry Instructor Training^ten alınmıştır, [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
+Eğitim etkinliği boyunca katılımcıları motive etmek için uygulanabilecek [çeşitli stratejiler](https://carpentries.github.io/instructor-training/08-motivation/) mevcuttur (Carpentry Instructor Training'ten alınmıştır).
 
-* **Strategies to establish value**
+* **Değer oluşturma staratejileri**
 
-  * Connect the material to the participants’ interests or values.
+  * Kullandığınız materyali katılımcıların ilgi alanları veya değerleriyle ilişkilendirin.
 
-  * Provide authentic, real-world tasks and case studies, ideally matched to the participants background and immediate interests.
+  * Katılımcıların arka planına ve doğrudan çıkarlarına en uygun ve özgün olan, gerçek hayattan görevler ve vaka çalışmaları sağlayın.
 
-  * Show relevance to the participants’ current academic lives.
+  * Katılımcıların mevcut akademik hayatlarıyla ilgisini gösterin.
 
-  * Convey your own passion and enthusiasm for Open Science.
+  * Açık Bilim için kendi tutkunuzu ve heycanınızı iletin.
 
-* **Strategies to build positive expectations**
+* **Olumlu beklentiler oluşturmak için stratejiler**
 
-  * Ensure alignment of objectives, assessments, and instructional strategies.
+  * Hedeflerin, değerlendirmelerin ve öğretim stratejilerinin uyumunu sağlamak.
 
-  * Provide early success opportunities by applying the concepts in hands-on exercises and tutorials.
+  * Kavramları uygulamalı alıştırmalardaa ve eğitimlerde kullanarak erken başarı fırsatları sağlayın.
 
-* **Strategies for self-efficacy**
+* **Öz yeterlilik için stratejiler**
 
-  * Provide participants with options and the ability to make choices.
+  * Katılımcılara seçenekler ve seçim yapma fırsatı sunun.
 
-  * Give participants an opportunity to reflect and make their own connections between Open Science and their particular work.
+  * Katılımcılara, Açık Bilim ve kendi çalışmaları arasında bağlantı kurma ve bunu yansıtma fırsatı verin.
 
 ## <img src="/Images/Icons/idea.png" width="150" height="150" />
-## Practical guidance
+## Uygulamalı rehberlik
 
-You will find more information concerning the concrete planning and execution of a training on Open Science in the chapters on [Organizational Aspects](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/04OrganizationalAspects) and the [Examples and Practical Guidance](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/05ExamplesAndPracticalGuidance).
+Açık Bilim üzerine bir eğitimin somut planlanması ve yürütülmesi ile ilgili daha fazla bilgiyi [Örgütsel Yönler (Organizational Aspects)](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/tree/master/04OrganizationalAspects) ve [Örnekler ve Uygulamalı Rehberlik (Examples and Practical Guidance)](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/tree/master/05ExamplesAndPracticalGuidance) ile ilgili bölümlerde bulabilirsiniz.
 
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
-### Designing a course
+### Bir ders tasarlama
+Dersinizin oluşturulması, dersin hedeflerine veya çıktılarına göre planlanarak yürütülecektir.
 
-The creation of your course will either be driven by planning on the course’s objectives or on its outcomes.
+#### Çıktılardan ziyade hedeflere dayalı planlama
 
-#### Planning based on objectives, rather than outcomes
+SMART, proje yönetiminde de kullanılan, amaçları / hedefleri belirlemek için ilginç bir tekniktir. SMART, beş kriteri temsil eden bir kısaltmadır: Basit (Simple) – Ölçülebilir (Measurable) – Tutkulu (Ambitious) – Gerçekçi (Realistic) – Zamanlı (Timed). 
 
-SMART is an interesting technique for specifying goals / objectives that is also used in project management. SMART is an acronym that stands for five criteria: Simple – Measurable – Ambitious – Realistic – Timed.
+* Amacınız konuya yakın omayan biri tarafından anlaşılabiliyorsa **basittir**. Yani, öğrencilerinize ne öğreneceklerini önceden açıklayabilirsiniz. Hedefinizi dersin başında sunmak genellikle iyi bir fikirdir. Basit (Simple) amacın bir kısa cümle ile anlatılabilmesi anlamına gelir.
 
-* Your goal is **simple** if it can be understood by a person not familiar with the topic. That is, you can explain to your students beforehand what they are going to learn. It is usually a good idea to present your goal at the beginning of a lesson. Simple  means that the goal can be put into no more than one concise sentence.
+* Hedefe ulaşılıp ulaşılmadığını objektif olarak belirleyebiliyorsanız, hedefiniz **ölçülebilirdir**. Ölçülebilirlik, pek çok farklı bileşen olduğu için çok geniş ve ölçülmesi zor olan "öğrenciler açık bilimi anlar" gibi net olmayan hedefler belirlenmesinin önüne geçer. Bunun yerine, eylemsel fiiller kullanın: tanımlar, çizer, adlandırır, açıklar, hesaplar vb. İyi öğretim hedefleri için [kullanılabilecek fiiller](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml), Bloom'un bilişsel alan sınıflandırmasına göre kategorize edilmiştir. Ölçme, size ve öğrencilerinize ilerlemeyi değerlendirme veya kendi kendinizi değerlendirme anlamında yardımcı olur.
 
-* Your goal is **measurable** if you can determine objectively whether the goal has been reached. Measurability prevents imprecise goals like "students understand Open Science", which is too broad and difficult to measure as there are many different components. Instead, use verbs that are actionable: identify, draw, name, explain, calculate etc. Verbs for good teaching goals have been categorized by the Bloom’s taxonomy of cognitive domains \([clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)\). Measuring helps you and your students to assess or self-assess progress.
+* Öğrencilerinizin çalışma/öğrenme azmini körüklerseniz hedefiniz **tutkuludur**. Onlar için belirgin bir fayda var mı? Dersin onların ugkunu genişletmesini istiyor musunuz? Ders onlara hangi yönden avantaj sağlıyor? Tutkulu olmak şu soruya bir cevabınızın olması anlamına gelir: Öğrenciler başka şekilde öğrenemeyecekleri neyi öğrenecekler? Bir duruş sergilemek ve bakış açınızı savunmak arzusu duyuyorsanız, hedefiniz muhtemelen tutkuludur.
 
-* Your goal is **ambitious** if you challenge your students. Is there a clear benefit for them? Do you want the lesson to broaden their horizon? In which way does it give them an edge? Being ambitious means having an answer to the question: What will students learn that they could not by other means? If you feel a desire to make a stand and defend your viewpoint, it probably is ambitious.
+* Öğrenme hedefinize verilen zaman diliminde ulaşılabileceğine içtenlikle inanıyorsanız, hedefiniz **gerçekçidir**. Gerçekçi olmak belli ev ödevlerini gerektirir: Öğrencileriniz gerekli arka plan bilgisine sahip mi? Hangi pratik yeteneklere ihtiyaçları var? Hangi teknik ön koşullar mevcut? Beklenmedik sorulara hazır mısınız? Örneğin, tüm Creative Commons lisanslarını bir saat içinde anlamak bir grup için gerçekçi olabilirken bir diğeri için ulaşılamaz olabilir.
 
-* Your goal is **realistic** if you sincerely believe your learning goal can be reached in the given timeframe. Being realistic involves homework: Do your students have the necessary background knowledge? What practical abilities do they need? What technical prerequisites are there? Are you prepared for unexpected questions? For instance, understanding all Creative Commons licenses in one hour may be realistic for one group, but out of reach for another.
+* Hedefe ulaşılması gereken somut bir zaman dilimi varsa, hedefiniz **zamanlıdır**. İlk defa öğretmenlik yapanlar genellikle zaman maliyetlerini gereğinden fazla artırırlar. Öğrenme hedefleriniz için zaman sınırları belirlemek, dersinizi yapılandırmanıza, beklenmedik gecikmeleri fark etmenize ve bunlara karşı harekete geçmenize  yardımcı olur. İyi bir zaman planlama şekli detaylı bir takvim veya ders planının olmasıdır.
 
-* Your goal is **timed** if there is a concrete timeframe  which the goal is to be reached. First-time teachers often overextend their time budget. Setting time limits for your learning goals helps you to structure your lesson, recognize and react to unexpected delays. A good form of planning time is having a detailed schedule or lesson plan.
-
-Adapted from [SMART Goals, How to create objective, measurable project goals](http://www.academis.eu/posts/smart_goals) by Kristian Rother.
+Kristian Rother tarafından oluşturulmuş [SMART Goals](https://www.academis.eu/posts/time_management/smart_goals.md) sayfasından uyarlanmıştır.
 
 #### Planning based on outcomes, rather than objectives
 
