@@ -289,17 +289,17 @@ SMART, proje yönetiminde de kullanılan, amaçları / hedefleri belirlemek içi
 
 Kristian Rother tarafından oluşturulmuş [SMART Goals](https://www.academis.eu/posts/time_management/smart_goals.md) sayfasından uyarlanmıştır.
 
-#### Planning based on outcomes, rather than objectives
+#### Hedeflerden ziyade çıktılara dayalı planlama
 
-Use reverse instructional design, known as Backward design, a technique for planning lessons that emphasizes outcomes:
+Çıktıları vurgulayan dersler planlamak için bir teknik olan "geriye dönük tasarım" (backward design) olarak bilinen tersine öğretim tasarımını kullanın:
 
-1. Start from your learning objectives.
+1. Öğrenme hedefleriniz ile başlayın.
 
-2. Decide what constitutes evidence that these objectives have been met \(summative assessment, see [Post-training Evaluation](#heading=h.jppdc2zcwj8d) below\).
+2. Bu hedeflere ulaşıldığına dair kanıtın ne olduğuna karar verin \(sonuç değerlendirme, bkz. [Eğitim Sonrası Değerlendirme](#heading=h.jppdc2zcwj8d)\)
 
-3. Choose the best format and design content to prepare the audience for what they will have to do during the summative assessment.
+3. Katılımcıları sonuç değerlendirme sırasında yapacaklarına hazırlamak için en iyi formatı seçin ve içerik tasarlayın.
 
-4. Sort the content in order of increasing complexity and then provide the content and motivation they need to close the gap between what they know and what they need to know to complete the summative assessment. \([Software Carpentry Instructor Training](http://swcarpentry.github.io/instructor-training/19-lessons/)\)
+4. İçeriği artan karmaşıklık sırasına göre sıralayın ve ardından sonuç değerlendirmesini tamamlamak için katılımcıların bildikleri ile bilmeleri gerekenler arasındaki boşluğu kapatmak için ihtiyaç duydukları içerik ve motivasyonu sağlayın \([The Carpentries Instructor Training](https://carpentries.github.io/instructor-training//)\).
 
 Backward design challenges "traditional" methods of curriculum planning. In traditional curriculum planning, a list of content that will be taught is created and/or selected.[\[4\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4) In backward design, the educator starts with goals, creates or plans out [assessments](https://en.wikipedia.org/wiki/Educational_assessment) and finally makes [lesson plans](https://en.wikipedia.org/wiki/Lesson_plan). Supporters of backward design liken the process to using a "road map".[\[5\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) In this case, the destination is chosen first and then the road map is used to plan the trip to the desired destination. In contrast, in traditional curriculum planning there is no formal destination identified before the journey begins.
 
