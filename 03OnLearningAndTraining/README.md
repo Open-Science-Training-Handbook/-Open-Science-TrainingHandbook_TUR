@@ -340,27 +340,27 @@ Katılımcılara enerji vermek ve eğitmenleri ve birbirlerini tanımalarına ya
 
 Isınma oyunları olumlu bir atmosfer yaratmaya yardımcı olabilirken, kötü seçilmiş bir oyun bunun tersini yaparak insanları gergin veya rahatsız hissettirebilir. Bir ısınma oyunu seçerken katılımcılarınızı ve potansiyel grup dinamiklerini dikkatlice düşünmelisiniz. İnsanlar utandırılmamalı veya paylaşmak istemedikleri kişisel bilgileri açıklamaya zorlanmamalıdır. Gruplar önemli açılardan farklılık gösterecektir - katılımcıların bir kuruluş içindeki farklı yaşlar veya statülerden, farklı kültürel seviyelerden veya farklı eğitim düzeylerinden olup olmadığı, aralarında halihazırda var olabilecek ortak paydanın düzeyini etkileyecektir. Bu tür egzersizleri amaçlanan öğrenme çıktılarıyla ilgili tutmaya çalışın. Örnekler için lütfen [Ek okuma listesi](#ek-okuma-listesi) bölümüne bakın. 
 
-### During the training
+### Eğitim esnasında
 
-Define the intended outcomes of the training and always give orientation to your trainees:
+Eğitimin amaçlanan çıktılarını tanımlayın ve her zaman katılımcılarınıza yönlendirme yapın:
 
-* Where are we?
+* Neredeyiz?
 
-* Where do we want to go?
+* Nereye ulaşmak istiyoruz?
 
-* What will we cover?
+* Nelere yer vereceğiz?
 
-Establish a balanced change of pure talks about the content to deliver \(max. 20 minutes\) and activity sessions to work with the content \(Klaus Döring, 2008\).
+Sunulacak içeriğe ilişkin olarak sadece konuşma ile geçecek oturumlar \(en fazla 20 dakika\) ve içerikle ilgili çalışmak için etkinlik oturumları arasındaki dengeyi sağlayın \(Klaus Döring, 2008\).
 
-Always make the learners' voices sound as soon as possible or, in other words, go for active learning!
+Daima katılımcıların sesinin mümkün olan en kısa sürede duyulmasına imkan verin veya başka bir deyişle aktif öğrenmeye gidin!
 
-#### Active Learning
+#### Aktif öğrenme
 
-Active Learning is a process whereby learners are actively engaged in the learning process, rather than "passively" absorbing lectures. Active learning involves reading, writing, discussion, and engagement in solving problems, analysis, synthesis, and evaluation. Active learning often involves cooperative learning with other attendees.
+Aktif Öğrenme, öğrencilerin dersleri "pasif bir şekilde" özümsemek yerine öğrenme sürecine aktif olarak katıldığı bir süreçtir. Aktif öğrenme, okuma, yazma, tartışma ve problem çözme, analiz, sentez ve değerlendirmeye katılmayı içerir. Aktif öğrenme genellikle diğer katılımcılarla işbirliğine dayalı öğrenmeyi içerir.
 
-Using active learning principles and implementation in training is, in general, a good idea. You are the second best judge for the benefits. Do remember that the first judge is the participant.
+Eğitimde aktif öğrenme ilkelerini ve uygulamasını kullanmak, genel olarak iyi bir fikirdir. Sağlanan faydalar için en iyi ikinci yargıç sizsiniz. You are the second best judge for the benefits. İlkinin katılımcılar olduğunu unutmayın.
 
-Active learning helps to bypass diversity in learning styles and other difficulties with audiences. While more efficient in reaching outcomes of higher levels, active learning also addresses cognition issues related to the nature of the content and the way to present it, as shown in the following diagram, commonly found in several textbooks and online resources, and known as the Cone of Learning. Active learning is best utilised at the top levels of Bloom’s Taxonomy \(Analize, Define, Create, Evaluate\), and that also corresponds to the best strata of memorization: what you say, write or do - the bottom half of the Cone of Learning. Cognition issues arise with more ease when content spans several of these levels at a time and fails to address the intermediate levels as well. Checking your content against the Cone of Learning is an easy way of detecting these potential miss-outs while you deliver training. Likewise it allows you to decide to use more visual aids where you expect that the need for memorization is higher. So, when your audience gets behind you may use this technique to diagnose, try to locate the causes and pick the most effective remediation.
+Aktif öğrenme, öğrenme tarzlarındaki çeşitliliği ve katılımcılarla ilgili diğer zorlukları aşmaya yardımcı olur. Aktif öğrenme, daha yüksek düzeyde çıktılara ulaşmada daha verimli olmakla birlikte, aşağıdaki şemada gösterilen, çeşitli ders kitaplarında ve çevrimiçi kaynaklarda yaygın olarak bulunan ve Öğrenme Konisi (Cone of Learning) olarak bilinen içeriğin doğası ve içeriği sunma şekli ile ilgili bilişsel sorunları da ele alır. Bloom Taksonomisinin üst düzeylerinde \(Analiz, Tanımalama , Oluşturma, Değerlendirme\) aktif öğrenmeden en iyi şekilde yararlanırılır ve bu aynı zamanda en iyi hatırlama katmanlarına karşılık gelir: söyledikleriniz, yazdıklarınız ya da yaptıklarınız - Öğrenme Konisinin alt yarısı. İçerik bu seviyelerden birkaçını aynı anda kapsadığında ve ara seviyeleri de ele almadığında, bilişsel sorunlar daha kolay ortaya çıkar. İçeriğinizi Öğrenme Konisine göre kontrol etmek, eğitim verirken bu gibi olası eksiklikleri tespit etmenin kolay bir yoludur. Aynı şekilde, hatırlama ihtiyacının daha yüksek olduğunu düşündüğünüz durumlarda daha fazla görsel yardımcı kullanmaya karar vermenizi sağlar. Bu nedenle, katılımcılarınız geride kaldığında, bu tekniği, sorunu teşhis etmek, nedenlerini bulmaya çalışmak ve en etkili düzeltme yönetimini seçmek için kullanabilirsiniz.
 
 ## <img src="/Images/Icons/gamification.png" width="300" height="300" />
 #### Gamification
