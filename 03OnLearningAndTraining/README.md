@@ -301,29 +301,29 @@ Kristian Rother tarafından oluşturulmuş [SMART Goals](https://www.academis.eu
 
 4. İçeriği artan karmaşıklık sırasına göre sıralayın ve ardından sonuç değerlendirmesini tamamlamak için katılımcıların bildikleri ile bilmeleri gerekenler arasındaki boşluğu kapatmak için ihtiyaç duydukları içerik ve motivasyonu sağlayın \([The Carpentries Instructor Training](https://carpentries.github.io/instructor-training//)\).
 
-Backward design challenges "traditional" methods of curriculum planning. In traditional curriculum planning, a list of content that will be taught is created and/or selected.[\[4\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4) In backward design, the educator starts with goals, creates or plans out [assessments](https://en.wikipedia.org/wiki/Educational_assessment) and finally makes [lesson plans](https://en.wikipedia.org/wiki/Lesson_plan). Supporters of backward design liken the process to using a "road map".[\[5\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) In this case, the destination is chosen first and then the road map is used to plan the trip to the desired destination. In contrast, in traditional curriculum planning there is no formal destination identified before the journey begins.
+Geriye dönük tasarım, müfredat planlamasının "geleneksel" yöntemlerine karşı çıkar.Geleneksel müfredat planlamasında, öğretilecek içeriğin bir listesi oluşturulur ve/veya seçilir [\(Bkz. Backward design - Wikipedia, Note 4\)](https://en.wikipedia.org/wiki/Backward_design#cite_note-4). Geriye dönük tasarımda eğitimci hedeflerle başlar, [değerlendirmeler](https://en.wikipedia.org/wiki/Educational_assessment) oluşturur veya planlar ve son olarak [ders planları](https://en.wikipedia.org/wiki/Lesson_plan) yapar. Geriye dönük tasarımın destekçileri, süreci bir "yol haritası" kullanmaya benzetmektedir [\(Bkz. Backward design - Wikipedia, Note 5\)](https://en.wikipedia.org/wiki/Backward_design#cite_note-5). Bu durumda, önce varış noktası seçilir ve daha sonra istenen varış noktasına seyahatin planlanması için yol haritası kullanılır. Bunun aksine, geleneksel müfredat planlamasında, yolculuk başlamadan önce belirlenmiş resmi bir varış noktası yoktur.
 
-The idea in backward design is to teach toward the "end point" or learning goals, which typically ensures that content taught remains focused and organized. This, in turn, aims at promoting better understanding of the content or processes to be taught to students. The trainer is able to focus on addressing what the students need to learn, what data can be collected to show that the students have learned the desired outcomes \(or [learning standards](https://en.wikipedia.org/wiki/Learning_standards)\) and how to ensure the students will learn.
+Geriye dönük tasarımdaki fikir, genellikle öğretilen içeriğin hedefe odaklanmış ve bu yönde planlanmış olmasını sağlayacak şekilde "varış noktasına" ya da öğrenme hedeflerine yönelik bir öğretimdir. Bu da öğrencilere öğretilecek içeriğin veya süreçlerin daha iyi anlaşılmasını sağlamayı amaçlar. Eğitmen, öğrencilerin neyi öğrenmesi gerektiğine, öğrencilerin istenen çıktılara (veya [öğrenme standartlarına](https://en.wikipedia.org/wiki/Learning_standards)\) ulaştığını göstermek için hangi verilerin toplanabileceğine ve öğrencilerin öğrenmesinin nasıl sağlanacağına odaklanabilir.
 
 ## <img src="/Images/Icons/journal.png" width="150" height="150" />
-### Content
+### İçerik
 
-#### Content collection
+#### İçerik toplama
 
-Before starting to teach you will have to collect and prepare content. Content is nowadays available en masse, and the question is less about finding or creating content than rather about finding appropriate content or making the discovered content appropriate to the needs and capabilities of your target audience.
+Öğretmeye başlamadan önce içeriği toplamalı ve hazırlamalısınız. İçerik günümüzde toplu halde mevcuttur ve sorun içeriği bulmak ya da oluşturmaktan ziyade uygun içeriği bulmak ya da keşfedilen içeriği hedef kitlenizin ihtiyaçlarına ve yeterliliklerine uygun hale getirmektir.
 
-Please check the chapter on [Examples and Practical Guidance](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) which will contain helpful information on how to adopt, adapt and develop content.
+İçeriğin nasıl kullanılacağı, uyarlanacağı ve geliştirileceği hakkında faydalı bilgiler içeren [Örnekler ve Uygulamalı Rehberlik (Examples and Practical Guidance)](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/tree/master/05ExamplesAndPracticalGuidance) bölümüne göz atabilirsiniz. bulabilirsiniz.
 
-#### Content reduction
+#### İçerik azaltma
 
-One of the biggest challenges in designing training courses is the reduction of content to the training format. If you have only two hours, you need to provide the most important information on a topic during this time. As a trainer, however, you usually have much more knowledge that you would like to pass on. Try to reduce the content to the most important key points. What is really necessary to know and what are only details or marginal topics? Set thematic priorities, be transparent about omissions and inform your participants about these.
+Eğitim tasarlamanın en büyük zorluklarından biri, içeriğin eğitim formatına indirgenmesidir. Eğer yalnızca iki saatiniz varsa bu zaman diliminde bir konu ile ilgili en önemli bilgileri sunmanız gerekir. Ancak bir eğitmen olarak, genellikle aktarmak istediğiniz çok daha fazla bilgiye sahipsinizdir. İçeriği en önemli noktalara indirgemeye çalışın. Gerçekten bilinmesi gerekenler nelerdir ve neler yalnızca ayrıntı ve daha kenarda olan (uç) konulardır? Konusal öncelikleri belirleyin, eksiklikler konusunda şeffaf olun ve katılımcılarınızı bunlar hakkında bilgilendirin.
 
-And try to keep enough time for open questions, discussions, sharing experience among participants. It will help you to get the "right" questions. Usually much more basic, than you expected or more detailed and specific than you planned.
+Açık uçlu sorular, tartışmalar ve katılımcılar arasında deneyim paylaşımı için yeterli zaman ayırmaya çalışın. Bu sizin "doğru" soruları almanıza yardımcı olacaktır.  Genelllikle beklediğinizden çok daha basit veya planladığınızdan daha ayrıntılı ve spesifiktir. 
 
 ## <img src="/Images/Icons/rocket.png" width="150" height="150" />
-### Starting the training
+### Eğitime başlamak
 
-#### Introductions
+#### Giriş
 
 At the beginning of the event, speakers should clearly and succinctly introduce themselves and their areas of expertise. Why should the attendees listen to you? What experience and skills do you have that are relevant to them? You should then give a general presentation of objectives, content, and outcomes for the training event - what participants will learn, and why. Projecting confidence as a figure is key here in order to establish trust.
 
