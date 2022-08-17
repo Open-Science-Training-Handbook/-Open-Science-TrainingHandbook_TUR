@@ -287,7 +287,7 @@ SMART, proje yönetiminde de kullanılan, amaçları / hedefleri belirlemek içi
 
 * Hedefe ulaşılması gereken somut bir zaman dilimi varsa, hedefiniz **zamanlıdır**. İlk defa öğretmenlik yapanlar genellikle zaman maliyetlerini gereğinden fazla artırırlar. Öğrenme hedefleriniz için zaman sınırları belirlemek, dersinizi yapılandırmanıza, beklenmedik gecikmeleri fark etmenize ve bunlara karşı harekete geçmenize  yardımcı olur. İyi bir zaman planlama şekli detaylı bir takvim veya ders planının olmasıdır.
 
-Kristian Rother tarafından oluşturulmuş [SMART Goals](https://www.academis.eu/posts/time_management/smart_goals.md) sayfasından uyarlanmıştır.
+Kristian Rother tarafından oluşturulmuş [SMART Goals](https://www.eu/posts/time_management/smart_goals.md) sayfasından uyarlanmıştır.
 
 #### Hedeflerden ziyade çıktılara dayalı planlama
 
@@ -367,40 +367,40 @@ Aktif öğrenme, öğrenme tarzlarındaki çeşitliliği ve katılımcılarla il
 
 Aktif Öğrenmedeki metodolojinin temelleri, modern öğrenme teorilerinde \(kısmen Yapılandırmacılık-Constructivism ve biraz Bağlantıcılıkta-Connectivism\) yatmaktadır ve engelleri aşmak ve mümkün olduğu kadar çok engeli ortadan kaldırmak için öğrenmeye katılım teknikleri eklemektedir. Örneğin, bir öğrenme örneğini oyunlaştırmak, öğrencileri pasif içerik edinmeden tam katılıma götürebilir, bu da öğrencinin geri çekilmesine ve öğrenme sürecini ve nasıl çalıştığını gözlemleyen biri olarak yeniden konumlandırılmasına yol açabilir. Eğitimde oyunlaştırmanın bir örneği şurada verilmektedir: [Anahtar terimler](https://doi.org/10.6084/m9.figshare.1094361.v1), kavramsal destek (conceptual consolidation) için bir öğrenme oyunu. Ek bir örnek şurada bulunabilir: [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
 
-#### Inclusive engagement
+#### Kapsayıcı katılım/etkileşim
 
-How to engage quiet participants? A good starting point might be to ask a question and wait at least 30 seconds for answers \(Mary Budd Rowe, 1986\). The result will be that more people engage in the discussion, the answers are of better quality and slow learners get a chance to answer.
+Sessiz katılımcılarla nasıl etkileşime geçilir? Bir soru sormak ve cevaplar için en az 30 saniye beklemek iyi bir başlangıç noktası olabilir \(Mary Budd Rowe, 1986\). Sonuç, tartışmaya daha fazla insanın katılması, yanıtların daha kaliteli olması ve yavaş öğrenenlerin yanıtlama şansı elde etmesi olacaktır.
 
-Another method of achieving inclusive engagement is _progressive stacking_. A moderator chooses who speaks next from those participants who wish to speak and have not yet spoken, as usual. In addition, underrepresented voices, including underrepresented gender and racial identities, are chosen to speak first.
+Kapsayıcı etkileşim için bir diğer yöntem de _ilerlemeli kümelemedir (progressive stacking)_. Bir moderatör, her zamanki gibi, konuşmak isteyenler ve henüz konuşmamış olan katılımcılar arasından sonraki konuşmacıyı seçer. Ayrıca, yeterince temsil edilmeyen cinsiyet ve ırksal kimlikler de dahil olmak üzere yeterince temsil edilmeyen sesler incelikli konuşmak üzere seçilir.
 
-During discussions \(in larger groups\), you should avoid standing microphones with first-come-first-speak engagement, as it discourages inclusive engagement and encourages monologuing. Use a wireless microphone instead or raised hands to ensure that who speaks next can be selected by the moderator. The larger the group, the bigger the need for a moderator who monitors who is speaking and who is not. It will also be the moderator’s task to choose who speaks next from those participants who wish to speak, but have not yet spoken to avoid the workshop engagement to be dominated by just a few participants.
+\(Daha büyük gruplardaki\) tartışmalar esnasında, kapsayıcı etkileşimi caydırdığı ve monolog yapmayı teşvik ettiği için, ilk gelenin önce konuşması etkileşimine dayanan ayakta duran mikrofonların kullanımından kaçınmalısınız. Bunun yerine kablosuz mikrofon kullanın ya da sonraki konuşmacılar moderatör tarafından seçilebilmeleri için ellerini kaldırsınlar. Grup ne kadar büyükse, kimin konuşup kimin konuşmadığını denetleyen bir moderatöre duyulan ihtiyaç da o kadar büyük olur. Ayrıca, çalıştay katılımının sadece birkaç katılımcının hakimiyetinde olmasını önlemek için, konuşmak isteyen ancak henüz konuşmamış olan katılımcılar arasından kimin konuşacağını seçmek moderatörün görevi olacaktır. 
 
 
 
-#### General recommendations
+#### Genel öneriler
 
-* Stay connected! Always try to keep the contact with the group, check your pace and those of the others.
+* Bağlı kalın! Her zaman grupla teması sürdürmeye çalışın, kendi hızınızı ve diğerlerinin hızını kontrol edin.
 
-* Be careful not to overload the participants with too much and/or too difficult content.
+* Katılımcılara çok fazla ve/veya çok zor içerikle aşırı yüklenmemeye dikkat edin.
 
-* Be open for feedback at any time but avoid or actively break-up never-ending discussions.
+* Geri bildirimlere her zaman açık olun ancak bitmeyecek tartışmalardan kaçının ya da bunları sonlandırın.
 
-* Breaks: Always give enough space for breaks. The longer your course, the longer and more often your breaks.
+* Aralar: Her zaman aralar için yeterli zaman bırakın. Ders ne kadar uzun olursa aralar o kadar uzun ve sık olur.
 
-* Prepare short, middle and long versions of your exercises to become flexible if the discussions are more or less intensive.
+* Tartışmaların daha fazla ya da az yoğunlukta geçmesine karşın yeterli esnekliği sağlayacak şekilde etkinliklerinizin kısa, orta ve uzun versiyonlarını hazırlayın.
 
-* Be prepared for difficult students and consult some troubleshooting guidance before the course. 
+* Zor öğrenciler için hazırlıklı olun ve kurstan önce bazı sorun giderme kılavuzlarına bakın. 
 
-\(You may find some ideas in the [MozFest2017 Facilitator Guide](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#)\). 
-You should in any case have an idea of what you do when a parallel conversation emerges or what to do when somebody is constantly rude or inattentive etc. Know that there are verbal and non-verbal ways to tackle this.
+\([MozFest2017 Kolaylaştırıcı Rehberinde](https://docs.google.com/document/d/1fezzIH8u0Li6pIHMNYDCuUjA_gHpB4Px9eXQo4Ol7es/edit#) bazı fikirler bulabilirsiniz\). 
+Her halükarda, paralel bir konuşma ortaya çıktığında veya birileri sürekli kaba veya önemsemez vb. olduğunda ne yapacağınız hakkında bir fikriniz olmalıdır. Bununla başa çıkmanın sözlü ve sözlü olmayan yolları olduğunu bilin.
 
-* Wrap-Up / Meta View: At the end of the training it might be worth to tell your participants what you did and why you did it. This will also make the evaluation easier.
+* Özetleme / Üst amaç: Eğitimin sonunda, katılımcılarınıza ne yaptığınızı ve neden yaptığınızı anlatmaya değer olabilir. Bu aynı zamanda değerlendirmeyi kolaylaştıracaktır.
 
-* Enjoy the session yourself.
+* Oturumun tadını çıkarın.
 
-#### Instant feedback
+#### Anlık geri bildirim
 
-At the end of each module, request feedback from participants in the form of a one-up/one-down \(i.e. state one thing that was useful/good in the module and one thing that was unclear/could be improved\). It can also be more graded / scaled. [Here ](http://www.academis.eu/posts/fist_or_five) is an example feedback with 6 levels. 
+Her modülün sonunda, katılımcılardan modüldeli iyi/faydalı olan bir şeyi ve net olmayan/ geliştirilebilecek bir şeyi belirtebilecekleri formda geri bildirim talep edin. Geri bildirim [buradaki altı düzeyli örnekteki gibi](https://www.academis.eu/posts/teaching/feedback/fist_or_five.md) derecelendirilebilir/puanlanabilir yapıda olabilir.
 
 Another way for getting instant feedback, especially at predefined points, is through continuous polls. As an example, Slack can be employed to provide anonymous feedback on the pace, by giving the option for members of a channel to change their choice on a poll at any given time. Feedback counts should be shown to the participants. Showing totals or graphs can act as an incentive. Online, cloud based tools generate more engagement, especially because the  dependence on devices such as clickers is disappearing. Learners can use internet connected mobile devices and feel empowered. Examples of this are abundant. You should test the methods before you use them with a real audience, and start with the systems that have smoother familiarisation steps, such as [Socrative](https://www.socrative.com/) and [Learning ](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html)[Catalytics](https://www.pearson.com/us/higher-education/products-services-teaching/learning-engagement-tools/learning-catalytics.html), [Polleverywhere](https://www.polleverywhere.com/), [Directpoll. ](http://directpoll.com/)
 
