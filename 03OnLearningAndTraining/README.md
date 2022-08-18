@@ -409,7 +409,7 @@ Diğer bazı anlık geri bildirim stratejileri [teachthought.com](https://www.te
 ## <img src="/Images/Icons/describe.png" width="150" height="150" />
 ### Eğitimin değerlendirilmesi
 
-Başarılı açık bilim eğitimi değerlendirme aşamalarını da gerektirir. Özellikle bir kursa başlarken, kursiyerlerin geri bildirimlerine bakmak faydalıdır. specially when starting a course, it is useful to look at trainees feedback. An evaluation can provide you with valuable insights on your methods and content. Continuous evaluation and consideration of the feedback improves the quality of the training and the trainer's performance.
+Başarılı açık bilim eğitimi değerlendirme aşamalarını da gerektirir. Özellikle bir kursa başlarken, kursiyerlerin geri bildirimlerine bakmak faydalıdır. An evaluation can provide you with valuable insights on your methods and content. Continuous evaluation and consideration of the feedback improves the quality of the training and the trainer's performance.
 
 #### Types of feedback
 
