@@ -466,28 +466,28 @@ Bir kursu değerlendirmek için öncelikle öğrencilerin neye aşina olmasını
 
 * Zamana bağlı olarak, onlardan hayali/basit bir araştırma senaryosu oluşturmalarını ve bunun için Açık Bilim protokollerini oluşturmaya devam etmelerini de isteyebilirsiniz.
 
-### Rework your course
+### Kursunuzu gözden geçirin/yenileyin
 
-You will have had your own expectations before teaching the course and the experience of having done so will show you that things do not always work the way you planned. You should not be too disappointed, because a first time yield for all outcomes is almost impossible, but rather take the end of the course as a starting point to rework your material and rethink some of your methods and practical exercises.
+Eğitim öncesi kendi beklentileriniz olacak ve bu deneyim size işlerin her zaman planladığınız gibi gitmediğini gösterecektir. Bu sizi hayal kırıklığına uğratmamalı çünkü tüm çıktılar için ilk defasında verim almak neredeyse imkansızdır, ancak bunun yerine eğitimin sonunu elinizdeki materyali gözden geçirmek, bazı yöntemlerinizi ve uygulamalı alıştırmalarınızı yeniden düşünmek için bir başlangıç noktası olarak görebilirsiniz.
 
-Be aware that it might even take you three attempts until you will have the feeling that your course has the format it needs and will satisfy both the attendees as well as you as the instructor.
+Kursunuzun gereken formatta olduğunu ve hem katılımcıları hem de eğitmen olarak sizi tatmin edeceğini hissedene kadar üç deneme yapmanız gerekebileceğini unutmayın.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-## Learning outcomes of this chapter
+## Bu bölümün öğrenme çıktıları
 
-After going through this chapter you should be able to respond to requests to plan and deliver training in Open Science to specific audiences.
+Bu bölümü gözden geçirdikten sonra, açık bilim ile ilgili belirli kitlelere eğitim planlama ve sunma taleplerine yanıt verebilmelisiniz.
 
-**Exercise**
+**Alıştırma**
 
-Consider the following hypothetical situation: You have been invited to train principal investigators at an engineering school. The training will be about the management of datasets that are shared between research groups in the school and their colleagues in Canada and New Zealand, in an Open Science context.
+Aşağıdaki varsayımsal durumu göz önünde bulundurun: Bir mühendislik okulunda sorumlu araştırmacılara eğitim vermek üzere davet edildiniz. Eğitim, okuldaki araştırma grupları ile Kanada ve Yeni Zelanda'daki meslektaşları arasında Açık Bilim bağlamında paylaşılan veri setlerinin yönetimi ile ilgili olacaktır.
 
-* In one paragraph describe the design strategy for your training session, in major steps, for example what would you plan to do before, during and after your training session
+* Bir paragrafta, eğitim oturumunuz için tasarım stratejisini ana adımlarla açıklayın, örneğin eğitim oturumunuzdan önce, eğitim sırasında ve eğitimin sonrasında ne yapmayı planlıyorsunuz?
 
-* List three questions that you are allowed to ask to characterise your audience
+* Kitlenizi karakterize etmek için sormanıza izin verilen üç soruyu listeleyin
 
-* List three learning objectives
+* üç öğrenme hedefini listeleyin
 
-* List three expected learning outcomes
+* Beklenen üç öğrenme çıktısını listeleyin
 
 * List three actions that you can use to break the ice and get your audience engaged
 
