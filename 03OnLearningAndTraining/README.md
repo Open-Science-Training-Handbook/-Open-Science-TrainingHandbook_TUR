@@ -409,62 +409,62 @@ Diğer bazı anlık geri bildirim stratejileri [teachthought.com](https://www.te
 ## <img src="/Images/Icons/describe.png" width="150" height="150" />
 ### Eğitimin değerlendirilmesi
 
-Başarılı açık bilim eğitimi değerlendirme aşamalarını da gerektirir. Özellikle bir kursa başlarken, kursiyerlerin geri bildirimlerine bakmak faydalıdır. An evaluation can provide you with valuable insights on your methods and content. Continuous evaluation and consideration of the feedback improves the quality of the training and the trainer's performance.
+Başarılı açık bilim eğitimi değerlendirme aşamalarını da gerektirir. Özellikle bir kursa başlarken, kursiyerlerin geri bildirimlerine bakmak faydalıdır. Değerlendirme, yöntemleriniz ve içeriğiniz hakkında size değerli bilgiler sağlayabilir. Geri bildirimin sürekli değerlendirilmesi ve dikkate alınması eğitimin kalitesini ve eğiticinin performansını iyileştirir.
 
-#### Types of feedback
+#### Geri bildirim türleri
 
-There are different ways to get feedback from your participants:
+Katılımcılardan geri bildirim almanın farklı yolları vardır:
 
-_Classic forms of evaluation_
+_Klasik değerlendirme formları_
 
-* Use an evaluation form in which you ask the participants for feedback on you as a teacher.
+* Katılımcılardan bir eğitici olarak sizin hakkınızda geri bildirim isteyeceğiniz bir değerlendirme formu kullanın. 
 
-* Get interim statements during the course to check, if the course meets expectations. This gives you the opportunity to make adjustments before going on.
+* Eğitimin beklentileri karşılayıp karşılamadığını kontrol etmek için eğitim sırasında ara değerlendirmeler alın. Get interim statements during the course to check, if the course meets expectations. This gives you the opportunity to make adjustments before going on.
 
-_Verbal feedback_
+_Sözlü geri bildirim_
 
-* Ask the trainees for a short summary of their course experience. 
+* Kursiyerlerden kurs deneyimlerini kısaca özetlemelerini isteyin. 
 
-_Self-Evaluation_
+_Öz değerlendirme_
 
-* Make your own evaluation, what went well, what went wrong?
+* Kendi öz değerlendirmenizi yapın, ne iyi gitti, ne kötü gitti? Make your own evaluation, what went well, what went wrong?
 
-_Long term feedback_
+_Uzun dönemli beri bildirim_
 
-* 6 months later, questions about plastic changes in behaviour, more generally about modifications in the attitude and its potential effects.
+* 6 ay sonra, davranıştaki değişiklikler, daha genel olarak tutumdaki değişiklikler ve potansiyel etkileri hakkında sorular.
 
-_Peer to peer feedback_
+_Akranlar arası geri bildirim_
 
-* Colleagues will help you with their experience to prepare your course, eventually attend themselves the course and exchange with you afterwards and will give you their feedback. 
+* Meslektaşlarınız tecrübeletriyle dersi hazırlama konusunda size yardımcı olacak, hatta kursa kendileri katılacak ve sonrasında sizinle fikir alışverişinde bulunacak ve size geri bildirimde bulunacaklardır. 
 
-#### Metrics for training efficiency
+#### Eğitimin etkinliği için ölçevler
 
-In order to evaluate a course you should need to establish, first, what you want your learners to be familiar with, know, analyse critically or be able to explain . Why are you doing the course? Which goals do you want to achieve? And once the course has finished you should check if you reached those goals. There are different criteria on how to measure the success and efficiency of your course \(Kirkpatrick & Kirkpatrick, 1994\):
+Bir kursu değerlendirmek için öncelikle öğrencilerin neye aşina olmasını, neyi bilmesini ve neyi kritik olarak analiz etmesini ya da açıklayabilmesini istediğinizi belirlemeniz gerekir. Kursu neden yapıyorsunuz? Ulaşmak istediğiniz hedefler neler? Kurs tamamlandığında hedeflerinize ulaşıp ulaşmadığınızı kontrol etmelisiniz. Kursunuzun başarısını ve etkinliğini ölçmek için farklı ölçütler vardır \(Kirkpatrick & Kirkpatrick, 1994\):
 
-* Reaction \(meeting expectations\): Are the trainees satisfied with the course? Have the participants reached their learning goals? Were the expectations realistic? How did they react to the course? Was there a clear structure or a common thread?
+* Tepki \(beklentileri karşılama\): Kursiyerler kurstan memnun kaldı mı? Katılımcılar öğrenme hedeflerine ulaştı mı? Beklentiler gerçekçi miydi? Ders ile ilgili tepkileri nasıldı? Net bir yapı ya da ortak bir nokta var mıydı?
 
-* Learning: Did the attendees learn something new? Is it helpful in their current situation? Did they understand everything? Can they assign suggested tools/platforms to the respective Open Science practices? Do they meet the pre-specified learning objectives?
+* Öğrenme: Katılımcılar yeni birşeyler öğrenci mi? Bu mevcut konumları için faydalı mı? Herşeyi anladılar mı? Önerilen araçları/platformları ilgili Açık Bilim uygulamalarında kullanabilirler mi? Önceden belirlenmiş öğrenme hedeflerini karşılıyorlar mı?
 
-* Behaviour: Will they change their way of conducting research? What will they do with their acquired knowledge? Will they recommend the training/content to others?
+* Tutum: Araştırma yapma şekillerinii değiştirecekler mi? Eğitimi/içeriği başkalarına tavsiye edecekler mi?
 
-* Results: which outcomes, when met, have a more positive impact towards the objectives? Which were the ones that brought more benefits?
+* Sonuçlar: Hangi çıktıların karşılanması hedefler üzerinde daha olumlu bir etki yaratacaktır? which outcomes, when met, have a more positive impact towards the objectives? Hangileri daha fazla fayda sağlayacaktır?
 
-### Kirkpatrick’s Training Evaluation Technique
+### Kirkpatrick’in Eğitim Değerlendirme Tekniği
 
-[Kirkpatrick's Four-Level Training Evaluation Model](https://www.mindtools.com/pages/article/kirkpatrick.htm) is an standardised way to analyse the effectiveness and impact of your training. 
+[Kirkpatrick'in Dört Seviyeli Eğitim Değerlendirme Modeli](https://www.mindtools.com/pages/article/kirkpatrick.htm) eğitiminizin etkinliğini ve etkisini analiz etmenin standart bir yoludur.
 
 
-**Exercises**
+**Alıştırmalar**
 
-* Check the learning outcome with gap texts and quizzes.
+* Boşluk doldurmalar ve kısa sınavlarla öğrenme çıktılarını kontrol edin.
 
-* Run a simple exercise at the start and same exercise at the end. Then see if opinions have changed.
+* Başlangıçta basit bir alıştırma yapın ve aynı alıştırmayı en sonda tekrarlayın. Daha sonra görüşlerin değişip değişmediğine bakın.
 
-* Keywords: Prepare paper slips with different key aspects of Open Science. Divide the trainees into groups \(at least 3 people\) and let each of them explain 2-3 keywords to each other.
+* Anahtar sözcükler: Açık bilimin farklı temel yönleriyle ilgili kağıtlar hazırlayın. Öğrencileri \(en az 3 kişilik\) gruplara ayırın ve her biri birbirine 2-3 anahtar kelimeyi açıklasın.
 
-* Give the participants a printout of the general structure for the scientific method, and ask them to assign Open Science tools and methods that can be applied to each of them.
+* Katılımcılara bilimsel yöntemin genel yapısının bir çıktısını verin ve her birine uygulanabilecek Açık Bilim araçlarını ve yöntemlerini bulmalarını isteyin.
 
-* Depending on time, you can also ask them to create an imaginary/simple research scenario and go ahead in establishing the Open Science protocols for it.
+* Zamana bağlı olarak, onlardan hayali/basit bir araştırma senaryosu oluşturmalarını ve bunun için Açık Bilim protokollerini oluşturmaya devam etmelerini de isteyebilirsiniz.
 
 ### Rework your course
 
