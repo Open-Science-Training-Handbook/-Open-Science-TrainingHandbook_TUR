@@ -84,11 +84,11 @@ Eğitiminize gelen herkesin, bilinçli ya da bilinçsiz beklentileri olacaktır.
 
 * Açık bilimi gerçekleştirirken araştırmacıları etkileyebilecek politikaların, düzenlemelerin ve yasaların farkında olmanız.
 
-* Araştırmacıların, elde etme aşamasından paylaşma ve yayma aşamasına kadar verileri ve çıktıları/sonuçları ele alma şeklini belirleyen kurumsal politikalardan ya da bunların eksikliğinden kaynaklı baskıları anlamanız.
+* Araştırmacıların, elde etme aşamasından paylaşma ve yayma aşamasına kadar, verileri ve çıktıları/sonuçları ele alma şeklini belirleyen kurumsal politikalardan ya da bunların eksikliğinden kaynaklı baskıları anlamanız.
 
 * Yurttaş bilimindeki etkileri, toplumum bilim anlayışı, eğitim sağlayıcılar üzerindeki etkisi gibi bilimsel faaliyetlerin kaynak ve sonuçlarının kullanımı ile ilgili toplumsal dokuda ortaya çıkan beklentileri anlamanız.
 
-* Açık bilimi öğretebilme ve açık bilim ileilgili derin bir bilginizin olması. \(Aslında bu kitap bununla ilgili.\)
+* Açık bilimi öğretebilme ve açık bilim ile ilgili derin bir bilginizin olması. \(Aslında bu kitap bununla ilgili.\)
 
 * Bu konuda yeni olanları destekleyecek çevrimiçi doküman ve kaynaklara bağlantı sağlamanız.
 
