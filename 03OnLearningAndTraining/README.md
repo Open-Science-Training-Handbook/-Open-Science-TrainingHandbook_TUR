@@ -41,7 +41,7 @@ Buna rağmen...
 
 ### Stratejiler
 
-Öğrenme ve eğitim konusunda bazen içinde yaşadığınız kültürden de etkilenen farklı teorik yaklaşımlar mevcuttur. Bazı insanlar konuşmayı ve ders vermeyi sever. Bazıları dinlemeyi sever, bazısı ise sevmez. Bazı alıştırmalar basittir ve net cevapları vardır. Bazı alıştırmalar ise problemlere odaklanır ve katılımcılara zaman ve alan bırakarak bunlar üzerine derinlemesine düşünmelerine ve çözüm bulmalarına odaklanır. Sonuç olarak, bazı eğitimler katılımcılara en üst düzey özgürlüğü vermek ve mümkün olduğunca yaratıcı olmalarına sağlamak için tasarlanmıştır. Bu gibi eğitimlerin başarısını değerlendirmek daha zordur.
+Öğrenme ve eğitim konusunda bazen içinde yaşadığınız kültürden de etkilenen farklı teorik yaklaşımlar mevcuttur. Bazı insanlar konuşmayı ve ders vermeyi sever. Bazıları dinlemeyi sever, bazısı ise sevmez. Bazı alıştırmalar basittir ve net cevapları vardır. Bazı alıştırmalar ise problemlere odaklanır ve katılımcılara zaman ve alan bırakarak bunlar üzerine derinlemesine düşünmelerini ve çözüm bulmalarını hedefler. Sonuç olarak, bazı eğitimler katılımcılara en üst düzey özgürlüğü vermek ve mümkün olduğunca yaratıcı olmalarına sağlamak için tasarlanmıştır. Bu gibi eğitimlerin başarısını değerlendirmek daha zordur.
 
 İyi bilinen dört öğrenme kuramı davranışçılık, bilişsellik, bağlantıcılık ve yapılandırmacılıktır. Bunlar, insanların nasıl öğrendiğine yönelik farklı bakış açılarını anlatırlar.
 
