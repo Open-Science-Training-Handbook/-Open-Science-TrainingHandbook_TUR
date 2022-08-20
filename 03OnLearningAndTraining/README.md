@@ -61,14 +61,14 @@ Yakın zamanlı ‘Bağlantılı Müfredat Çerçevesi’ hareketi, öğrenme ya
 
 #### Bu sizinle ne kadar ilgili?
 
-Bilmenin önemli olduğu konu farklı yaklaşımların olduğu ve kendinizi yalnızca bir stratejiyi takip etmek zorunda hissetmemeniz, bunun yerine eğitiminizin hangi noktasında eğitim ve değerlendirme için hangi stratejiyi kullanacağınıza karar vermeniz gerektiğidir.
+Bilmenizin önemli olduğu konu, farklı yaklaşımların olduğu ve kendinizi yalnızca bir stratejiyi takip etmek zorunda hissetmemeniz, bunun yerine eğitiminizin hangi noktasında eğitim ve değerlendirme için hangi stratejiyi kullanacağınıza karar vermeniz gerektiğidir.
 
-Sonuç itibariyle, önemli olan uygulamadır ve sunuldukları zaman ve hedef kitle için uygun olup olmadıklarına karar vermek için içeriğinizi ve uygulamalı alıştırmaları teorik yaklaşımlardan birine göre kontrol etmek faydalı olabilir.
+Sonuç itibariyle, önemli olan uygulamadır ve sunuldukları zaman ve hedef kitleye uygunluğuna karar vermek için içeriğinizi ve uygulamalı alıştırmaları teorik yaklaşımlardan birine göre kontrol etmek faydalı olabilir.
 
 ## <img src="/Images/03 On Learning and Training/03_expectations.png" width="300" height="300" />
 ### Eğitmenle ilgili beklentiler
 
-Eğitiminize gelen herkesin, bilinçli ya da bilinçsiz beklentileri olacaktır. Among others \(Öğretme metodolojisi, içerik ve ön bilgi\) gibi unsurlardan ziyade spesifik beklentileri eğitimci ile ilgilidir.
+Eğitiminize gelen herkesin, bilinçli ya da bilinçsiz beklentileri olacaktır. Öğretme metodolojisi, içerik ve ön bilgi gibi unsurlardan ziyade spesifik beklentileri eğitimci ile ilgilidir.
 
 Çoğu öğrenen sizden şunları yapmanızı bekler:
 
