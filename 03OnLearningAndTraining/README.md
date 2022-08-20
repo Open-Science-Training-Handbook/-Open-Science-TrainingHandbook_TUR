@@ -483,21 +483,21 @@ Aşağıdaki varsayımsal durumu göz önünde bulundurun: Bir mühendislik okul
 
 * Bir paragrafta, eğitim oturumunuz için tasarım stratejisini ana adımlarla açıklayın, örneğin eğitim oturumunuzdan önce, eğitim sırasında ve eğitimin sonrasında ne yapmayı planlıyorsunuz?
 
-* Kitlenizi karakterize etmek için sormanıza izin verilen üç soruyu listeleyin
+* Kitlenizi karakterize etmek için sormanıza izin verilen üç soruyu listeleyin.
 
-* üç öğrenme hedefini listeleyin
+* üç öğrenme hedefini listeleyin.
 
-* Beklenen üç öğrenme çıktısını listeleyin
+* Beklenen üç öğrenme çıktısını listeleyin.
 
-* List three actions that you can use to break the ice and get your audience engaged
+* Buzları kırmak ve katılımcılarınızın kaynaşmasını sağlamak için kullanabileceğiniz üç eylemi listeleyin.
 
-* List three questions that you would ask to check what the participants have learned
+* Katılımcıların ne öğrendiğini kontrol etmek için soracağınız üç soruyu listeleyin.
 
-* List three questions that you would ask to check if the participants enjoyed the session.
+* Katılımcıların oturumdan keyif alıp almadıklarını kontrol etmek için soracağınız üç soruyu listeleyin.
 
-* Be ready to react to genuine and spontaneously created wordcloud \(sli.do or some other tool\) : don’t be afraid to co-work with your audience, learn to play with what you know \(and assume you also have to right for some perplexity\)
+* Özgün ve spontane oluşturulmuş kelime bulutuna karşı hazırlıklı olun \(sli.do ya da diğer bazı araçlar\) : katılımcılarınızla ortak çalışmaktan korkmayın, bildiklerinizle oynamayı öğrenin  \(ve biraz kafa bulanıklığına da hakkınız olduğunu farzedin\)
 
-Similar exercises can be applied to training different audiences, for which you may consider the same way of testing your knowledge.
+Benzer alıştırmalar, bilginizi test etmenin aynı yolunu düşünebileceğiniz farklı kitleleri eğitmek için uygulanabilir.
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Ek okuma listesi
@@ -515,7 +515,7 @@ Similar exercises can be applied to training different audiences, for which you 
 
 **Kaynakça**
 
-* Ambrose, Bridges, DiPietro, Lovett, Norman ve Mayer. How learning works. [Highlights summarized by Brent and Felder](https://www.engr.ncsu.edu/wp-content/uploads/drive/1kLlZRp7ir79R7PPkOssZbPg7mbPFq-MQ/2011-r_Ambrose.pdf). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
+* Ambrose, Bridges, DiPietro, Lovett, Norman ve Mayer. How learning works. [Brent ve Felde tarafından özetlenen önemli noktalar](https://www.engr.ncsu.edu/wp-content/uploads/drive/1kLlZRp7ir79R7PPkOssZbPg7mbPFq-MQ/2011-r_Ambrose.pdf). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
 
 * Dale (1969). Audio-Visual Methods in Teaching, 3. bs., Holt, Rinehart & Winston, New York, s.10.
 
