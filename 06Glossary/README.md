@@ -93,51 +93,51 @@
 
 * Açık Veriler çevrimiçi, ücretsiz, erişilebilir, veri kaynağına atıf yapılması koşuluyla kullanılabilen, yeniden kullanılabilen ve dağıtılabilen verilerdir.
 
-**Open Evaluation**
+**Açık Değerlendirme**
 
-* The development of a fair evaluation system or protocol for research proposals, based on transparency of the process and those involved.
+* Araştırma önerileri için sürecin ve ilgililerin şeffaflığına dayanan, adil bir değerlendirme sisteminin ya da protokolünün geliştirilmesidir.
 
-**Open Lab Notebooks**
+**Açık Lab Defterleri**
 
-* A concept of writing about research on a regular basis, such that research notes and data are accumulated and published online as soon as they are obtained.
+* Araştırma notları ve verilerinin toplanıp, elde edilir edilmez çevrimiçi olarak yayınlanması için düzenli olarak araştırma hakkında yazma kavramıdır.
 
-**Open Materials**
+**Açık Materyaller**
 
-* Sharing of research materials, for example, biological and geological samples, is another Open Science practice.
+* Biyolojik ve jeolojik örnekler gibi araştırma materyallerinin paylaşılması olan başka bir Açık Bilim uygulamasıdır.
 
-**Open Peer Review**
+**Açık Hakem Değerlendirmesi**
 
-* An umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process.
+* Hakem ve yazar kimliklerinin açık hale getirilmesi, hakem raporlarının yayınlanması ve hakem değerlendirme sürecine daha fazla katılımın sağlanması da dahil olmak üzere, hakem değerlendirme modellerinin açık bilimin amaçları doğrultusunda uyarlanabileceği bir dizi örtüşen yöntem için şemsiye bir terim. 
 
-**Open Science**
+**Açık Bilim**
 
-* Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society.
+* Açık bilim bilimsel araştırmaların, verilerin ve dağıtımın, sorgulayan bir toplumun tüm düzeyleri için erişilebilir hale getirilmesi hareketidir.
 
-**Open Source**
+**Açık Kaynak**
 
-* Availability of source code for a piece of software, along with an open source license permitting reuse, adaptation, and further distribution.
+* Yeniden kullanım, uyarlama ve dağıtıma izin veren bir açık kaynak lisansı ile birlikte bir yazılım için kaynak kodlarının erişilebilir olmasıdır.
 
-**Peer Review**
+**Hakem Değerlendirmesi**
 
-* A process by which a research article is vetted by experts from the community before publication.
+* Bir araştırma makalesinin yayın öncesi topluluktaki uzmanlarca incelendiği bir süreçtir.
 
-**Persistent Identifier (PID)**
+**Kalıcı Tanımlayıcı (Persistent Identifier - PID)**
 
-* A persistent identifier (also PID) is a unique and stable denomination (reference) of a digital resource (e.g. research data) through allocation of a code that can be persistently and explicitly referenced on the internet.
+* Bir kalıcı tanımlayıcı (PID), internette kalıcı ve açık bir şekilde başvurulabilen bir kodun atanması ile dijital bir kaynağın (örneğin, araştırma verileri) benzersiz ve sabit bir değeridir (atıf).
 
-**Persistent/Preferred File Formats**
+**Kalıcı/Öncelikli Dosya Formatları**
 
-* Non-proprietary formats that follow documented international standards, are commonly used by the research community, use standard character encoding (e.g. ASCII, UTF-8), and were compression, if used at all, is lossless.
+* Belgelenmiş uluslararası standartları izleyen, araştırma topluluğu tarafından yaygın olarak kullanılan, standart karakter kodlaması (örneğin, ASCII, UTF-8) kullanan ve kullanıldığında sıkıştırmanın kayıpsız olduğu tescilli olmayan biçimlerdir.
 
-**Preprint**
+**Ön Baskı**
 
-* A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
+* Henüz resmi hakem değerlendirmesinden geçmemiş, uzmanlardan araştırma hakkında erken geri bildirim almak için dağıtılan bir çalışma taslağıdır.
 
-**Preregistration**
+**Ön Kayıt (Preregistration)**
 
-* Researchers have the option or are required to submit important information about their study (for example: research rationale, hypotheses, design and analytic strategy) to a public registry before beginning the study. Preregistration can help counter reporting bias.
+* Araştırmacılar, çalışmaya başlamadan önce çalışmalarıyla ilgili önemli bilgileri (örneğin, araştırma gerekçesi, hipotezler, tasarım ve analitik strateji) bir veri tabanında sunma seçeneğine sahiptir veya bu bilgileri sunmaları gerekmektedir. Ön kayıt, raporlama yanlılığına karşı yardımcı olabilir..
 
-**README file**
+**BENİOKU dosyası**
 
 * File where you document your research data. The documentation should be sufficient to enable other researchers to understand, replicate or reproduce the data or reuse them in any other way.
 
@@ -185,11 +185,11 @@
 
 * A conventionally named, standardised delivery method that is applied by a trainer and includes any number of the pedagogical tools necessary (i.e. motivation/demotivation, hands-on approaches, etc).
 
-**Version Control**
+**Sürüm Kontrolü**
 
-* Version control is the management of changes to documents, computer programs, large web sites, and other collections of information in a logical and persistent manner, allowing for both track changes and the ability to revert a piece of information to a previous revision.
+* Sürüm kontrolü dokümanlarda, bilgisayar programlarında, büyük web sitelerinde ve diğer bilgi koleksiyonlarında yapılan değişikliklerin, hem bu değişikliklerin izlenmesine hem de bir bilginin önceki haline dönüştürülmesine izin verecek şekilde,  mantıksal ve kalıcı bir biçimde yönetimidir.
 
-## Additional Resources
+## Ek Kaynaklar
 
 * [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml), hosted by the R2RC.
 
