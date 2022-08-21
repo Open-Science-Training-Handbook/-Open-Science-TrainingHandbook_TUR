@@ -3,7 +3,7 @@
 
 **Altmetrikler**
 
-* Altmetrikler bilimin kullanımını ve etkisini kayıy altına almanın ve ölçmenin alternatif yollarıdır. Bir çalışmanın, yalnızca bilimsel literatürde kaç defa atıf aldığını ölçmektense, alternatif metrikler daha kapsamlı bir erişim ve etki ölçümü sağlamak için sosyal medyayı (örneğin, facebook, Twitter, bloglar, wikiler vb.), dokümanın indirilme sayısını, yayımlanmış ve yayımlanmamış versiyonlara verilen bağlantıları ve araştırma literatürünün diğer kullanımlarını da ölçer.
+* Altmetrikler bilimin kullanımını ve etkisini kayıt altına almanın ve ölçmenin alternatif yollarıdır. Bir çalışmanın, yalnızca bilimsel literatürde kaç defa atıf aldığını ölçmektense, alternatif metrikler daha kapsamlı bir erişim ve etki ölçümü sağlamak için sosyal medyayı (örneğin, Facebook, Twitter, bloglar, wikiler vb.), indirme sayısını, yayımlanmış ve yayımlanmamış versiyonlara verilen bağlantıları ve araştırma literatürünün diğer kullanımlarını da ölçer.
 
 **Hedef kitle**
 
@@ -17,9 +17,9 @@
 
 * Bilişselcilik, dış dünya ile yansıtıcı beynin, halihazırda depolamış olduğu bilgilerle birlikte algılanan bilgilerden ne çıkardığı arasındaki etkileşime dayanır. Bu nedenle bilişselcilik problem çözmeye odaklanır.
 
-**Connectivism**
+**Bağlantıcılık*
 
-* Bağlantıcılık, kaos, ağ, karmaşıklık ve kendi kendini örgütleme teorileri tarafından keşfedilen ilkelerin bütünleşmesidir. Bağlantıcılık, sürekli olarak yeni bilgiler elde edildiğinden, kararların hızla değişen temellere dayandığı anlayışı tarafından yönlendirilir.
+* Bağlantıcılık, kaos, ağ, karmaşıklık ve kendi kendini örgütleme teorileri tarafından keşfedilen ilkelerin bütünleşmesidir. Bağlantıcılık, sürekli olarak yeni bilgiler elde edildiğinden, kararların hızla değişen temellere dayandığı anlayışı ile yönlendirilir.
 
 **Konstrüktivizm**
 
@@ -27,7 +27,7 @@
 
 **Telif hakkı**
 
-* Fikri mülkiyetin yaratıcılara eserlerinin çoğaltılmasına izin verme (veya vermeme) hakkı veren yönü. Ticari marka haklarından veya manevi haklardan farklıdır.
+* Fikri mülkiyetin, yaratıcılara, eserlerinin çoğaltılmasına izin verme (veya vermeme) hakkı veren yönüdür. Ticari marka haklarından veya manevi haklardan farklıdır.
 
 **Creative Commons**
 
@@ -47,7 +47,7 @@
 
 **Dijital Nesne Tanımlayıcı (Digital Object Identifier - DOI)**
 
-* Dergi makaleleri, veri kümeleri veya açık kaynaklı yazılım sürümleri gibi dijital nesneleri tanımlamak için kullanılan benzersiz bir metin dizesi. DOI, bir tür Kalıcı Tanımlayıcıdır (Persistent Identifier - PID).
+* Dergi makaleleri, veri kümeleri veya açık kaynaklı yazılım sürümleri gibi dijital nesneleri tanımlamak için kullanılan benzersiz bir metin dizesidir. DOI, bir tür Kalıcı Tanımlayıcıdır (Persistent Identifier - PID).
 
 **Dokümantasyon**
 
@@ -55,7 +55,7 @@
 
 **FAIR Veri**
 
-* FAIR veri ([FORCE11 ilkelerine](https://www.force11.org/group/fairgroup/fairprinciples) göre ve [Nature Scientific Data(https://www.nature.com/articles/sdata201618)'da yayımlandığı şekliyle) insanlara ve makinelere göreve uygun bilimsel verileri ve bunlarla ilişkili algoritmaları ve iş akışlarını keşfetmelerinde, bunlara erişimlerinde, entegrasyonunda ve analizlerinde yardımcı olarak bilgi keşfini kolaylaştırmak için bulunabilir (Findable), erişilebilir (Accessible), birlikte çalışılabilir (Interoperable) ve yeniden kullanılabilir (Re-usable).
+* FAIR veri ([FORCE11 ilkelerine](https://www.force11.org/group/fairgroup/fairprinciples) göre ve [Nature Scientific Data](https://www.nature.com/articles/sdata201618)'da yayımlandığı şekliyle) insanlara ve makinelere göreve uygun bilimsel verileri ve bunlarla ilişkili algoritmaları ve iş akışlarını keşfetmelerinde, bunlara erişimlerinde, entegrasyonunda ve analizlerinde yardımcı olarak bilgi keşfini kolaylaştırmak için bulunabilir (Findable), erişilebilir (Accessible), birlikte çalışılabilir (Interoperable) ve yeniden kullanılabilir (Re-usable).
 
 **Oyunlaştırma**
 
@@ -65,9 +65,9 @@
 
 * (Genel Veri Koruma Yönetmeliği - General Data Protection Regulation), AB genelinde uyumlu bir veri koruma kanunu çerçevesi oluşturmayı amaçlamaktadır. Dünyanın herhangi bir yerinde bu verileri barındıran ve 'işleyenlere' katı kurallar uygularken, kişisel verilerin kontrolünü vatandaşlara bırakmayı amaçlar. Yönetmelik ayrıca kişisel verilerin AB içinde ve dışında serbest dolaşımına ilişkin kuralları da getirmektedir.
 
-**Etki Fakötörü**
+**Etki Faktörü**
 
-* Bir dergide önceki iki yılda yayınlanan makalelere yapılan ortalama atıf sayısını gösteren sayısal bir ölçevdir. Sıklıkla bir derginin göreli önemine ithafen kullanılır. Bir dergide yayınlanan makalelerin bireysel etkisinin dergiye aktarımının sorunlu olduğu düşünülmektedir.
+* Bir dergide önceki iki yılda yayımlanan makalelere yapılan ortalama atıf sayısını gösteren sayısal bir ölçevdir. Sıklıkla bir derginin göreli önemine ithafen kullanılır. Bir dergide yayımlanan makalelerin bireysel etkisinin dergiye aktarımının sorunlu olduğu düşünülmektedir.
 
 **Fikri Mülkiyet**
 
@@ -83,7 +83,7 @@
 
 **Üst Veri**
 
-* Üst veri, genellikle yazarlık, tarihler, başlık, öz, anahtar kelimeler ve lisans bilgileri dahil olmak üzere verilerin temel bir tanımını sağlar. Her şeyden önce verilerin bulunabilirliğine hizmet eder (örneğin, yaratıcı, zaman dilimi, coğrafi konum).
+* Üst veri, genellikle yazarlık, tarihler, başlık, öz, anahtar kelimeler ve lisans bilgileri dahil olmak üzere verilerin temel bir tanımını sağlar. Her şeyden önce verilerin bulunabilirliğine (örneğin, yaratıcı, zaman dilimi, coğrafi konum) hizmet eder .
 
 **Açık Erişim**
 
@@ -91,7 +91,7 @@
 
 **Açık Veri**
 
-* Açık Veriler çevrimiçi, ücretsiz, erişilebilir, veri kaynağına atıf yapılması koşuluyla kullanılabilen, yeniden kullanılabilen ve dağıtılabilen verilerdir.
+* Açık Veriler çevrimiçi ücretsiz erişilebilen, veri kaynağına atıf yapılması koşuluyla kullanılabilen, yeniden kullanılabilen ve dağıtılabilen verilerdir.
 
 **Açık Değerlendirme**
 
@@ -103,11 +103,11 @@
 
 **Açık Materyaller**
 
-* Biyolojik ve jeolojik örnekler gibi araştırma materyallerinin paylaşılması olan başka bir Açık Bilim uygulamasıdır.
+* Biyolojik ve jeolojik örnekler gibi araştırma materyallerinin paylaşılmasını ifade eden başka bir Açık Bilim uygulamasıdır.
 
 **Açık Hakem Değerlendirmesi**
 
-* Hakem ve yazar kimliklerinin açık hale getirilmesi, hakem raporlarının yayınlanması ve hakem değerlendirme sürecine daha fazla katılımın sağlanması da dahil olmak üzere, hakem değerlendirme modellerinin açık bilimin amaçları doğrultusunda uyarlanabileceği bir dizi örtüşen yöntem için şemsiye bir terim. 
+* Hakem ve yazar kimliklerinin açık hale getirilmesi, hakem raporlarının yayınlanması ve hakem değerlendirme sürecine daha fazla katılımın sağlanması da dahil olmak üzere, hakem değerlendirme modellerinin açık bilimin amaçları doğrultusunda uyarlanabileceği bir dizi örtüşen yöntem için şemsiye bir terimdir. 
 
 **Açık Bilim**
 
@@ -123,7 +123,7 @@
 
 **Kalıcı Tanımlayıcı (Persistent Identifier - PID)**
 
-* Bir kalıcı tanımlayıcı (PID), internette kalıcı ve açık bir şekilde başvurulabilen bir kodun atanması ile dijital bir kaynağın (örneğin, araştırma verileri) benzersiz ve sabit bir değeridir (atıf).
+* Bir kalıcı tanımlayıcı (PID), internette kalıcı ve açık bir şekilde başvurulabilen bir kodun atanması ile dijital bir kaynağın (örneğin, araştırma verileri) benzersiz ve sabit bir değeridir.
 
 **Kalıcı/Öncelikli Dosya Formatları**
 
@@ -135,7 +135,7 @@
 
 **Ön Kayıt (Preregistration)**
 
-* Araştırmacılar, çalışmaya başlamadan önce çalışmalarıyla ilgili önemli bilgileri (örneğin, araştırma gerekçesi, hipotezler, tasarım ve analitik strateji) bir veri tabanında sunma seçeneğine sahiptir veya bu bilgileri sunmaları gerekmektedir. Ön kayıt, raporlama yanlılığına karşı yardımcı olabilir..
+* Araştırmacılar, çalışmaya başlamadan önce çalışmalarıyla ilgili önemli bilgileri (örneğin, araştırma gerekçesi, hipotezler, tasarım ve analitik strateji) bir veri tabanında sunma seçeneğine sahiptir veya bu bilgileri sunmaları gerekmektedir. Ön kayıt, raporlama yanlılığına karşı yardımcı olabilir.
 
 **BENİOKU dosyası**
 
@@ -151,7 +151,7 @@
 
 **Tekrarlanabilir araştırma**
 
-* Tekrarlanabilirlik bir spektrumdur ve eğitmenler, hedef kitleleri tarafından en çok kullanılan tanımı seçmelidir. Genel olarak, tekrarlanabilir araştırma, bir çalışmanın veya deneyin benzer sonuçlarını bulmayı ve aynı yöntemlerle ancak farklı koşullar altında elde edilen bağımsız sonuçların bulunmasını mümkün kılar. Bazıları tanımı, hesaplamalı olarak yeniden üretilebilir ("reproducible" - burada kod ve veriler aynı sonuçları elde etmek için orijinal araştırmadakine benzer bir şekilde analiz edilebilir) ve ampirik olarak yeniden üretilebilir ("replicable" - bağımsız bir araştırmacının aynı yöntemleri kullanarak ancak yeni veriler oluşturarak bir çalışmayı tekrarlayabilir) olmak üzere tekrarlanabilirlik düzeylerine göre ayırır.
+* Tekrarlanabilirlik bir spektrumdur ve eğitmenler, hedef kitleleri tarafından en çok kullanılan tanımı seçmelidir. Genel olarak, tekrarlanabilir araştırma, bir çalışmanın veya deneyin benzer sonuçlarını bulmayı ve aynı yöntemlerle ancak farklı koşullar altında elde edilen bağımsız sonuçların bulunmasını mümkün kılar. Bazıları tanımı, hesaplamalı olarak yeniden üretilebilir ("reproducible" - burada kod ve veriler aynı sonuçları elde etmek için orijinal araştırmadakine benzer bir şekilde analiz edilebilir) ve ampirik olarak yeniden üretilebilir ("replicable" - bağımsız bir araştırmacı aynı yöntemleri kullanarak ancak yeni veriler oluşturarak bir çalışmayı tekrarlayabilir) olmak üzere tekrarlanabilirlik düzeylerine göre ayırır.
 
 **Araştırma Etkisi**
 
@@ -163,7 +163,7 @@
 
 **Bilimsel İletişim**
 
-* Öğretim, araştırma ve bilimsel çabalarla ilgili bilginin yaratılması, dönüştürülmesi, yayılması ve korunması; akademisyenler, akademisyenler ve araştırmacıların araştırma bulgularını daha geniş akademik topluluğa açık hale getirmek için paylaşma ve yayınlama sürecidir.
+* Öğretim, araştırma ve bilimsel çabalarla ilgili bilginin yaratılması, dönüştürülmesi, yayılması ve korunması; akademisyenler ve araştırmacıların araştırma bulgularını daha geniş akademik topluluğa açık hale getirmek için paylaşma ve yayınlama sürecidir.
 
 **Paylaşım**
 
