@@ -1,97 +1,97 @@
 ## <img src="/Images/Icons/idea.png" width="200" height="200" />
-## Glossary
+## Sözlük
 
-**Altmetrics**
+**Altmetrikler**
 
-* Altmetrics are alternative ways of recording and measuring the use and impact of scholarship. Rather than solely counting the number of times a work is cited in scholarly literature, alternative metrics also measure and analyze social media (e.g., Facebook, Twitter, blogs, wikis, etc.), document downloads, links to publishing and unpublished research, and other uses of research literature, in order to provide a more comprehensive measurement of reach and impact.
+* Altmetrikler bilimin kullanımını ve etkisini kayıy altına almanın ve ölçmenin alternatif yollarıdır. Bir çalışmanın, yalnızca bilimsel literatürde kaç defa atıf aldığını ölçmektense, alternatif metrikler daha kapsamlı bir erişim ve etki ölçümü sağlamak için sosyal medyayı (örneğin, facebook, Twitter, bloglar, wikiler vb.), dokümanın indirilme sayısını, yayımlanmış ve yayımlanmamış versiyonlara verilen bağlantıları ve araştırma literatürünün diğer kullanımlarını da ölçer.
 
-**Audience**
+**Hedef kitle**
 
-* The group addressed by a communication (e.g., those in attendance of an Open Science training). The target audience is a group of individuals that will be addressed or affected by the training.
+* Bir iletişimin hitap ettiği grup (örneğin, bir Açık Bilim eğitimine katılanlar). Hedef kitle, eğitimde hitap edilecek veya eğitimden etkilenecek bir grup bireydir.
 
-**Behaviorism (Learning Theory)**
+**Davranışçılık (Öğrenme Kuramı)**
 
-* Behaviorism means that learning is governed by drill-and-practice and is best done with the use of stimuli to which the learners respond. This generally means that you ask the learner to do an exercise for which there is a clear answer or a clear path to follow. Evaluation is clear and can easily be done with the help of simple metrics.
+* Davranışçılık, öğrenmenin alıştırma ve uygulama ile yönetildiği anlamına gelir ve en iyi şekilde öğrencilerin yanıt verdiği uyaranların kullanımıyla yapılır. Bu genellikle, öğrenciden net bir cevabı veya izlenebilecek net bir yolu olan bir alıştırma yapmasını istemeniz anlamına gelir. Değerlendirme nettir ve basit ölçevler yardımıyla kolaylıkla yapılabilir.
 
-**Cognitivism**
+**Bilişselcilik**
 
-* Cognitivism is based on the interaction between the outer world and what the reflecting brain makes out of the information perceived in combination with the knowledge that it has already stored. Cognitivism concentrates therefore on problem solving.
+* Bilişselcilik, dış dünya ile yansıtıcı beynin, halihazırda depolamış olduğu bilgilerle birlikte algılanan bilgilerden ne çıkardığı arasındaki etkileşime dayanır. Bu nedenle bilişselcilik problem çözmeye odaklanır.
 
 **Connectivism**
 
-* Connectivism is the integration of principles explored by chaos, network, complexity and self-organization theories. Connectivism is driven by the understanding that decisions are based on rapidly altering foundations, as new information is continually being acquired. 
+* Bağlantıcılık, kaos, ağ, karmaşıklık ve kendi kendini örgütleme teorileri tarafından keşfedilen ilkelerin bütünleşmesidir. Bağlantıcılık, sürekli olarak yeni bilgiler elde edildiğinden, kararların hızla değişen temellere dayandığı anlayışı tarafından yönlendirilir.
 
-**Constructivism**
+**Konstrüktivizm**
 
-* Constructivism in the strict sense means the world is not as it is. Instead the world is primarily the product of our individual experiences and minds. In the context of teaching and learning this means that learners themselves create the path of learning. The focus is hence on the learner’s creativity and evaluation of progress is not based on the differentiation between right or wrong.
+* Konstrüktivizm, dar anlamıyla dünyanın göründüğü gibi olmadığı anlamına gelir. Bunun yerine dünya öncelikle bireysel deneyimlerimizin ve zihinlerimizin ürünüdür. Öğretme ve öğrenme bağlamında bu, öğrencilerin öğrenme yolunu kendilerinin yarattığı anlamına gelir. Bu nedenle odak, öğrencinin yaratıcılığı üzerindedir ve ilerlemenin değerlendirilmesi, doğru ve yanlış arasındaki farklılaşmaya dayanmaz.
 
-**Copyright**
+**Telif hakkı**
 
-* The aspect of Intellectual property that grants creators the right to permit (or not permit) the reproduction of their creations. It is distinct from trademark rights or moral rights.
+* Fikri mülkiyetin yaratıcılara eserlerinin çoğaltılmasına izin verme (veya vermeme) hakkı veren yönü. Ticari marka haklarından veya manevi haklardan farklıdır.
 
 **Creative Commons**
 
-* A suite of standardized licences that allow copyright holders to grant some rights to users by default. CC licences are widely used, simple to use, machine readable, and have been created by legal experts. There are a variety of CC licences, each of which use one or more clauses. Some licences are compatible with Open Access in the Budapest sense (CC0 or those carrying the BY, SA, and ND clauses), and some are not (carrying the NC clause). 
+* Telif hakkı sahiplerinin varsayılan olarak kullanıcılara bazı haklar vermesini sağlayan standartlaştırılmış lisanslar paketi. CC lisansları yaygın olarak kullanılır, kullanımı kolaydır, makine tarafından okunabilir ve hukuk uzmanları tarafından oluşturulmuştur. Her biri bir veya daha fazla koşul (madde) kullanan çeşitli CC lisansları vardır. Bazı lisanslar Budapeşte anlamında Açık Erişim ile uyumludur (CC0 veya BY, SA ve ND maddelerini taşıyanlar) ve bazıları değildir (NC maddesini taşıyanlar).
 
-**Curriculum**
+**Müfredat**
 
-* Curriculum refers to the lessons and other training content taught in a school or in a specific course or program within a defined structure.
+* Müfredat, bir okulda veya belirli bir ders veya programda tanımlanmış bir yapı içinde öğretilen dersleri ve diğer eğitim içeriğini ifade eder.
 
-**Data**
+**Veri**
 
-* Data in the sense used here are all digitally available objects (simple or complex) that emerge or are the result of the research process.
+* Burada kullanılan anlamda veriler, araştırma sürecinin sonucu olan veya araştırma sürecinde ortaya çıkan dijital olarak mevcut (basit veya karmaşık) tüm nesnelerdir.
 
-**Data Mining**
+**Veri madenciliği**
 
-* An analytic process designed to explore data in search of consistent patterns or systematic relationships between variables, transforming data into information for future use.
+* Değişkenler arasındaki tutarlı örüntüleri veya sistematik ilişkileri araştırmak için verileri keşfetmek, verileri gelecekte kullanmak üzere bilgiye dönüştürmek amacıyla tasarlanmış bir analitik süreç.
 
-**Digital Object Identifier (DOI)**
+**Dijital Nesne Tanımlayıcı (Digital Object Identifier - DOI)**
 
-* A unique text string that is used to identify digital objects such as journal articles, data sets or open source software releases. A DOI is one type of Persistent Identifier (PID).
+* Dergi makaleleri, veri kümeleri veya açık kaynaklı yazılım sürümleri gibi dijital nesneleri tanımlamak için kullanılan benzersiz bir metin dizesi. DOI, bir tür Kalıcı Tanımlayıcıdır (Persistent Identifier - PID).
 
-**Documentation**
+**Dokümantasyon**
 
-* A documentation is detailed information as well as background and methodological approach about the data or code (e.g., description of the project, variables, and measuring instruments). 
+* Bir dokümantasyon, veri veya kod (örneğin, projenin tanımı, değişkenler ve ölçüm araçları) hakkında arka plan ve metodolojik yaklaşıma ek olarak verilen ayrıntılı bilgidir.
 
-**FAIR Data**
+**FAIR Veri**
 
-* FAIR Data (according to [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) and published in [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) are Findable, Accessible, Interoperable, and Re-usable, in order to facilitate knowledge discovery by assisting humans and machines in their discovery of, access to, integration and analysis of, task-appropriate scientific data and their associated algorithms and workflows.
+* FAIR veri ([FORCE11 ilkelerine](https://www.force11.org/group/fairgroup/fairprinciples) göre ve [Nature Scientific Data(https://www.nature.com/articles/sdata201618)'da yayımlandığı şekliyle) insanlara ve makinelere göreve uygun bilimsel verileri ve bunlarla ilişkili algoritmaları ve iş akışlarını keşfetmelerinde, bunlara erişimlerinde, entegrasyonunda ve analizlerinde yardımcı olarak bilgi keşfini kolaylaştırmak için bulunabilir (Findable), erişilebilir (Accessible), birlikte çalışılabilir (Interoperable) ve yeniden kullanılabilir (Re-usable).
 
-**Gamification**
+**Oyunlaştırma**
 
-* The use of game design elements and game mechanics in non-game contexts, such as education where it can be used to bring extra engagement.
+* Oyun tasarım öğelerinin ve oyun mekaniğinin ekstra etkileşim sağlamak amacıyla eğitim gibi oyun dışı bağlamlarda kullanımı.
 
 **GDPR**
 
-* (General Data Protection Regulation) seeks to create a harmonised data protection law framework across the EU. It aims to restitute the control of personal data to citizens, whilst imposing strict rules on those hosting and 'processing' these data, anywhere in the world. The Regulation also introduces rules relating to the free movement of personal data within and outside the EU.
+* (Genel Veri Koruma Yönetmeliği - General Data Protection Regulation), AB genelinde uyumlu bir veri koruma kanunu çerçevesi oluşturmayı amaçlamaktadır. Dünyanın herhangi bir yerinde bu verileri barındıran ve 'işleyenlere' katı kurallar uygularken, kişisel verilerin kontrolünü vatandaşlara bırakmayı amaçlar. Yönetmelik ayrıca kişisel verilerin AB içinde ve dışında serbest dolaşımına ilişkin kuralları da getirmektedir.
 
-**Impact Factor**
+**Etki Fakötörü**
 
-* A numerical measure that indicates the average number of citations to articles published over the previous two years in a journal. It is frequently used as a proxy for a journal's relative importance. Its transfer to the impact of individual articles published in a journal is considered to be problematic.
+* Bir dergide önceki iki yılda yayınlanan makalelere yapılan ortalama atıf sayısını gösteren sayısal bir ölçevdir. Sıklıkla bir derginin göreli önemine ithafen kullanılır. Bir dergide yayınlanan makalelerin bireysel etkisinin dergiye aktarımının sorunlu olduğu düşünülmektedir.
 
-**Intellectual Property**
+**Fikri Mülkiyet**
 
-* A legal term that refers to creations of the mind. Examples of intellectual property include music, literature, paintings, sculpturing, video and other artistic works; discoveries and inventions; and phrases, symbols, and designs.
+* Fikir eserlerine ithafen kullanılan yasal bir terim. Fikri mülkiyet örnekleri arasında müzik, edebiyat, resim, heykel, video ve diğer sanatsal çalışmalar; keşifler ve icatlar; ve ifadeler, semboller ve tasarımlar yer alır.
 
-**Journal**
+**Dergi**
 
-* A series of published research articles. Historically divided into volumes and issues.
+* Yayımlanmış bir dizi araştırma makalesi. Tarihsel olarak ciltlere ve konulara ayrılmıştır.
 
-**License**
+**Lisans**
 
-* A license allows a third party to perform certain actions with a work or data. The license informs about the usage rights of a resource (e.g. text, data, source code).
+* Lisans, üçüncü bir tarafın bir çalışma veya verilerle belirli eylemleri gerçekleştirmesine izin verir. Lisans, bir kaynağın (örneğin, metin, veri, kaynak kodu) kullanım hakları ile ilgili bilgi verir.
 
-**Metadata**
+**Üst Veri**
 
-* Metadata provide a basic description of the data, often including authorship, dates, title, abstract, keywords, and license information. They serve first and foremost the findability of data (e.g. creator, time period, geographic location).
+* Üst veri, genellikle yazarlık, tarihler, başlık, öz, anahtar kelimeler ve lisans bilgileri dahil olmak üzere verilerin temel bir tanımını sağlar. Her şeyden önce verilerin bulunabilirliğine hizmet eder (örneğin, yaratıcı, zaman dilimi, coğrafi konum).
 
-**Open Access**
+**Açık Erişim**
 
-* Open Access refers to online, free of cost access to peer reviewed scientific content with free reusability regarding copyright restrictions.
+* Açık Erişim, telif hakkı kısıtlamalarına ilişkin ücretsiz yeniden kullanılabilirlik ile hakemli bilimsel içeriğe çevrimiçi, ücretsiz erişim anlamına gelir.
 
-**Open Data**
+**Açık Veri**
 
-* Open Data are online, free of cost, accessible data that can be used, reused and distributed provided that the data source is attributed.
+* Açık Veriler çevrimiçi, ücretsiz, erişilebilir, veri kaynağına atıf yapılması koşuluyla kullanılabilen, yeniden kullanılabilen ve dağıtılabilen verilerdir.
 
 **Open Evaluation**
 
