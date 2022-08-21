@@ -191,7 +191,7 @@
 
 ## Ek Kaynaklar
 
-* [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml), hosted by the R2RC.
+* [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml), R2RC tarafından sunulmaktadır.
 
 * [FOSTER Taxonomy](https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition)
 
