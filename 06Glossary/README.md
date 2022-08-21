@@ -31,7 +31,7 @@
 
 **Creative Commons**
 
-* Telif hakkı sahiplerinin varsayılan olarak kullanıcılara bazı haklar vermesini sağlayan standartlaştırılmış lisanslar paketi. CC lisansları yaygın olarak kullanılır, kullanımı kolaydır, makine tarafından okunabilir ve hukuk uzmanları tarafından oluşturulmuştur. Her biri bir veya daha fazla koşul (madde) kullanan çeşitli CC lisansları vardır. Bazı lisanslar Budapeşte anlamında Açık Erişim ile uyumludur (CC0 veya BY, SA ve ND maddelerini taşıyanlar) ve bazıları değildir (NC maddesini taşıyanlar).
+* Telif hakkı sahiplerinin varsayılan olarak kullanıcılara bazı haklar vermesini sağlayan standartlaştırılmış lisanslar paketidir. CC lisansları yaygın olarak kullanılır, kullanımı kolaydır, makine tarafından okunabilir ve hukuk uzmanları tarafından oluşturulmuştur. Her biri bir veya daha fazla koşul (madde) kullanan çeşitli CC lisansları vardır. Bazı lisanslar Budapeşte anlamında Açık Erişim ile uyumludur (CC0 veya BY, SA ve ND maddelerini taşıyanlar) ve bazıları değildir (NC maddesini taşıyanlar).
 
 **Müfredat**
 
@@ -43,7 +43,7 @@
 
 **Veri madenciliği**
 
-* Değişkenler arasındaki tutarlı örüntüleri veya sistematik ilişkileri araştırmak için verileri keşfetmek, verileri gelecekte kullanmak üzere bilgiye dönüştürmek amacıyla tasarlanmış bir analitik süreç.
+* Değişkenler arasındaki tutarlı örüntüleri veya sistematik ilişkileri araştırmak için verileri keşfetmek, verileri gelecekte kullanmak üzere bilgiye dönüştürmek amacıyla tasarlanmış bir analitik süreçtir.
 
 **Dijital Nesne Tanımlayıcı (Digital Object Identifier - DOI)**
 
@@ -59,7 +59,7 @@
 
 **Oyunlaştırma**
 
-* Oyun tasarım öğelerinin ve oyun mekaniğinin ekstra etkileşim sağlamak amacıyla eğitim gibi oyun dışı bağlamlarda kullanımı.
+* Oyun tasarım öğelerinin ve oyun mekaniğinin ekstra etkileşim sağlamak amacıyla eğitim gibi oyun dışı bağlamlarda kullanımıdır.
 
 **GDPR**
 
@@ -139,51 +139,51 @@
 
 **BENİOKU dosyası**
 
-* File where you document your research data. The documentation should be sufficient to enable other researchers to understand, replicate or reproduce the data or reuse them in any other way.
+* Araştırma verilerinizi belgelediğiniz dosyadır. Dokümantasyon, diğer araştırmacıların verileri anlamasına, çoğaltmasına veya yeniden üretmesine veya başka bir şekilde yeniden kullanmasına olanak sağlamak için yeterli olmalıdır.
 
-**Reporting Bias**
+**Raporlama Yanlılığı**
 
-* Reporting bias occurs when certain aspects of a study are systematically not reported transparently, creating wastage and redundancy through selective reporting or non-publishing.
+* Raporlama yanlılığı, bir çalışmanın belirli yönleri sistematik olarak şeffaf bir şekilde raporlanmadığında ortaya çıkar ve seçici raporlama veya yayınlamama yoluyla israf ve fazlalık yaratır.
 
-**Repository**
+**Depo**
 
-* Repository is defined as the infrastructure and corresponding service that allows for the persistent, efficient and sustainable storage of digital objects (such as documents, data and code). 
+* Depo, dijital nesnelerin (belgeler, veriler ve kodlar gibi) kalıcı, etkili ve sürdürülebilir depolanmasına olanak tanıyan altyapı ve ilgili hizmetler olarak tanımlanır.
 
-**Reproducible Research**
+**Tekrarlanabilir araştırma**
 
-* Reproducibility is a spectrum and instructors should choose the definition most used by their audience. Generally speaking, reproducible research makes it possible to obtain similar results of a study or experiment and independent results obtained with the same methods but under different conditions (i.e., pertains to results). Some break the definition into levels of reproducibility, including computationally reproducible (also called "reproducible"): where code and data can be analyzed in a similar manner as in the original research to achieve the same results, and empirically reproducible (also called “replicable”): where an independent researcher can repeat a study using the same methods but creating new data.
+* Tekrarlanabilirlik bir spektrumdur ve eğitmenler, hedef kitleleri tarafından en çok kullanılan tanımı seçmelidir. Genel olarak, tekrarlanabilir araştırma, bir çalışmanın veya deneyin benzer sonuçlarını bulmayı ve aynı yöntemlerle ancak farklı koşullar altında elde edilen bağımsız sonuçların bulunmasını mümkün kılar. Bazıları tanımı, hesaplamalı olarak yeniden üretilebilir ("reproducible" - burada kod ve veriler aynı sonuçları elde etmek için orijinal araştırmadakine benzer bir şekilde analiz edilebilir) ve ampirik olarak yeniden üretilebilir ("replicable" - bağımsız bir araştırmacının aynı yöntemleri kullanarak ancak yeni veriler oluşturarak bir çalışmayı tekrarlayabilir) olmak üzere tekrarlanabilirlik düzeylerine göre ayırır.
 
-**Research Impact**
+**Araştırma Etkisi**
 
-* Involve academic, economic and societal aspects, or some combination of all three. Impact is the demonstrable contribution that research makes in shifting understanding and advancing scientific, method, theory and application across and within disciplines, and the broader role that this plays outside of the research system.
+* Akademik, ekonomik ve toplumsal yönleri veya üçünün bir kombinasyonunu içerir. Etki, disiplinler arasında ve içinde bilimsel yöntem, teori ve uygulamanın anlaşılmasını değiştirmede ve ilerletmede yaptığı ispatlanabilir katkı ve bunun araştırma sisteminin dışında oynadığı daha geniş roldür.
 
-**Research Funder**
+**Araştırma Fonlayıcı**
 
-* An institute, corporation or government body that provides financial assistance for research.
+* Araştırma için mali yardım sağlayan bir enstitü, şirket veya devlet kurumudur.
 
-**Scholarly Communication**
+**Bilimsel İletişim**
 
-* The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community. The creation, transformation, dissemination, and preservation of knowledge related to teaching, research, and scholarly endeavors; the process of academics, scholars and researchers sharing and publishing their research findings so that they are available to the wider academic community.
+* Öğretim, araştırma ve bilimsel çabalarla ilgili bilginin yaratılması, dönüştürülmesi, yayılması ve korunması; akademisyenler, akademisyenler ve araştırmacıların araştırma bulgularını daha geniş akademik topluluğa açık hale getirmek için paylaşma ve yayınlama sürecidir.
 
-**Sharing**
+**Paylaşım**
 
-* The joint use of a resource or space. A fundamental aspect of collaborative research. As most research is digitally-authored & digitally-published, the resulting digital content is non-rivalrous and can be shared without any loss to the original creator.
+* Bir kaynağın veya alanın ortak kullanımıdır. İşbirlikçi (ortak) araştırmanın temel bir yönüdür. Çoğu araştırma dijital ortamda yazıldığından ve dijital olarak yayımlandığından, ortaya çıkan dijital içerik rakipsizdir ve orijinal yaratıcıya herhangi bir kayıp olmadan paylaşılabilir.
 
-**Subscription**
+**Abonelik**
 
-* A form of business model whereby a fee is paid in order to gain access to a product or service - in this case, the outputs of scholarly research.
+* Bir ürüne veya hizmete -burada bilimsel araştırma çıktıları- erişim elde etmek için bir ücretin ödendiği bir iş modeli şeklidir.
 
-**Trainer**
+**Eğitimci**
 
-* The moderator and instructor of a training, whose role is to ensure the training objectives are met, run the practice, and ensure no one is left out.
+* Görevi eğitim hedeflerine ulaşılmasını sağlamak, uygulamayı yürütmek ve kimsenin dışarıda kalmamasını sağlamak olan bir eğitimin moderatörü ve eğitmenidir.
 
-**Training**
+**Eğitim**
 
-* Training is any organised activity that teaches, informs, or transfers skills or knowledge on specific useful competencies through active, engaged learning. 
+* Eğitim, aktif, katılımlı öğrenme yoluyla belirli faydalı yetkinlikler hakkında bilgi ve becerileri öğreten, bunlarla ilgili bilgilendiren veya bunları aktaran herhangi bir organize faaliyettir.
 
-**Training Format**
+**Eğitim Formatı**
 
-* A conventionally named, standardised delivery method that is applied by a trainer and includes any number of the pedagogical tools necessary (i.e. motivation/demotivation, hands-on approaches, etc).
+* Bir eğitmen tarafından uygulanan ve gerekli olan herhangi bir sayıda pedagojik aracı (örneğin, motivasyon/demotivasyon, uygulamalı yaklaşımlar vb.) içeren geleneksel olarak adlandırılmış, standartlaştırılmış bir sunum yöntemidir.
 
 **Sürüm Kontrolü**
 
