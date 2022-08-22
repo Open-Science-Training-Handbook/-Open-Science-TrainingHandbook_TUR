@@ -234,39 +234,38 @@ Eğitiminiz için bir bütçe yaratmanın farklı yollarını düşünün. Mümk
 
 #### Ücret
 
-Collecting and managing funds or fees can be tricky. If you plan to do this, you should consider using an existing online registration service (e.g., Eventbrite, Event Smart) or your institution’s conference/event services. Although any cost impacts accessibility of the event, charging a nominal registration fee (e.g., $20–40 or €15–30) encourages those who register to actually attend—Software Carpentry found this reduced no-shows from almost a third to about 5% (Wilson 2016). 
+Fonların ya da ücretlerin toplanması ve yönetimi zor olabilir. Eğer bunu yapmayı planlıyorsanız, mevcut çevrimiçi bir kayıt servisini (örneğin, Eventbrite, Event Smart) ya da kurumunuzun konferans/etkinlik servisini kullanmayı düşünmelisiniz. Ücretler etkinliğin erişilebilirliğini etkilese de, Although any cost impacts accessibility of the event, uygun bir kayıt ücreti almak (örneğin, 20–40 $ ya da 15–30 €) kayıt yaptıranları fiilen katılmaya teşvik eder—Software Carpentry, bunun, kayıt yaptırdığı halde gelmeyenlerin oranını üçte birden neredeyse %5'e düşürdüğünü bulmuştur (Wilson 2016). 
 
-If planning to charge a fee of any sort, it is good to clarify with your institution's finance team how best to handle this. In some cases, the amount of time/effort required to set such things up can outweigh the value of charging - particularly if it is only a nominal fee being charged. Your institution will likely have specific financial processes and budget codes that need to be used, so speak to them early on to see what the best approach is. This is true even when using external services such as Eventbrite (you'll need an institutional budget center to allow the income to come into your institution).
+Herhangi bir ücret talep etmeyi planlıyorsanız, kurumunuzun finans ekibiyle bunun en iyi nasıl olacağını netleştirmeniz iyi olur. Bazı durumlarda, bu gibi şeyleri ayarlamak için harcanan zaman/çaba -özellikle uygun bir kayıt ücreti tahsil ediliyorsa- ücretlendirmenin değerinden daha pahalıya patlayabilir. Kurumunuzun muhtemelen uygulanması gereken beirli finansal süreçleri ve bütçe kodları olacaktır, bu nedenle en iyi yaklaşımın ne olduğunu görmek için onlarla önceden konuşun. Bu Eventbrite gibi dış kaynaklı servisler kullanıldığında dahi geçerlidir (gelirinizin kurumunuza gelebilmesi için kurumsal bir bütçe merkezine ihtiyacınız olacak).
 
-If you do charge a fee, consider making a waiver available upon request for those unable to pay or creating scholarships. Scholarship allocation should be prioritized for groups that face the most barriers for self-funding.
+Bir ücret alıyorsanız, ödemeye yapamayacak  veya burs bulamayanlar için talep üzerine bu ücretten feragat etmeyi düşünün. Kendi kendine fonlama anlamında en fazla engelle karşılaşan gruplara burs tahsisinde öncelik verilmelidir.
 
 #### Fonlama
 
-You can get funding from a few difference sources: the host institution, external sponsors like companies, budgeted funds on faculty/principal investigator’s grants, or through registration fees. Check if there are any internal sources for funding, or relevant local organizations who can sponsor your event. If you have found a potential partner, check the funding conditions. This could include advertising on your event website or at the event itself.
+Bir kaç farklı kaynaktan fon alabilirsiniz: ev sahibi kurum, şirketler gibi dış sponsorlar, öğretim üyesinin/sorumlu araştırmacının hibeleri için bütçelenmiş fonlar ya da kayıt ücretleri yoluyla. Etkinliğinize sponsor olabilecek herhangi bir iç kaynak veya ilgili yerel kuruluşlar olup olmadığını kontrol edin. Potansiyel bir ortak bulduysanız, fonlama koşullarını kontrol edin. Etkinlik web sitenizde ya da etkinlik esnasında tanıtım/reklam yapmak gerekebilir.
 
-Consider different levels of sponsorship (bronze, silver, gold) in case of bigger events. You might also want to look at other projects or programs to co-organize and  share costs with. 
+Daha büyük etkinlikler için farklı sponsorluk düzeylerini (bronz, gümüş, altın) dikkate alın. Etkinliği birlikte düzenleyebileceğiniz ve masrafları paylaşabileceğiniz diğer proje ve programlara da bakmak isteyebilirsiniz.
 
 ## Örgütsel görevler 
 ## <img src="/Images/Icons/laptop.png" width="150" height="150" /> <img src="/Images/Icons/wifi.png" width="150" height="150" />
-### Ekipman ve ortam 
+### Ekipman ve araçlar 
 
 #### Uzun dönemli hazırlık
 
-Here are some things to consider:
+Düşünülmesi gereken bazı şeyler:
 
-Will participants need access to WI-FI? Make sure that any requirements for access are dealt with ahead of time (e.g., by providing guest account details). Check if the venue has enough power outlets. Make sure to check with the venue owner in advance for availability of technical support. If you are planning on recording the event make sure you have the correct equipment, and that attendees are aware (and have consented) to being recorded. Think about how you are going to license any outcomes: will you apply a CC license to pictures, videos, and training materials? Are the authors ok with that? 
+Katılımcıların internete erişmesi gerekecek mi? Erişim gereksinimlerinin (örneğin, misafir hesabı ayrıntılarının sağlanması) önceden düşünüldüğünden emin olun. Mekanda yeterli  elektrik prizi olup olmadığını kontrol edin. Teknik desteğin sağlanıp sağlanmadığını önceden mekan sahibi/sorumlusu ile konuştuğunuzdan emin olun. Etkinliği kaydetmeyi planlıyorsanız, uygun/doğru ekipmana sahip olduğunuzdan ve katılımcıların kayıt altına alınacaklarının farkında olduğundan (ve bunu onayladıklarından) emin olun. Herhnagi bir çıktıyı nasıl lisanslayacağınız hakkında düşünün: Resimlere, videolara ve eğitim materyallerine bir CC lisansı mı uygulayacaksınız? Bu yazarlar için uygun mu?
 
 #### Etkinlikten kısa süre önce
 
-Making sure that all of your equipment, media, and materials are in fully functioning order can help to avoid any embarrassing hiccups during your training. Make sure that your laptop, or the device which is hosting your material, is compatible with the media technology in the venue. Ask guest lectures for their presentations in advance and store them all on the same laptop. This will make it easier to switch from one speaker to the other. Make sure to bring any relevant adaptors or extensions. Check WiFi strength and power outlets, as well as, if the speaker and projectors work in advance, and that your file formats are supported. Make sure there is an emergency contact for technical issues.
+Tüm ekipman, araç ve materyallerinizin tam olarak çalışır durumda olduğundan emin olmak, eğitim sırasında utandıracak aksaklıklardan kaçınmanıza yardımcı olabilir. Dizüstü bilgisayarınızın ya da materyallerinizin olduğu cihazın, mekandaki teknolojik araçlar/malzemeler ile uyumlu olduğundan emin olun. Konuk eğitimcilerden sunumlarını önceden isteyin ve tümünü aynı dizüstü bilgisayara kaydedin. Bu, bir konuşmacıdan diğerine geçisi kolaylaştıracaktır. Gerekli adaotörleri ya da ara kabloları getirdiğinizden emin olun. İnternet gücünü ve elektrik prizlerinin yanı sıra hoparlör ve projektörlerin çalışığ çalışmadığını ve dosya formatlarının desteklenip desteklenmediğini önceden kontrol edin. Teknik konularla ilgili acil bir iletişim kişisi olduğundan emin olun.
 
-Make sure to print out any paper handouts in advance, and to have enough of them to go around. If you plan to hand out a lot of material, consider providing folders or binders to help with organization. Or, consider just making all your material available digitally via your event website.
+Herhangi bir kağıt broşürü önceden bastırdığınızdan ve bunların etrafa dağıtmak için yeterli olduğundan emin olun. Çok fazla materyal dağıtmayı planlıyorsanız, düzenlemeye yardımcı olması için dosyalar ve klasörler temin edebilirsiniz. Ya da tüm materyallerinizi, etkinlik web sayfası aracılığıyla eletronik ortamda erişilebilir hale getirin.
 
-Preparing a variety of media can help engage an audience with diverse learning styles. You should prepare any teaching aids in advance (e.g, flipcharts, practical exercises, games). Bring notepads, post-it notes, pens, thumbtacks. If participants need any other computer-based materials make sure these are well-organized and available in advance.
-
+Çeşitli araçlar kullanmak, farklı öğrenme stillerine sahip bir katılımcı kitlesinin ilgisini çekmeye yardımcı olabilir. Herhangi bir öğretim yardımcısını önceden hazırlamalısınız (örneğin, kağıt tahtası, pratik alıştırmalar, oyunlar). Bloknotlar, post-itler, kalemler ve raptiyeler getirin. Katılıcılar bilgisayar temelli başka materyallere ihtiyaç duyarsa, bunları iyi organize edildiğinden ve önceden hazırlandığından emin olun.
 #### Etkinlik esnasında
 
-If your equipment fails, do not panic. Call the IT support and explain the problem to the attendees. Most people understand that. What might feel like hours to you are just a few minutes of lost time. If the equipment still not works try to work offline with flip charts for example. If you are relying heavily on media equipment and it is just a small group of participants suggest to reschedule the training.
+Ekipmanınız arızalanırsa panik yapmayın. BT desteği isteyin ve sorunu katılımcılara açıklayın. Birçok insan bunu anlayacktır. Size saatler gibi gelen şey, sadece birkaç dakikalık kayıp zamandır. Ekipman hala çalışmıyorsa, örneğin kağıt tahtasını kullanarak çevrimdışı çalışmalar yapmayı deneyin. Ekipman sizin için olmazsa olmaz ise ve sadece küçük bir katılımcı grubu söz konuysa, etkinliği yeniden programlamayı önerin.
 
 ## <img src="/Images/Icons/shout.png" width="150" height="150" />
 ### Duyurma ve tanıtım stratejisi
