@@ -1,107 +1,71 @@
 ## <img src="/Images/Icons/timetable.png" width="200" height="200" />
-## Organizational aspects
+## Örgütsel yönler
 
-This chapter will guide you through the main practical aspects of organizing a training event. Of course, what you need and will use will depend on the type of event you’ll organize! The checklist should be adjusted accordingly. You will get information on preparation steps and necessary organizational tasks. This will provide you not only with valuable knowledge about event organization, but will reassure you while preparing your training. Note that most of the material in this chapter, and the whole handbook, is focused on training regarding practical workshops. Running a different type of event may require different decisions than the recommendations that follow.
-
-## Training event basics
+Bu bölüm, bir eğitim etkinliği düzenlemenin temel pratik yönleri konusunda size rehberlik edecektir. Tabii ki, neye ihtiyacınız olduğu ve ne kullanacağınız düzenleyeceğiniz etkinliğin türüne bağlı olacaktır! Kontrol listesi buna göre düzenlenmelidir. The checklist should be adjusted accordingly. Hazırlık adımları ve gerekli örgütsel görevler ile ilgili bilgi alacaksınız. Bu size yalnızca etkinlik düzenleme ile ilgili değerli bilgiler sunmayacak, aynı zamanda eğitiminizi hazırlarken sizi rahatlatacaktır. Bu kitaptaki materyallerin çoğunun ve bütün olarak kitabın uygulamalı çalıştaylar bağlamında eğitime odaklandığını unutmayın. Farklı türde bir etkinlik yapmak aşağıdaki önerilerden farklı kararları gerektirebilir.
+## Eğitim etkinliğinin temelleri
 
 ### Format
 
-Deciding what type of event you want to coordinate is the first critical step in training exercises. Here are some points to consider:
+Ne tür etkinlik düzenleyeceğinize karar vermeniz eğitimin ilk önemli adımıdır. Dikkate alınması gereken bazı noktalar:
 
-* Format of the training: live workshop, seminar, lecture, online training or mixture of online and in-person?
+* Eğitimin formatı: canlı çalıştay, seminer, ders, çevrimiçi eğitim ya da çevrimiçi ve yüz yüze karışık eğitim?
 
-* Will it be participatory, formal, self-contained?
+* Katılımcı, resmi, bağımsız mı olacak?
 
-* Can the event be integrated into existing curricula?
+* Etkinlik mevcut müfredat ile bütünleştirilebilir mi?
 
-* Do you need to invite any other external experts? What are the requirements for that (e.g., funding)?
+* Dışarıdan başka uzmanları davet etmeniz gerekiyor mu? Bunun için gereklilikler neler (örneğin, fonlama)?
 
-* Is the training a requirement, or something participants are choosing to attend?
+* Eğitim bir zorunluluk mu yoksa katılımcıların katılıp katılmamayı seçebildikleri türde mi?
 
-* Will attendees receive any form of accreditation for the training?
+* Katılımcılar eğitim için herhangi bir akreditasyon alacak mı?
 
-* What sort of venue type do you need for this format?
+* Bu format için ne tür bir mekana ihtiyacınız var?
 
-To provide you with initial guidance over possible types of training and their characteristics, see the table below for recommendations. 
+Mümkün eğitim türleri ve özellikleri ile ilgili size başlangıç rehberliği sağlaması için aşağıdaki öneriler tablosunu inceleyin.
 
 <table>
   <tr>
     <td></td>
-    <td>TYPE OF TRAINING</td>
+    <td>EĞİTİMİN TÜRÜ</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>Live workshop</td>
-    <td>Course/ class</td>
-    <td>Lecture</td>
-    <td>Online Training</td>
+    <td>Canlı çalıştay</td>
+    <td>Kurs/sınıf</td>
+    <td>Ders</td>
+    <td>Çevrimiçi eğitim</td>
   </tr>
   <tr>
-    <td>Audience Size</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>less than 20</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>less than 40</td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>more than 40</td>
-    <td></td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td></td>
+    <td>Katılımcı hacmi</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Funds</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>none</td>
-    <td></td>
-    <td></td>
-    <td>x</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>little</td>
+    <td>20'den az</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>loaded</td>
+    <td>40'tan az</td>
+    <td></td>
     <td>x</td>
     <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>40'tan fazla</td>
     <td></td>
     <td></td>
+    <td>x</td>
+    <td>x</td>
   </tr>
   <tr>
     <td></td>
@@ -111,39 +75,32 @@ To provide you with initial guidance over possible types of training and their c
     <td></td>
   </tr>
   <tr>
-    <td>Time</td>
+    <td>Fonlar</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td> less than ½ day</td>
+    <td>Yok</td>
+    <td></td>
+    <td></td>
+    <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Az</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>½ - 1 day</td>
-    <td>x</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1- 4 days</td>
+    <td>Yüklü</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td></td>
-  </tr>
-  <tr>
-    <td>more than 4 days</td>
-    <td></td>
-    <td></td>
-    <td>x (series)</td>
-    <td>x (series)</td>
   </tr>
   <tr>
     <td></td>
@@ -153,35 +110,77 @@ To provide you with initial guidance over possible types of training and their c
     <td></td>
   </tr>
   <tr>
-    <td>Training level</td>
+    <td>Zaman</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Introductory</td>
+    <td> Yarım günden az</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Yarım gün - 1 gün</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1 - 4 gün</td>
+    <td>x</td>
+    <td>x</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4 günden fazla</td>
+    <td></td>
+    <td></td>
+    <td>x (seri)</td>
+    <td>x (seri)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Eğitim seviyesi</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Giriş düzeyi</td>
     <td></td>
     <td></td>
     <td>x</td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Aware of</td>
+    <td>Farkında</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Intermediate</td>
+    <td>Orta düzey</td>
     <td>x</td>
     <td>x</td>
     <td></td>
     <td>x</td>
   </tr>
   <tr>
-    <td>Advanced</td>
+    <td>İleri düzey</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
@@ -191,7 +190,7 @@ To provide you with initial guidance over possible types of training and their c
 
 
 
-### Audience, guest speakers, and partners
+### Katılıcılar, davetli konuşmacılar ve partnerler
 
 Before committing to the event be sure you defined your [target audience](/03OnLearningAndTraining/#target-audience) and that you are aware of their needs. Consider your audience, its size and the number or area of competence of (guest) trainers.
 
