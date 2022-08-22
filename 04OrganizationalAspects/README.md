@@ -221,18 +221,18 @@ Eğitim salonu yeterli donanıma sahip olmalıdır  ("Ekipman ve ortam" başlık
 ## <img src="/Images/Icons/break.png" width="150" height="150" />
 ### Zamanlama
 
-The length of the event depends on the content and depth of the training you intend to provide. You should have an estimate how much time each component will take. Make sure to define an agenda or time schedule, including any icebreakers and introductions. Allow enough time for lunch and coffee breaks. Be reasonable with your start and end times (see chapter [Starting the training](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/master/03OnLearningAndTraining)). 
+Etkinliğin uzunluğu, vermek istediğiniz eğitimin içeriğine ve derinliğine bağlıdır. Herbir bileşenin ne kadar zaman alacağına dair bir tahmininiz olmalı. Kaynaştırıcılar (ice-breakers) ve giriş de dahil olmak üzere bir gündem ve zaman çizelgesi oluşturduğunuzdan emin olun. Öğle yemeği ve kahve araları için yeterli zaman ayırın. Başlangıç ve bitiş zamanlarınız makul olsun (bkz. [Eğitime başlamak](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/tree/master/03OnLearningAndTraining#e%C4%9Fitime-ba%C5%9Flamak)). 
 
-Before scheduling your event think about obstacles that might prevent or induce people to join and try to pick a suitable time and date of the event. Make sure to avoid conflict with any public holidays, religious holidays, or similar events. If your event is hosted at a university, keep class schedules in mind. Consider to place your training session along with a larger conference or meeting in order to bring more attention, increase the attendance and get the chance to bring any speaker attending the other event. A family friendly workshop should avoid evenings and weekends, provide childcare or childcare sponsorships, and ensure areas for breastfeeding mothers. 
+Etkinliğinizi planlamadan önce, insanların katılımını engelleyebilecek ya da teşvik edecek engelleri düşünün ve etkinlik için uygun bir tarih ve zaman seçmeye çalışın. Resmi tatiller, dini bayramlar veya benzer etkinliklerle çakışmamasına dikkat edin. Etkinliğiniz bir üniversitede düzenleniyorsa, sınıf programlarını dikkate alın. Daha fazla dikkat çekmek, katılımı artırmak ve başka etkinliğe katılan bir konuşmacıyı çekme şansına sahip olmak için eğitim oturumunuzu daha bütük bir konferans ya da toplantıda yer vermeyi düşünebilirsiniz. Aile dostu bir çalıştay akşamları ve haftasonlarını doldurmaktan kaçınmalı, çocuk bakımı ve çocuk bakımı sponsorluğu sağlamalı ve emziren anneler için alanlar sağlamalıdır. 
 
 ## <img src="/Images/Icons/budget.png" width="150" height="150" />
-### Budget
+### Bütçe
 
-You may need financial support to help run your event, to pay for things like the venue (if the host institution cannot or will not provide this for free), travel support for non-local trainers/experts, refreshments, materials (e.g., name badges, USB drives) and swag. Most types of training will need at least a little money for material and equipment. Also, keep in mind that the costs associated with human resource are often the largest costs associated with running an event. It is good to identify time needed for staff to prepare materials and content which is often not budgeted for. These costs may be covered through as a core aspect of the job, but if not it might be wise to ensure funding to cover this aspect is sourced.
+Etkinliğinizi yapmanıza yardımcı olması, mekan gibi şeylere para ödemek (ev sahibi kurum bunu ücretsiz sağlayamıyor ya da sağlayamayacaksa), yerel olmayan eğitimcilere/uzmanlara seyahat desteği vermek, ikramlar, malzemeler (örneğin, rozetler, USB sürücüler) ve promosyon ürünleri için finansal desteğe ihtiyaç duyabilirsiniz. Çoğu türdeki eğitim malzeme ve ekipman için en azından biraz paraya ihtiyaç duyacaktır. Ayrıca, bir etkinliği yaparken insan kaynaklarıyla ilgili maliyetlerin genellikle en yüksek maliyetler olduğunu unutmayın. Genellikle bütçelendirilmeyen, personelin materyalleri ve içeriği hazırlaması için gereken zamanı belirlemek de iyi olur.
 
-Consider different ways of creating a budget for your training. If possible, request funds from your institution. Otherwise, you might have to charge a fee from participants or look for scholarships and other ways of funding. 
+Eğitiminiz için bir bütçe yaratmanın farklı yollarını düşünün. Mümkünse, kurumunuzdan fon talep edin. aksi takdirde, katılımcılardan ücret talep etmeniz ya da burs ve diğer fon sağlama yollarını araştırmanız gerekebilir.
 
-#### Fee
+#### Ücret
 
 Collecting and managing funds or fees can be tricky. If you plan to do this, you should consider using an existing online registration service (e.g., Eventbrite, Event Smart) or your institution’s conference/event services. Although any cost impacts accessibility of the event, charging a nominal registration fee (e.g., $20–40 or €15–30) encourages those who register to actually attend—Software Carpentry found this reduced no-shows from almost a third to about 5% (Wilson 2016). 
 
@@ -240,23 +240,23 @@ If planning to charge a fee of any sort, it is good to clarify with your institu
 
 If you do charge a fee, consider making a waiver available upon request for those unable to pay or creating scholarships. Scholarship allocation should be prioritized for groups that face the most barriers for self-funding.
 
-#### Funding
+#### Fonlama
 
 You can get funding from a few difference sources: the host institution, external sponsors like companies, budgeted funds on faculty/principal investigator’s grants, or through registration fees. Check if there are any internal sources for funding, or relevant local organizations who can sponsor your event. If you have found a potential partner, check the funding conditions. This could include advertising on your event website or at the event itself.
 
 Consider different levels of sponsorship (bronze, silver, gold) in case of bigger events. You might also want to look at other projects or programs to co-organize and  share costs with. 
 
-## Organizational tasks 
+## Örgütsel görevler 
 ## <img src="/Images/Icons/laptop.png" width="150" height="150" /> <img src="/Images/Icons/wifi.png" width="150" height="150" />
-### Equipment & Media 
+### Ekipman ve ortam 
 
-#### Long-term preparation
+#### Uzun dönemli hazırlık
 
 Here are some things to consider:
 
 Will participants need access to WI-FI? Make sure that any requirements for access are dealt with ahead of time (e.g., by providing guest account details). Check if the venue has enough power outlets. Make sure to check with the venue owner in advance for availability of technical support. If you are planning on recording the event make sure you have the correct equipment, and that attendees are aware (and have consented) to being recorded. Think about how you are going to license any outcomes: will you apply a CC license to pictures, videos, and training materials? Are the authors ok with that? 
 
-#### Shortly before event
+#### Etkinlikten kısa süre önce
 
 Making sure that all of your equipment, media, and materials are in fully functioning order can help to avoid any embarrassing hiccups during your training. Make sure that your laptop, or the device which is hosting your material, is compatible with the media technology in the venue. Ask guest lectures for their presentations in advance and store them all on the same laptop. This will make it easier to switch from one speaker to the other. Make sure to bring any relevant adaptors or extensions. Check WiFi strength and power outlets, as well as, if the speaker and projectors work in advance, and that your file formats are supported. Make sure there is an emergency contact for technical issues.
 
@@ -264,14 +264,14 @@ Make sure to print out any paper handouts in advance, and to have enough of them
 
 Preparing a variety of media can help engage an audience with diverse learning styles. You should prepare any teaching aids in advance (e.g, flipcharts, practical exercises, games). Bring notepads, post-it notes, pens, thumbtacks. If participants need any other computer-based materials make sure these are well-organized and available in advance.
 
-#### During the event
+#### Etkinlik esnasında
 
 If your equipment fails, do not panic. Call the IT support and explain the problem to the attendees. Most people understand that. What might feel like hours to you are just a few minutes of lost time. If the equipment still not works try to work offline with flip charts for example. If you are relying heavily on media equipment and it is just a small group of participants suggest to reschedule the training.
 
 ## <img src="/Images/Icons/shout.png" width="150" height="150" />
-### Marketing & Advertising Strategy
+### Duyurma ve tanıtım stratejisi
 
-#### Long before the event
+#### Etkinlikten uzun süre önce
 
 Developing a strong marketing and communication strategy is fundamental to driving participation, as well as teaching you how to develop and refine your messaging.
 
@@ -281,18 +281,18 @@ Consider both digital and non-digital media. Use institutional mailing lists and
 
 Find out if you can post flyers or posters at your institution. Are you going to design a poster? What sort of logos, images, text, and information do you need to include? Make sure to clearly communicate the pre-defined objectives (skills and knowledge). Ask relevant organizations to help with advertising. Connect with relevant media, create a press release. Use existing communication channels, e.g. at the university library you might ask subject librarians to promote the event to their academic communities.
 
-#### Shortly before the event
+#### Etkinlikten kısa süre önce
 
 Send a reminder on social media and mailing lists. Put up signs so your attendees find the room.
 
-#### During the event
+#### Etkinlik esnasında
 
 Publish pictures and short videos from the event on the website and social media. Tell participants the hashtag for the training and ask them to send at least one tweet/message during the event. Collect reasons for attendance for advertising of future events.
 
 ## <img src="/Images/Icons/check.png" width="150" height="150" />
-### Registration
+### Kayıt
 
-#### Long before the event
+#### Etkinlikten uzun süre önce
 
 Set up an event registration using a service like [Eventbrite](https://www.eventbrite.com) or [Event Smart](https://eventsmart.com) (which are free for free events, but may include fees if your event has a registration cost), or something like Google Forms to capture basic information. For smaller events you can also use registration via email. But don’t forget to send them a confirmation, when they register and before the event to send a reminder. 
 
@@ -302,20 +302,20 @@ Be sensible and transparent about the information you collect. If you need to as
 
 You can make a short poll to measure what do participants already know about the topic (their pre-knowledge). It can help you to prepare training material. Make clear what data is going to be shared/retained and why. Always offer people the option of opting out, and keep any information you do archive safely stored. Consider creating a list of interested participants for a newsletter or for keeping in touch, but be aware of data protection (like the EU General Data Protection Regulation (Regulation (EU) 2016/679)). 
 
-#### Shortly before the event
+#### Etkinlikten kısa süre önce
 
 Depending on the size of the audience, provide a separate staffed registration desk. Make sure staff has all information including a participants list, and let them take care of badges and attendance sheets/certificates. 
 
 If there is no separate registration desk, prepare a cheat sheet with information to keep at hand (think: public transportation, emergency numbers, requests for certificates, safety during the event  etc.). 
 
-#### During the event
+#### Etkinlik esnasında
 
 Do you have consent from participants to re-use or share their contact information or to take pictures and publish them? Did all participants sign the participants list?
 
 ## <img src="/Images/Icons/email.png" width="150" height="150" />
-### Communication
+### İletişim
 
-#### Long before the event
+#### Etkinlikten uzun süre önce
 
 Prepare and send formal invitations to participants, guest and keynote speakers. 
 
@@ -323,7 +323,7 @@ Create a website for the training event, such as using GitHub Pages or on an ins
 
 Make sure any key resources are visible and accessible if needed. If you want the participants to come with research outputs (e.g., papers, code, data) for exercises, let them know with plenty of time to prepare (and consider making this optional).
 
-#### Shortly before the event
+#### Etkinlikten kısa süre önce
 
 Communicate requirements to your audience in advance.
 
@@ -337,31 +337,31 @@ Send a reminder email to your attendees a day or two in advance of the event, if
 
 Remind people about reachability and accessibility of the venue. Send detailed instructions for parking and public transport options.
 
-#### During the event
+#### Etkinlik esnasında
 
 Dedicate some time to housekeeping at the start of your event. Write down hashtags and WiFi passwords.
 
 ## <img src="/Images/Icons/lunch_break.png" width="150" height="150" />
-### Catering
+### Yiyecek/içecek hizmeti
 
-#### Long before the event
+#### Etkinlikten uzun süre önce
 
 What refreshments will you either need to provide, or will people need to bring their own? If you provide refreshments, you may need to obtain funding or charge for registration. 
 
 If relevant, you can ask during registration in advance for dietary requirements - but keep in mind this might make it very complicated for you. Sometimes it’s better to ask the caterer to provide sufficient varieties (vegetarian, vegan, gluten free, etc.) and add one free field on your submission forms so that participants can fill in specific requests if necessary (e.g. intolerances and allergies). 
 
-#### Shortly before the event
+#### Etkinlikten kısa süre önce
 
 Check the venue and inform the caterer where and when to deliver the refreshments. 
 
-#### During the event
+#### Etkinlik esnasında
 
 Be sure you have the contact information of the caterer if the catering is not showing up, delivering the wrong lunch or forgot something.
 
 ## <img src="/Images/Icons/write.png" width="150" height="150" />
-### Code of Conduct
+### Davranış kuralları
 
-#### Long before the event
+#### Etkinlikten uzun süre önce
 
 To help ensure your workshop is a friendly, inclusive, and respectful environment for trainers and participants, identify or create a robust Code of Conduct (CoC) for your event. Make sure the Code of Conduct is communicated in advance—we recommend prominent placement on your event website (see task 2) and onsite. Participants should be asked to review and acknowledge the Code of Conduct while registering for the workshop. Included in your Code of Conduct should be clear consequences of violation (for example, removal from the workshop). Ensure the reporting process for violations is communicated clearly before and during the event and that at least one designated organizer is identified as the point of contact, who is easily accessible to receive reports of code of conduct violations. Examples you can borrow or adapt from include: 
 
@@ -375,88 +375,88 @@ To help ensure your workshop is a friendly, inclusive, and respectful environmen
 
 * [Mozilla Science Lab: Getting Started with Codes of Conduct](http://mozillascience.github.io/working-open-workshop/code_of_conduct/)
 
-#### Shortly before the event
+#### Etkinlikten kısa süre önce
 
 Make sure the Code of Conduct is clearly visible/accessible from the event website (if one exists); if your event does not have or need a website, print out the CoC and give it to participants.
 
-#### During the event
+#### Etkinlik esnasında
 
 Make sure there is a safe space for participants to report any breaches of the Code of Conduct. Communicate sanctions, and follow through if any breaches occur.
 
 ## <img src="/Images/Icons/badge.png" width="150" height="150" />
-### Certification of attendance
+### Katılım sertifikası
 
-#### Long before the event
+#### Etkinlikten uzun süre önce
 
 Prepare a template and assign who will keep records or monitor registration process. 
 
-#### Shortly before the event
+#### Etkinlikten kısa süre önce
 
 Prepare a generic certificate of attendance with event or organiser’s logos and event information that can be distributed digitally when requested.  
 
-#### During the event
+#### Etkinlik esnasında
 
 Ask participants if a certificate of attendance is needed.
 
 If a signature sheet is required, make sure you do a check during the day or ask to complete it at registration. 
 
 ## <img src="/Images/Icons/sign_left.png" width="150" height="150" /> <img src="/Images/Icons/sign_right.png" width="150" height="150" />
-### Signs
+### Yönlendirmeler
 
-#### Long before the event
+#### Etkinlikten uzun süre önce
 
 Check the venue and define spots to be marked by signs to help participants to easily find a room. 
 
-#### Immediately before the event
+#### Etkinlikten hemen önce
 
 Design, print and place the signs and leave useful information at the reception desk. 
 
-#### During the event
+#### Etkinlik esnasında
 
 Remove the signs after the event.
 
 ## <img src="/Images/Icons/social_facebook.png" width="150" height="150" /> <img src="/Images/Icons/social_twitter.png" width="150" height="150" />
-### Social media and notes 
+### Sosyal medya ve notlar 
 
-#### Long before the event
+#### Etkinlikten uzun süre önce
 
 Plan your social media activities, ask colleagues from other departments and/or partner organization to help you in sharing information. 
 
-#### Immediately before the event
+#### Etkinlikten hemen önce
 
 Prepare note documents (e.g. public Google Docs or etherpads). Make announcements on social media.
 
-#### During the event
+#### Etkinlik esnasında
 
 Ask your audience whether they are ok with being filmed, photographed and featured on social media. If it's a big audience, you might consider handing out stickers to those who do not want to be featured.
 
 Assign note takers and people responsible for social media. Ideally, rotate heavily to avoiding slacking and loss of attention. 
 
 ## <img src="/Images/Icons/key.png" width="150" height="150" />
-## Event closure
+## Etkinliğin kapanışı
 
-### Venue
+### Mekan
 
 Make sure you leave the venue neat and clean, unless your agreement for using it doesn’t require this.
 
-### Debrief
+### Bilgi alma
 
 Debrief with the other trainers/speakers to self-assess how the event went.
 
-### Evaluation
+### Değerlendirme
 
 Send post-training assessment survey to participants (see [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) or distribute an evaluation form during the event and make sure people hand it in at the end.
 
 Read and count the questions in the evaluation form. Make your self-evaluation.
 
-### Dissemination
+### Yayma/Dağıtım
 
 Upload all the material used during the event (presentations, documents) if they were not available beforehand. Make sure to provide open licenses if possible, and make sure participants are not identifiable (e.g., within a notes document). 
 
 Prepare a report for your funder or institution and if needed make it public (e.g. blog, twitter, website). 
 
 ## <img src="/Images/Icons/coffee_break.png" width="150" height="150" /> <img src="/Images/Icons/toilets.png" width="150" height="150" />
-## Checklist
+## Kontrol listesi
 
 <table>
   <tr>
@@ -682,7 +682,7 @@ Prepare a report for your funder or institution and if needed make it public (e.
 </table>
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
-## References
+## Kaynaklar
 
 * Christodolou et al. (2014). How to conduct a successful workshop: The trainee’s perspective (Arab Journal of Urology), 12(1), 12-14. [doi.org/10.1016/j.aju.2013.08.004](https://doi.org/10.1016/j.aju.2013.08.004)
 
@@ -692,9 +692,9 @@ Prepare a report for your funder or institution and if needed make it public (e.
 
 * SPARC (n.y.). Diversity, Equity, and Inclusion. Conference Planning Checklist. [sparcopen.github.io](https://sparcopen.github.io/opencon-dei-report/checklist.html)
 
-* Wilson G. Software Carpentry: lessons learned [version 2; referees: 3 approved]. F1000Research. 2016;3:62. [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
+* Wilson G. Software Carpentry: lessons learned [sürüm 2; hakem: 3 onaylandı]. F1000Research. 2016;3:62. [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
 
-**Inspirations**
+**Fikir alınan kaynaklar**
 
 * International Council on Archives (2010). Organising training workshops and seminars: Guidelines for professional association. [PDF](https://www.ica.org/sites/default/files/SPA_2010_Guidelines_Organising-training-seminars-workshops_EN.pdf)
 
