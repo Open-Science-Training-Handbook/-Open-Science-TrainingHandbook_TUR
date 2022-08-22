@@ -278,15 +278,15 @@ Eğitiminizin nasıl bir ismi olacağını düşünün. Çerçevelemenizi ve ile
 
 Elektronik ortamı da ve elektronik olmayan ortamı da kullanabilirisiniz. Kurumsal e-posta listelerini ve sosyal medyayı (örneğin, Twitter, Facebook, blog) kullanın. Bu etkinlik için özel sosal medya hesaplarınız olacak mı? Onlarda ne tür içerik paylaşacaksınız? İlgili görüntü ve logolar üzerine düşünün. Think about relevant images and logos. Birden çok etkinlik yapmayı düşünüyorsanız bu daha da önemlidir. Etkinlik kurumsal bir organizasyonun sponsorluğunda ya da ortaklığında yapılacaksa (örneğin, kütüphane, belli bir okul/bölüm), bu durumda söz konusu organzayonun hesaplarını kullanmak isteyebilirsiniz. Bunun, başka birinin paylaşım yapmasını gerektirebileceğini aklınızda bulundurun. Bu önerilerin birçoğu, kurumsal onay ve ek bütçe desteği gerektirebilir - bu seçenekleri mümkün olan en kısa sürede araştırmaya başlayın.
 
-Kurumunuzda el ilanları (flyers) veya posterleri yayınlayıp yayınlayamayacağınızı öğrenin. Poster tasarlayacak mısınız? Ne tür logolar, görüntüler, metinler ve bilgilere yer vermeniz gerekiyor? Önceden tanımlanmış hedefleri (beceriler ve bilgi) açıkça ilettiğinizden emin olun. İlgili kuruluşlardan tanıtım konusunda yardım isteyin. İlgili medya ile bağlantı kurun, bir basın açıklaması hazırlayın.Mevcut iletişim kanallarını kullanın, örneğin, üniversite kütüphanesinde konu kütüphanecilerinden etkinliği akademik topluluklara duyurmalarını isteyebilirsiniz.
+Kurumunuzda el ilanları (flyers) veya posterleri dağıtıp dağıtamayacağınızı öğrenin. Poster tasarlayacak mısınız? Ne tür logolar, görüntüler, metinler ve bilgilere yer vermeniz gerekiyor? Önceden tanımlanmış hedefleri (beceriler ve bilgi) açıkça ilettiğinizden emin olun. İlgili kuruluşlardan tanıtım konusunda yardım isteyin. İlgili medya ile bağlantı kurun, bir basın açıklaması hazırlayın.Mevcut iletişim kanallarını kullanın, örneğin, üniversite kütüphanesinde konu kütüphanecilerinden etkinliği akademik topluluklara duyurmalarını isteyebilirsiniz.
 
 #### Etkinlikten kısa süre önce
 
-Send a reminder on social media and mailing lists. Put up signs so your attendees find the room.
+Sosyal medya üzerinden ve e-posta listelerinden bir hatırlatma gönderin. Katılımcıların eğitimin yapılacağı odayı bulabilecekleri yönlendirmeler yapın.
 
 #### Etkinlik esnasında
 
-Publish pictures and short videos from the event on the website and social media. Tell participants the hashtag for the training and ask them to send at least one tweet/message during the event. Collect reasons for attendance for advertising of future events.
+Web sitesinde ve sosyal medyada etkinlikten resimler ve kısa videolar yayınlayın. Katılımcıları eğitim için belirlenen hashtag ile ilgili bilgilendirin ve etkinlik esnasından en az bir tweet/mesaj göndermelerini isteyin. Gelecek etkinliklerin reklamı için katılım nedenlerini toplayın.
 
 ## <img src="/Images/Icons/check.png" width="150" height="150" />
 ### Kayıt
