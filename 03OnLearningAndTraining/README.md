@@ -507,7 +507,7 @@ Benzer alıştırmalar, bilginizi test etmenin aynı yolunu düşünebileceğini
 * Davis (2014). Using Bloom’s Taxonomy to Write Learning Outcomes. [apprenticeshipblog.com](https://apprenticeshipblog.com/2014/07/21/how-to-use-blooms-taxonomy-to-write-learning-outcomes/)
 * Clinton Community College (1966-2017). List of Measurable Verbs Used to Assess Learning Outcomes. [clinton.edu](http://ccc.clinton.edu/CurriculumCommittee/ListofMeasurableVerbs.cxml)
 
-**Aracılık yapanlar (ice-breakers) için kaynaklar/etkinlikler**
+**Kaynaştırıcılar (ice-breakers) için kaynaklar/etkinlikler**
 
 * Mindtools. Ice Breakers. Easing Group Contribution. [mindtools.com](https://www.mindtools.com/pages/article/newLDR_76.htm)
 * Students as Partners, Teaching, Learning and Support Office. Peer Support Icebreakers. [documents.manchester.ac.uk](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
