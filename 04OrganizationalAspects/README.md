@@ -293,23 +293,23 @@ Web sitesinde ve sosyal medyada etkinlikten resimler ve kısa videolar yayınlay
 
 #### Etkinlikten uzun süre önce
 
-Set up an event registration using a service like [Eventbrite](https://www.eventbrite.com) or [Event Smart](https://eventsmart.com) (which are free for free events, but may include fees if your event has a registration cost), or something like Google Forms to capture basic information. For smaller events you can also use registration via email. But don’t forget to send them a confirmation, when they register and before the event to send a reminder. 
+[Eventbrite](https://www.eventbrite.com) veya [Event Smart](https://eventsmart.com) gibi (ücretsiz etkinlikler için ücretsiz, ancak aşağıdaki durumlarda ücretler içerebilen) bir hizmeti kullanarak bir etkinlik kaydı oluşturun ya da Google Formlar gibi bir şey kullanarak temel bilgileri toplayın. Daha küçük etkinliklerde e-posta yoluyla kayıt seçeneği de kullanılabilir. Ancak, katılımcılar kayıt olduğunda onay e-postası göndermeyi ve etkinlikten önce bir hatırlatma e-postası göndermeyi atlamayın.
 
-Think about the fee you want/need to charge (see budget). Think about the credits students can get. Is a certificate needed (see certification of attendance)?
+Talep etmek istediğiniz / talep etmeniz gereken katılım ücretini düşünün (bütçeye bakın). Öğrencilerin alabileceği kredileri düşünün. Sertifika gerekli mi ("Katılım Sertifikası" başlıklı kısma bakınız)?
 
-Be sensible and transparent about the information you collect. If you need to ask information like gender, age or nationality, keep into account that this is not always as straightforward as you might think - always offer the option of a blank field. Please do not use the distinction between Mrs. and Ms.
+Topladığınız bilgiler konusunda mantıklı/duyarlı ve şeffaf olun. Cinsiyet, yaş ya da uyruk gibi birşey sormanız gerekiyorsa If you need to ask information like gender, age or nationality, bunun her zaman düşündüğünüz kadar basit olmadığını hesaba katın - her zaman boş bir alan seçeneği sunun. Lütfen Mrs. (Evli Kadınlar için kullanılır) ve Ms. (Evli ya da bekar farketmeksizin kadınlar için kullanılır) arasındaki ayrımı kullanmayın.
 
-You can make a short poll to measure what do participants already know about the topic (their pre-knowledge). It can help you to prepare training material. Make clear what data is going to be shared/retained and why. Always offer people the option of opting out, and keep any information you do archive safely stored. Consider creating a list of interested participants for a newsletter or for keeping in touch, but be aware of data protection (like the EU General Data Protection Regulation (Regulation (EU) 2016/679)). 
+Katılımcıların konu ile ilgili halihazırda bildiklerini (ön bilgilerini) ölçmek için kısa bir anket yapabilirsiniz. Bu size eğitim materyalini hazırlamanızda yardımcı olur. Hangi verilerin paylaşılacağını/tutulacağını ve nedenini netleştirin. Katılımcılara her zaman cevap vermeme seçemeğini sunun ve arşivlediğiniz tüm bilgileri güvenli bir şekilde saklayın. Bir haber bülteni için veya iletişimde kalmak için ilgilenen katılımcılardan bir liste oluşturmayı düşünün, ancak veri korumanın farkında olun (AB Genel Veri Koruma Yönetmeliği (Yönetmelik (AB) 2016/679) - EU General Data Protection Regulation (Regulation (EU) 2016/679)) gibi). 
 
 #### Etkinlikten kısa süre önce
 
-Depending on the size of the audience, provide a separate staffed registration desk. Make sure staff has all information including a participants list, and let them take care of badges and attendance sheets/certificates. 
+Katılımcı hacmine bağlı olarak, ilgili personeli olan ayrı bir kayıt masası sağlayın. Personelin katılımcı listesi dahil olmak üzere gerekli tüm bilgilere sahip olduğundan emin olun ve isimliklerle ve katılım sertifikalarıyla ilgilenmelerini sağlayın.
 
-If there is no separate registration desk, prepare a cheat sheet with information to keep at hand (think: public transportation, emergency numbers, requests for certificates, safety during the event  etc.). 
+Eğer ayrı bir kayıt masası yoksa, elinizin altında bulunması gereken bilgileri içeren bir doküman hazırlayın (şunları düşünün:toplu taşıma, acil numaralar, sertifika talepleri, etkinlik esnasında güvenlik vb.). 
 
 #### Etkinlik esnasında
 
-Do you have consent from participants to re-use or share their contact information or to take pictures and publish them? Did all participants sign the participants list?
+Katılımcılardan iletişim bilgilerini yeniden kullanmak veya paylaşmak ya da fotoğraf çekip yayınlamak için onay formu aldınız? Tüm katılımcılar katılımcı listesini imzaladı mı?
 
 ## <img src="/Images/Icons/email.png" width="150" height="150" />
 ### İletişim
