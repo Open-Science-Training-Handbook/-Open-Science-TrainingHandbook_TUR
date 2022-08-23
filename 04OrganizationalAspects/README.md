@@ -316,55 +316,55 @@ Katılımcılardan iletişim bilgilerini yeniden kullanmak veya paylaşmak ya da
 
 #### Etkinlikten uzun süre önce
 
-Prepare and send formal invitations to participants, guest and keynote speakers. 
+Katılımcılara, misafir ve açış konuşmacılarına resmi davetiyeler hazırlayıp, gönderin.
 
-Create a website for the training event, such as using GitHub Pages or on an institutional website. [link to examples/template]
+Eğitim etkinliği için GitHub sayfalarını kullanarak ya da kurumsal websitesi üzerinde bir web sayfası oluşturun.
 
-Make sure any key resources are visible and accessible if needed. If you want the participants to come with research outputs (e.g., papers, code, data) for exercises, let them know with plenty of time to prepare (and consider making this optional).
+Tüm önemli kaynakalrın görünür ve ihtiyaç halinde erişilebilir olduğından emin olun. Katılımcıların alıştırmalar için araştırma çıktıları (örneğin, makaleler, kodlar, veriler) getimelerini isterseniz, hazırlanmaya zaman kalacak kadar önceden bilgilendirin (ve bunu isteğe bağlı yapmayı düşünün).
 
 #### Etkinlikten kısa süre önce
 
-Communicate requirements to your audience in advance.
+Gereksinimler konusunda hedef kitlenizi önceden bilgilendirin.
 
-* Let them know if they need to bring laptops or other work materials.
+* Dizüstü bilgisayar ya da diğer çalışma materyalleri getirmelerine gerek olup olmadığı konusunda bilgi verin.
 
-* Make sure any prerequisites for software or programming abilities are communicated in advance.
+* Yazılım veya programlama becerileri için gereken tüm ön koşulların önceden iletildiğinden emin olun.
 
-* Provide basic contextual reading materials, so you don’t have to start at the beginning point.
+* En baştan başlamak zorunda kalmamak için bağlama uygun temel okuma materyalleri sağlayın. 
 
-Send a reminder email to your attendees a day or two in advance of the event, if possible (this may not be necessary if you are relying on a registration service). 
+Mümkünse, katılımcılara etkinlikten bir ya da iki gün önce hatırlatma e-postası gönderin. Send a reminder email to your attendees a day or two in advance of the event, if possible (aldığınız kayıt hizmetine güveniyorsanız bu gerekli olmayabilir). 
 
-Remind people about reachability and accessibility of the venue. Send detailed instructions for parking and public transport options.
+Katılımcılara eğitim mekanının ulaşılabilirliği ve erişilebilirliği ile ilgili hatırlatma yapın. Otopark ve toplu taşıma seçenkeleri ile ilgili ayrıntılı bilgileri gönderin.
 
 #### Etkinlik esnasında
 
-Dedicate some time to housekeeping at the start of your event. Write down hashtags and WiFi passwords.
+Etkinliğinizin başlangıcında temizlik için biraz zaman ayırın. Hashtag'leri ve WiFi şifrelerini yazın.
 
 ## <img src="/Images/Icons/lunch_break.png" width="150" height="150" />
 ### Yiyecek/içecek hizmeti
 
 #### Etkinlikten uzun süre önce
 
-What refreshments will you either need to provide, or will people need to bring their own? If you provide refreshments, you may need to obtain funding or charge for registration. 
+Hangi yiyecek/içecekleri sağlamanız gerekecek veya bunları katılımcıların kendilerin mi getirmesi gerekecek? Eğer yiyecek/içecek sağlıyorsanız, fon bulmanız ya da kayıt için ücret talep etmeniz gerekebilir. 
 
-If relevant, you can ask during registration in advance for dietary requirements - but keep in mind this might make it very complicated for you. Sometimes it’s better to ask the caterer to provide sufficient varieties (vegetarian, vegan, gluten free, etc.) and add one free field on your submission forms so that participants can fill in specific requests if necessary (e.g. intolerances and allergies). 
+Gerekiyorsa, kayıt esnasında katılımcıların diyet gereksinimleri ile ilgili önceden bilgi alabilirsiniz - ancak bunun sizin işleri çok karmaşık hale getirebileceğini de dikkate alın. Bazen yemek şirketinden yeterli çeşit (vejetaryen, vegan, glütensiz vb.) sağlamasını istemek ve kayıt formlarına eğer varsa katılımcıların (intoleranslar ve alerjiler gibi) belirli durumları/taleplerini belirtebilecekleri boş bir alan eklemek daha iyidir. 
 
 #### Etkinlikten kısa süre önce
 
-Check the venue and inform the caterer where and when to deliver the refreshments. 
+Etkinik mekanını kontrol edin ve yiyecek/içecek şirketini ne zaman ve nereye teslimat yapılacağı konusunda bilgilendirin.
 
 #### Etkinlik esnasında
 
-Be sure you have the contact information of the caterer if the catering is not showing up, delivering the wrong lunch or forgot something.
+Yiyecek/içecek servisinin gelmemesine, yanlış öğle yemeği verilmesine ya da birşeylerin unutulma ihtimaline karşlılık yiyecek/içecek şirketinin iletişim bilgilerine sahip olduğunuzdan emin olun.
 
 ## <img src="/Images/Icons/write.png" width="150" height="150" />
-### Davranış kuralları
+### Davranış kuralları (Code of Conduct)
 
 #### Etkinlikten uzun süre önce
 
-To help ensure your workshop is a friendly, inclusive, and respectful environment for trainers and participants, identify or create a robust Code of Conduct (CoC) for your event. Make sure the Code of Conduct is communicated in advance—we recommend prominent placement on your event website (see task 2) and onsite. Participants should be asked to review and acknowledge the Code of Conduct while registering for the workshop. Included in your Code of Conduct should be clear consequences of violation (for example, removal from the workshop). Ensure the reporting process for violations is communicated clearly before and during the event and that at least one designated organizer is identified as the point of contact, who is easily accessible to receive reports of code of conduct violations. Examples you can borrow or adapt from include: 
+Çalıştayınızın eğitmenler ve katılımcılar için samimi, kapsayıcı ve saygılı bir ortam olmasını sağlamaya yardımcı olmak için etkinliğiniz için etkili Davranış Kuralları (Code of Conduct - CoC) belirleyin veya oluşturun. Davranış Kurallarının katılımcılara önceden iletildiğinden emin olun—etkinlik web sitenize (bkz. görev 2). ve etkinlik yerine görünür olacak şekilde yerleştirmenizi öneririz. Kayıt esnasında katılımcılardan Davranış Kurallarını gözden geçirmeleri ve kabul etmeleri istenmelidir. Davranış Kurallarınıza, ihlalin açık sonuçları dahil edilmelidir (örneğin, çalıştaydan çıkarılma). İhlaller için raporlama sürecinin etkinlik öncesinde ve etkinlik esnasında açıkça iletildiğinden ve Davranış Kuralları raporlamaları için en az bir iletişim kişisinin belirlendiğinden emin olun. Ödünç alabileceğiniz ya da uyarlayabileceğiniz örnekler:
 
-* [The Mozilla Science Lab Code of Conduct](https://science.mozilla.org/code-of-conduct)
+* [The Mozilla Science Lab Code of Conduct](https://github.com/mozillascience/code_of_conduct/blob/master/CODE_OF_CONDUCT.md)
 
 * [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org) 
 
@@ -376,130 +376,130 @@ To help ensure your workshop is a friendly, inclusive, and respectful environmen
 
 #### Etkinlikten kısa süre önce
 
-Make sure the Code of Conduct is clearly visible/accessible from the event website (if one exists); if your event does not have or need a website, print out the CoC and give it to participants.
+Davranış Kurallarının etkinlik web sitesinden (eğer mevcutsa) kolayca erişilebilir ve görünür olduğundan emin olun; etkinliğinizin bir web sitesi yoksa, Davranış Kurallarını basılı olarak çoğaltıp, katılımcılara dağıtın.
 
 #### Etkinlik esnasında
 
-Make sure there is a safe space for participants to report any breaches of the Code of Conduct. Communicate sanctions, and follow through if any breaches occur.
+Katılımcılar için Davranış Kuralları ihlallerini bildirebilecekleri güvenli bir alan olduğundan emin olun. Yaptırımları iletin ve herhangi bir ihlal olursa takip edin. 
 
 ## <img src="/Images/Icons/badge.png" width="150" height="150" />
 ### Katılım sertifikası
 
 #### Etkinlikten uzun süre önce
 
-Prepare a template and assign who will keep records or monitor registration process. 
+Bir şablon hazırlayın ve kayıtları kimin tutacağını ya da kayıt sürecini kimin izleyeceğini belirleyin. 
 
 #### Etkinlikten kısa süre önce
 
-Prepare a generic certificate of attendance with event or organiser’s logos and event information that can be distributed digitally when requested.  
+Etkinliğin ve düzenleyicinin logolarını ve gerektiğinde elektronik olarak dağıtılabilecek etkinlik bilgilerini içeren jenerik bir katılım sertifikası hazırlayın. 
 
 #### Etkinlik esnasında
 
-Ask participants if a certificate of attendance is needed.
+Katılımcılara katılım sertifikasına ihtiyaçları olup olmadığını sorun.
 
-If a signature sheet is required, make sure you do a check during the day or ask to complete it at registration. 
+İmza kağıdı gerekiyorsa, gün içinde kontrol ettiğinizden emin olun ve kayıt esnasında doldurulmasını isteyin. 
 
 ## <img src="/Images/Icons/sign_left.png" width="150" height="150" /> <img src="/Images/Icons/sign_right.png" width="150" height="150" />
 ### Yönlendirmeler
 
 #### Etkinlikten uzun süre önce
 
-Check the venue and define spots to be marked by signs to help participants to easily find a room. 
+Katılımcıların aradıkları yeri kolayca buşlmalarına yardımcı aolmak için etkinlik mekanını kontrol edin ve yönlendirme yapılacak noktaları belirleyin.
 
 #### Etkinlikten hemen önce
 
-Design, print and place the signs and leave useful information at the reception desk. 
+Yönlendirmeleri tasarlayın, çıktısını alın ve yerlerine yerleştirip, kayıt masasına faydalı olabilecek bilgileri bırakın.
 
 #### Etkinlik esnasında
 
-Remove the signs after the event.
+Yönlendirmeleri etkinlik sonrasında kaldırın.
 
 ## <img src="/Images/Icons/social_facebook.png" width="150" height="150" /> <img src="/Images/Icons/social_twitter.png" width="150" height="150" />
 ### Sosyal medya ve notlar 
 
 #### Etkinlikten uzun süre önce
 
-Plan your social media activities, ask colleagues from other departments and/or partner organization to help you in sharing information. 
+Sosyal medya etkinliklerinizi planlayın, diğer departmanlardan ve/veya ortak kuruluşlardan bilgi paylaşımı için yardım isteyin.
 
 #### Etkinlikten hemen önce
 
-Prepare note documents (e.g. public Google Docs or etherpads). Make announcements on social media.
+Notlarınızı hazırlayın (Google Dokümanlar ya da Etherpad vb. kullanarak). Sosyal medyada duyurular yapın.
 
 #### Etkinlik esnasında
 
-Ask your audience whether they are ok with being filmed, photographed and featured on social media. If it's a big audience, you might consider handing out stickers to those who do not want to be featured.
+Katılımcılarınıza videoya çekilmek, fotoğrağlanmak ve sosyal medyada görünmenin onlar için uygun olup olmadığını sorun. Büyük bir kitle söz konusuysa, görünmek istemeyenlere çıkartma dağıtmayı düşünebilirsiniz.
 
-Assign note takers and people responsible for social media. Ideally, rotate heavily to avoiding slacking and loss of attention. 
+Not almadan ve sosyal medyadan sorumlu kişileri belirleyin. Dikkat kaybına karşılık mola amaçlı olarak bu kişileri rotasyona tabii tutun. 
 
 ## <img src="/Images/Icons/key.png" width="150" height="150" />
 ## Etkinliğin kapanışı
 
 ### Mekan
 
-Make sure you leave the venue neat and clean, unless your agreement for using it doesn’t require this.
+Kullanım sözleşmeniz bunu gerektiriyorsa, mekanı düzenli ve temiz bıraktığınızdan emin olun.
 
 ### Bilgi alma
 
-Debrief with the other trainers/speakers to self-assess how the event went.
+Etkinliğin nasıl gittiği hakkında diğer eğitimcilerden/konuşmacılardan bilgi alın.
 
 ### Değerlendirme
 
-Send post-training assessment survey to participants (see [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) or distribute an evaluation form during the event and make sure people hand it in at the end.
+Katılımcılara eğitim sonrası değerlendirme anketi gönderin (bkz. [Training evaluation](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/tree/master/03OnLearningAndTraining#e%C4%9Fitimin-de%C4%9Ferlendirilmesi)) ya da etkinlik esnasında bir değerlendirme dağıtıp, etkinlik sonunda katılımcıların bunları teslim ettiğinden emin olun.
 
-Read and count the questions in the evaluation form. Make your self-evaluation.
+Değerlendirme formunda soruları okuyun ve sayın. Kendi değerlendirmenizi yapın. Read and count the questions in the evaluation form. Make your self-evaluation.
 
 ### Yayma/Dağıtım
 
-Upload all the material used during the event (presentations, documents) if they were not available beforehand. Make sure to provide open licenses if possible, and make sure participants are not identifiable (e.g., within a notes document). 
+Eğer önceden erişilebilir değilse, etkinlik esnasında kullanılan tüm materyali (sunumlar, dokümanlar) erişilebilir hale getirin. Mümkünse, açık lisanslar sağladığınızdan ve katılcı kimliklerinin (örneğin, bir not dokümanında) belirgin olmadığından emin olun. 
 
-Prepare a report for your funder or institution and if needed make it public (e.g. blog, twitter, website). 
+Fonlayıcınız ve kurumunuz için bir rapor hazırlayın ve gerekiyorsa bu raporu (blog, Twitter, web sitesi vb. aracılığıyla) herkesin erişimine açın.  
 
 ## <img src="/Images/Icons/coffee_break.png" width="150" height="150" /> <img src="/Images/Icons/toilets.png" width="150" height="150" />
 ## Kontrol listesi
 
 <table>
   <tr>
-    <td>What</td>
-    <td>When and who?</td>
-    <td>Done?</td>
+    <td>Ne?</td>
+    <td>Ne zaman ve kim?</td>
+    <td>Yapıldı mı?</td>
   </tr>
   <tr>
-    <td>Equipment/media</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Determine what technical equipment is needed</td>
+    <td>Ekipman/araç</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check if enough power outlets are available</td>
+    <td>Hangi teknik ekipmana ihtiyaç olduğunu belirleyin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Order WiFi for participants</td>
+    <td>Yeterli elektrik prizi olup olmadığını kontrol edin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Organize video recording and taking pictures</td>
+    <td>Katılımcılar için WiFi talimatlarını hazırlayın</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Test equipment a few days before the training</td>
+    <td>Video kaydı ve fotoğraf çekimini organize edin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Print out handouts, feedback forms and material for exercises or publish them online</td>
+    <td>Eğitimden birkaç gün önce ekipmanı test edin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare flip charts and pinboards</td>
+    <td>Alıştırmalar için broşürleri, geri bildirim formlarını ve materyalleri yazdırın veya çevrimiçi yayınlayın</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Kağıt tahtalarını ve mantar panoları hazırlayın</td>
     <td></td>
     <td></td>
   </tr>
@@ -509,172 +509,172 @@ Prepare a report for your funder or institution and if needed make it public (e.
     <td></td>
   </tr>
   <tr>
-    <td>Check elevator access, accessible entrances, ramps</td>
+    <td>Asansör erişimini, erişilebilir girişleri, rampaları kontrol edin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check public transport and parking availability</td>
+    <td>Toplu taşıma ve otopark uygunluğunu kontrol edin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Locate maternity room, prayer room and gender neutral washrooms</td>
+    <td>Hamile/anne odası, mescit ve cinsiyetten bağımsız tuvaletlerin yerini saptayın</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Clear, legible signs</td>
+    <td>Açık, okunaklı yönlendirmeler</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Brief your helpers before the event</td>
+    <td>Etkinlikten önce yardımcılarınızı bilgilendirin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Marketing/advertising</td>
+    <td>Duyurma/tanıtma</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Identify communication channels</td>
+    <td>İletişim kanallarını belirleyin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Set up online presence</td>
+    <td>Çevrimiçi yapıyı kurun</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send event information to mailing lists</td>
+    <td>E-posta listelerine etkinlik bilgisi gönderin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Inform about your event in social media</td>
+    <td>Sosyal medyada etkinliğiniz hakkından bilgi paylaşın</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Registration</td>
+    <td>Kayıt</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Set up registration module</td>
+    <td>Kayıt modülünü oluşturun</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Collect information on dietary needs and allergies</td>
+    <td>Diyet ihtiyaçları ve alerjiler hakkında bilgi toplayın</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Ask for childcare needs</td>
+    <td>Çoçuk bakımı gereksinimini sorun</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide hotel information for events over several days</td>
+    <td>Birkaç günden fazla etkinlikler için otel bilgisi sağlayın</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send confirmations/invitations to attendees and provide clear text and image instructions to the venue</td>
+    <td>Katılımcılara kayıt onaylarını/davetiyeleri gönderin ve Send confirmations/invitations to attendees and etkinlik mekanına erişim için (metin ve görüntü kullanarak) net bilgi sağlayın</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Send a reminder 1 or 2 days before the event</td>
+    <td>Etkinlikten bir ya da iki gün önce hatırlatma gönderin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare name tags and print participants list</td>
+    <td>İsim etiketlerini ve basılı katılımcı listelerini hazırlayın</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Prepare a registration desk</td>
+    <td>Bir kayıt masası hazırlayın</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Organize a wardrobe checkroom for larger events</td>
+    <td>Daha büyük etkinlikler için vestiyer organize edin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Catering</td>
+    <td>Yiyecek/içecek</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Identify catering options and needs</td>
+    <td>Yiyecek/içecek seçeneklerini ve ihtiyaçlarını belirleyin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Order catering </td>
+    <td>Yiyecek/içecek ayarlamasını yapın </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Check if meals are clearly labeled (especially regarding dietary needs and allergies)</td>
+    <td>Yemeklerin düzgün şekilde etiketlenip etiketlenmediğini kontrol edin (özellikle diyet ihtiyaçları ve alerjilerle ilgili olarak)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Communication during event</td>
+    <td>Etkinlik esnasında iletişim</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Inform the participants where to find emergency exits, food/beverages and restrooms etc.</td>
+    <td>Katılıcımlara acil çıkışlar, yiyecek/içecek ve tuvaletlerin yerleri vb. ile ilgili bilgilendirin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out consent forms for video recordings, live streaming and/or photos</td>
+    <td>Video kayıtları, canlı yayın ve/veya fotoğraflar için izin formları dağıtın</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Post event dissemination</td>
+    <td>Etkinlik sonrası dağıtım</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Make photos of flip charts and other non-digital material or results</td>
+    <td>Kağıt panoları ve diğer dijital olmayan materyal veya çıktıların fotoğraflarını çekin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out or send certificates of attendance</td>
+    <td>Katılım sertifikalarını dağıtın ya da gönderin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide or send training material (slides, notes, video recordings) to the attendees</td>
+    <td>Katılımcılara eğitim materyallerini (slaytlar, notlar, video kayıtları) sağlayın ya da gönderin</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Provide a report for your funder or institution</td>
+    <td>Fonlayıcınız ya da kurumunuz için bir rapor hazırlayın</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Evaluation</td>
+    <td>Değerlendirme</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Hand out or provide an online or printed form for feedback</td>
+    <td>Çevrimiçi ya da basılı olarak geribildirim formu sağlayın ya da dağıtın</td>
     <td></td>
     <td></td>
   </tr>
@@ -683,13 +683,13 @@ Prepare a report for your funder or institution and if needed make it public (e.
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ## Kaynaklar
 
-* Christodolou et al. (2014). How to conduct a successful workshop: The trainee’s perspective (Arab Journal of Urology), 12(1), 12-14. [doi.org/10.1016/j.aju.2013.08.004](https://doi.org/10.1016/j.aju.2013.08.004)
+* Christodolou ve diğerleri (2014). How to conduct a successful workshop: The trainee’s perspective (Arab Journal of Urology), 12(1), 12-14. [doi.org/10.1016/j.aju.2013.08.004](https://doi.org/10.1016/j.aju.2013.08.004)
 
-* Commission on Disability Rights of American Bar Association (2016). Planning Accessible Meetings and Events.  A toolkit. [PDF](https://www.americanbar.org/content/dam/aba/administrative/mental_physical_disability/Accessible_Meetings_Toolkit.authcheckdam.pdf)
+* Commission on Disability Rights of American Bar Association (2016). Planning Accessible Meetings and Events.  A toolkit. [PDF](https://www.americanbar.org/content/dam/aba/administrative/commission-disability-rights/accessible-meetings-toolkit.pdf)
 
-* Pavelin et al. (2014). Ten simple rules for running interactive workshops, *PLOS Biology*. [doi.org/10.1371/journal.pcbi.1003485](https://doi.org/10.1371/journal.pcbi.1003485)
+* Pavelin ve diğerleri (2014). Ten simple rules for running interactive workshops, *PLOS Biology*. [doi.org/10.1371/journal.pcbi.1003485](https://doi.org/10.1371/journal.pcbi.1003485)
 
-* SPARC (n.y.). Diversity, Equity, and Inclusion. Conference Planning Checklist. [sparcopen.github.io](https://sparcopen.github.io/opencon-dei-report/checklist.html)
+* SPARC (t.y.). Diversity, Equity, and Inclusion. Conference Planning Checklist. [sparcopen.github.io](https://sparcopen.github.io/opencon-dei-report/checklist.html)
 
 * Wilson G. Software Carpentry: lessons learned [sürüm 2; hakem: 3 onaylandı]. F1000Research. 2016;3:62. [doi.org/10.12688/f1000research.3-6e 2.v2](https://doi.org/10.12688/f1000research.3-62.v2) 
 
