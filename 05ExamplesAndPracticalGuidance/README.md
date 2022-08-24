@@ -29,60 +29,60 @@ Göttüngen Açık Bilim Ağı, açık bilim uygulamalarını ve bilgi paylaşı
 
 * [Çalıştay programı](http://www.oa.unito.it/new/open-science-whats-in-it-for-me-torino-8-e-9-marzo-2018/) (Torino, 2018)
 
-**Carpentry workshops (2 days)**
+**Carpentry Çalıştayları (2 gün)**
 
-A Carpentry workshop is a hands-on two-day event that covers the core skills needed to be productive in a small research team. Short tutorials alternate with practical exercises, and all instruction is done via live coding. Software Carpentry was founded in 1998 and Data Carpentry was founded in 2013. Both focus on computational skills, run two-day workshops taught by volunteer instructors, and strive to fill gaps in current training for researchers. However, they differ in their content and intended audience. Data Carpentry workshops focus on best practices surrounding data. Its learners are not people who want to learn about coding, but rather those who have a lot of data and don’t know what to do with it. Data Carpentry workshops are aimed at pure novices, are domain-specific, and present a full curriculum centered around a single data set. Software Carpentry workshops are intended for people who need to program more effectively to solve their computational challenges, are not domain-specific, and are modular—each Software Carpentry lesson is standalone.
+Carpentry çalıştayı, küçük araştırma gruplarında üretken olmak için ihtiyaç duyulan temel becerilere yönelik iki günlük bir uygulamalaı etkinliktir. Kısa eğitimler ve uygulamalı alıştırmalar dönüşümlü olarak birbirini takip eder ve tüm eğitim canlı kodlamaya dayanır. Software Carpentry 1998 yılında and Data Carpentry 2013 yılında kurulmuştur. İkisi de hesaplama becerilerine odaklanır, gönüllü eğitimciler tarafından verilen iki günlük çalıştaylar yapar ve araştırmacılar için mevcut eğitimdeki boşlukları doldurmaya çalışır. Ancak, içerikleri ve hedef kitleleri farklıdır. Data Carpentry çalıştayları verilerle ilgili en iyi uygulamalara odaklanır. Öğrencileri kodlama öğrenmek isteyen kişiler değil, daha ziyade birçok verisi olan ve ve bu verilerle ne yapacağını bilmeyen kişilerdir. Data Carpentry çalıştayları tamamen acemilere yöneliktir, alan odaklıdır ve tek bir veri setine yoğunlaşarak eksiksiz bir müfredat sunar. Software Carpentry çalıştayları, hesaplamaya yönelik yaşadıkları zorlukları çözmek isteyen çözmek için daha etkili programlamaya ihtiyaç duyan kişilere yöneliktir, alan odaklıdır ve modülerdir—her Software Carpentry dersi bağımsızdır.
 
 * [Software Carpentry](https://software-carpentry.org)
 
 * [Data Carpentry](http://www.datacarpentry.org/)
 
-**EIFL Train-the-Trainer program (4 days)**
+**EIFL Eğitmen Yetiştirme Programı  (4 gün)**
 
-EIFL organized a train-the-trainers program for five universities in EIFL partner countries (Ethiopia, Ghana, Zimbabwe, Tanzania, and Nepal) that have committed to integrating open access, open science and open research data into courses for PhD students. Day 1 covered open access and open data. Day 2 and 3 were dedicated to open science across the research workflow, including current practices at participant’s universities. On Day 4, participants designed and prepared their own training program. 
+EIFL, EIFL partneri ülkelerdeki (Etiyopya, Ganan, Zimbabve, Tanzanya ve Nepal) açık erişim, açık bilim ve açık araştırma verilerini doktora derslerine entegre etmeyi taahhüt eden beş üniversitede bir eğitmen yetiştirme programı düzenlemiştir. İlk gün açık erişim ve açık veri konularını kapsamıştır. İkinci ve üçüncü gün ise katılımcıların üniversitelerindeki mevcut uygulamalar da dahil olmak üzere araştırma iş akışında açık bilime ayrılmıştır. Dördüncü gün, katılımcılar kendi eğitim programlarını tasarlayıp hazırlamışlardır.
 
-* [EIFL Train-the-trainer program](https://osf.io/qf76a/) (Addis Ababa, 2017, program and materials)
+* [EIFL Eğitmen Yetiştirme PRogramı](https://osf.io/qf76a/) (Addis Ababa, 2017, program ve tüm materyaller)
 
-**Open Science summer schools (5 days)**
+**Açık Bilim Yaz Okulları (5 gün)**
 
-Various universities across Europe organize weeklong summer schools on open science, primarily aimed at early career researchers. These events cover a variety of topics in five days, usually with many hands-on activities to apply open science into daily practice. 
+Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacılarına yönelik, açık bilim üzerine haftalık yaz okulları düzenlemektedir. Bu etkinliklerde beş gün boyunca, genellikle açık bilime günlük pratiklerde yer vermeye yönelik birçok uygulamayla birlikte çeşitli konulara yer verilmektedir.
 
-* [EPFL Summer school Open Science in Practice ](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, program overview)
+* [EPFL Uygulamada Açık Bilim Yaz Okulu - EPFLSummer school Open Science in Practice](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, program tanıtımı)
 
-* [Utrecht University Summer school Open Science and Scholarship](https://tinyurl.com/sumsopenscience2017) (2017, program and materials)
+* [Utrecht Üniversitesi Açık Bilim ve Araştırma Yaz Okulu - Utrecht University Summer School Open Science and Scholarship](https://tinyurl.com/sumsopenscience2017) (2017, program ve materyaller)
 
-* [Essex Summer school in Social Science and Data Analysis - Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, program overview) 
+* [Essex Sosyal Bilimler ve Veri Analizi Yaz Okulu: Açık Bilime Giriş - Essex Summer School in Social Science and Data Analysis - Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, program tanıtımı) 
 
-* [LERU Doctoral Summer school on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, description, learning objectives) 
+* [LERU Veri Yöneticiliği Doktora Yaz Okulu - LERU Doctoral Summer School on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, açıklama, öğrenme hedefleri) 
 
 
 ![image alt text](/Images/image_6.png)
 
-*Program schedule Summer School Open Science and Scholarship, Utrecht University 2017*
+*Açık Bilim ve Araştırma Yaz Okulu Program Takvimi, Utrecht Üniversitesi 2017*
 
-### Example Exercises
+### Örnek alıştırmalar
 
-#### Master Template
+#### Ana Şablon
 
-* Format, time needed 
+* Format, gereken zaman 
 
-* Topic \([see Open Science Basics](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
+* Konu \([bkz. Açık Bilimin Temelleri](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
 
-* Learning objectives 
+* Öğrenme hedefleri 
 
-* Exercise description
+* Alıştırma açıklaması
 
-* Materials and tools needed
+* Gerekli materyal ve araçlar
 
-* Level of prior knowledge needed
+* Gereken ön bilgi düzeyi
 
-* Things to bear in mind
+* Akılda tutulması gerekenler
 
-* How to adapt for other purposes
+* Farklı amaçlar için nasıl uyarlanabileceği
 
-**Use [this Google form](https://goo.gl/forms/wxyx6pk80mHUHTRu1) to suggest additional exercises!**
+**Başka alıştırmalar önermek için [bu Google Formunu](https://goo.gl/forms/wxyx6pk80mHUHTRu1) kullanın!**
 
-#### Types of exercises
+#### Alıştırma türleri
 
 
     * quick warm-up / short break exercises 
