@@ -85,371 +85,371 @@ Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacıları
 #### Alıştırma türleri
 
 
-    * quick warm-up / short break exercises 
+    * hızlı ısınma / kısa mola alıştırmaları 
 
-    * small group exercises
+    * küçük grup alıştırmaları
 
-        * role-play
+        * canlandırma (role-play)
 
-        * discuss OS topics/statements
+        * Açık bilim konularını/ifadelerini tartışma
 
-        * marketplace: exchange experiences/expertise
+        * deneyim/uzmanlık alışverişi
 
-        * meeting with researchers / policy makers
-
-        * ...
-
-    * plenary exercises
-
-        * collaborative mapping
-
-        * simulation game 
-
-        * inventorizing
-
-        * card games
-
-    * presentations
-
-        * role-play
-
-        * present real-life cases/examples (also by participants)
-
-        * one-minute presentations of a concept (by participants) 
-
-        * guest lecturers
+        * araştırmacılarla / politika yapıcılarla buluşma
 
         * ...
 
-    * hands-on exercises (individual or in pairs)
+    * genel alıştırmalar
 
-        * visualizing
+        * katılımcı haritalama
 
-        * explore / try out tools & platforms
+        * simülasyon oyunu 
 
-        * implement an open science practice in your own research
+        * envanter çıkarmak
 
-        * check reproducibility of a research paper
+        * kart oyunları
+
+    * sunumlar
+
+        * canlandırma (role-play)
+
+        * gerçek yaşamdan örnekler/vakalar (aynı zamanda katılımcılardan)
+
+        * belli bir kavramın bir dakikalık sunumu (katılımcılar tarafında) 
+
+        * misafir eğitmenler
+
+        * ...
+
+    * uygulamalı alıştırmalar (bireysel ya da çiftler halinde)
+
+        * görselleştirme
+
+        * araçları ve platformları keşfetmek / denemek
+
+        * kendi araştırmanızda bir açık blim pratiği uygulamak
+
+        * bir araştırma makalesinin tekrarlanabilirliğini kontrol etmek
 
         * … 
 
-#### Example exercises (including materials)
+#### Örnek alıştırmalar (gerekli materyaller dahil)
 
 <table>
   <tr>
     <td></td>
-    <td>Title</td>
-    <td>Topic</td>
-    <td>Type</td>
-    <td>Duration</td>
+    <td>Başlık</td>
+    <td>Konu</td>
+    <td>Tür</td>
+    <td>Süre</td>
   </tr>
   <tr>
     <td>1</td>
-    <td>Line up!</td>
-    <td>general</td>
-    <td>whole group</td>
-    <td>5-10 min</td>
+    <td>Sırala!</td>
+    <td>Genel</td>
+    <td>tüm grup</td>
+    <td>5-10 dk.</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Prioritization of training needs</td>
-    <td>Open Concepts and Principles</td>
-    <td>whole group</td>
-    <td>10 min</td>
+    <td>Eğitim ihtiyaçlarının önceliklendirilmesi</td>
+    <td>Açık kavramlar ve ilkeler</td>
+    <td>tüm grup</td>
+    <td>10 dk.</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Selection of Open Science practices</td>
-    <td>Open Concepts and Principles</td>
-    <td>whole group</td>
-    <td>1-1.5 hour</td>
+    <td>Açık bilim pratiklerinin seçimi</td>
+    <td>Açık kavramlar ve ilkeler</td>
+    <td>tüm grup</td>
+    <td>1-1.5 saat</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>Open Science discussion topics</td>
-    <td>Open Concepts and Principles</td>
-    <td>small groups</td>
-    <td>20-30 min</td>
+    <td>Açık bilim tartışma konuları</td>
+    <td>Açık kavramlar ve ilkeler</td>
+    <td>küçük gruplar</td>
+    <td>20-30 dk.</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>LIBER Open Science café</td>
-    <td>Open Concepts and Principles</td>
-    <td>small groups</td>
-    <td>1.5 hour</td>
+    <td>LIBER Kafe Açık Bilim</td>
+    <td>Açık kavramlar ve ilkeler</td>
+    <td>küçük gruplar</td>
+    <td>1.5 saat</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>What is research data for me?</td>
-    <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
-    <td>15 min</td>
+    <td>Bana göre araştırma verisi ne?</td>
+    <td>Açık araştırma verileri ve materyaller</td>
+    <td>bireysel / çiftler halinde</td>
+    <td>15 dk.</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>Why not share data?</td>
-    <td>Open Research Data and Materials</td>
-    <td>small groups</td>
-    <td>20 min</td>
+    <td>Veriler neden paylaşılmıyor?</td>
+    <td>Açık araştırma verileri ve materyaller</td>
+    <td>küçük gruplar</td>
+    <td>20 dk.</td>
   </tr>
   <tr>
     <td>8</td>
-    <td>"Open Data Excuse" Bingo</td>
-    <td>Open Research Data and Materials</td>
-    <td>whole group</td>
-    <td>20-30 min</td>
+    <td>Bingo "açık veri bahanesi"</td>
+    <td>Açık araştırma verileri ve materyaller</td>
+    <td>tüm grup</td>
+    <td>20-30 dk.</td>
   </tr>
   <tr>
     <td>9</td>
-    <td>Me and my data - Datagramms</td>
-    <td>Open Research Data and Materials</td>
-    <td>whole group</td>
-    <td>1-4 hours</td>
+    <td>Ben ve verim - Datagramlar</td>
+    <td>Açık araştırma verileri ve materyaller</td>
+    <td>tüm grup</td>
+    <td>1-4 saat</td>
   </tr>
   <tr>
     <td>10</td>
-    <td>Find your data publisher</td>
-    <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
-    <td>10-15 min</td>
+    <td>Veri yayıncınızı bulun</td>
+    <td>Açık araştırma verileri ve materyaller</td>
+    <td>bireysel / çiftler halinde</td>
+    <td>10-15 dk.</td>
   </tr>
   <tr>
     <td>11</td>
-    <td>What do you need for a data publication?</td>
-    <td>Open Research Data and Materials</td>
-    <td>whole group</td>
-    <td>10 min</td>
+    <td>Veri yayınlamak için ihtiyacınız olan ne?</td>
+    <td>Açık araştırma verileri ve materyaller</td>
+    <td>tüm grup</td>
+    <td>10 dk.</td>
   </tr>
   <tr>
     <td>12</td>
-    <td>Creating metadata</td>
-    <td>Open Research Data and Materials</td>
-    <td>individual / pairs</td>
-    <td>5 min</td>
+    <td>Üst veri oluşturmak</td>
+    <td>Açık araştırma verisi ve materyaller</td>
+    <td>bireysel / çiftler halinde</td>
+    <td>5 dk.</td>
   </tr>
   <tr>
     <td>13</td>
-    <td>Get started with sharing software openly</td>
-    <td>Open Research Software / Open Source</td>
-    <td>individual / pairs</td>
-    <td>20-30 min</td>
+    <td>Yazılımı açık bir şekilde paylaşmaya başlamak</td>
+    <td>Açık araştırma yazılımları ve açık kaynak</td>
+    <td>bireysel / çiftler halinde</td>
+    <td>20-30 dk.</td>
   </tr>
   <tr>
     <td>14</td>
-    <td>Establishing a Reproducible Data Analysis Workflow</td>
-    <td>Reproducible Research and Data Analysis</td>
-    <td>individual / pairs</td>
-    <td>4-8 hours</td>
+    <td>Tekrarlanabilir veri analizi iş akışı oluşturmak</td>
+    <td>Tekrarlanabilir araştırma ve veri analizi</td>
+    <td>bireysel / çiftler halinde</td>
+    <td>4-8 saat</td>
   </tr>
   <tr>
     <td>15</td>
-    <td>Choose the right version for the repository</td>
-    <td>Open Access to Published Research Results</td>
-    <td>individual / pairs</td>
-    <td>15-20 min</td>
+    <td>Depo için doğru sürümü seçmek</td>
+    <td>Yayımlanmış araştırma sonuçlarına açık erişim</td>
+    <td>bireysel / eşler halinde</td>
+    <td>15-20 dk.</td>
   </tr>
   <tr>
     <td>16</td>
-    <td>Open file formats</td>
-    <td>Open Licensing and File Formats</td>
-    <td>whole group</td>
-    <td>10-15 min</td>
+    <td>Açık dosya formatları</td>
+    <td>Açık lisanslama ve dosya formatları</td>
+    <td>tüm grup</td>
+    <td>10-15 dk.</td>
   </tr>
   <tr>
     <td>17</td>
-    <td>Creative Commons License matching</td>
-    <td>Open Licensing and File Formats</td>
-    <td>whole group</td>
-    <td>5-10 min</td>
+    <td>Creative Commons lisans eşleştirmesi</td>
+    <td>Açık lisanslama ve dosya formatları</td>
+    <td>tüm grup</td>
+    <td>5-10 dk.</td>
   </tr>
   <tr>
     <td>18</td>
-    <td>OER Remix</td>
-    <td>Open Licensing and File Formats
+    <td>OER Remiks</td>
+    <td>Açık lisanslama ve dosya formatları
 
-Open Educational Resources</td>
-    <td>whole group</td>
-    <td>10-15 min</td>
+Açık eğitim kaynakları</td>
+    <td>tüm grup</td>
+    <td>10-15 dk.</td>
   </tr>
   <tr>
     <td>19</td>
-    <td>Open peer review - participants openly review each others’ texts</td>
-    <td>Open Peer Review, Metrics, and Evaluation</td>
-    <td>small groups</td>
-    <td>90 min</td>
+    <td>Açık hakem değerlendirmesi - katılımcılar birbirlerinin metinlerini açık olarak değerlendirir</td>
+    <td>Açık hakem/akran değerlendirmesi, ölçevler ve ölçüm</td>
+    <td>küçük gruplar</td>
+    <td>90 dk.</td>
   </tr>
   <tr>
     <td>20</td>
-    <td>Open peer review - your 2 cents</td>
-    <td>Open Peer Review, Metrics, and Evaluation</td>
-    <td>whole group</td>
-    <td>1.5 hour</td>
+    <td>Bence açık hakem değerlendirmesi</td>
+    <td>Açık hakem/akran değerlendirmesi, ölçevler ve ölçüm</td>
+    <td>tüm grup</td>
+    <td>1.5 saat</td>
   </tr>
   <tr>
     <td>21</td>
-    <td>Taking a stance</td>
-    <td>Open Science Policies</td>
-    <td>whole group</td>
-    <td>10 min</td>
+    <td>Bir duruş sergilemek</td>
+    <td>Açık bilim politikaları</td>
+    <td>tüm grup</td>
+    <td>10 dk.</td>
   </tr>
   <tr>
     <td>22</td>
-    <td>Plain language explanations (in progress)</td>
-    <td>Citizen Scientists and Science Communication
+    <td>Sade dilde açıklamalar (devam ediyor)</td>
+    <td>Yurttaş bilimciler ve bilim iletişimi
 
-Collaborative Platforms</td>
-    <td>small groups</td>
-    <td>2-3 hours</td>
+Katılımcı platformlar</td>
+    <td>küçük gruplar</td>
+    <td>2-3 saat</td>
   </tr>
   <tr>
     <td>23</td>
-    <td>Devil’s advocate - convincing the skeptics</td>
-    <td>Open Advocacy</td>
-    <td>small groups</td>
-    <td>30 min</td>
+    <td>Şeytanın avukatı - şüphecileri ikna etmek</td>
+    <td>Açık savunuculuk</td>
+    <td>küçük gruplar</td>
+    <td>30 dk.</td>
   </tr>
   <tr>
     <td>24</td>
-    <td>Set up OSF project & link to other platforms (in progress)</td>
-    <td>Open Research Data and Materials</td>
-    <td>individually or in pairs</td>
+    <td>OSF projesi oluşturmak ve diğer platformlarla bağlantı kurmak (devam ediyor)</td>
+    <td>Açık araştırma verisi ve materyaller</td>
+    <td>bireysel /çiftler halinde</td>
     <td></td>
   </tr>
   <tr>
     <td>25</td>
-    <td>The publishing trap (in progress)</td>
-    <td>Open Access to Published Research Results</td>
-    <td>small group exercise</td>
-    <td>2 hours</td>
+    <td>Yayınlama tuzağı (devam ediyor)</td>
+    <td>Yayımlanmış araştırma sonuçlarına açık erişim</td>
+    <td>küçük grup</td>
+    <td>2 saat</td>
   </tr>
    <tr>
     <td>26</td>
-    <td> (in progress)</td>
-    <td>Open Research Data and Materials</td>
-    <td>small group exercise</td>
-    <td>4 days (5 hrs/day)</td>
+    <td> (devam ediyor)</td>
+    <td>Açık araştırma verileri ve materyaller</td>
+    <td>küçük grup</td>
+    <td>4 gün (5 saat/gün)</td>
   </tr>
    <tr>
     <td>27</td>
-    <td>Train-the-trainer card game for Open Science training</td>
-    <td>Open Advocacy</td>
-    <td>small group exercise</td>
-    <td>2 hours</td>
+    <td>Açık bilim eğitimi için eğitimcileri eğitmek kart oyunu</td>
+    <td>Open Savunuculuk</td>
+    <td>küçük grup</td>
+    <td>2 saat</td>
   </tr>
 </table>
 
 
-##### **Example 1: Line up!**
+##### **Örnek 1: Sırala!**
 
-* Format, time needed 
+* Format, gereken zaman 
 
-    * Group exercise, 5–10 minutes
+    * Grup alıştırması, 5–10 dakika
 
-* Topic 
+* Konu 
 
-    * Icebreaker, can be on topic or unrelated 
+    * Kaynaştırıcı (Ice-breaker), konuyla ilgili ya da ilgisiz olabilir
 
-* Learning objectives 
+* Öğrenme hedefleri 
 
-    * Get participants to loosen up
+    * Katılımcıların rahatlamasını sağlamak
 
-* Exercise description
+* Alıştırma tanımı
 
-    * Imaginary line in the room forms a spectrum between ‘strongly agree’ and ‘strongly disagree’. One participant, or the moderator, makes a statement (can be on topic ‘closed data should not be cited’ or off-topic ‘leggings are not trousers’. All participants have to position themselves along the imaginary line. The moderator asks some participants to explain their (literal) standpoint. 
+    * Odadaki hayali çizgi 'kesinlikle katılıyorum' ve 'kesinlikle katılmıyorum' arasında bir spektrum oluşturur. Bir katılımcı ya da moderatör bir açıklama yapar (konu ile ilgili ‘kapalı verilere atıf yapılmamalıdır’ şeklinde ya da konunun dışından ‘tayt pantolon değildir’ şeklinde olabilir. Tüm katılımcılar kendilerini hayali çizgiye göre konumlandırmalıdır. Moderatör, bazı katılımcılardan (gerçek) bakış açılarını açıklamalarını ister.. 
 
-* Materials and tools needed
+* Gereken materyal ve araçlar
 
-    * None
+    * Yok
 
-* Level of prior knowledge needed
+* Gerekli ön bilgi düzeyi
 
-    * None
+    * Yok
 
-* Things to bear in mind
+* Akılda tutulması gerekenler
 
-    * Make sure not only the opinionated people are talking. Ask people who linger in the middle to explain their point of view. 
+    * Sadece fikir sahibi olanların konuşmadığından emin olun. Ortada duran kişilerden bakış açılarını açıklamalarını isteyin. 
 
-* How to adapt for other purposes
+* Başka amaçlar için nasıl uyarlanır?
 
-    * Adapt the type of question to the situation. For a new group, allow people to make an off-topic or trivial statement, but the technique can also be used to test the waters on certain controversial subjects related to the topic of the workshop, especially with people who have been working together for a while already (e.g., on a second day of a workshop)
+    * Soru türünü duruma göre uyarlayın. Yeni bir grup için, insanların konu dışı ve çok da önemli olmayan bir açıklama yapmasına izin verin, ancak teknik, özellikle bir süredir birlikte çalışan kişilerle (örneğin, bir çalıştayın ikinci gününde), çalıştayın konusuyla ilgili belli tartışmalı konularda nabız yoklamak için kullanılabilir.
 
-##### **Example 2: Prioritization of training needs**
+##### **Örnek 2: Eğitim ihtiyaçlarının önceliklendirilmesi**
 
-* Format, time needed 
+* Format, gereken zaman 
 
-    * Plenary, ~10 minutes
+    * Genel, ~10 dakika
 
-* Topic
+* Konu
 
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Açık Kavramlar ve İlkeler](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Learning objectives
+* Öğrenme hedefleri
 
-    * Identify knowledge gaps / areas participants feel they would most benefit from training in.  
+    * Katılımcıların eğitimden en çok fayda sağlayacaklarını düşündükleri bilgi boşluklarını / alanları belirleyin.  
 
-    * (optional) Identify areas participants feel knowledgeable about (and can thus share their own knowledge).
+    * (isteğe bağlı) Katılımcıların kendilerini bilgili hissettikleri (ve böylece kendi bilgilerini paylaşabilecekleri) alanları belirleyin.
 
-* Exercise description
+* Alıştırma tanımı
 
-    * Briefly introducing the research cycle and activities therein.
+    * Araştırma döngüsünü ve bu döngüdeki mevcut uygulamaları kısaca tanıtmak.
 
-    * Ask participants to individually identify two to three activities they would most benefit getting training in (in relation to open science).
+    * Katılımcılardan eğitim almaktan en çok fayda sağlayacakları (açık bilimle ilgili) iki-üç etkinliği bireysel olarak belirlemelerini isteyin.
 
-    * Optionally, also ask participants which two to three areas they already feel knowledgeable about (again, in relation to open science).
+    * İsteğe bağlı olarak, katılımcılara halihazırda bilgi sahibi olduklarını hissettikleri (yine, açık bilimle ilgili olarak) iki-üç alanı da sorun.
 
-    * On individual printouts, participants add sticky dots for each question.
+    * Bireysel çıktılara/kağıtlara, katılımcılar her soru için yapışkanlı noktalar ekler.
 
-    * Participants then add similar sticky dots to the communal printout.
+    * Katılımcılar daha sonra ortak çıktıya/kağıda benzer yapışkanlı noktalar ekler.
 
-    * Discuss the results with the full group. Make sure people when seeing the dots also realize there may be a big opportunity for learning from other participants.
+    * Sonuçları tüm grup ile tartışın. Katılımcılar noktaları gördüklerinde, bunun diğer katılımcılardan öğrenmeleri için büyük bir fırsat olabileceğini farkettiklerinden emin olun.
 
 ![image alt text](/Images/image_7.png)
 
-* Materials and tools needed
+* Gereken materyal ve araçlar
 
-    * Printout of [research cycle with activities](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0): one for each participant and a  communal one
+    * [Uygulamalarla araştırma döngüsü](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0) dokümanının çıktısı: her katılımcı için bir tane ve ortak bir tane
 
-    * Sticky dots in two colors
+    * İki renkli yapışkanlı noktalar
 
 ![image alt text](/Images/image_8.png)
 
-* Level of prior knowledge needed
+* Gerekli ön bilgi düzeyi
 
-    * None; some familiarity with the research cycle is helpful.
+    * Yok; araştırma döngüsüne biraz aşina olmak faydalı olabilir.
 
-* Things to bear in mind
+* Akılda tutulması gerekenler
 
-    * Best at the beginning of a longer training program where multiple topics will be covered.
+    * Birçok konunun ele alınacağı daha uzun eğitimlerin başlangıcı için idealdir.
 
-    * For the sticky dots, choose a combination that is colour-blind friendly.
+    * Yapışkanlı noktalar için renk körü dostu bir kombinasyon seçin.
 
-    * The number of activities to choose depends on the number of participants (e.g., three for smaller groups, two for larger groups).
+    * Seçilecek etkinlik sayısı katılımcı sayısına bağlıdır (örneğin, küçük gruplar için üç, daha büyük gruplar için iki),
 
-    * Individual printouts are used to prevent peer pressure / bias.
+    * Bireysel çıktılar/kağıtlar akran baskısını / yanlılığı önlemek için kullanılır.
 
-    * Individual printouts can be kept for reference during the remaining of the training.
+    * Eğitimin geri kalanına referans olması için bireysel çıktılar/kağıtlar tutulabilir.
 
-* How to adapt for other purposes
+* Başka amaçlar için nasıl uyarlanır?
 
-    * This exercise can easily be adapted to prioritize other topics.
+    * Bu alıştırma, başka konularda öncelik belirlemek için kolaylıkla uyarlanabilir.
 
-##### **Example 3: Selection of open science practices**
+##### **Örnek 3: Açık bilim pratiklerinin seçimi**
 
-* Format, time needed
+* Format, gereken zaman
 
-    * Plenary, 1–1.5 hours
+    * Genel, 1–1.5 saat
 
-* Topic
+* Konu
 
-    * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
+    * [Açık kavramlar ve ilkeler](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Learning objectives 
+* Öğrenme hedefleri 
 
     * See the spectrum of open science practices across the full research workflow.
 
     * Assess which practices would the most feasible and effective to focus on. 
 
-* Exercise description
+* Alıştırma tanımı
 
     * Prior to the exercise, sort the cards according to research phase/activity and spread them across the room (e.g., on tables, or on a large section of the floor).
 
@@ -483,7 +483,7 @@ Collaborative Platforms</td>
 
 ![image alt text](/Images/image_11.png)
 
-* Materials and tools needed
+* Gereken materyal ve araçlar
 
     * Large wall, windows, or multiple pinboards to hang materials on
 
@@ -495,11 +495,11 @@ Collaborative Platforms</td>
 
     * Pins or tape 
 
-* Level of prior knowledge needed
+* Gerekli ön bilgi düzeyi
 
     * None, some familiarity with the research process is helpful
 
-* Things to bear in mind
+* Akılda tutulması gerekenler
 
     * Depending on the number of participants, small groups can prioritize practices for more than one research phase.
 
@@ -507,29 +507,29 @@ Collaborative Platforms</td>
 
     * The whole group may not agree with the small group’s selection of practices for a given research phase. Decide beforehand whether to stick with the choices made, or whether there is room for discussion and consensus-based swapping of practices.
 
-* How to adapt for other purposes
+* Başka amaçlar için nasıl uyarlanır?
 
     * The exercise could be modified to focus on specific activities / a specific phase of the research cycle (e.g., publication or assessment).
 
     * Other selection criteria could be used, e.g. practices participants use themselves, or practices that would be most ideal (independent of feasibility/efforts needed).
 
-##### **Example 4: Open Science discussion topics**
+##### **Örnek 4: Açık bilim tartışma konuları**
 
-* Format, time needed 
+* Format, gereken zaman 
 
     * Small groups, 20–30 minutes 
 
-* Topic 
+* Konu 
 
     * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Learning objectives 
+* Öğrenme hedefleri 
 
     * Confront own experiences and opinions on open science with perspectives from others.
 
 ![image alt text](/Images/image_12.png)
 
-* Exercise description
+* Alıştırma tanımı
 
     * Divide participants in groups of four or five and distribute discussion topics (e.g., printed out on paper).
 
@@ -563,45 +563,45 @@ Collaborative Platforms</td>
 
         16. "We should strive to create a kind of ‘commons’ where we share all our research outcomes/objects to foster collaboration and reuse"
 
-* Materials and tools needed
+* Gereken materyal ve araçlar
 
     * Printouts of discussion topics
 
-* Level of prior knowledge needed
+* Gerekli ön bilgi düzeyi
 
     * Some familiarity with the research system.
 
-* Things to bear in mind
+* Akılda tutulması gerekenler
 
     * This exercise is best suited to researchers (rather than support people), because they can directly relate to their own situation and speak from their own experience .
 
-* How to adapt for other purposes
+* Başka amaçlar için nasıl uyarlanır?
 
     * By changing the discussion statements, this exercise can be adapted to other topics.
 
-##### **Example 5: LIBER Open Science café**
+##### **Örnek 5: LIBER Kafe Açık Bilim**
 
-* Format, time needed
+* Format, gereken zaman
 
     * small groups, 1.5 hour
 
-* Topic
+* Konu
 
     * [Open Concepts and Principles](/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
-* Learning objectives
+* Öğrenme hedefleri
 
     * Have knowledge of different aspects of open science.
 
     * Connect different stakeholders to discuss statements and topics.
 
-* Materials and tools needed
+* Gereken materyal ve araçlar
 
     * The [LIBER Science Café card deck](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck), or a prepared stack of written statements based on [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)
 
     * one table per 6-8 persons
 
-* Exercise description
+* Alıştırma tanımı
 
     * The set-up: 6-8 people gather around a table with 1 moderator and 1 note taker. To initiate conversations, they are provided with a deck of cards with statements and questions related to open science and the involved projects. These statements  serve as conversation starters. Someone can pick a card, the group talks about it for some time, and then they can move on to the next card. In this way, people learn from each other and start to think about the bigger picture. Meanwhile, you can collect valuable input from different stakeholders.
 
@@ -616,123 +616,123 @@ good that it deserves to go on this card.
 
     * At the end, each moderator reports on what has been said by the different groups at their table. 
 
-##### **Example 6: What is research data for me?**
+##### **Örnek 6: Bana göre araştırma verisi ne?**
 
-* Format, time needed
+* Format, gereken zaman
 
     * Individual/pairs, 15 minutes
 
-* Topic
+* Konu
 
     * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives
+* Öğrenme hedefleri
 
     * Know their own research data and data in their field of research
 
-* Exercise description
+* Alıştırma tanımı
 
     * Let the participants think about the last articles they wrote/read. Was there supplementary material (e.g., tables, images)? Let them write down examples and types of research data in their field of work. What information or data would they need in order to reanalyze the study? What would be needed for their own dissertation/article to be understood properly? Let them present their results either in pairs/groups and then in the plenary
 
-* Materials and tools needed
+* Gereken materyal ve araçlar
 
     * A piece of paper and a pen
 
-* Level of prior knowledge needed
+* Gerekli ön bilgi düzeyi
 
     * No prior knowledge needed
 
-* Things to bear in mind
+* Akılda tutulması gerekenler
 
     * Give the participants enough time to brainstorm
 
-* How to adapt for other purposes:
+* Başka amaçlar için nasıl uyarlanır?
 
 You can shorten the activity by skipping the pair/group work and just discuss in the plenary
 
-##### **Example 7: Why not share data?**
+##### **Örnek 7: Veriler neden paylaşılmıyor?**
 
-* Format, time needed 
+* Format, gereken zaman 
 
     * Small groups, ~20 minutes
 
-* Topic
+* Konu
 
     * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Öğrenme hedefleri
 
     * Get participants thinking about the ethical and practical barriers to data sharing, and to critically examine their beliefs in this area.
 
-* Exercise description
+* Alıştırma tanımı
 
     * In pairs or small groups, participants have five minutes to make a list as long as possible of all the reasons why researchers might not wish to share their data. Participants then report back on their reasons, discussing whether these are valid reasons or not, and strategies for how to overcome legitimate concerns. The team with the most reasons listed wins (prize optional).
 
-* Materials and tools needed
+* Gereken materyal ve araçlar
 
     * Note taking equipment (pen, paper, or online document); optional: prize. 
 
-* Level of prior knowledge needed
+* Gerekli ön bilgi düzeyi
 
     * Working knowledge of working with data
 
-* Things to bear in mind
+* Akılda tutulması gerekenler
 
     * The exercise should be fun, and participants should be encouraged to come up with fun as well as serious examples. 
 
-* How to adapt for other purposes
+* Başka amaçlar için nasıl uyarlanır?
 
     * The same format could easily be adapted for many other elements of Open Science, e.g., Open Access (why not publish OA, etc.)
 
-##### **Example 8: "Open Data Excuse" Bingo**
+##### **Örnek 8: Bingo "açık veri bahanesi"**
 
-* Format, time needed
+* Format, gereken zaman
 
     * Group exercise, 20–30 minutes
 
-* Topic:
+* Konu
 
     * [Open Research Data and Materials](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Öğrenme hedefleri
 
     * Being able to recognize stereotypes that prevent sharing research data and understand the advantages of opening research data.
 
-* Exercise description:
+* Alıştırma tanımı
 
     * This exercise should be used at the beginning of the training event. Participants split at least in two groups or more (depends on the group size). A trainer takes care that one group will develop pro and the other contra arguments. In small groups participants discuss excuses already defined at the "Open Data Excuse" Bingo, these are common arguments used by researchers when explaining why they can't share their data. For the last 10 minutes the groups should confront their arguments. A trainer helps participants to develop arguments for open their data and to better understand the idea of sharing their data.
 
-* Materials and tools needed:
+* Gereken materyal ve araçlar
 
     * Printed sheets of[ "Open Data Excuse" Bingo](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E)
 
-* Level of prior knowledge needed:
+* Gerekli ön bilgi düzeyi
 
     * The participants should have experience with creating/collecting research data.
 
-* Things to bear in mind:
+* Akılda tutulması gerekenler
 
     * Go around and try to help with arguments if needed, especially in the group, which supposed to develop strong arguments for sharing data. Extra help might be needed for these participants to be stronger later in the confrontation with participants from the other group.
 
-* How to adapt for other purposes:
+* Başka amaçlar için nasıl uyarlanır?
 
     * This exercise can be adapted to other topics (material would need to be adapted also)
 
-##### **Example 9: Me and my data - Datagramms**
+##### **Örnek 9: Ben ve verim -Datagramlar**
 
-* Format, time needed
+* Format, gereken zaman
 
     * Group exercise, 1–4 hours (if done as part of a workshop)  
 
-* Topic
+* Konu
 
     * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives
+* Öğrenme hedefleri
 
     * Understanding what data is and what type of repository of archive is needed to store them properly
 
-* Exercise description
+* Alıştırma tanımı
 
     * Participants are asked to think about the last scientific work done in relation with a thesis (Bachelor, Master, or Ph.D.) and to reflect about the kind of data they produced.
 
@@ -756,147 +756,147 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * The group discusses the different clusters and reflects about the requirements for an open data repository or archive.
 
-* Materials and tools needed
+* Gereken materyal ve araçlar
 
     *  Cards and flipcharts, or better a wall and material to fix the cards on the wall
 
-* Level of prior knowledge needed
+* Gerekli ön bilgi düzeyi
 
     * None as long as the exercise is started with some explanations on how to describe and differentiate data. Basic knowledge of research data, repositories, and archives may be helpful.
 
-* Things to bear in mind: 
+* Akılda tutulması gerekenler 
 
     * Make it a step by step approach
 
-* How to adapt for other purposes
+* Başka amaçlar için nasıl uyarlanır?
 
     *  not yet applied
 
-##### **Example 10: Find your data publisher**
+##### **Örnek 10: Veri yayıncınızı bulun**
 
-* Format, time needed: 
+* Format, gereken zaman 
 
     * Individual / pairs, 10–15 minutes
 
-* Topic:
+* Konu
 
     * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Öğrenme hedefleri
 
     * Becoming aware of appropriate subject-specific data repositories and their characteristics and standards
 
-* Exercise description:
+* Alıştırma tanımı
 
     * The participants have to find a data repository for their research data. They go to re3data.org and search/browse by subject and/or content type. Let them limit their search to data repositories with DOI assignment. Give them time to have a look at the repository description and let them write down relevant repositories. Afterwards their success and experiences are discussed.
 
-* Materials and tools needed:
+* Gereken materyal ve araçlar
 
     * Computer with internet access for every participant (can also be in pairs if necessary)
 
-* Level of prior knowledge needed:
+* Gerekli ön bilgi düzeyi
 
     * The participants should know which kind of research data they produce
 
     * Not applicable for bachelor students
 
-* Things to bear in mind:
+* Akılda tutulması gerekenler
 
     * Some people might not find an appropriate repository, so prepare a list of generic and institutional repositories that can be used and show/hand it out afterwards
 
-* How to adapt for other purposes:
+* Başka amaçlar için nasıl uyarlanır?
 
     * You can adapt this exercise for Open Access by using the Directory of Open Access Journals [DOAJ[https://doaj.org](https://doaj.org)) website
 
-##### **Example 11: What do you need for a data publication?**
+##### **Örnek 11: Veri yayınlamak için ihtiyacınız olan ne?**
 
-* Format, time needed: 
+* Format, gereken zaman 
 
     * Group exercise, 5–10 minutes (depending on group size)
 
-* Topic:
+* Konu
 
     * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Öğrenme hedefleri
 
     * Remembering the necessary steps for data publication
 
-* Exercise description:
+* Alıştırma tanımı
 
     * This exercise should be used at the end of the training. Let the participants play "I'm packing my suitcase" where they have to name necessary elements for a data publication (e.g., Research data (files), metadata, keywords, documentation, license, ORCID, repository, good title, references/sources, data citation, time, and courage!) 
 
-* Materials and tools needed:
+* Gereken materyal ve araçlar
 
     * No material needed
 
-* Level of prior knowledge needed:
+* Gerekli ön bilgi düzeyi
 
     * The participants know basic elements of data publishing through the course
 
-* Things to bear in mind:
+* Akılda tutulması gerekenler
 
     * If participants forget an element, try to help or give pointers
 
     * Name as last element "courage"
 
-* How to adapt for other purposes:
+* Başka amaçlar için nasıl uyarlanır?
 
     * Can also be adapted for open access publishing process
 
-##### **Example 12: Creating metadata**
+##### **Örnek 12: Üst veri oluşturmak**
 
-* Format, time needed: 
+* Format, gereken zaman
 
     * Individual / pairs, 5 minutes
 
-* Topic:
+* Konu
 
     * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
-* Learning objectives:
+* Öğrenme hedefleri
 
     * Being able to create metadata for research data
 
-* Exercise description:
+* Alıştırma tanımı
 
     * Let the participants select a file they are currently working on. Let them answer the following questions on a piece of paper: Who created the content? What is the content? When was the content created? How was the content created? Why was the content created? Then discuss with them their results. Was it easy or difficult? Can they repeat this task for all the files in their research process?
 
-* Materials and tools needed:
+* Gereken materyal ve araçlar
 
     * A piece of paper (or prepared form) and a pen
 
-* Level of prior knowledge needed:
+* Gerekli ön bilgi düzeyi
 
     * No prior knowledge needed
 
-* Things to bear in mind:
+* Akılda tutulması gerekenler
 
     * To make the exercise faster prepare a form and print it out or make it available online.
 
     * For bigger projects with a lot of files offer a data dictionary template
 
-* How to adapt for other purposes:
+* Başka amaçlar için nasıl uyarlanır?
 
     * Can also be adapted as a documentation exercise
 
-##### **Example 13: Get started with sharing software openly**
+##### **Örnek 13: Yazılımı açık bir şekilde paylaşmaya başlamak**
 
-* Format, time needed 
+* Format, gereken zaman
 
     * Individual / pairs, 20–30 minutes
 
-* Topic
+* Konu
 
     * [Open Research Software and Open Source](/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
 
-* Learning objectives
+* Öğrenme hedefleri
 
     * Learn how to use common tools and services for sharing research codes openly.
 
     * Be able to choose the appropriate license for their software, and understand the difference between permissive and non-permissive licenses
 
-* Exercise description
+* Alıştırma tanımı
 
     * This exercise is meant for any researchers that will use software/code for their research, whether they perform purely computational or experimental work (the latter use software for analysis, etc.). 
 
@@ -912,41 +912,41 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * Congratulations, your software is now citeable! You can add a section to the README file with the DOI and suggested citation, or even add the DOI badge that Zenodo provides.
 
-* Materials and tools needed
+* Gereken materyal ve araçlar
 
     * Individuals need to have a computer with internet connection.
 
     * Participants should have some code, script, or program ready—even if it is "messy"—that they will publicly share.
 
-* Level of prior knowledge needed
+* Gerekli ön bilgi düzeyi
 
     * None
 
-* Things to bear in mind
+* Akılda tutulması gerekenler
 
     * None
 
-* How to adapt for other purposes:
+* Başka amaçlar için nasıl uyarlanır?
 
     * Not applicable
 
-##### **Example 14: Establishing a Reproducible Data Analysis Workflow**
+##### **Örnek 14: Tekrarlanabilir veri analizi iş akışı oluşturmak**
 
-* Format, time needed
+* Format, gereken zaman
 
     * Individually and as a group, 4–8 hours (example [here](http://reproducible-analysis-workshop.readthedocs.io))
 
-* Topic
+* Konu
 
     * [Reproducible Research and Data Analysis](/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
 
-* Learning objectives 
+* Öğrenme hedefleri 
 
     * Use a (small) computational task relevant to your discipline/background, and establish it as an open and reproducible workflow.
 
     * Understand the key concepts, tools and services that are useful in the context of reproducibility.
 
-* Exercise description
+* Alıştırma tanımı
 
     * Each participant selects a dataset and corresponding data analysis process that is relevant to their field. Both dataset and the analysis process should be short enough that it concludes within a few minutes. Moreover, for the purposes of this exercise, the programming language should be Python or R, but other languages can be accommodated with slight changes in the underlying tools.
 
@@ -954,25 +954,25 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * Apply the same process using the Jupyter / Git / MyBinder approach; write the process as a Jupyter notebook, upload dataset and notebook to a repository on GitHub, and then connect the repository to mybinder. After than, ask again the same person to re-run this. Identify the change in time and accessibility.
 
-* Materials and tools needed
+* Gereken materyal ve araçlar
 
     * Jupyter and Git are necessary (including an account on GitHub). Depending on the language, additional Jupyter kernels might need to be installed. Finally, the trainer can decide on whether to provide a common example for all participants to use, or ask the participants to bring their own. The difference lies to the amount of time required for preparation, as well as on the uniformity of the participants’ background.
 
-* Level of prior knowledge needed
+* Gerekli ön bilgi düzeyi
 
     * The workshop can be performed to different levels of expected prior knowledge, adapting for time. For example, a short basic introduction to Git can be included, but in all cases, the participants should be aware of the computational requirements of their own analysis.
 
-* Things to bear in mind
+* Akılda tutulması gerekenler
 
     * The overall concept is straightforward, but has an initial learning curve of the individual components. Therefore you may consider spending some extra time in the beginning discussing each tool, before connecting them all together.
 
     * You should consider giving the participants a detailed explanation of the installation process (e.g., for Jupyter and Git), before the workshop, in order to minimize potential technical issues.
 
-* How to adapt for other purposes
+* Başka amaçlar için nasıl uyarlanır?
 
     * The workshop can be extended to introduce additional concepts of Open Science, such as Persistent Identifiers for software (such as assigning a DOI from Zenodo to the Git repo), as well as integrating all of the aspects under a common platform (such as the OSF).
 
-##### **Example 15: Choose the right version for the repository**
+##### **Örnek 15: Choose the right version for the repository**
 
 * Format, time needed 
 
@@ -1016,7 +1016,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 
 
-##### **Example 16: Open file formats**
+##### **Örnek 16: Open file formats**
 
 * Format, time needed: 
 
@@ -1050,7 +1050,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * You can also use web tools like [PINGO](http://trypingo.com) for the collection of file formats or let them write down their file formats on a piece of paper and collect those, if you don’t want to use post-its
 
-##### **Example 17: Creative Commons License matching**
+##### **Örnek 17: Creative Commons License matching**
 
 * Format, time needed: 
 
@@ -1086,7 +1086,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * Use other licenses
 
-##### **Example 18: OER Remix**
+##### **Örnek 18: OER Remix**
 
 * Format, time needed: 
 
@@ -1132,7 +1132,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * You can use other licenses, include new kind of contents or define which contents should have the final work
 
-##### **Example 19: Open peer review - participants openly review each others’ texts**
+##### **Örnek 19: Open peer review - participants openly review each others’ texts**
 
 * Format, time needed
 
@@ -1170,7 +1170,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * Instead of pen and paper, this exercise could also be done using a collaborative writing tool, such as Google Docs, Authorea, or Overleaf/ShareLaTeX. 
 
-##### **Example 20: Open peer review - your 2 cents**
+##### **Örnek 20: Open peer review - your 2 cents**
 
 * Format, time needed 
 
@@ -1228,7 +1228,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * The concept of voting with coins ("your two cents") can be applied to other topics, as can the assignment of roles in small group discussions
 
-##### **Example 21: Taking a stance** 
+##### **Örnek 21: Taking a stance** 
 
 * Format, time needed
 
@@ -1288,7 +1288,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * For sticky dots, choose a combination that is colour-blind friendly
 
-##### **Example 22: Plain language explanations** - in progress
+##### **Örnek 22: Plain language explanations** - in progress
 
 * Format, time needed 
 
@@ -1312,7 +1312,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
 * How to adapt for other purposes
 
-##### **Example 23: Devil’s advocate - convincing the skeptics**
+##### **Örnek 23: Devil’s advocate - convincing the skeptics**
 
 * Format, time needed 
 
@@ -1356,7 +1356,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 
     * This exercise could be focused on specific aspects of open science
 
-##### **Example 24: Set up OSF project & link to other platforms - in progress**
+##### **Örnek 24: Set up OSF project & link to other platforms - in progress**
 * Format, time needed 
 
     * Individually or in pairs
@@ -1386,7 +1386,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
 * How to adapt for other purposes
 
 
-##### **Example 25: The publishing trap - in progress**
+##### **Örnek 25: The publishing trap - in progress**
 * Format, time needed 
 
     * Small group exercise, 2 h
@@ -1421,7 +1421,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
    * The beta version of the game is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Licence.
    
    
-##### **Example 26: - in progress**
+##### **Örnek 26: - in progress**
 
 * Format, time needed 
 
@@ -1468,7 +1468,7 @@ You can shorten the activity by skipping the pair/group work and just discuss in
    * CC BY - [Dasapta Erwin Irawan](dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; [Willem Vervoort](willem.vervoort@sydney.edu.au), The University of Sydney; [Gene Melzack](gene.melzack@sydney.edu.au), The University of Sydney
 
 
-##### **Example 27: Train-the-trainer card game for Open Science training**
+##### **Örnek 27: Train-the-trainer card game for Open Science training**
 
 * Format, time needed 
 
