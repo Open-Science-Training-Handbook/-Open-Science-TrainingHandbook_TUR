@@ -319,21 +319,21 @@ Katılımcı platformlar</td>
     <td>25</td>
     <td>Yayınlama tuzağı (devam ediyor)</td>
     <td>Yayımlanmış araştırma sonuçlarına açık erişim</td>
-    <td>küçük grup</td>
+    <td>küçük gruplar</td>
     <td>2 saat</td>
   </tr>
    <tr>
     <td>26</td>
     <td> (devam ediyor)</td>
     <td>Açık araştırma verileri ve materyaller</td>
-    <td>küçük grup</td>
+    <td>küçük gruplar</td>
     <td>4 gün (5 saat/gün)</td>
   </tr>
    <tr>
     <td>27</td>
     <td>Açık bilim eğitimi için eğitimcileri eğitmek kart oyunu</td>
     <td>Open Savunuculuk</td>
-    <td>küçük grup</td>
+    <td>küçük gruplar</td>
     <td>2 saat</td>
   </tr>
 </table>
@@ -451,31 +451,31 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-    * Prior to the exercise, sort the cards according to research phase/activity and spread them across the room (e.g., on tables, or on a large section of the floor).
+    * Alıştırma öncesinde, kartları araştırma aşamasına/uygulamasına göre ayırın ve salona yayın (örneğin, masalrın üzerine ya da zeminin genişçe bir kısmına).
 
-    * Mark a large section of a wall (windows or pinboards can also be used) with the different phases of the research cycle (e.g., preparation, discovery, analysis, writing, publication, outreach, assessment).
+    * Bir duvarın büyük bir kısmına (pencereler ve panolar da kullanılabilir) araştırma döngüsünün farklı aşamalarını (örneğin, hazırlık, keşif, analiz, yazma, yayınlama, erişim, değerlendirme) yazın.
 
-    * Ask participants to select practices they feel are really important for open science, and hang them on the wall, grouped by research phase.
+    * Katılımcılara açık bilim için gerçekten önemli olduğunu düşündükleri uygulamaları sorun ve bunları araştırma aşamasına göre gruplanmış şekilde duvara asın.
 
-    * Encourage people to add research practices that are not included in the cards.
+    * Katılımcıları kartlarda yer almayan araştırma uygulamalarını eklemeleri konusunda cesaretlendirin.
 
-    * Divide participants in seven groups.
+    * Katılımcıları yedi gruba ayırın.
 
-    * Each group looks at the selected practices for one research phase, and chooses the two practices that they feel are *most feasible to implement* and *most effective to make research more open*. Either move these cards higher up on the wall, or remove the other cards.
+    * Her grup bir araştırma aşaması için seçilmiş uygulamalara bakar ve *en uygulanabilir* ve *çalışmayı açık hale getimek için en etkili* iki tanesini seçer. Ya seçtiği kartları duvarda daha yükseğe taşır ya da diğer kartları çıkarır.
 
-    * The small groups explain their choice to all participants. 
+    * Küçük gruplar yaptıkları seçimleri tüm katılımcılara açıklar.
 
-    * Together, the selected research practices can form a blueprint of an open science workflow. 
+    * Seçilen araştırma uygulamaları birlikte açık bilim iş akışının bir planını oluşturabilir. 
 
-    * As a follow-up exercise, participants can discuss possible steps to implement these practices: 
+    * Bir devam alıştırması olarak, katılımcılar katılımcılar bu uygulamaları gerçekleştirmek için muhtemel adımları tartışabilirler: 
 
-        1. what tools/platforms can be used
+        1. hangi araçlar/platformlar kullanılablir
 
-        2. what potential incentives and barriers would be
+        2. potansiyel teşvikler ve engeller neler olabilir
 
-        3. what support would be needed
+        3. hangi desteğe ihtiyaç duyulacak
 
-        4. what policy changes would be needed
+        4. hangi politika değişikliklerine ihtiyaç duyulacak
 
 ![image alt text](/Images/image_9.png)
 
@@ -485,34 +485,34 @@ Katılımcı platformlar</td>
 
 * Gereken materyal ve araçlar
 
-    * Large wall, windows, or multiple pinboards to hang materials on
+    * Geniş bir duvar, pencereler ya da materyalleri asmak için çok sayıda pano
 
-    * Enough room to move around
+    * Dolaşmak için yeterli alan
 
-    * Printed [cards with open science practices](https://doi.org/10.6084/m9.figshare.4627954.v1) (also available as [editable powerpoint slides](https://doi.org/10.6084/m9.figshare.4627999.v1) or in a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1TmrfhfLlCvyCPw5Xo7cMY0FAKzVlVQa1603IsTs-02o/edit#gid=114671496))
+    * [Açık bilim uygulamalarının yer aldığı basılı kartlar](https://doi.org/10.6084/m9.figshare.4627954.v1) ([düzenlenebilir powerpoint slaytları](https://doi.org/10.6084/m9.figshare.4627999.v1) ya da [Google e-tablosu](https://docs.google.com/spreadsheets/d/1TmrfhfLlCvyCPw5Xo7cMY0FAKzVlVQa1603IsTs-02o/edit#gid=114671496) olarak da mevcuttur)
 
-    * Empty cards, pens / markers
+    * Boş kartlar, tükenmez/keçeli kalemler
 
-    * Pins or tape 
+    * Raptiye veya bant
 
 * Gerekli ön bilgi düzeyi
 
-    * None, some familiarity with the research process is helpful
+    * Yok, araştırma sürecine biraz aşina olmak faydalı olabilir.
 
 * Akılda tutulması gerekenler
 
-    * Depending on the number of participants, small groups can prioritize practices for more than one research phase.
+    * Katılımcı sayısına bağlı olarak, küçük gruplar birden fazla araştırma aşaması için öncelikli uygulamaları belirleyebilir.
 
-    * Test tape on windows / walls first, some types are really hard to remove :-) 
+    * Bandı önceden pencerelerde / duvarda test edin, bazı bant türlerinin çıkarılması gerçekten zordur :-) 
 
-    * The whole group may not agree with the small group’s selection of practices for a given research phase. Decide beforehand whether to stick with the choices made, or whether there is room for discussion and consensus-based swapping of practices.
+    * Tüm grup küçük grupların belli bir araştırma aşaması için yaptıkları uygulama seçimlerine katılmıyor olabilir. Yapılan seçimlere bağlı mı kalınacağına yoksa bu seçimlerin tartışmaya ve fikir birliğine dayalı olarak değiştirilmesine yer olup olmadığına önceden karar verin.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * The exercise could be modified to focus on specific activities / a specific phase of the research cycle (e.g., publication or assessment).
+    * Alıştırma belirli etkinliklere / araştırma döngüsünün belli bir aşamasına odaklanmak üzere düzenlenebilir (örneğin, yayın veya değerlendirme).
 
-    * Other selection criteria could be used, e.g. practices participants use themselves, or practices that would be most ideal (independent of feasibility/efforts needed).
-
+    * Başka seçim kriterleri kullanılabilir, örneğin katılımcıların kendi kullandıkları uygulamalar ya da en ideal olacak uygulamalar (uygulanabilirlik/gerekli çabadan bağımsız).
+    
 ##### **Örnek 4: Açık bilim tartışma konuları**
 
 * Format, gereken zaman 
@@ -525,60 +525,60 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri 
 
-    * Confront own experiences and opinions on open science with perspectives from others.
+    * Açık bilim ile ilgili kendi deneyimlerinizi ve görüşlerinizi başkalarının bakış açılarıyla karşılaştırın.
 
 ![image alt text](/Images/image_12.png)
 
 * Alıştırma tanımı
 
-    * Divide participants in groups of four or five and distribute discussion topics (e.g., printed out on paper).
+    * Katılımcıları dört ya da beş gruba ayırın ve tartışma konularını dağıtın (örneğin, kağıt üzerinden basılı olarak).
 
-    * Have groups discuss the topics from participants’ own perspectives.
+    * Grupların konuları katılımcıların kendi bakış açılarından tartışmasını sağlayın.
 
-    * (optional) Have each group summarize most important points that came up for the whole group .
+    * (isteğe bağlı) Her grubun, tüm gruba göre öne çıkan önemli noktaları özetlemesini sağlayın. 
 
-    * Suggestions for discussion topics:
+    * Tartışma konuları için öneriler:
 
-        1. "Working in an Open Science manner makes research more fun"
+        1. "Açık Bilim tarzında çalışmak araştırmayı daha eğlenceli hale getirir"
 
-        2. "Scooping is a real and existing problem that makes Open Science a hard choice"
+        2. "Scooping açık bilimi zor bir seçim haline getiren gerçek ve mevcut bir sorundur"
 
-        3. "APCs (article processing charges) are the main obstacle to publishing more in Open Access"
+        3. "APC ücretleri (makale işlem ücretleri) daha fazla açık erişimli yayın yapmanın önündeki en büyük engeldir"
 
-        4. "We need more explicit support for Open Science from funders and the  government"
+        4. "Açık Bilim için fon sağlayıcılardan ve hükümetten daha açık desteğe ihtiyacımız var"
 
-        5. "Engaging in open peer review is problematic for young researchers that want to make a career"
+        5. "Açık hakem değerlendirmesine katılmak, kariyer yapmak isteyen genç araştırmacılar için sorunludur."
 
-        6. "We should take citizen scientists more seriously, and also not just see them as data suppliers"
+        6. "Yurttaş bilimcileri daha ciddiye almalı ve onları sadece veri tedarikçileri olarak görmemeliyiz"
 
-        7. "Impact factors are a symptom and not the cause of the publishing rat-race"
+        7. "Etki faktörü bir semptomdur ve yayıncılıktaki yarışın sebebi değildir"
 
-        8. "There is absolutely no reason we should not publish a paper as a preprint as soon as it is ready"
+        8. "Bir yayını hazır olur olmaz ön baskı olarak yayınlamamamız için hiçbir neden yoktur"
 
-        9. "Just sharing our data is fine, but to speed up science we need to also work on interoperability and reusability of those data"
+        9. "Verilerimizi sadece paylaşmakta sorun yok ancak bilimi hızlandırmak için birlikte kullanılabilirlik ve yeniden kullanılabilirlik üzerinde de çalışmamız gerekiyor"
 
-        10. "Sharing ideas and projects through ResearchGate is a good way of doing outreach for our research"
+        10. "ResearchGate ile fikirlerin ve projelerin paylaşımı, araştırmamıza erişimi sağlamanın iyi bir yoludur"
 
-        11. "Demands of our PIs are probably the main reason why young researchers do not engage more in Open Science"
+        11. "Genç araştırmacıların açık bilime daha fazla katılmamalarının nedeni genellikle sorumlu/baş araştırmacılarımızın talepleridir"
 
-        12. "We should strive to create a kind of ‘commons’ where we share all our research outcomes/objects to foster collaboration and reuse"
+        12. "İşbirliğini ve yeniden kullanımı teşvik etmek için tüöm araştırma çıktılarımızı paylaştığımız bir tür ‘ortak nokta oluşturmaya çalışmalıyız"
 
 * Gereken materyal ve araçlar
 
-    * Printouts of discussion topics
+    * Tartışma konularını basılı çıktıları
 
 * Gerekli ön bilgi düzeyi
 
-    * Some familiarity with the research system.
+    * Araştırma sistemine biraz aşinalık
 
 * Akılda tutulması gerekenler
 
-    * This exercise is best suited to researchers (rather than support people), because they can directly relate to their own situation and speak from their own experience .
+    * Bu alıştırma (destek personelindense) araştırmacılar için en uygundur, çünkü doğrudan kendi durumları ile ilişkilendirme yapabilir ve kendi tecrübelerini anlatabilirler.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * By changing the discussion statements, this exercise can be adapted to other topics.
-
+    * Bu alıştırma, tartışma cümlelerini değiştirerek başka konulara uyarlanabilir.
+    
 ##### **Örnek 5: LIBER Kafe Açık Bilim**
 
 * Format, gereken zaman
@@ -591,30 +591,29 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Have knowledge of different aspects of open science.
+    * Açık bilimin farklı yanlarıyla ilgili bilgi sahibi olmak.
 
-    * Connect different stakeholders to discuss statements and topics.
+    * Konuları tartışmak için farklı paydaşları biraraya getirmek.
 
 * Gereken materyal ve araçlar
 
-    * The [LIBER Science Café card deck](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck), or a prepared stack of written statements based on [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)
-
-    * one table per 6-8 persons
+    * [LIBER Bilim Kafesi kart destesi](https://www.fosteropenscience.eu/content/open-science-cafe-card-deck) veya [World Café](http://www.theworldcafe.com/wp-content/uploads/2015/07/Cafe-To-Go-Revised.pdf)'ye dayalı olarak hazırlanmış bir yazılı cümleler kümesi
+    
+    * 6-8 kişiye bir masa
 
 * Alıştırma tanımı
 
-    * The set-up: 6-8 people gather around a table with 1 moderator and 1 note taker. To initiate conversations, they are provided with a deck of cards with statements and questions related to open science and the involved projects. These statements  serve as conversation starters. Someone can pick a card, the group talks about it for some time, and then they can move on to the next card. In this way, people learn from each other and start to think about the bigger picture. Meanwhile, you can collect valuable input from different stakeholders.
+    * Düzen: 6-8 kişi, bir moderatör ve not almadan sorumlu bir kişi ile bir masa etrafına alınır. Konuşmayı başlatmak için, bu kişiler açık bilim ve ilgili konularda ifadelerin ve soruların yer aldığı bir deste kart verilir. Bu ifadeler, konuşmayı başlatıcı görevi görür. Birisi bir kart seçer, grup bu kartla ilgili bir süre konuşur ve sonraki karta geçilebilir. Bu şekilde, katılımcılar birbirlerinden öğrenir ve daha büyük resim hakkında düşünmeye başlar. Aynı zamanlaIn this way, people learn from each other and start to think about the bigger picture. Bu arada, farklı paydaşlardan değerli girdiler toplayabilirsiniz.
 
-    * The note taker: collects interesting points of the conversation in two different ways:
+    * Not tutucu, konuçmanın ilginç noktalarını iki farklı şekilde not alır:
 
-        1. The mindmap cards: You can use these cards for topics that get a lot of attention in the conversation. If things go too fast, don’t be afraid to stop the conversation and ask people to provide input for this mindmap. Write down the main topic in the centre, and work from there. Is it hard to find connections? You can also collect random thoughts and statements here.
+        1. Zihin haritası (mindmap) kartları: Bu kartları konuşmada çok dikkat çeken konular için kullanabilirsiniz. Konuşma çok hızlı akarsa, bölmekten ve katılımcılardan zihin haritası için girdi istemekten korkmayın. Ana konuyu merjeze yazın ve bunun üzerinden çalışın. Bağlantıları yakalamak zor mu? Burada ayrıca rasgele düşünceler ve ifadeler toplayabilirsiniz.
 
-        2. Brilliant quotes and ideas: Sometimes someone says something that’s just WOW, just spot on or somehow very useful. For this you have the ‘brilliant quote and ideas’ card. You only have one, so here you have to be very selective. Make a point of it if you think something is so
-good that it deserves to go on this card. 
+        2. Muhteşem alıntılar ve fikirler: Bazen birisi, sadece söylendiği bağlamda bir şekilde çok faydalı olan "Vay" dedirtecek birşey söyler. Bu amaçla ‘muhteşem alıntılar ve fikirler’ kartınız var. Bu karttan sadece bir tane olduğundan, burada çok seçici olmalısınız. Bu kartta yer almayı hak edecek kadar iyi olduğunu düşündüğünüz noktalara yer verin.
 
-    * After 20-30 minutes, have the group change tables. Moderators and note takers remain seated.
+    * 20-30 dakika sonra grupların masalarını değiştirmelerini sağlayın. Moderatör ve not tutuculae sabit kalsın.
 
-    * At the end, each moderator reports on what has been said by the different groups at their table. 
+    * Sonda, her moderatör masalarındaki farklı gruplar tarafından ne söylendiğini rapor etsinler.
 
 ##### **Örnek 6: Bana göre araştırma verisi ne?**
 
@@ -628,27 +627,27 @@ good that it deserves to go on this card.
 
 * Öğrenme hedefleri
 
-    * Know their own research data and data in their field of research
+    * Kendi verilerini ve araştırma alanlarındaki verileri bilmek
 
 * Alıştırma tanımı
 
-    * Let the participants think about the last articles they wrote/read. Was there supplementary material (e.g., tables, images)? Let them write down examples and types of research data in their field of work. What information or data would they need in order to reanalyze the study? What would be needed for their own dissertation/article to be understood properly? Let them present their results either in pairs/groups and then in the plenary
+    * Katılımcıların yazdıkları/okudukları son makaleler üzerine düşünmelerini sağlayın. Ek materyaller (örneğin, tablolar, resimler) var mıydı? Çalışma alanlarındaki araştırma verisi türlerini ve örneklerini yazmalarını isteyin. Çalışmayı yeniden analiz etmek için hangi bilgilere ve verilere istiyaçları olacak? Kendi tezleri/makalelerinin doğru anlaşılması için neye ihtiyaç olacak? Sonuçlarını çiftler/gruplar halinde ve ardından tüm gruba sunmalarını sağlayın.
 
 * Gereken materyal ve araçlar
 
-    * A piece of paper and a pen
+    * Bir parça kağıt ve bir kalem
 
 * Gerekli ön bilgi düzeyi
 
-    * No prior knowledge needed
+    * Ön bilgi gerekmiyor.
 
 * Akılda tutulması gerekenler
 
-    * Give the participants enough time to brainstorm
+    * Katılımcılara beyin fırtınası yapabilecekleri yeterli zamanı verin.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-You can shorten the activity by skipping the pair/group work and just discuss in the plenary
+Çiftler/gruplar halinde çalışma atlanıp, sadece tüm gruba sunum yapılarak etkinlik kısaltılabilir. 
 
 ##### **Örnek 7: Veriler neden paylaşılmıyor?**
 
