@@ -661,27 +661,27 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Get participants thinking about the ethical and practical barriers to data sharing, and to critically examine their beliefs in this area.
+    * Katılımcıların veri paylaşımının önündeki etik ve pratik engeller hakkında düşünmelerini ve bu alandaki fikirlerini eleştirel olarak incelemelerini sağlayın. 
 
 * Alıştırma tanımı
 
-    * In pairs or small groups, participants have five minutes to make a list as long as possible of all the reasons why researchers might not wish to share their data. Participants then report back on their reasons, discussing whether these are valid reasons or not, and strategies for how to overcome legitimate concerns. The team with the most reasons listed wins (prize optional).
-
+    *  Katılımcıların çiftler ya da küçük gruplar halinde, araştırmacıların verilerini paylaşmak istememelerinin nedenleri ile ilgili olabildiğince uzun bir liste yapmak için beş dakikası vardır. Sonrasında, nedenleri raporlar ve bunların geçerli nedenler olup olmadığını ve mantıklı endişelerin nasıl üstesinden gelineceğine dair stratejileri tartışırlar. En fazla sebep listekeyen takım kazanır (ödül isteğe bağlıdır). 
+    
 * Gereken materyal ve araçlar
 
-    * Note taking equipment (pen, paper, or online document); optional: prize. 
+    * Not almak için malzemeler (kalem, kağıt ya da cevrimiçi doküman); isteğe bağlı: ödül. 
 
 * Gerekli ön bilgi düzeyi
 
-    * Working knowledge of working with data
+    * Verilerle çalışma bilgisi
 
 * Akılda tutulması gerekenler
 
-    * The exercise should be fun, and participants should be encouraged to come up with fun as well as serious examples. 
+    * Alıştırma eğlenceli olmalı ve katılımcılar ciddi örneklerin yanısıra eğlenceli örnekler bulmaları için de cesaretlendirilmeli. 
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * The same format could easily be adapted for many other elements of Open Science, e.g., Open Access (why not publish OA, etc.)
+    * Aynı format açık bilimin, açık erişim gibi başka bileşenlerine de uyarlanabilir (örneğin, yayınlarını açık erişim yapmama nedenleri).
 
 ##### **Örnek 8: Bingo "açık veri bahanesi"**
 
@@ -695,27 +695,27 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Being able to recognize stereotypes that prevent sharing research data and understand the advantages of opening research data.
+    * Araştırma verilerinin paylaşılmasını engelleyen kalıp yargıları tanıyabilme ve araştırma verilerini açmanın avantajlarını anlayabilme.
 
 * Alıştırma tanımı
 
-    * This exercise should be used at the beginning of the training event. Participants split at least in two groups or more (depends on the group size). A trainer takes care that one group will develop pro and the other contra arguments. In small groups participants discuss excuses already defined at the "Open Data Excuse" Bingo, these are common arguments used by researchers when explaining why they can't share their data. For the last 10 minutes the groups should confront their arguments. A trainer helps participants to develop arguments for open their data and to better understand the idea of sharing their data.
+    * Bu alıştırma eğitim etkinliğinin başında kullanılmalıdır. Katılımcılar, (grup büyüklüğüne bağlı olarak) en az iki veya daha fazla gruba ayrılır. Bir eğitimci gruplardan birinin destekleyici diğerinin karşı argümanlar geliştirmesini sağlar. Katılımcılar küçük gruplar halinde bingo "açık veri bahanesi" olarak tanımlanmış bahaneleri tartışırlar, bunlar araştırmacılar tarafından verilerini neden paylaşamadıklarını açıklarken kullanılan yaygın argümanlardır. Son 10 dakikada, gruplar argümanlarını karşılaştırmalıdır. Bir eğitimci katılımcıların verilerini açma konusunda argüman geliştirmeleri ve verilerini paylaşma fikrini anlamaları için yardımcı olur.
 
 * Gereken materyal ve araçlar
 
-    * Printed sheets of[ "Open Data Excuse" Bingo](http://data.dev8d.org/devbingo/bingo.php?n=1&w=4&h=4&title=%22Open+Data+Excuse%22+Bingo&tag=%23openDataExcuses&statements=Terrorists+will+use+it%0D%0AData+Protection%0D%0ALawyers+want+a+custom+License%0D%0APoor+Quality%0D%0AThieves+will+use+it%0D%0AWe%27ll+get+spam%0D%0AIt%27s+not+very+interesting%0D%0AIt%27s+too+complicated%0D%0AThere%27s+no+API%0D%0AWhat+if+we+want+to+sell+it+later%0D%0AI+don%27t+mind,+but+someone+else+might%0D%0AIt%27s+too+big%0D%0AThere%27s+already+a+project+to...%0D%0APeople+may+misinterpret+the+data%0D%0AWe+might+want+to+use+it+in+a+paper%0D%0AWe+will+get+too+many+enquiries&rules=%3Cp%3EFor+open+data+teams;+print+out+a+copy+and+put+it+on+your+office+wall.+Cross+out+each+excuse+people+give+you.+There+are+no+prizes,+but+you+can+tweet+%22bingo!+%23openDataExcuses%22+if+you+think+it+might+make+you+feel+better*.%3C/p%3E%0D%0A%0D%0A%3Cp+style%3D%27font-size:80%25%27%3E*+it+won%27t%3C/p%3E)
+    * Basılı bingo "açık veri bahanesi" kağıtları
 
 * Gerekli ön bilgi düzeyi
 
-    * The participants should have experience with creating/collecting research data.
+    * Katılımcıların araştırma verisi oluşturma/toplama konusunda deneyimi olmalı.
 
 * Akılda tutulması gerekenler
 
-    * Go around and try to help with arguments if needed, especially in the group, which supposed to develop strong arguments for sharing data. Extra help might be needed for these participants to be stronger later in the confrontation with participants from the other group.
+    * Etrafta dolaşın ve gerekirse, özellikle veri paylaşımı için güçlü argümanlar geliştirmesi gereken gruba yardımcı olmaya çalışın. Bu kişilerin, daha sonra diğer gruptan kişilerle karşı karşıya geldiklerinde daha güçlü olmaları için daha fazla yardıma ihtiyaçları olabilir.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * This exercise can be adapted to other topics (material would need to be adapted also)
+    * Bu alıştırma başka konulara uyarlanabilir (materyallerin de uyarlanması gerekecektir).
 
 ##### **Örnek 9: Ben ve verim - Datagramlar**
 
