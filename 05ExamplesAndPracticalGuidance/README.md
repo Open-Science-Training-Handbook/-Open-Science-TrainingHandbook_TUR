@@ -729,47 +729,47 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Understanding what data is and what type of repository of archive is needed to store them properly
+    * Verinin ne olduğunu ve düzgün şekilde saklamak için ne tür arşivleme deposuna ihtiyaç olduğunu anlamak. 
 
 * Alıştırma tanımı
 
-    * Participants are asked to think about the last scientific work done in relation with a thesis (Bachelor, Master, or Ph.D.) and to reflect about the kind of data they produced.
+    * Katılımcılardan bir tezle (lisans, yüksek lisans ya da doktora) ilşkili olarak en son yaptıkları bilimsel çalışmayı düşünmeleri ve ürettikleri verinin türünü belirtmeleri istenir.
 
-    * They will then create a datagramm, i.e., write down on a card
+    * Daha sonra bir datagram oluşturacaklarıdr, örneğin bir karta yazmak
 
-        * the subject discipline
+        * konu alanı
 
-        * the title of the thesis
+        * tezin başlığı
 
-        * a bunch of letters, indicating
+        * harf kısaltmalar kullanılarak sunulacak aşağıdaki bilgiler
 
-            * the format (like pdf, doc, csv, or similar)
+            * formatı (pdf, doc, csv vb.)
 
-            * the size (kb, mb, gb, tb, etc.)
+            * boyutu (kb, mb, gb, tb vb.)
 
-            * the medium (like a for analogue, d for digital, i.e., digitized and b for born digital, or combinations of the three)
+            * ortamı (analog için a, dijital için d, örneğin dijitalleştirilmiş ve dijital olarak oluşturulmuş için o veya bu üçünün bir kombinasyonu)
 
-            * and finally the type of data, differentiating roughly between O for observations, E for experiments, S for simulations, D for derivations, R for references and D for digitized data, or combinations of them.
+            * ve son olarak, gözlemler için G, deneyler için D, simülasyonlar için S, türetilenler için T, kaynak olarak kullanılanlar için K ve dijitalleştirilmiş veriler için D veya bunların kombinasyonları arasında kabaca ayrım yaparak verinin türü
 
-    * In several steps, all cards are finally clustered on a wall according to the letters (format, size, medium, and type)
+    * Birkaç adımdan sonra tüm kartlar harflere göre (format, boyut, ortam ve tür) bir duvarda kümelenir.
 
-    * The group discusses the different clusters and reflects about the requirements for an open data repository or archive.
+    * Grup farklı kümeler üzerine tartışır ve bir açık veri deposu ya da arşivi için gerekliliklere kafa yorar.
 
 * Gereken materyal ve araçlar
 
-    *  Cards and flipcharts, or better a wall and material to fix the cards on the wall
+    *  Kartlar ve kağıt panoları ya da bunun yerine mümkünse bir duvar ve kartları duvara yapıştırmak için malzemeler,
 
 * Gerekli ön bilgi düzeyi
 
-    * None as long as the exercise is started with some explanations on how to describe and differentiate data. Basic knowledge of research data, repositories, and archives may be helpful.
+    * Eğer alıştırma verilerin nasıl tanımlanacağı ve ayırt edileceğine dair bazı açıklamalarla başlatıldığı sürece ön bilgi gerekmiyor. Araştırma verisi, depolar ve arşivler hakkında temel bilgi faydalı olabilir.
 
 * Akılda tutulması gerekenler 
 
-    * Make it a step by step approach
+    * Adım adım bir yaklaşımı benimseyin.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    *  not yet applied
+    *  Henüz uygulanmadı.
 
 ##### **Örnek 10: Veri yayıncınızı bulun**
 
@@ -779,7 +779,7 @@ Katılımcı platformlar</td>
 
 * Konu
 
-    * [Open Research Data](/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Açık araştırma verileri](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Öğrenme hedefleri
 
