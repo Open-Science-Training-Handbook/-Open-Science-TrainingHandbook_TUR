@@ -741,7 +741,7 @@ Katılımcı platformlar</td>
 
         * tezin başlığı
 
-        * harf kısaltmalar kullanılarak sunulacak aşağıdaki bilgiler
+        * harf kısaltmalar kullanılarak verilecek aşağıdaki bilgiler
 
             * formatı (pdf, doc, csv vb.)
 
@@ -783,29 +783,29 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Becoming aware of appropriate subject-specific data repositories and their characteristics and standards
+    * Konuya özel uygun veri depolarının ve bunların özelliklerinin ve standartlarının farkındanda olmak.
 
 * Alıştırma tanımı
 
-    * The participants have to find a data repository for their research data. They go to re3data.org and search/browse by subject and/or content type. Let them limit their search to data repositories with DOI assignment. Give them time to have a look at the repository description and let them write down relevant repositories. Afterwards their success and experiences are discussed.
-
+    * Katılımcılar araştırma verileri için bir veri deposu bulmalıdır. re3data.org adresine gidip konuya ve/veya içerik türüne göre arama/tarama yaparlar. Aramalarını DOI atanmış veri depoları ile sınırlamalarına izin verin. Depo açıklamasına bakabilecekleri zamanı verin ve ilgili depoları yazmalarına imkan sağlayın. Sonrasında başarıve deneyimlerini tartışın.
+    
 * Gereken materyal ve araçlar
 
-    * Computer with internet access for every participant (can also be in pairs if necessary)
+    * Her bir katılımcı için internet erişimi olan bilgisayar (eğer gerekliyse çiftler halinde de olabilir)C
 
 * Gerekli ön bilgi düzeyi
 
-    * The participants should know which kind of research data they produce
+    * Katılımcılar oluşturdukları araştırma verilerinin türünü bilmelidir.
 
-    * Not applicable for bachelor students
+    * Lisan öğrencileri için geçerli değil.
 
 * Akılda tutulması gerekenler
 
-    * Some people might not find an appropriate repository, so prepare a list of generic and institutional repositories that can be used and show/hand it out afterwards
+    * Bazı kişiler uygun bir depo bulamayabilir, bu nedenle kullanılabilecek jenerik ve kurumsal yapıda depoların bir listesini oluşturun ve bu listeyi gösterin/dağıtın.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * You can adapt this exercise for Open Access by using the Directory of Open Access Journals [DOAJ[https://doaj.org](https://doaj.org)) website
+    * Bu alıştırmayı Açık Erişim Dergiler Rehberini ([Directory of Open Access Journals - DOAJ](https://doaj.org)) kullanarak açık erişime uyarlayabilirsiniz.
 
 ##### **Örnek 11: Veri yayınlamak için ihtiyacınız olan ne?**
 
@@ -819,29 +819,29 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Remembering the necessary steps for data publication
+    * Veri yayınlama için gerekli adımları hatırlamak.
 
 * Alıştırma tanımı
 
-    * This exercise should be used at the end of the training. Let the participants play "I'm packing my suitcase" where they have to name necessary elements for a data publication (e.g., Research data (files), metadata, keywords, documentation, license, ORCID, repository, good title, references/sources, data citation, time, and courage!) 
+    * Bu alıştırma eğitimin sonunda kullanılmalıdır. Katılımcıların veri yayınlamak için isimlendirmeleri gereken öğeleri (örneğin, araştırma verileri (dosyalar), üst veriler, anahtar sözcükler, dokümantasyon, lisans, ORCDI, depo, iyi başlık verme, kaynaklar, veri atıfı, zaman ve cesaret!) öğrendikleri "Bavulumu topluyorum" oyununu oynamalarını sağlayın. imkan verin.
 
 * Gereken materyal ve araçlar
 
-    * No material needed
+    * Materyal gerekmiyor.
 
 * Gerekli ön bilgi düzeyi
 
-    * The participants know basic elements of data publishing through the course
+    * Katılımcılar ders boyunca veri yayınlamanın temel unsurlarını bilirler.
 
 * Akılda tutulması gerekenler
 
-    * If participants forget an element, try to help or give pointers
+    * Katılımcılar bir unsuru unutursa, yardımcı olmaya ve ipuçları vermeye çalışın.
 
-    * Name as last element "courage"
+    * Son öğeyi "cesaret" olarak adlandırın.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * Can also be adapted for open access publishing process
+    * Açık erişim yayıncılık sürecine de uyarlanabilir.
 
 ##### **Örnek 12: Üst veri oluşturmak**
 
@@ -855,29 +855,29 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Being able to create metadata for research data
+    * Araştırma verileri için üst verileri oluşturabilme.
 
 * Alıştırma tanımı
 
-    * Let the participants select a file they are currently working on. Let them answer the following questions on a piece of paper: Who created the content? What is the content? When was the content created? How was the content created? Why was the content created? Then discuss with them their results. Was it easy or difficult? Can they repeat this task for all the files in their research process?
+    * Katılımcılardan halihazırda üzerinde çalıştıkları bir dosyayı seçmelerini ve bir parça kağıt üzerinde şu sorulara yanıt vermelerini isteyin: İçeriği kim hazırladı? İçerik ne zaman hazırlandı? İçerik nasıl hazırlandı? İçerik neden hazırlandı? Sonrasında sonuçlarını onlarla tartışın. Kolay mıydı, yoksa zor muydu? Bu görevi araştırma süreçlerindeki tüm dosyalar için tekrarlayabilirler mi?
 
 * Gereken materyal ve araçlar
 
-    * A piece of paper (or prepared form) and a pen
+    * Bir parça kağıt (ya da hazırlanmış bir form) ve bir kalem.
 
 * Gerekli ön bilgi düzeyi
 
-    * No prior knowledge needed
+    * Ön bilgi gerekmiyor.
 
 * Akılda tutulması gerekenler
 
-    * To make the exercise faster prepare a form and print it out or make it available online.
+    * Alıştırmayı hızlandırmak için bir form hazırlayın ve çıktısını alın ya da çevrimiçi erişilebilir kılın.
 
-    * For bigger projects with a lot of files offer a data dictionary template
+    * Çok fazla dosyanın olduğu daha büyük projeler için  veri sözlüğü şablonu sunun.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * Can also be adapted as a documentation exercise
+    * Dokümantasyon alıştırması olarak da uyarlanabilir.
 
 ##### **Örnek 13: Yazılımı açık bir şekilde paylaşmaya başlamak**
 
