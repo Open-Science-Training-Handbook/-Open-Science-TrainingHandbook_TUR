@@ -1179,51 +1179,51 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Realize there are many aspects to open peer review and have knowledge of those different aspects of open peer review
+    * Açık hakem değerlendirmesinin birçok yönü olduğunun farkına varmak ve açık hakem değerlendirmesinin bu farklı yönleri hakkında bilgi sahibi olmak.
 
-    * Form an opinion on which aspects of open peer review would most benefit science   
+    * Açık hakem değerlendirmesinin hangi yönlerinin bilime en fazla fayda sağlayacağı kousunda bir fikir oluşturmak.   
 
-    * Have insights in the benefits and possible drawbacks of different aspects of open peer review, from the perspective of the reader, author and reviewer
+    * Okuyucu, yazar ve hakem bakış açısından açık hakem değerlendirmesinin farklı yönlerinin faydaları ve muhtemel sakıncaları ile ilgili fikir sahibi olmak.
 
 * Alıştırma tanımı
 
-    * Introducing different aspects of peer review, including some examples of journals/platforms where they are put in practice
+    * Uygulamya geçirildikleri bazı dergi/platform örnekleri de dahil olmak üzere hakem değerlendirmesinin farklı yönlerini tanıtın.
 
-    * Ask participants to individually identify two to three aspects of open peer review they feel would contribute most to open science.
+    * Katılımcılardan bireysel olarak açık hakem değerlendirmesinin, açık bilime en çok katkısı olduğunu düşündüklerini iki-üç yönünü belirtmelerini isteyin.
 
-    * On a large printout, participants place a two-cent coin on each of the aspects they selected in the previous step
+    * Katılımcıların büyük bir kağıt üzerine önceki adımda seçtikleri yönlerin her biri için bir madeni para koymalarını isteyin.
 
-    * The results are viewed together and the most often chosen aspects identified
+    * Sonuçlara birlikte yapılır ve en çok seçilen yön belirlenir.
 
-    * In small groups, participants then take the role of reader, author, or reviewer (all should be present in each group). They then discuss one of the aspects of open peer review from the perspective of their taken roles. What are the benefits and potential drawbacks?
+    * Sonrasında, katılımcılar küçük gruplarda okuyucu, yazar ya da hakem rolünü alırlar (tümü her grupta olmalı) ve bu rol perspektifinden açık hakem değerlendirmesinin bir yönünü tartışırlar They then discuss one of the aspects of open peer review from the perspective of their taken roles. Faydaları ve potansiyel eksiklikleri nelerdir?
 
-    * Small groups then report back to the whole group, and additional perspectives/viewpoints can be discussed. 
+    * Daha sonra küçük gruplar tüm gruba sunum yapar ve ek perspektifler/bakış açıları tartışılabilir. 
 
 ![image alt text](/Images/image_13.png)
 
 * Gereken materyal ve araçlar
 
-    * Large printout of [dimensions of peer review](https://doi.org/10.6084/m9.figshare.4210293): one for each participant and a  communal one ([presentation with animated slides](https://doi.org/10.6084/m9.figshare.4210254) also available)
+    * [Hakem değerlendirmesinin boyutları](https://doi.org/10.6084/m9.figshare.4210293) dokümanının büyük basılı çıktıları: her katılımcı için bir tane ve ortak kullanım için bir tane ([animasyonlu slaytların yer aldığı sunum da](https://doi.org/10.6084/m9.figshare.4210254) mevcut).
 
-    * Two-cent coins (if available in your monetary system, otherwise any low-denomination coins will do)
+    * Düşük değerli madeni paralar
 
 ![image alt text](/Images/image_14.png)
 
 * Gerekli ön bilgi düzeyi
 
-    * None, some familiarity with the traditional process of peer review is helpful
+    * Yok, geleneksel hakem değerlendirme sürecine biraz aşinalık faydalı olur.
 
 * Akılda tutulması gerekenler
 
-    * For people not familiar with developments in open peer review, some aspects may require more explanation—plan enough time for that
+    * Açık hakem değerlendirmesindeki gelişmelere aşina olmayan kişiler için nazı yönler daha fazla açıklama gerektirebilir—bunun için yeterli zaman planlaması yapın.
 
-    * In discussions, it can be hard for people to separate their personal opinion from their assigned role. Encourage and remind people to stick to their role where necessary.
+    * Tartışmalarda, katılımcıların kendi kişisel fikirlerini kendilerine atanan rolden ayırmaları zor olabilir. Katılımcılara rollerine bağlı kalmalarını gerektiğinde hatırlatın ve onları bu konuda teşvik edin.
 
-    * The number of coins per person depends on the number of participants (e.g., three for smaller groups, two for larger groups)
+    * Kişi başına madeni para katılımcı sayısına bağlıdır (örneğin, küçük gruplar için üç tane, büyük gruplar için iki tane).
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * The concept of voting with coins ("your two cents") can be applied to other topics, as can the assignment of roles in small group discussions
+    * Madeni paralarla oylama konsepti, küçük grup tartışmalarında rollerin atanması gibi diğer konulara da uyarlanabilir.
 
 ##### **Örnek 21: Bir duruş sergilemek** 
 
@@ -1237,53 +1237,53 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Get participants to take a stance on Open Science policies or principles
+    * Katılımcıların açık bilim politikaları veya ilkeleri ile ilgili bir duruş sergilemelerini sağlamak.
 
-    * Show similarity or diversity of opinions across participants 
+    * Katılımcılar arasındaki fikir benzerliği ve çeşitliliğini göstermek.
 
 * Alıştırma tanımı
 
-    * Ask participants to express their opinion on two questions about Open Science policies or principles.
+    * Katılımcılardan, açık bilim politikaları veya ilkeleri ile ilgili iki soru hakkında fikirlerini ifade etmelerini isteyin.
 
-    * Responses should lie on a linear scale between two extremes (e.g., strongly disagree–strongly agree)
+    * Yanıtlar, iki nokta arasındaki (örneğin, hiç katılmıyorum-tamamen katılıyorum) doğrusal bir ölçekte yer almalıdır.
 
-    * Participant vote using an online tool, or by placing sticky dots on a sheet of paper with axes representing the two answer ranges
+    * Katılımcılar çevrimiçi bir araç kullanarak ya da eksenleri iki yanıt aralığını temsil eden bir kağıt üzerine yapışkanlı noktalar ekleyerek oylama yapabilirler. 
 
-    * Results are shown to the group, and the similarity or diversity of responses is discussed, e.g., by asking one respondent from each quadrant to explain their opinion. 
+    * Sonuçlar gruba gösterilir ve yanıtların benzerliği ya da farklılığı tartışılır, örneğin her bir bölgeden (quadrant) bir yanıt verenin fikrini açıklamasını istemek.
 
-    * Example question and results:
+    * Örnek sorular ve sonuçlar:
 
-        1. For individual researchers, does Open Science have more costs or benefits?
+        1. Açık bilimin, bireysel olarak araştırmacılar için daha fazla maliyeti ya da faydası var mı?
 
-        2. Should Open Science be organized bottom-up or top-down?
+        2. Açık bilim aşağıdan yukarı doğru mu (bottom-up) yoksa yukarıdan aşağı doğru mu (top-down) organize edilmelidir?
 
 ![image alt text](/Images/image_15.png)
 
 * Gereken materyal ve araçlar
 
-    * Access to an online tool like [Mentimeter](https://www.mentimeter.com/); a paid account allows export of the results but is not required for this exercise
+    * [Mentimeter](https://www.mentimeter.com/) gibi çevrimiçi araçlara erişim; ücretli bir hesap sonuçların dışarı aktarılmasına imkan verir ancak bu alıştırma için gerekli değildir.
 
-    * For each participant, access to smartphone, tablet, or computer with internet access
+    * Her bir katılımcı için internet erişimi olan akıllı telefon, tablet ya da bilgisayar erişimi.
 
-    * Offline alternative: large paper with axes printed or drawn, sticky dots
+    * Çevrimdışı alternatifler: eksenler üzerine basılmış ya da çizilmiş büyük bir kağıt, yapışkanlı noktalar.
 
 * Gerekli ön bilgi düzeyi
 
-    * None; some background knowledge on the topic is useful to get informed opinions rather than gut feelings (although the latter may be useful to collect too)
+    * Yok; konu üzerine biraz arka plan bilgi, içgüdüsel duygulardan ziyade bilinçli görüşler için faydalı olur (ilkini toplamak da yararlı olabilir).
 
 * Akılda tutulması gerekenler
 
-    * If done on paper, it might make sense to have people mark down their answer  individually first, before placing their dot on the map. This prevents peer pressure / bias.
+    * Kağıt üzerinde yapılırsa, katılımcıların cevaplarını ortak kağıttan önce bireysel olarak işaretlemeleri daha mantıklı olur. Böylece akran baskısı / yanlılığı önlenir.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * This exercise can be adapted to many different questions and topics
+    * Bu alıştırma birçok farklı soru ve konuya uyarlanabilir.
 
-    * An alternative online tool (that is also open source) for these kind of exercises is SimpleVote ([https://simplevote.ml](https://simplevote.ml))
+    * Bu tür alıştırmalar için (aynı zamanda açık kaynak kodlu olan) alternatif bir çevrimiçi araç da [Simple Vote'tur](https://www.figma.com/community/widget/1031261785662682451).
 
-    * If the audience is heterogeneous (i.e., researchers, research support people, policy makers) it is informative to distinguish between the different groups, e.g., by creating a separate question for each (in Mentimeter), or using different color sticky dots (on paper)
+    * Katılımcı kitlesi heterojen bir yapıda ise (örneğin, araştırmacılar, araştırma destek personeli, politika yapıcılar), örneğin (Mentimeter'da) her biri için ayrı soru oluşturarak veya (kağıt üzerinde) farklı renkte yapışkan noktalar kullanarak farklı gruplar arasında ayrım yapmak bilgilendirici olur.
 
-    * For sticky dots, choose a combination that is colour-blind friendly
+    * Yapışkanlı noktalar için, renk körü dostu bir renk kombinasyonu seçin.
 
 ##### **Örnek 22: Sade dilde açıklamalar** - devam ediyor
 
