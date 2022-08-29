@@ -9,7 +9,7 @@ Tüm bu materyallere, mümkün olduğunca mevcut olanı yeniden kullanmanın en 
 
 **Göttingen Üniversitesi Kütüphanesinde Açık Bilim Göttingen Buluşmaları (3 saat)**
 
-Göttüngen Açık Bilim Ağı, açık bilim uygulamalarını ve bilgi paylaşımını destekleyerek, açık bilimle ilgili çeşitli konuların tartışıldığı düzenli buluşma etkinlikleri düzenleyen bir grup araştırmacı ve kütüphanecidir. Ağ, Göttingen Kampüsünde açık bilim konularıyla ilgili kişileri biraraya getirir ve herkese açıktır. Açık bilim konusundaki tecrübelerini paylaşma ve yeni yöntemler, araçlar ve uygulamaları öğrenme konusunda istekli olan farklı disiplinlerden araştırmacıları çekme konusunda oldukça başarılı olmuşlardır. Davetli konuşmacının konuya giriş yapmasının ardından ilgili konularda daha derinlemesine bir bakış açısıyla küçük grup tartışmaları yapılmaktadır.
+Göttingen Açık Bilim Ağı, açık bilim uygulamalarını ve bilgi paylaşımını destekleyerek, açık bilimle ilgili çeşitli konuların tartışıldığı düzenli buluşma etkinlikleri organize eden bir grup araştırmacı ve kütüphanecidir. Ağ, Göttingen Kampüsünde açık bilim konularıyla ilgili kişileri biraraya getirir ve herkese açıktır. Açık bilim konusundaki tecrübelerini paylaşma ve yeni yöntemler, araçlar ve uygulamaları öğrenme konusunda istekli olan farklı disiplinlerden araştırmacıları çekme konusunda oldukça başarılı olmuşlardır. Davetli konuşmacının konuya giriş yapmasının ardından ilgili konularda daha derinlemesine bir bakış açısıyla küçük grup tartışmaları yapılmaktadır.
 
 * Daha fazla bilgi için: [State and University Library Göttingen - Open Science](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/)
 
@@ -19,11 +19,11 @@ Göttüngen Açık Bilim Ağı, açık bilim uygulamalarını ve bilgi paylaşı
 
 **Tekrarlanabilir Analiz ve Araştırma Şeffaflığı (tek bir tam günlük çalıştay)**
 
-Şeffaflık, açık paylaşım ve tekrarlanabilirlik bilimin temel değerleri, ancak her zaman günlük pratiklerinin bir parçası değildir. Bu çalıştayın ilk hali, [Etkin Ekolojik ve Evrimsel Araştırmalar için Açık Bilim Araçları, Verileri ve Teknolojileri - Open Science Tools, Data & Technologies for Efficient Ecological & Evolutionary Research](https://nioo.knaw.nl/en/open-science-tools) etkinliği kapsamında NIOO-KNAW ve DANS-KNAW tarafından düzenlenmiştir. Araştırmada şeffaflığı sağlamak için tekrarlanabilir analizlerdeki mevcut duruma genel bir bakış sağlamaktadır. Çalıştay (Açık Bilim Çerçevesi ve raporlama yönergelerinin kullanımı gibi) metodolojik konuların yanısıra (Git, Docker, RMarkdown / knitr ve Jupyter) gibi yazılım araçlarını kapsamaktadır. Basit listeleme ve sunumların ötesine geçilen çalıştayın ikinci yarısı yazılımsal konuların çoğunu kapsayan uygulamalı alıştırmalar ve eğitimler ile beceri geliştirmeye odaklanır. Materyal ve içeriğe şuradan ulaşılabilir: [reproducible-analysis-workshop.readthedocs.io](http://reproducible-analysis-workshop.readthedocs.io)
+Şeffaflık, açık paylaşım ve tekrarlanabilirlik bilimin temel değerleri, ancak her zaman günlük pratiklerinin bir parçası değildir. Bu çalıştayın ilk hali, [Etkin Ekolojik ve Evrimsel Araştırmalar için Açık Bilim Araçları, Verileri ve Teknolojileri - Open Science Tools, Data & Technologies for Efficient Ecological & Evolutionary Research](https://www.dtls.nl/courses/open-science-tools-data-technologies-efficient-ecological-evolutionary-research/) etkinliği kapsamında NIOO-KNAW ve DANS-KNAW tarafından düzenlenmiştir. Araştırmada şeffaflığı sağlamak için tekrarlanabilir analizlerdeki mevcut duruma genel bir bakış sağlamaktadır. Çalıştay (Açık Bilim Çerçevesi ve raporlama yönergelerinin kullanımı gibi) metodolojik konuların yanısıra (Git, Docker, RMarkdown / knitr ve Jupyter) gibi yazılım araçlarını kapsamaktadır. Basit listeleme ve sunumların ötesine geçilen çalıştayın ikinci yarısı yazılımsal konuların çoğunu kapsayan uygulamalı alıştırmalar ve eğitimler ile beceri geliştirmeye odaklanır. Materyal ve içeriğe şuradan ulaşılabilir: [reproducible-analysis-workshop.readthedocs.io](http://reproducible-analysis-workshop.readthedocs.io)
 
 **Açık Bilim: İçinde benim için ne var? (1-2 gün)**
 
-Çalıştayın amacı araştırmacılara ve yöneticilere uygulamalı örneklerle açık bilim araçlarını ve farklı disiplinlerdeki iş akışı örneklerini sunmak ve bunları uygulamaya ve tartışmaya başlamaktır. Bu amaçla, bilimsel iş akış süreci boyunca kullanılan araçlar ve uygulamalar, uygulamalı örnekler, katılımcı anketleri ve interaktif tartışmalarla genel anlamda sunulmaktadır. İkinci gün uygulama ve paylaşıma yöneliktir. Katılımcılar çeşitli oturumlarda araçları ve uygulamaları keşfeder, mümkün ölçüde dener ve uygular. Bunu küçük gruplarda ve bireysel olarak, ve ayrıca canlı bir ortamda yaparlar. Son oturumda, kendi araştırmanızda açık bilime geçmenin önündeki engeller ve bu konudaki teşvikler hakkında tartışma yapılmaktadır. 
+Çalıştayın amacı araştırmacılara ve yöneticilere uygulamalı örneklerle açık bilim araçlarını ve farklı disiplinlerdeki iş akışı örneklerini sunmak ve bunları uygulamaya ve tartışmaya açmaktır. Bu amaçla, bilimsel iş akış süreci boyunca kullanılan araçlar ve uygulamalar, uygulamalı örnekler, katılımcı anketleri ve interaktif tartışmalarla genel anlamda sunulmaktadır. İkinci gün uygulama ve paylaşıma yöneliktir. Katılımcılar çeşitli oturumlarda araçları ve uygulamaları keşfeder, mümkün ölçüde dener ve uygular. Bunu küçük gruplarda ve bireysel olarak, ve ayrıca canlı bir ortamda yaparlar. Son oturumda, kendi araştırmanızda açık bilime geçmenin önündeki engeller ve bu konudaki teşvikler hakkında tartışma yapılmaktadır. 
 
 * [Çalıştay raporu](https://www.authorea.com/users/111423/articles/200860-open-science-workshop-what-s-in-it-for-me-postmortem-report) (Viyana, 2017)
 
@@ -31,7 +31,7 @@ Göttüngen Açık Bilim Ağı, açık bilim uygulamalarını ve bilgi paylaşı
 
 **Carpentry Çalıştayları (2 gün)**
 
-Carpentry çalıştayı, küçük araştırma gruplarında üretken olmak için ihtiyaç duyulan temel becerilere yönelik iki günlük bir uygulamalaı etkinliktir. Kısa eğitimler ve uygulamalı alıştırmalar dönüşümlü olarak birbirini takip eder ve tüm eğitim canlı kodlamaya dayanır. Software Carpentry 1998 yılında and Data Carpentry 2013 yılında kurulmuştur. İkisi de hesaplama becerilerine odaklanır, gönüllü eğitimciler tarafından verilen iki günlük çalıştaylar yapar ve araştırmacılar için mevcut eğitimdeki boşlukları doldurmaya çalışır. Ancak, içerikleri ve hedef kitleleri farklıdır. Data Carpentry çalıştayları verilerle ilgili en iyi uygulamalara odaklanır. Öğrencileri kodlama öğrenmek isteyen kişiler değil, daha ziyade birçok verisi olan ve ve bu verilerle ne yapacağını bilmeyen kişilerdir. Data Carpentry çalıştayları tamamen acemilere yöneliktir, alan odaklıdır ve tek bir veri setine yoğunlaşarak eksiksiz bir müfredat sunar. Software Carpentry çalıştayları, hesaplamaya yönelik yaşadıkları zorlukları çözmek isteyen çözmek için daha etkili programlamaya ihtiyaç duyan kişilere yöneliktir, alan odaklıdır ve modülerdir—her Software Carpentry dersi bağımsızdır.
+Carpentry çalıştayı, küçük araştırma gruplarında üretken olmak için ihtiyaç duyulan temel becerilere yönelik iki günlük bir uygulamalı etkinliktir. Kısa eğitimler ve uygulamalı alıştırmalar dönüşümlü olarak birbirini takip eder ve tüm eğitim canlı kodlamaya dayanır. Software Carpentry 1998 yılında and Data Carpentry 2013 yılında kurulmuştur. İkisi de hesaplama becerilerine odaklanır, gönüllü eğitimciler tarafından verilen iki günlük çalıştaylar yapar ve araştırmacılar için mevcut eğitimdeki boşlukları doldurmaya çalışır. Ancak, içerikleri ve hedef kitleleri farklıdır. Data Carpentry çalıştayları verilerle ilgili en iyi uygulamalara odaklanır. Öğrencileri kodlama öğrenmek isteyen kişiler değil, daha ziyade birçok verisi olan ve bu verilerle ne yapacağını bilmeyen kişilerdir. Data Carpentry çalıştayları tamamen acemilere yöneliktir, alan odaklıdır ve tek bir veri setine yoğunlaşarak eksiksiz bir müfredat sunar. Software Carpentry çalıştayları, hesaplamaya yönelik yaşadıkları zorlukları çözmek için daha etkili programlamaya ihtiyaç duyan kişilere yöneliktir, alan odaklıdır ve modülerdir—her Software Carpentry dersi bağımsızdır.
 
 * [Software Carpentry](https://software-carpentry.org)
 
@@ -39,19 +39,19 @@ Carpentry çalıştayı, küçük araştırma gruplarında üretken olmak için 
 
 **EIFL Eğitmen Yetiştirme Programı  (4 gün)**
 
-EIFL, EIFL partneri ülkelerdeki (Etiyopya, Ganan, Zimbabve, Tanzanya ve Nepal) açık erişim, açık bilim ve açık araştırma verilerini doktora derslerine entegre etmeyi taahhüt eden beş üniversitede bir eğitmen yetiştirme programı düzenlemiştir. İlk gün açık erişim ve açık veri konularını kapsamıştır. İkinci ve üçüncü gün ise katılımcıların üniversitelerindeki mevcut uygulamalar da dahil olmak üzere araştırma iş akışında açık bilime ayrılmıştır. Dördüncü gün, katılımcılar kendi eğitim programlarını tasarlayıp hazırlamışlardır.
+EIFL, EIFL partneri ülkelerdeki (Etiyopya, Gana, Zimbabve, Tanzanya ve Nepal) açık erişim, açık bilim ve açık araştırma verilerini doktora derslerine entegre etmeyi taahhüt eden beş üniversitede bir eğitmen yetiştirme programı düzenlemiştir. İlk gün açık erişim ve açık veri konularını kapsamıştır. İkinci ve üçüncü gün ise katılımcıların üniversitelerindeki mevcut uygulamalar da dahil olmak üzere araştırma iş akışında açık bilime ayrılmıştır. Dördüncü gün, katılımcılar kendi eğitim programlarını tasarlayıp hazırlamışlardır.
 
-* [EIFL Eğitmen Yetiştirme PRogramı](https://osf.io/qf76a/) (Addis Ababa, 2017, program ve tüm materyaller)
+* [EIFL Eğitmen Yetiştirme Programı](https://osf.io/qf76a/) (Addis Ababa, 2017, program ve tüm materyaller)
 
 **Açık Bilim Yaz Okulları (5 gün)**
 
-Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacılarına yönelik, açık bilim üzerine haftalık yaz okulları düzenlemektedir. Bu etkinliklerde beş gün boyunca, genellikle açık bilime günlük pratiklerde yer vermeye yönelik birçok uygulamayla birlikte çeşitli konulara yer verilmektedir.
+Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacılarına yönelik, açık bilim üzerine haftalık yaz okulları düzenlemektedir. Bu etkinliklerde beş gün boyunca, genellikle açık bilime günlük pratiklerde yer vermeye yönelik birçok uygulamayla birlikte çeşitli konular üzerinde durulmaktadır.
 
-* [EPFL Uygulamada Açık Bilim Yaz Okulu - EPFLSummer school Open Science in Practice](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, program tanıtımı)
+* [EPFL Uygulamada Açık Bilim Yaz Okulu - EPFL Summer School Open Science in Practice](http://archiveweb.epfl.ch/osip2017.epfl.ch/page-146300-fr.html)(2017, program tanıtımı)
 
 * [Utrecht Üniversitesi Açık Bilim ve Araştırma Yaz Okulu - Utrecht University Summer School Open Science and Scholarship](https://tinyurl.com/sumsopenscience2017) (2017, program ve materyaller)
 
-* [Essex Sosyal Bilimler ve Veri Analizi Yaz Okulu: Açık Bilime Giriş - Essex Summer School in Social Science and Data Analysis - Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, program tanıtımı) 
+* [Essex Sosyal Bilimler ve Veri Analizi Yaz Okulu: Açık Bilime Giriş - Essex Summer School in Social Science and Data Analysis: Introduction in Open Science](https://www.fosteropenscience.eu/event/essex-summer-school-social-science-data-analysis-introduction-open-science) (2017, program tanıtımı) 
 
 * [LERU Veri Yöneticiliği Doktora Yaz Okulu - LERU Doctoral Summer School on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, açıklama, öğrenme hedefleri) 
 
@@ -66,7 +66,7 @@ Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacıları
 
 * Format, gereken zaman 
 
-* Konu \([bkz. Açık Bilimin Temelleri](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/README.md)\)
+* Konu \([bkz. Açık Bilimin Temelleri](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/tree/master/02OpenScienceBasics)\)
 
 * Öğrenme hedefleri 
 
@@ -115,7 +115,7 @@ Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacıları
 
         * gerçek yaşamdan örnekler/vakalar (aynı zamanda katılımcılardan)
 
-        * belli bir kavramın bir dakikalık sunumu (katılımcılar tarafında) 
+        * belli bir kavramın bir dakikalık sunumu (katılımcılar tarafından) 
 
         * misafir eğitmenler
 
@@ -125,7 +125,7 @@ Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacıları
 
         * görselleştirme
 
-        * araçları ve platformları keşfetmek / denemek
+        * araçları ve platformları keşfetmek/denemek
 
         * kendi araştırmanızda bir açık blim pratiği uygulamak
 
@@ -162,7 +162,7 @@ Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacıları
     <td>Açık bilim pratiklerinin seçimi</td>
     <td>Açık kavramlar ve ilkeler</td>
     <td>tüm grup</td>
-    <td>1-1.5 saat</td>
+    <td>1-1,5 saat</td>
   </tr>
   <tr>
     <td>4</td>
@@ -176,7 +176,7 @@ Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacıları
     <td>LIBER Kafe Açık Bilim</td>
     <td>Açık kavramlar ve ilkeler</td>
     <td>küçük gruplar</td>
-    <td>1.5 saat</td>
+    <td>1,5 saat</td>
   </tr>
   <tr>
     <td>6</td>
@@ -283,7 +283,7 @@ Açık eğitim kaynakları</td>
     <td>Bence açık hakem değerlendirmesi</td>
     <td>Açık hakem/akran değerlendirmesi, ölçevler ve ölçüm</td>
     <td>tüm grup</td>
-    <td>1.5 saat</td>
+    <td>1,5 saat</td>
   </tr>
   <tr>
     <td>21</td>
@@ -332,7 +332,7 @@ Katılımcı platformlar</td>
    <tr>
     <td>27</td>
     <td>Açık bilim eğitimi için eğitimcileri eğitmek kart oyunu</td>
-    <td>Open Savunuculuk</td>
+    <td>Open savunuculuk</td>
     <td>küçük gruplar</td>
     <td>2 saat</td>
   </tr>
@@ -355,7 +355,7 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-    * Odadaki hayali çizgi 'kesinlikle katılıyorum' ve 'kesinlikle katılmıyorum' arasında bir spektrum oluşturur. Bir katılımcı ya da moderatör bir açıklama yapar (konu ile ilgili ‘kapalı verilere atıf yapılmamalıdır’ şeklinde ya da konunun dışından ‘tayt pantolon değildir’ şeklinde olabilir. Tüm katılımcılar kendilerini hayali çizgiye göre konumlandırmalıdır. Moderatör, bazı katılımcılardan (gerçek) bakış açılarını açıklamalarını ister.. 
+    * Odadaki hayali çizgi 'kesinlikle katılıyorum' ve 'kesinlikle katılmıyorum' arasında bir spektrum oluşturur. Bir katılımcı ya da moderatör bir açıklama yapar (konu ile ilgili ‘kapalı verilere atıf yapılmamalıdır’ şeklinde ya da konunun dışından ‘tayt pantolon değildir’ şeklinde olabilir. Tüm katılımcılar kendilerini hayali çizgiye göre konumlandırmalıdır. Moderatör, bazı katılımcılardan (gerçek) bakış açılarını açıklamalarını ister. 
 
 * Gereken materyal ve araçlar
 
@@ -407,9 +407,9 @@ Katılımcı platformlar</td>
 
 * Gereken materyal ve araçlar
 
-    * [Uygulamalarla araştırma döngüsü](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0) dokümanının çıktısı: her katılımcı için bir tane ve ortak bir tane
+    * [Uygulamalarla araştırma döngüsü](https://www.dropbox.com/s/l6wvhxm0rj6pdiy/OS-handbook_exercise_BK-1.png?dl=0) dokümanının çıktısı: her katılımcı için bir tane ve ortak bir tane.
 
-    * İki renkli yapışkanlı noktalar
+    * İki renkli yapışkanlı noktalar.
 
 ![image alt text](/Images/image_8.png)
 
@@ -423,9 +423,9 @@ Katılımcı platformlar</td>
 
     * Yapışkanlı noktalar için renk körü dostu bir kombinasyon seçin.
 
-    * Seçilecek etkinlik sayısı katılımcı sayısına bağlıdır (örneğin, küçük gruplar için üç, daha büyük gruplar için iki),
+    * Seçilecek etkinlik sayısı katılımcı sayısına bağlıdır (örneğin, küçük gruplar için üç, daha büyük gruplar için iki).
 
-    * Bireysel çıktılar/kağıtlar akran baskısını / yanlılığı önlemek için kullanılır.
+    * Bireysel çıktılar/kağıtlar akran baskısını/yanlılığı önlemek için kullanılır.
 
     * Eğitimin geri kalanına referans olması için bireysel çıktılar/kağıtlar tutulabilir.
 
@@ -437,7 +437,7 @@ Katılımcı platformlar</td>
 
 * Format, gereken zaman
 
-    * Tüm grup, 1–1.5 saat
+    * Tüm grup, 1–1,5 saat
 
 * Konu
 
@@ -445,13 +445,13 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri 
 
-    * Araştırma iş akışının tamamı boyunca açık bilim uygulamaları yelpazesini görmek
+    * Araştırma iş akışının tamamı boyunca açık bilim uygulamaları yelpazesini görmek.
 
     * Hangi uygulamaların odaklanmak için en uygun ve etkili olacağını değerlendirmek.
 
 * Alıştırma tanımı
 
-    * Alıştırma öncesinde, kartları araştırma aşamasına/uygulamasına göre ayırın ve salona yayın (örneğin, masalrın üzerine ya da zeminin genişçe bir kısmına).
+    * Alıştırma öncesinde, kartları araştırma aşamasına/uygulamasına göre ayırın ve salona yayın (örneğin, masaların üzerine ya da zeminin genişçe bir kısmına).
 
     * Bir duvarın büyük bir kısmına (pencereler ve panolar da kullanılabilir) araştırma döngüsünün farklı aşamalarını (örneğin, hazırlık, keşif, analiz, yazma, yayınlama, erişim, değerlendirme) yazın.
 
@@ -467,9 +467,9 @@ Katılımcı platformlar</td>
 
     * Seçilen araştırma uygulamaları birlikte açık bilim iş akışının bir planını oluşturabilir. 
 
-    * Bir devam alıştırması olarak, katılımcılar katılımcılar bu uygulamaları gerçekleştirmek için muhtemel adımları tartışabilirler: 
+    * Bir devam alıştırması olarak, katılımcılar bu uygulamaları gerçekleştirmek için muhtemel adımları tartışabilirler: 
 
-        1. hangi araçlar/platformlar kullanılablir
+        1. hangi araçlar/platformlar kullanılabilir
 
         2. potansiyel teşvikler ve engeller neler olabilir
 
@@ -531,7 +531,7 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-    * Katılımcıları dört ya da beş gruba ayırın ve tartışma konularını dağıtın (örneğin, kağıt üzerinden basılı olarak).
+    * Katılımcıları dört ya da beş gruba ayırın ve tartışma konularını dağıtın (örneğin, kağıt üzerinde basılı olarak).
 
     * Grupların konuları katılımcıların kendi bakış açılarından tartışmasını sağlayın.
 
@@ -559,13 +559,13 @@ Katılımcı platformlar</td>
 
         10. "ResearchGate ile fikirlerin ve projelerin paylaşımı, araştırmamıza erişimi sağlamanın iyi bir yoludur"
 
-        11. "Genç araştırmacıların açık bilime daha fazla katılmamalarının nedeni genellikle sorumlu/baş araştırmacılarımızın talepleridir"
+        11. "Genç araştırmacıların açık bilime daha fazla katılmamalarının nedeni genellikle sorumlu/baş araştırmacıların talepleridir"
 
-        12. "İşbirliğini ve yeniden kullanımı teşvik etmek için tüöm araştırma çıktılarımızı paylaştığımız bir tür ‘ortak nokta oluşturmaya çalışmalıyız"
+        12. "İşbirliğini ve yeniden kullanımı teşvik etmek için tüm araştırma çıktılarımızı paylaştığımız bir tür 'ortak nokta' oluşturmaya çalışmalıyız"
 
 * Gereken materyal ve araçlar
 
-    * Tartışma konularını basılı çıktıları
+    * Tartışma konularının basılı çıktıları
 
 * Gerekli ön bilgi düzeyi
 
@@ -587,7 +587,7 @@ Katılımcı platformlar</td>
 
 * Konu
 
-    * [Açık kavramlar ve ilkeler]([/02OpenScienceBasics/01OpenConceptsAndPrinciples.md](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/01OpenConceptsAndPrinciples.md))
+    * [Açık kavramlar ve ilkeler](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
 
 * Öğrenme hedefleri
 
@@ -603,15 +603,15 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-    * Düzen: 6-8 kişi, bir moderatör ve not almadan sorumlu bir kişi ile bir masa etrafına alınır. Konuşmayı başlatmak için, bu kişiler açık bilim ve ilgili konularda ifadelerin ve soruların yer aldığı bir deste kart verilir. Bu ifadeler, konuşmayı başlatıcı görevi görür. Birisi bir kart seçer, grup bu kartla ilgili bir süre konuşur ve sonraki karta geçilebilir. Bu şekilde, katılımcılar birbirlerinden öğrenir ve daha büyük resim hakkında düşünmeye başlar. Aynı zamanlaIn this way, people learn from each other and start to think about the bigger picture. Bu arada, farklı paydaşlardan değerli girdiler toplayabilirsiniz.
+    * Düzen: 6-8 kişi, bir moderatör ve not almadan sorumlu bir kişi ile bir masa etrafına alınır. Konuşmayı başlatmak için, bu kişilere açık bilim ve ilgili konularda ifadelerin ve soruların yer aldığı bir deste kart verilir. Bu ifadeler, konuşmayı başlatıcı görevi görür. Birisi bir kart seçer, grup bu kartla ilgili bir süre konuşur ve sonraki karta geçilebilir. Bu şekilde, katılımcılar birbirlerinden öğrenir ve daha büyük resim hakkında düşünmeye başlar. Bu arada, farklı paydaşlardan değerli girdiler toplayabilirsiniz.
 
-    * Not tutucu, konuçmanın ilginç noktalarını iki farklı şekilde not alır:
+    * Not tutucu, konuşmanın ilginç noktalarını iki farklı şekilde not alır:
 
-        1. Zihin haritası (mindmap) kartları: Bu kartları konuşmada çok dikkat çeken konular için kullanabilirsiniz. Konuşma çok hızlı akarsa, bölmekten ve katılımcılardan zihin haritası için girdi istemekten korkmayın. Ana konuyu merjeze yazın ve bunun üzerinden çalışın. Bağlantıları yakalamak zor mu? Burada ayrıca rasgele düşünceler ve ifadeler toplayabilirsiniz.
+        1. Zihin haritası (mindmap) kartları: Bu kartları konuşmada çok dikkat çeken konular için kullanabilirsiniz. Konuşma çok hızlı akarsa, bölmekten ve katılımcılardan zihin haritası için girdi istemekten korkmayın. Ana konuyu merkeze yazın ve bunun üzerinden çalışın. Bağlantıları yakalamak zor mu? Burada ayrıca rasgele düşünceler ve ifadeler toplayabilirsiniz.
 
         2. Muhteşem alıntılar ve fikirler: Bazen birisi, sadece söylendiği bağlamda bir şekilde çok faydalı olan "Vay" dedirtecek birşey söyler. Bu amaçla ‘muhteşem alıntılar ve fikirler’ kartınız var. Bu karttan sadece bir tane olduğundan, burada çok seçici olmalısınız. Bu kartta yer almayı hak edecek kadar iyi olduğunu düşündüğünüz noktalara yer verin.
 
-    * 20-30 dakika sonra grupların masalarını değiştirmelerini sağlayın. Moderatör ve not tutuculae sabit kalsın.
+    * 20-30 dakika sonra grupların masalarını değiştirmelerini sağlayın. Moderatör ve not tutucular sabit kalsın.
 
     * Sonda, her moderatör masalarındaki farklı gruplar tarafından ne söylendiğini rapor etsinler.
 
@@ -631,7 +631,7 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-    * Katılımcıların yazdıkları/okudukları son makaleler üzerine düşünmelerini sağlayın. Ek materyaller (örneğin, tablolar, resimler) var mıydı? Çalışma alanlarındaki araştırma verisi türlerini ve örneklerini yazmalarını isteyin. Çalışmayı yeniden analiz etmek için hangi bilgilere ve verilere istiyaçları olacak? Kendi tezleri/makalelerinin doğru anlaşılması için neye ihtiyaç olacak? Sonuçlarını çiftler/gruplar halinde ve ardından tüm gruba sunmalarını sağlayın.
+    * Katılımcıların yazdıkları/okudukları son makaleler üzerine düşünmelerini sağlayın. Ek materyaller (örneğin, tablolar, resimler) var mıydı? Çalışma alanlarındaki araştırma verisi türlerini ve örneklerini yazmalarını isteyin. Çalışmayı yeniden analiz etmek için hangi bilgilere ve verilere ihtiyaçları olacak? Kendi tezleri/makalelerinin doğru anlaşılması için neye ihtiyaç olacak? Sonuçlarını çiftler/gruplar halinde ve ardından tüm gruba sunmalarını sağlayın.
 
 * Gereken materyal ve araçlar
 
@@ -665,11 +665,11 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-    *  Katılımcıların çiftler ya da küçük gruplar halinde, araştırmacıların verilerini paylaşmak istememelerinin nedenleri ile ilgili olabildiğince uzun bir liste yapmak için beş dakikası vardır. Sonrasında, nedenleri raporlar ve bunların geçerli nedenler olup olmadığını ve mantıklı endişelerin nasıl üstesinden gelineceğine dair stratejileri tartışırlar. En fazla sebep listekeyen takım kazanır (ödül isteğe bağlıdır). 
+    *  Katılımcıların çiftler ya da küçük gruplar halinde, araştırmacıların verilerini paylaşmak istememelerinin nedenleri ile ilgili olabildiğince uzun bir liste yapmak için beş dakikası vardır. Sonrasında, nedenleri raporlar ve bunların geçerli nedenler olup olmadığını ve mantıklı endişelerin nasıl üstesinden gelineceğine dair stratejileri tartışırlar. En fazla sebep listeleyen takım kazanır (ödül isteğe bağlıdır). 
     
 * Gereken materyal ve araçlar
 
-    * Not almak için malzemeler (kalem, kağıt ya da cevrimiçi doküman); isteğe bağlı: ödül. 
+    * Not almak için malzemeler (kalem, kağıt ya da çevrimiçi doküman); isteğe bağlı: ödül. 
 
 * Gerekli ön bilgi düzeyi
 
@@ -677,7 +677,7 @@ Katılımcı platformlar</td>
 
 * Akılda tutulması gerekenler
 
-    * Alıştırma eğlenceli olmalı ve katılımcılar ciddi örneklerin yanısıra eğlenceli örnekler bulmaları için de cesaretlendirilmeli. 
+    * Alıştırma eğlenceli olmalı ve katılımcılar ciddi örneklerin yanı sıra eğlenceli örnekler bulmaları için de cesaretlendirilmeli. 
 
 * Başka amaçlar için nasıl uyarlanır?
 
@@ -733,7 +733,7 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-    * Katılımcılardan bir tezle (lisans, yüksek lisans ya da doktora) ilşkili olarak en son yaptıkları bilimsel çalışmayı düşünmeleri ve ürettikleri verinin türünü belirtmeleri istenir.
+    * Katılımcılardan bir tezle (lisans, yüksek lisans ya da doktora) ilişkili olarak en son yaptıkları bilimsel çalışmayı düşünmeleri ve ürettikleri verinin türünü belirtmeleri istenir.
 
     * Daha sonra bir datagram oluşturacaklarıdr, örneğin bir karta yazmak
 
@@ -757,11 +757,11 @@ Katılımcı platformlar</td>
 
 * Gereken materyal ve araçlar
 
-    *  Kartlar ve kağıt panoları ya da bunun yerine mümkünse bir duvar ve kartları duvara yapıştırmak için malzemeler,
+    *  Kartlar ve kağıt panoları ya da bunun yerine mümkünse bir duvar ve kartları duvara yapıştırmak için malzemeler.
 
 * Gerekli ön bilgi düzeyi
 
-    * Eğer alıştırma verilerin nasıl tanımlanacağı ve ayırt edileceğine dair bazı açıklamalarla başlatıldığı sürece ön bilgi gerekmiyor. Araştırma verisi, depolar ve arşivler hakkında temel bilgi faydalı olabilir.
+    * Alıştırma verilerin nasıl tanımlanacağı ve ayırt edileceğine dair bazı açıklamalarla başlatıldığı sürece ön bilgi gerekmiyor. Araştırma verisi, depolar ve arşivler hakkında temel bilgi faydalı olabilir.
 
 * Akılda tutulması gerekenler 
 
@@ -775,7 +775,7 @@ Katılımcı platformlar</td>
 
 * Format, gereken zaman 
 
-    * Bireysel / çiftler halinde, 10–15 minutes
+    * Bireysel / çiftler halinde, 10–15 dakika
 
 * Konu
 
@@ -783,21 +783,21 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Konuya özel uygun veri depolarının ve bunların özelliklerinin ve standartlarının farkındanda olmak.
+    * Konuya özel uygun veri depolarının ve bunların özelliklerinin ve standartlarının farkında olmak.
 
 * Alıştırma tanımı
 
-    * Katılımcılar araştırma verileri için bir veri deposu bulmalıdır. re3data.org adresine gidip konuya ve/veya içerik türüne göre arama/tarama yaparlar. Aramalarını DOI atanmış veri depoları ile sınırlamalarına izin verin. Depo açıklamasına bakabilecekleri zamanı verin ve ilgili depoları yazmalarına imkan sağlayın. Sonrasında başarıve deneyimlerini tartışın.
+    * Katılımcılar araştırma verileri için bir veri deposu bulmalıdır. re3data.org adresine gidip konuya ve/veya içerik türüne göre arama/tarama yaparlar. Aramalarını DOI atanmış veri depoları ile sınırlamalarına izin verin. Depo açıklamasına bakabilecekleri zamanı verin ve ilgili depoları yazmalarına imkan sağlayın. Sonrasında başarı ve deneyimlerini tartışın.
     
 * Gereken materyal ve araçlar
 
-    * Her bir katılımcı için internet erişimi olan bilgisayar (eğer gerekliyse çiftler halinde de olabilir)C
+    * Her bir katılımcı için internet erişimi olan bilgisayar (eğer gerekliyse çiftler halinde de olabilir).
 
 * Gerekli ön bilgi düzeyi
 
     * Katılımcılar oluşturdukları araştırma verilerinin türünü bilmelidir.
 
-    * Lisan öğrencileri için geçerli değil.
+    * Lisans öğrencileri için geçerli değil.
 
 * Akılda tutulması gerekenler
 
