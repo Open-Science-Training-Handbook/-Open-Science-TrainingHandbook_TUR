@@ -1321,37 +1321,37 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Formulate arguments against common objections to open science practices
+    * Açık bilim uygulamalarına yönelik yaygın itirazlara karşı argümanlar geliştirin.
 
-    * Practice discussion with people questioning the value of open science
+    * Açık bilimin değerini sorgulayan insanlarla tartışma pratiği yapın.
 
 * Alıştırma tanımı
 
-    * In small groups of three or four, have one or two person(s) assume the role of open science skeptic and the others the role of open science advocate. 
+    * Üç ya da dört kişilik küçük gruplarda, bir ya da iki kişinin açık bilim şüphecisi rolünü, diğerlerinin açık bilim savunucusu rolünü üstlenmesini sağlayın.
 
-    * Have the "open science advocates" try to convince the “open science skeptics”
+    * "Açık bilim savunucularının", "açık bilim şüphecilerini" ikna etmeye çalışsınlar.
 
-    * After 10 minutes, have participants switch roles and have another discussion (not repeating the same arguments)
-
-    * After two rounds, gather as a group as share experiences. Which arguments were the hardest to refute? Which arguments worked best to convince the skeptics? Do participants feel these be arguments would be useful in real-life situations as well?
+    * 10 dakika sonra, katılımcılar rolleri değişsin ve (aynı argümanları tekrarlamadan) başka bir tartışma yapsınlar.
+    
+    * İki turdan sonra, deneyimleri paylaşmak için grup olarak biraraya gelin. Hangi argümanları çürütmek en zordu? Hangi argümanlar şüphecileri ikna etmede en çok işe yaradı? Katılımcılar, bunların gerçek yaşamdaki durumlarda da faydalı olabileceğini düşünüyor mu?
 
 * Gereken materyal ve araçlar
 
-    * none; flexible room setup is useful to allow groups to spread across the room
+    * Yok; esnek oda düzeni, grupların oda içerisinde yayılmasına imkan vermek için iyi olur.
 
 * Gerekli ön bilgi düzeyi
 
-    * Familiarity with open science concepts
+    * Açık bilim kavramlarına aşinalık.
 
 * Akılda tutulması gerekenler
 
-    * Encourage the open science skeptics to get into their role as much as possible. Often, people really enjoy taking on this role!
+    * Açık bilim şüphecilerini mümkün olduğunca rollerine adapte olmaya teşvik edin Encourage the open science skeptics to get into their role as much as possible. Çoğu zaman, insanlar bu rolü üstlenmekten gerçekten zevk alır!
 
-    * Be sure to switch roles to give everyone the chance to experience this exercise from both perspectives. 
+    * Herkese bu alıştırmayı her iki perspektiften de deneyimleme şansı vermek için rolleri değiştirdiğinizden emin olun.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * This exercise could be focused on specific aspects of open science
+    *  Bu alıştırma, açık bilimin belirli yönlerine odaklanabilir.
 
 ##### **Örnek 24: OSF projesi oluşturmak ve diğer platformlarla bağlantı kurmak - devam ediyor**
 
@@ -1367,13 +1367,13 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-   * Create an OSF collaborative environment from data to publication.
+   * Veriden yayına bir OSF işbirliği ortamı oluşturun.
    
-      * Connect your OSF project to GitHub.
+      * OSF projenizi GitHub'a bağlayın.Connect your OSF project to GitHub.
 
-      * Upload any raw code, images, data, tables to project.
+      * Projeye herhangi bir işlenmemiş (raw) kod, resim, veri, tablo yükleyin Upload any raw code, images, data, tables to project.
 
-      * Obtain a DOI and ARK identifier for your project.
+      * Projeniz için bir DOI ve ARK tanımlayıcısı edinin.
 
 * Gereken materyal ve araçlar
 
@@ -1396,29 +1396,29 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
  
-   * "The game lets you explore the impact of scholarly communications choices and discuss the role of open access in research by following the lives of four researchers, from doctoral research to their academic legacies." [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
+   * "Oyun, dört araştırmacının hayatlarını doktora araştırmalarından akademik miraslarına kadar takip ederek, araştırmalarda bilimsel iletişimin etkisini keşfetmek ve açık erişimin rolünü tartışmaya imkan verir." [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
 
 * Alıştırma tanımı
 
-   * "It is played by four teams of up to four people – sat around a game board and using a playbook to guide the decisions the teams must make. The workshop leader acts as a host and presents the scenarios to the teams during each round. Each round involves making three decisions about publishing choices. After hearing the scenario, each team chooses from the pre-determined options. At the end of each round, the teams discuss the decisions they have reached and are asked to justify their choices." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
+   * "En fazla dört kişiden oluşan dört grupla oynanır – bir oyun tahtasının etrafına oturun ve takımları vermesi gereken kararlarla ilgili yönlendirmek için bir oyun kitabı kullanın. Çalıştay lideri ev sahibi rolündedir ve her turda senaryoları ekiplere sunar. Her tur yayınlama seçenekleri ile ilgili üç karar vermeyi kapsar. Senaryoyu dinledikten sonra her takım önceden belirlenmiş seçeneklerden birini seçer. Her turun sonunda takımlar aldıkları kararları tartışır ve seçimlerini gerekçelendirmeleri istenir." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
    
 * Gereken materyal ve araçlar
 
-   * The board, cards, booklets, points and other object has to be downloaded, printed and cut out. They plan to also have a professionally produced game available to purchase. Materials are available here: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
+   * Oyun tahtası, kartlar, kitapçıklar, noktalar ve diğer nesneler indirilmeli, baskısı alınmalı ve kesilmelidir. Ayrıca, profesyonel olarak üretilmiş satın alınabilecek bir oyun hazırlamayı planlıyorlar. Materyallere şuradan erişilebilir: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
 
 * Gerekli ön bilgi düzeyi
    
-   * "The Publishing Trap is aimed at early career researchers and academics, as well as anyone who has a vested interested in understanding how access to information works and how the whole scholarly communication system in higher education operates." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
+   * "Yayınlama Tuzağ, erken kariyer araştırmacıları ve akademisyenlerin yanı sıra bilgiye erişimin ve yüksek öğrenimdeki bilimsel iletişim sisteminin bütünüyle nasıl işlediğini anlamak isteyen herkesi hedefler." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
 
 * Akılda tutulması gerekenler
    
-   * Maybe stimulate discussions during the game play
+   * Oyun sırasında tartışmalar teşvik edilebilir.
    
 * Başka amaçlar için nasıl uyarlanır?
 
-* Licensing conditions
+* Lisanlama koşulları
    
-   * The beta version of the game is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Licence.
+   * Oyun, Creative Commons Atıf-AynıLisanslaPaylaş 4.0 (CC BY-SA) lisansı ile lisanslanmıştır.
    
    
 ##### **Örnek 26: - devam ediyor**
@@ -1433,39 +1433,39 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri 
    
-   * The participants understand the basics of open data and reproducible research, understand the stages to setup a research data management plan, and can build their own data repository. 
+   * Katılımcılar araştırma verisinin ve tekrarlanabilir araştırmanın temellerini, bir araştırma veri yönetim planı oluşturmanın aşamalarını anlar ve kendi veri depolarını kurabilir.
 
 * Alıştırma tanımı
 
-1. the knowledge about repository and licensing
-2. data assessment: types, sum, sensitivity
-3. setting up a research data management plan using DMPtool
-4. setting up an OSF repository
-5. using Git for version control
-6. integrating GitHub, Google Drive, and other services to OSF project 
-7. using R, R Studio, and R Markdown to create a reproducible research
-8. exercise in creating a citizen science project 
+1. depo ve lisanslama ile ilgili bilgi
+2. veri değerlendirme: tür, miktar, duyarlılık
+3. DMPtool kullanarak bir araştırma veri yönetim planı oluşturmak
+4. OSF deposu oluşturmak
+5. Sürüm kontrolü için Git kullanmak
+6. GitHub, Google Drive ve diğer servislerin OSF projesine entegrasyonu 
+7. R, R Studio ve R Markdown kullanrak tekrarlanabilir bir araştırma yapmak
+8. yurttaş bilimi projeleri oluşturma alıştırması yapmak 
 
 * Gereken materyal ve araçlar
 
-   * Registration of: ORCID, OSF, GitHub, and DMPTool
-   * Downloading and installing: Git, R, and R Studio
+   * ORCID, OSF, GitHub ve DMPTool kaydı.
+   * Git, R ve R Studio'nun indirilmesi ve yüklenmesi.
 
 * Gerekli ön bilgi düzeyi
 
-   * A basic knowledge in R, R Studio, and Git would be a plus.
+   * R, R Studio ve Git hakkında temel bilgi bir artı olur.
    
 * Akılda tutulması gerekenler
 
-   * He/she may have to put more time in explaining the concept of open data and why people should do it. Most debates occur in this preliminary stage.
+   * Açık veri kavramını ve insanların bunu neden yapması gerektiğini açıklamak için daha fazla zaman ayrılması gerekebilir. Tartışmaların çoğu bu ön aşamada gerçekleşir.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-   * The exercise is made especially for geo/spatial sciences, but most part of it can used for any science, including citizen science project.
+   * Alıştırma özellikle jeoloji/uzay bilimleri için yapılmıştır, ancak yurttaş bilimi projesi de dahil olmak üzere çoğu kısmı herhangi bir bilim dalı için kullanılabilir.
    
  * Lisanslama koşulları
  
-   * CC BY - [Dasapta Erwin Irawan](dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; [Willem Vervoort](willem.vervoort@sydney.edu.au), The University of Sydney; [Gene Melzack](gene.melzack@sydney.edu.au), The University of Sydney
+   * CC BY - [Dasapta Erwin Irawan](dasaptaerwin@gmail.com), INArxiv, Bandung Teknoloji Enstitüsü; [Willem Vervoort](willem.vervoort@sydney.edu.au), Sidney Üniversitesi; [Gene Melzack](gene.melzack@sydney.edu.au), Sidney Üniversitesi
 
 
 ##### **Örnek 27: Açık bilim eğitimi için eğitimcileri eğitmek kart oyunu**
@@ -1480,64 +1480,64 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri 
 
-   * Trainers can use this game to facilitate ‘train-the-trainer’ workshops. Participants design a usable framework for a training – which will they deliver themselves at a later stage -  on (a) topic(s) of their choice. The card game offers the participants the option to preselect audience type, audience size, training type and audience knowledge level. In addition, two ‘unforeseen’ circumstances can be added: audience mood, and ‘trouble’ (uh-oh!).  Apart from going home with a usable design for a training, the audience of this workshop will also benefit from the input and experience of the other participants.  
+   * Eğitmenler bu oyunu 'eğitmenlerin eğitimi' çalıştaylarını kolaylaştırmak için kullanabilir. Katılımcılar, kendi seçtikleri konu(lar) üzerine -daha sonraki bir aşamada kendilerinin verecekleri- bir eğitim için kullanılabilir bir çerçeve tasarlarlar. Kart oyunu, katılımcıların hedef kitle türünü, büyüklüğünü, eğitim türünü ve hedef kitle bilgi düzeyini önceden seçme olanağı verir. Ayrıca, iki 'öngörülemeyen' durum eklenebilir: katılımcı modu ve 'aksilik' In addition, two ‘unforeseen’ circumstances can be added: audience mood, and ‘trouble’ (eyvah!). Bir eğitim için kullanılabilir bir tasarımla eve gitmenin yanı sıra, bu çalıştayın katılımcıları, diğer katılımcıların girdi ve deneyimlerinden de faydalanacaktır.  
 
 * Alıştıma tanımı
 
    * INSTRUCTIONS: 
-      * Have each group pick a card (blind) determining: audience type, audience size, audience knowledge level and training type. It is possible that the different cards turn out a training situation that is impossible or that is not in line with to the interests of the group. It can be useful to allow some flexibility and allow people to change cards or switch cards with another group. In most cases, there is an empty card or an ‘other’ card available as well, allowing people to modify the exercise according to their own needs. 
-      * Hand out the persona pages: every member of the group should create one persona according to the conditions laid out on the cards (no longer than 15 mins). 
-      * The group has 1,5 hour to prepare the training according to the conditions laid out by the cards, keeping in mind their target audience(s), with help of the persona pages created. 
-      * Have each group present their training (take note: they don’t have to give the actual training, they only have to describe what they will do!) . Ask the other groups to give feedback afterwards: Is the proposed training suitable for the conditions laid out by the cards? What would they do differently? Do they have any experiences that they can share?
-      * Extra challenge: How would each group deal with unexpected/unpredictable circumstances during the training? Right before their presentation, each group picks (blind) an 'audience mood' card and a 'trouble' card and gives them to the moderator, who will either during the presentation or afterwards discuss these cards with the entire group – allowing the audience to learn from the experience of their colleagues.
+      * Her grubun üzerinde katılımcı türü, katılımcı sayısı, katılımcı bilgi düzeyi ve eğitim türü bilgileri bulunan kartlarından birini (bakmadan) seçmesini sağlayın. Farklı kartların yapılması mümkün olmayan ya da grubun çıkarlarına uygun olmayan bir eğitim durumu ortaya çıkarması olasıdır. Biraz esnekliğe izin vermek ve katılımcıların kendi aralarında ya da diğer bir grupla kart değiştirmelerine müsaade etmek faydalı olabilir. Çoğu durumda, katılımcıların alıştırmayı kendi ihtiyaçlarına göre değiştirmelerine izin veren boş bir kart ya da mevcut bir başka 'kart' vardır.  
+      * Persona sayfalarını dağıtın: grubun her üyesi kartlarda belirtilen koşullara göre bir persona oluşturmalıdır (15 dakikadan fazla sürmemeli). 
+      * Grubun, oluşturulan persona sayfaları yardımıyla, hedef kitlesini/kitlelerini göz önünde bulundurarak kartlarda yazan koşullara göre eğitimi hazırlamak için 1,5 saati vardır.
+      * Her bir grubun eğitimlerini sunmasunu sağlayın (not: asıl eğitimi vermek zorunda değiller, sadece ne yapacaklarını açıklamaları gerekiyor!). Ardından diğer gruplardan geri bildirim vermelerini isteyin: Önerilen eğitim kartlarda yazan koşullara uygun mu? Neyi daha farklı yapabilirler? What would they do differently? Paylaşabilecekleri bir deneyimleri var mı?
+      * Ekstra zorlama: Gruplar, eğitim sırasında beklenmedik/öngörülemeyen durumlarla nasıl başa çıkacak? Sunumlarından hemen önce, her grup bir 'katılımcı modu' kartı ve bir 'aksilik' kartı seçer (bakmadan) ve bu kartları sunum sırasında veya sonrasında tüm grupla tartışacak olan moderatöre verir - izleyicilerin meslektaşlarının deneyimlerinden öğrenmelerine imkan verilir.
 
 * Gereken materyal ve araçlar
 
    * https://www.fosteropenscience.eu/node/2570
    
-   * You can download the files in pdf and png format via this public dropbox link: https://www.dropbox.com/sh/k314ebvqpb6mqq8/AAABEcJqYF_2PYJxqmYf3mmna?dl=0&fbclid=IwAR0DBmnArU8raKlaoJa7RKPEGRNEv2y74PQRR2Ft_y4Oy7DLfdawF_n5LbQ
+   * Dosyaları pdf ve png formatında [şu genel dropbox bağlantısından](https://www.dropbox.com/sh/k314ebvqpb6mqq8/AAABEcJqYF_2PYJxqmYf3mmna?dl=0&fbclid=IwAR0DBmnArU8raKlaoJa7RKPEGRNEv2y74PQRR2Ft_y4Oy7DLfdawF_n5LbQ) indirebilirsiniz.
 
 * Gerekli ön bilgi düzeyi
 
-   * Participants are expected to be knowledgeable about the topic(s) they will create the training about
+   * Katılımcıların eğitim oluşturacakları konu(lar) ile ilgili bilgi sahibi olması beklenir.
 
 * Akılda tutulması gerekenler
 
-   * Timekeeping is essential; limit the time people will work on persona's and training design. Clarify that the presentation should be a description of all the elements of the training they have designed, not actually giving the training. When evaluating with the group, make sure everybody gives input.
+   * Zaman tutma esastır; katılımcıların personalar ve eğitim tasarımı üzerinde çalışacakları zamanı sınırlayın. Sunumun, aslında eğitimi vermek için değil, tasarlanan eğitimin tüm unsurlarının bir açıklaması olması gerektiğini netleştirin. Grupla değerlendirme yaparken herkesin girdi sağladığından emin olun.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-   * In principle, all parameters can be adapted and changed to suit a specific training, by creating new cards, new categories, or by removing existing ones. 
+   * Prensipte, yeni kartlar, yeni kategoriler oluşturularak veya mevcut olanlar kaldırılarak tüm parametreler belirli bir eğitim için uygun olacak şekilde uyarlanabilir ve değiştirilebilir.
    
 * Lisanslama koşulları
 
-   * CC BY-SA 4.0. Creator: [Gwen Franck](gwenfranckgcv@gmail.com)
+   * CC BY-SA 4.0. Oluşturan: [Gwen Franck](gwenfranckgcv@gmail.com)
   
    
 ### Kaynaklar
 
-#### What tools & platforms to use / recommend?
+#### Hangi araçları ve platformları kullanmalı/önermeli?
 
-There are many tools and platforms that support Open Science practices (see figure below for a selection). Which tools and platforms to use (or advise) depends on many factors, for example: whether the tool is available (either free of at low cost or licensed to your institution), whether it works in your browser or for your operating system, whether it is available in your language, and whether it meets your security and privacy requirements. In addition to these more technical criteria, consider whether a tool fits with the way you work. Does it work well with other tools and platforms that you use? Do the people you collaborate with use the same tool for the same practice, or at least one that is compatible with the one you use? Also consider the learning curve: do you need to invest a lot of time into learning the new tool, and if so, is that worth it for you? Do you have support (either in real life or online) that can help you learn to use the tool? 
+Açık Bilim uygulamalarını destekleyen birçok araç ve platform vardır (seçim yapmak için aşağıdaki şekle bakın). Hangi araçların ve platformların kullanılacağı (veya önerileceği) birçok faktöre bağlıdır, örneğin: aracın mevcut olup olmadığı (ücretsiz veya kurumunuza lisanslı mı), tarayıcınızda veya kullandığınız işletim sistemi üzerinde çalışıp çalışmadığı, dilinizde mevcut olmadığı ve güvenlik ve gizlilik gereksinimlerinizi karşılayıp karşılamadığı. Bu daha teknik kriterlere ek olarak, bir aracın çalışma şeklinize uyup uymadığını da göz önünde bulundurun. Kullandığınız diğer araçlar ve platformlarla uyumlu çalışıyor mu? İşbirliği yaptığınız kişiler, aynı uygulama için aynı aracı mı yoksa en azından sizin kullandığınız araçla uyumlu olan bir aracı mı kullanıyor? Ayrıca öğrenme eğrisini de göz önünde bulundurun: yeni aracı öğrenmek için çok zaman harcamanız gerekiyor mu ve eğer öyleyse, buna değer mi? Aracı (gerçek hayatta veya çevrimiçi olarak) kullanmayı öğrenmenize yardımcı olabilecek desteğiniz var mı?  
 
-Perhaps the best advice is to first consider what it is you would like to do: what is the open science practice you’d like to implement? Then explore which tools/platforms are available, which ones the people in your community use, and why (ask around!). Then make your own decision. Don’t be afraid to experiment and try out something new! 
+Belki de en iyi tavsiye, önce ne yapmak istediğinizi düşünmenizdir: gerçekleştirmek istediğiniz açık bilim uygulaması nedir? Ardından, hangi araçların/platformların mevcut olduğunu, topluluğunuzdaki kişilerin hangilerini kullandığını ve nedenini keşfedin (etrafa sorun!). Sonra kendi kararınızı verin. Keşfetmekten ve yeni bir şeyler denemekten korkmayın!
 
-A final remark: many tools and platforms support open science practices without themselves being fully open. For example, many commonly used tools are not open source, even though they provide access to content (publications, data) that are open. You will have to follow your own judgement as to whether you will consider such tools and platforms or not. Another consideration is whether you can export all your data when you’d want to switch to another tool, or whether they are locked in? And do you know what will happen to your data when the platform closes down or is sold to a(nother) company? 
+Son bir not: birçok araç ve platform, kendileri tamamen açık olmadan açık bilim uygulamalarını destekler. Örneğin, yaygın olarak kullanılan birçok araç, açık olan içeriğe (yayınlar, veriler) erişim sağlasalar da açık kaynak değildir. Bu tür araçları ve platformları dikkate alıp almayacağınız konusunda kendi kararınızı vermeniz gerekecektir. Diğer bir husus, başka bir araca geçmek istediğinizde tüm verilerinizi dışa aktarıp aktaramayacağınız veya bunların kilitli kalıp kalmayacağıdır. Ve platform kapandığında veya başka bir şirkete satıldığında verilerinize ne olacağını biliyor musunuz?
 
-Some resources listing research tools and platforms:
+Araştırma araçlarını ve platformlarını listeleyen bazı kaynaklar:
 
-* [Connected Researchers](http://connectedresearchers.com/online-tools-for-researchers/) (all disciplines)
+* [Connected Researchers](http://connectedresearchers.com/online-tools-for-researchers/) (tüm disiplinler)
 
-* [DIRT Directory](http://dirtdirectory.org/) (Humanities)
+* [DIRT Directory](http://dirtdirectory.org/) (Beşeri Bilimler)
 
-* [ResearchStash](https://www.researchstash.com/) (Science, Technology and Medicine)
+* [ResearchStash](https://www.researchstash.com/) (Bilim, Teknoloji ve Tıp)
 
-* [400+ Tools and innovations in scholarly communication](http://bit.ly/innoscholcomm-list) (all disciplines)
+* [400+ Tools and innovations in scholarly communication](http://bit.ly/innoscholcomm-list) (tüm disiplinler)
 
-* [Tool combinations](https://tinyurl.com/toolcombinations-cb) (which tools are commonly used together) [colour-blind safe]
+* [Tool combinations](https://tinyurl.com/toolcombinations-cb) (hangi araçların yaygın olarak birlikte kullanıldığı) [renk körü dostu]
 
 ![image alt text](/Images/image_16.png)
-Figure x - Rainbow of open science practices (available on Zenodo in different formats, including as editable slide:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
+Figure x - Rainbow of open science practices (düzenlenebilir slaytlar da dahil olmak üzere Zenodo üzerinde farklı formatlarda mevcut:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
 
 #### Diğer kaynaklar
 
@@ -1545,19 +1545,19 @@ Figure x - Rainbow of open science practices (available on Zenodo in different f
 
 * Digital Curation Centre. Because good research needs good data. [dcc.ac.uk](http://www.dcc.ac.uk)
 
-* Fernandes and Rutger (2017). Open Science, Open Data, Open Source. 21st century skills for the life sciences. [osodos.org](http://osodos.org)
+* Fernandes ve Rutger (2017). Open Science, Open Data, Open Source. 21st century skills for the life sciences. [osodos.org](http://osodos.org)
 
-* Forschung und Daten managen (German information website about research data management).[forschungsdaten.info](https://www.forschungsdaten.info/)
+* Forschung und Daten managen (Araştırma verilerinin yönetimi ile ilgili bilgi veren Almanca web sitesi).[forschungsdaten.info](https://www.forschungsdaten.info/)
 
 * MANTRA - Research Management Training. [mantra.edina.ac.uk](https://mantra.edina.ac.uk/)
 
-* Materials for ELIXIR-EXCELERATE Train The Trainer workshops and courses. [github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT) (*comment by authors: A complete repository of materials and methods, selected for training instructors, only a small part is specific to Bioinformatics*) 
+* Materials for ELIXIR-EXCELERATE Train The Trainer workshops and courses. [github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT) (*yazarın notu: Yalnızca küçük bir kısmı biyoinformatik alanına özel, eğitmenler için seçilmiş eksiksiz bir materyal ve yöntem deposudurs*) 
 
 * Open Science MOOC. [opensciencemooc.eu](https://opensciencemooc.eu/open-science-resources/)
 
 * Open Science Training Initiative. Graduate Training in Open Science. [opensciencetraining.com](http://www.opensciencetraining.com/)
 
-* Research Data E-Learning Platform. (German and French) [researchdatamanagement.ch](http://www.researchdatamanagement.ch/)
+* Research Data E-Learning Platform. (Almanca ve Fransızca) [researchdatamanagement.ch](http://www.researchdatamanagement.ch/)
 
 * Research Data Management Educational Efforts. [docs.google.com](https://docs.google.com/spreadsheets/d/10RTW-nZk0x_mpQw2VAlttcc656MV9EeCaDe2lM4umb4/edit#gid=0)
 
@@ -1565,22 +1565,23 @@ Figure x - Rainbow of open science practices (available on Zenodo in different f
 
 * Sewell (2017). Research Data Management: Activity Cards. [doi.org/10.17863/CAM.10074](https://doi.org/10.17863/CAM.10074).
 
-* Tips on how to build and publish a versionised e-book are given in the github repository [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Also  available in GitHub Pages as a website [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub and Mobi versions were made available by [Unglue.it](https://unglue.it/work/229980/)
+* Sürümlendirilmiş bir e-kitabın nasıl oluşturulacağı ve yayınlanacağı ile ilgili ipuçları şu github deposunda verilmiştir: [github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - GitHub Pages'da web sitesi olarak da mevcuttur: [pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub ve Mobi versiyonları [Unglue.it](https://unglue.it/work/229980/) ile kullanıma sunulmuştur.
 
 
 ---------------------------------------------------------------------------------------------------------------
 
-#### Longlist of exercises - selection to be put in template format
+#### Alıştırmaların uzun listesi - şablon seçimi
 
-Awaiting some formatting to comply with the template
+Şablona uyması için bazı biçimlendirmeler bekleniyor
 
-PF - 1  Mind and Concept Maps
+PF - 1 Zihin ve Kavram Haritaları
 
-The conceptualisation of higher complexity subject matter can benefit a lot from visualizing recently acquired knowledge or skills. A great deal of enthusiasm can be raised when simple open source tools are used, individual and collectively. The general name for this set of  techniques is idea and concept mapping. A relatively simple software like [X-Mind](http://www.xmind.net/) is a good basis to start with. ![image alt text](/Images/image_17.png)
+Daha karmaşık konuların kavramsallaştırılması için yakın zamanda edinilen bilgi veya becerilerin görselleştirilmesi çok işe yarayabilir. Basit açık kaynak araçları tek tek ve toplu olarak kullanıldığında büyük bir istek/heves oluşabilir. Bu teknikler dizisinin genel adı bir zihin ve kavram haritasıdır. A relatively simple software like [X-Mind](http://www.xmind.net/) gibi nispeten basit bir yazılım iyi bir başlangıç olabilir. 
 
-Figure X An example of an idea map to represent content in a training course
+![image alt text](/Images/image_17.png)
 
-Note: we might replace this by one made for Open Science or a related subject
+Figure X Bir eğitimdeki içeriği temsil eden bir zihin haritası örneği
 
-Learner engagement raises sharply as learners understand the power of visualising ideas, connecting them in diagrams, comparing diagrams between learners in the same group, comparing different groups, comparing learners with instructor maps, etc.
+Not: bunu açık bilim veya ilgili bir konu için yapılmış olanla değiştirebiliriz
 
+Katılımcılar fikirleri görselleştirmenin, onları diyagramlarda birleştirmenin, aynı gruptaki katılımcılar arasında diyagramları karşılaştırmanın, farklı gruplardakileri karşılaştırmanın, katılımcı haritalarını eğitmen haritalarıyla karşılaştırmanın vb. gücünü anladıkça, etkileşim belirgin bir şekilde artar.
