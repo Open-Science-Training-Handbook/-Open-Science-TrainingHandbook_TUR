@@ -891,49 +891,49 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Learn how to use common tools and services for sharing research codes openly.
+    * Araştırma kodlarını açık oılarak paylaşmak için yaygın kullanılan araç ve servislerin nasıl kullanıldığını öğrenmek.
 
-    * Be able to choose the appropriate license for their software, and understand the difference between permissive and non-permissive licenses
+    * Yazılım için uygun lisansı seçebilmek ve yeniden kullanım izni veren ve vermeyen (permissive - nonpermissive) lisanslar arasındaki farkı anlayabilmek.
 
 * Alıştırma tanımı
 
-    * This exercise is meant for any researchers that will use software/code for their research, whether they perform purely computational or experimental work (the latter use software for analysis, etc.). 
+    * Bu alıştırma, tamamen hesaplamalı ya da deneysel (analiz vb. için yazılım kullanır) çalışmalar gerçekleştirmesi farketmeksizin, araştırmalarında yazılım/kod kullanacak tüm araştırmacılar içindir.
 
-    * First, have everyone sign up for a free [GitHub account](https://github.com/) if they do not already have one. This free account will be sufficient for working with exclusively open/public code, although you may let them know that students, educators, and researchers can [request a waiver for a free professional account](https://education.github.com/).
+    * Öncelikle, halihazırda yoksa herkesin ücretsiz bir [GitHub hesabı](https://github.com/) almasını sağlayın. Bu ücretsiz hesap, sadece açık/genel kodla çalışmak için yeterli olacaktır, ancak öğrencilerin, eğitimcilerin ve araştırmacıların [ücretsiz bir profesyonel hesap için ödeme muafiyeti talebinde bulanabilecekleri](https://education.github.com/) konusunda katılımcıları bilgilendirebilirsiniz.
 
-    * In addition, have participants register for a [Zenodo account](https://zenodo.org/), and link this to their GitHub account.
+    * Ayrıca, katılımcıların [Zenodo hesabı](https://zenodo.org/) almalarını ve bunu Github hesaplarına bağlamalarını sağlayın.
 
-    * Next, have everyone create a new public repository, choosing an appropriate license based on the desired permissions (choosealicense.org can be helpful here). On Zenodo, enable the [GitHub–Zenodo integration](https://guides.github.com/activities/citable-code/) for this repository.
+    * Sonrasında, tüm katılımcıların istenen izinlere göre uygun bir lisans seçerek (burada choosealicense.org yardımcı olabilir) herkese açık bir depo oluşturmalarını sağlayın. Zenodo'da, bu depo için [GitHub–Zenodo entegrasyonunu](https://guides.github.com/activities/citable-code/) açın.
 
-    * Have participants add their source file(s) to the repository, and add some description of the program/script to the README file. Once these files are added, choose a version number and [create a release](https://help.github.com/articles/creating-releases/) of the software.
+    * Katılımcılar kaynak dosyasını/dosyalarını depoya ve programın/komut dosyasının bir açıklamasını da BENİOKU dosyasına eklesin. Bu dosyalar eklendiğinde, bir sürüm numarası seçin ve yazılımın [bir sürümünü oluşturun](https://help.github.com/articles/creating-releases/).
 
-    * Head to Zenodo, and obtain the DOI that has been generated for your software. 
+    * Zenodo'ya gidin ve yazılımınız için oluşturulmuş DOI'yi alın. 
 
-    * Congratulations, your software is now citeable! You can add a section to the README file with the DOI and suggested citation, or even add the DOI badge that Zenodo provides.
+    * Tebrikler, yazılımınız şu an atıf yapılabilir durumda! BENİOKU dosyasına DOI ve önerilen atıf yapma biçiminin olduğu bir bölüm, ve hatta Zenodo'nun sağladığı  DOI rozetini (badge) ekleyebilirsiniz.
 
 * Gereken materyal ve araçlar
 
-    * Individuals need to have a computer with internet connection.
+    * Her bir kişi için internet erişimi olan bir bilgisayar gerekmektedir.
 
-    * Participants should have some code, script, or program ready—even if it is "messy"—that they will publicly share.
+    * Katılımcılar, "dağınık yapıda" bile olsa, herkese açık paylaşacakları bir kod, komut dosyası ya da programı hazır etmelidir.
 
 * Gerekli ön bilgi düzeyi
 
-    * None
+    * Yok
 
 * Akılda tutulması gerekenler
 
-    * None
+    * Yok
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * Not applicable
+    * Uygulanabilir değil
 
 ##### **Örnek 14: Tekrarlanabilir veri analizi iş akışı oluşturmak**
 
 * Format, gereken zaman
 
-    * Individually and as a group, 4–8 hours (example [here](http://reproducible-analysis-workshop.readthedocs.io))
+    * Bireysel ya da çiftler halinde, 4–8 saat (örneği [burada](http://reproducible-analysis-workshop.readthedocs.io))
 
 * Konu
 
@@ -941,35 +941,35 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri 
 
-    * Use a (small) computational task relevant to your discipline/background, and establish it as an open and reproducible workflow.
+    * Disiplininize/arka plan bilginize dayalı olarak (küçük) bir hesaplamalı görev bulmak ve bu görev için açık ve tekrarlanabilir bir iş akışı oluşturmak.
 
-    * Understand the key concepts, tools and services that are useful in the context of reproducibility.
+    * Tekrarlanabilirlik bağlamında faydalı olan temel kavramları, araçları ve hizmetleri anlamak.
 
 * Alıştırma tanımı
 
-    * Each participant selects a dataset and corresponding data analysis process that is relevant to their field. Both dataset and the analysis process should be short enough that it concludes within a few minutes. Moreover, for the purposes of this exercise, the programming language should be Python or R, but other languages can be accommodated with slight changes in the underlying tools.
+    * Her bir katılımcı alanlarıyla ilişkili bir veri seti ve bununla uyumlu veri analiz sürecini seçer. Veri seti ve analiz süreci birkaç dakikadada tamamlanacak kadar kısa olmalıdır. Ayrıca, alıştırma amaçları için programlama dili Python ya da R olmalıdır, ancak diğer diller de kullanılan araçlarda küçük değişiklikler yapılarak uygun hale getirilebilir.
 
-    * The participant initially runs the process in the traditional form, and then asks one of the other participants to re-run it with no external help. Identify both the time required for another person to run this, as well as the obstacles encountered.
+    * Katılımcı öncelikle süreci geleneksel formda gerçekleştirir, sonrasında bir diğer katılımcıdan süreci dışarıdan yardım olmadan yeniden gerçekleştirmesini ister.  Hem diğer kişinin süreci gerçekleştirmesi için gereken zamanı hem de karşılaşılan engelleri belirleyin.
 
-    * Apply the same process using the Jupyter / Git / MyBinder approach; write the process as a Jupyter notebook, upload dataset and notebook to a repository on GitHub, and then connect the repository to mybinder. After than, ask again the same person to re-run this. Identify the change in time and accessibility.
+    * Aynı süreci Jupyter / Git / MyBinder yaklaşımı kullanarak uygulayıp; süreci bir Jupyter not defteri olarak kaydedin, veri setini not defterini GitHun üzerindeki bir depoya yükleyin ve sonrasında depoyu MyBinder'a bağlayın. Bundan sonra, aynı kişiden süreci tekrarlamasını isteyin. Sürede ve erişilebilirlikteki değişimi saptayın.
 
 * Gereken materyal ve araçlar
 
-    * Jupyter and Git are necessary (including an account on GitHub). Depending on the language, additional Jupyter kernels might need to be installed. Finally, the trainer can decide on whether to provide a common example for all participants to use, or ask the participants to bring their own. The difference lies to the amount of time required for preparation, as well as on the uniformity of the participants’ background.
+    * Jupyter ve Git gereklidir (bir GitHub hesabı da dahil olmak üzere). Dile bağlı olarak, ek Jupyter çekirdeklerinin (kernels) yüklenmesi gerekebilir. Son olarak, eğitimci tüm katılımcıların kullanacağı ortak bir örnek  mi sağlayacağına, yoksa katılımcılardan kendi örneklerini getirmelerini mi isteyeceğine karar verebilir. Aradaki fark hazırlık için gereken zamanın yanı sıra katılımcıların arka plan bilgilerinin benzerliğine bağlıdır.
 
 * Gerekli ön bilgi düzeyi
 
-    * The workshop can be performed to different levels of expected prior knowledge, adapting for time. For example, a short basic introduction to Git can be included, but in all cases, the participants should be aware of the computational requirements of their own analysis.
+    * Çalıştay, zamana göre uyarlanarak farklı ön bilgi düzeyi beklentilerine göre gerçekleştirilebilir. Örneğin, Git'e kısa bir temel giriş dahil edilebilir, fakat her durumda, katılımcılar kendi analizleri için hesaplama gereksinmlerinin farkında olmalıdır.
 
 * Akılda tutulması gerekenler
 
-    * The overall concept is straightforward, but has an initial learning curve of the individual components. Therefore you may consider spending some extra time in the beginning discussing each tool, before connecting them all together.
+    * Genel konsepy basittir, ancak bireysel bileşenlerin bir başlangıç öğrenme eğrisi vardır. Bu nedenle, en başta tüm araçları birbiriyke ilişkilendirmeden her bir araç üzerine konuşmak için biraz fazla zaman ayırmayı düşünebilirsiniz.
 
-    * You should consider giving the participants a detailed explanation of the installation process (e.g., for Jupyter and Git), before the workshop, in order to minimize potential technical issues.
+    * Potansiyel teknik sorunları en aza indirmek için çalıştaydan önce katılımcılara yükleme sürecinin (örneğin, Jupyter ve Git için) ayrıntılı bir açıklamasını vermeyi düşünebilirsiniz.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * The workshop can be extended to introduce additional concepts of Open Science, such as Persistent Identifiers for software (such as assigning a DOI from Zenodo to the Git repo), as well as integrating all of the aspects under a common platform (such as the OSF).
+    * Çalıştay, yazılım için Kalıcı Tanımlayıcıların (Zenoda'dan Git deposuna bir DOI atamak gibi) yanı sıra tüm safhaları ortak bir platformda (OSF gibi) entegre etmek gibi açık bilime dair ek kavramları içerecek şekilde genişletilebilir.
 
 ##### **Örnek 15: Depo için doğru sürümü seçmek**
 
@@ -983,37 +983,35 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Being able to decide which is the version allowed to be deposit in a repository and state its copyright regime
+    * Bir depoya yüklenmesine izin verilen versiyonun hangisi olduğuna karar vermek ve telif hakkı düzenini/sistemini belirtmek.
 
 * Alıştırma tanımı
 
-    * This exercise could be addressed to repository managers. Choose five different publications and ask participants to select which is the version that could be allowed in a repository and which would be the copyright notice they would include: who is the copyright holder and which copyright regime would hold: all rights reserved, a license, public domain. Discuss with them their results and show them the key elements that define the solutions.
+    * Bu alıştırma, depo yöneticilerine yönelik olabilir. Beş farklı yayın seçin ve katılımcılardan bir depoda izin verilebilecek sürümü ve telif hakkı bildirimini seçmelerini isteyin: telif hakkı sahibi kim ve hangi telif hakkı düzeni/sistemi geçerli olacak - tüm hakları saklıdır, bir lisans, kamu malı. Katılımcılarla sonuçlarını tartışın ve onlara çözüme ulaşmak için temel unsurları gösterin.
 
 * Gereken materyal ve araçlar
 
-    * The exercise can be performed with a piece of paper (or prepared form) and a pen
+    * Alıştırma bir parça kağıt (ya da hazırlanmış bir form) ve kalem ile gerçekleştirileblir.
 
-    * Individuals/pairs need to have an internet connection to access the papers and check policies. You may provide physical copies of the articles, too.
+    * Bireylerin/çiftlerin yayınlara ulaşmak ve politikaları kontrol etmek için internet bağlantısı olması gerekir. Yayınların basılı kopyası da sağlanabilir.
 
 * Gerekli ön bilgi düzeyi
 
-    * Basic copyright notions
+    * Temel telif hakkı kavramları.
 
-    * Knowledge on the different versions of a research paper
+    * Bir araştırma makalesinin farklı sürümleri hakkında bilgi.
 
 * Akılda tutulması gerekenler
 
-    * The exercise can be translated to an online version if you prepare a set of polls.
+    * Bir dizi soru hazırlarsanız, alıştırma çevrimiçi bir forma da çevrilebilir.
 
-    * Use a range of publications including for instance papers published under hybrid models in order to show participants that is not enough to look up at sites with default self archiving policies.
+    * Katılımcıların, varsayılan kendi kendine arşivleme politikaları olan sitelere bakmaları yeterli olmayacağı için, örneğin hibrit modelle yayımlananlar da dahil olmak üzere katılımcılara göstermek üzere bir dizi yayın kullanın.
 
-    * The number of cases will determine the time of the exercise.
+    * Örnek sayısı alıştırmanın süresini belirleyecektir.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * Can be adapted to training sessions with researchers using their own papers.
-
-
+    * Araştırmacıların kendi yayınlarını kullandıkları eğitim oturumlarına uyarlanabilir.
 
 ##### **Örnek 16: Açık dosya formatları**
 
@@ -1027,27 +1025,27 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Becoming aware of file formats used daily and their openness
+    * Günlük olarak kullanılan dosya formatlarının ve bunların açıklıklarının farkında olmak.
 
 * Alıştırma tanımı
 
-    * Let the participants write down on post-its all the file formats they use in their daily work. Then get the post-its and stick them to the whiteboard or flipchart. Try to cluster them as best as you can into categories or groups (text, tabular, statistical, video, image, etc.). Then discuss the results with the audience. Talk about the openness of these file formats and possible alternatives.
+    * Katılımcıların post-itlere günlük çalışmaları esnasında kullandıkları tüm dosya formatlarını yazmaları isteyin. Sonrasında post-itleri alın ve tahtaya ya da panoya yapıştırın. Yapabileceğiniz en iyi şekilde kategorilere veya gruplara (metin, tablo, istatistik, video, resim vb.) ayırmaya çalışın. Son olarak, sonuçları katılımcılarla tartışın. Bu dosya formatlarının açıklığı ve olası alternatifleri üzerine konuşun.
 
 * Gereken materyal ve araçlar
 
-    * A few stacks of post-its, pen and a whiteboard or flipchart
+    * Birkaç deste post-it, kalem ve beyaz tahta ya da kağıt panosu.
 
 * Gerekli ön bilgi düzeyi
 
-    * No prior knowledge needed
+    *Ön bilgi gerekmiyor.
 
 * Akılda tutulması gerekenler
 
-    * Prepare for "exotic" file formats that are subject-specific or machine-dependent or let the participants describe them.
+    * Konuya özel ya da bilgisayar türüne bağımlı "egzotik" dosya formatlarıiçin hazırlanın ve katılımcıların bunları tanımlamasına izin verin.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * You can also use web tools like [PINGO](http://trypingo.com) for the collection of file formats or let them write down their file formats on a piece of paper and collect those, if you don’t want to use post-its
+    * Post-it kullanmak istemiyorsanız, dosya formatlarını toplamak ya da katılımcıların kendi dosya formatlarını yazamalarını sağlamak için [PINGO](http://trypingo.com) gibi web araçları da kullanabilirsiniz.
 
 ##### **Örnek 17: Creative Commons lisans eşleştirmesi**
 
@@ -1315,7 +1313,7 @@ Katılımcı platformlar</td>
 
 * Format, gereken zaman
 
-    * Küçük gruplars, 30 dakika
+    * Küçük gruplar, 30 dakika
 
 * Konu
 
