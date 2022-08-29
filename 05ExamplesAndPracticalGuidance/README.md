@@ -823,7 +823,7 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-    * Bu alıştırma eğitimin sonunda kullanılmalıdır. Katılımcıların veri yayınlamak için isimlendirmeleri gereken öğeleri (örneğin, araştırma verileri (dosyalar), üst veriler, anahtar sözcükler, dokümantasyon, lisans, ORCDI, depo, iyi başlık verme, kaynaklar, veri atıfı, zaman ve cesaret!) öğrendikleri "Bavulumu topluyorum" oyununu oynamalarını sağlayın. imkan verin.
+    * Bu alıştırma eğitimin sonunda kullanılmalıdır. Katılımcıların veri yayınlamak için isimlendirmeleri gereken öğeleri (örneğin, araştırma verileri (dosyalar), üst veriler, anahtar sözcükler, dokümantasyon, lisans, ORCID, depo, iyi başlık verme, kaynaklar, veri atıfı, zaman ve cesaret!) öğrendikleri "bavulumu topluyorum" oyununu oynamalarını sağlayın.
 
 * Gereken materyal ve araçlar
 
@@ -891,7 +891,7 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Araştırma kodlarını açık oılarak paylaşmak için yaygın kullanılan araç ve servislerin nasıl kullanıldığını öğrenmek.
+    * Araştırma kodlarını açık olarak paylaşmak için yaygın kullanılan araç ve servislerin nasıl kullanıldığını öğrenmek.
 
     * Yazılım için uygun lisansı seçebilmek ve yeniden kullanım izni veren ve vermeyen (permissive - nonpermissive) lisanslar arasındaki farkı anlayabilmek.
 
@@ -947,11 +947,11 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-    * Her bir katılımcı alanlarıyla ilişkili bir veri seti ve bununla uyumlu veri analiz sürecini seçer. Veri seti ve analiz süreci birkaç dakikadada tamamlanacak kadar kısa olmalıdır. Ayrıca, alıştırma amaçları için programlama dili Python ya da R olmalıdır, ancak diğer diller de kullanılan araçlarda küçük değişiklikler yapılarak uygun hale getirilebilir.
+    * Her bir katılımcı alanıyla ilişkili bir veri seti ve bununla uyumlu veri analiz sürecini seçer. Veri seti ve analiz süreci birkaç dakikadada tamamlanacak kadar kısa olmalıdır. Ayrıca, alıştırma amaçları için programlama dili Python ya da R olmalıdır, ancak diğer diller de kullanılan araçlarda küçük değişiklikler yapılarak uygun hale getirilebilir.
 
     * Katılımcı öncelikle süreci geleneksel formda gerçekleştirir, sonrasında bir diğer katılımcıdan süreci dışarıdan yardım olmadan yeniden gerçekleştirmesini ister.  Hem diğer kişinin süreci gerçekleştirmesi için gereken zamanı hem de karşılaşılan engelleri belirleyin.
 
-    * Aynı süreci Jupyter / Git / MyBinder yaklaşımı kullanarak uygulayıp; süreci bir Jupyter not defteri olarak kaydedin, veri setini not defterini GitHun üzerindeki bir depoya yükleyin ve sonrasında depoyu MyBinder'a bağlayın. Bundan sonra, aynı kişiden süreci tekrarlamasını isteyin. Sürede ve erişilebilirlikteki değişimi saptayın.
+    * Aynı süreci Jupyter / Git / MyBinder yaklaşımı kullanarak uygulayıp; süreci bir Jupyter not defteri olarak kaydedin, veri setini ve not defterini GitHub üzerindeki bir depoya yükleyin ve sonrasında depoyu MyBinder'a bağlayın. Bundan sonra, aynı kişiden süreci tekrarlamasını isteyin. Sürede ve erişilebilirlikteki değişimi saptayın.
 
 * Gereken materyal ve araçlar
 
@@ -959,11 +959,11 @@ Katılımcı platformlar</td>
 
 * Gerekli ön bilgi düzeyi
 
-    * Çalıştay, zamana göre uyarlanarak farklı ön bilgi düzeyi beklentilerine göre gerçekleştirilebilir. Örneğin, Git'e kısa bir temel giriş dahil edilebilir, fakat her durumda, katılımcılar kendi analizleri için hesaplama gereksinmlerinin farkında olmalıdır.
+    * Çalıştay, zamana göre uyarlanarak farklı ön bilgi düzeyi beklentilerine göre gerçekleştirilebilir. Örneğin, Git'e kısa bir temel giriş dahil edilebilir, fakat her durumda, katılımcılar kendi analizleri için hesaplama gereksinimlerinin farkında olmalıdır.
 
 * Akılda tutulması gerekenler
 
-    * Genel konsepy basittir, ancak bireysel bileşenlerin bir başlangıç öğrenme eğrisi vardır. Bu nedenle, en başta tüm araçları birbiriyke ilişkilendirmeden her bir araç üzerine konuşmak için biraz fazla zaman ayırmayı düşünebilirsiniz.
+    * Genel konsept basittir, ancak bireysel bileşenlerin bir başlangıç öğrenme eğrisi vardır. Bu nedenle, en başta tüm araçları birbiriyle ilişkilendirmeden her bir araç üzerine konuşmak için biraz fazla zaman ayırmayı düşünebilirsiniz.
 
     * Potansiyel teknik sorunları en aza indirmek için çalıştaydan önce katılımcılara yükleme sürecinin (örneğin, Jupyter ve Git için) ayrıntılı bir açıklamasını vermeyi düşünebilirsiniz.
 
@@ -991,7 +991,7 @@ Katılımcı platformlar</td>
 
 * Gereken materyal ve araçlar
 
-    * Alıştırma bir parça kağıt (ya da hazırlanmış bir form) ve kalem ile gerçekleştirileblir.
+    * Alıştırma bir parça kağıt (ya da hazırlanmış bir form) ve kalem ile gerçekleştirilebilir.
 
     * Bireylerin/çiftlerin yayınlara ulaşmak ve politikaları kontrol etmek için internet bağlantısı olması gerekir. Yayınların basılı kopyası da sağlanabilir.
 
@@ -1029,7 +1029,7 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-    * Katılımcıların post-itlere günlük çalışmaları esnasında kullandıkları tüm dosya formatlarını yazmaları isteyin. Sonrasında post-itleri alın ve tahtaya ya da panoya yapıştırın. Yapabileceğiniz en iyi şekilde kategorilere veya gruplara (metin, tablo, istatistik, video, resim vb.) ayırmaya çalışın. Son olarak, sonuçları katılımcılarla tartışın. Bu dosya formatlarının açıklığı ve olası alternatifleri üzerine konuşun.
+    * Katılımcıların post-itlere günlük çalışmaları esnasında kullandıkları tüm dosya formatlarını yazmalarını isteyin. Sonrasında post-itleri alın ve tahtaya ya da panoya yapıştırın. Yapabileceğiniz en iyi şekilde kategorilere veya gruplara (metin, tablo, istatistik, video, resim vb.) ayırmaya çalışın. Son olarak, sonuçları katılımcılarla tartışın. Bu dosya formatlarının açıklığı ve olası alternatifleri üzerine konuşun.
 
 * Gereken materyal ve araçlar
 
@@ -1037,15 +1037,15 @@ Katılımcı platformlar</td>
 
 * Gerekli ön bilgi düzeyi
 
-    *Ön bilgi gerekmiyor.
+    * Ön bilgi gerekmiyor.
 
 * Akılda tutulması gerekenler
 
-    * Konuya özel ya da bilgisayar türüne bağımlı "egzotik" dosya formatlarıiçin hazırlanın ve katılımcıların bunları tanımlamasına izin verin.
+    * Konuya özel ya da bilgisayar türüne bağımlı "egzotik" dosya formatları için hazırlanın ve katılımcıların bunları tanımlamasına izin verin.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * Post-it kullanmak istemiyorsanız, dosya formatlarını toplamak ya da katılımcıların kendi dosya formatlarını yazamalarını sağlamak için [PINGO](http://trypingo.com) gibi web araçları da kullanabilirsiniz.
+    * Post-it kullanmak istemiyorsanız, dosya formatlarını toplamak ya da katılımcıların kendi dosya formatlarını yazmalarını sağlamak için [PINGO](http://trypingo.com) gibi web araçları da kullanabilirsiniz.
 
 ##### **Örnek 17: Creative Commons lisans eşleştirmesi**
 
@@ -1071,7 +1071,7 @@ Katılımcı platformlar</td>
 
 * Gerekli ön bilgi düzeyi
 
-    * Katılımcıları tüm Creative Commons lisanslarını bilmeli ve/veya lisanslara bakabilecekleri bir doküman olmalıdır.
+    * Katılımcılar tüm Creative Commons lisanslarını bilmeli ve/veya lisanslara bakabilecekleri bir doküman olmalıdır.
 
 * Akılda tutulması gerekenler
 
@@ -1079,11 +1079,11 @@ Katılımcı platformlar</td>
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * Öncelikle çiftler oluşturun ve kombinasyonları çözmelerine izin verin, sonrasında çözümleri grupta tartışın.p
+    * Öncelikle çiftler oluşturun ve kombinasyonları çözmelerine izin verin, sonrasında çözümleri grupta tartışın.
 
     * Diğer lisansları kullanın.
 
-##### **Örnek 18: OER Remiksi**
+##### **Örnek 18: OER Remiks**
 
 * Format, gereken zaman 
 
@@ -1105,9 +1105,9 @@ Katılımcı platformlar</td>
 
     * [Çevrimiçi](http://www.opencontent.org/game/) ve [basılı](http://www.opencontent.org/game/print/) birer versiyonu bulunmaktadır.
 
-    * Metin, resim, müzük ve video gibi bir içerik türünü temsil eden bir dizi kart vardır ve her kart, Creative Commons lisansları ve GNU Özgür Dokümantasyon Lisanslarını içeren, tüm hakları saklıdan kamu malına kadar uzanan bir telif hakkı işareti taşır. 
+    * Metin, resim, müzik ve video gibi bir içerik türünü temsil eden bir dizi kart vardır ve her kart, Creative Commons lisansları ve GNU Özgür Dokümantasyon Lisanslarını içeren, tüm hakları saklıdan kamu malına kadar uzanan bir telif hakkı işareti taşır. 
 
-    * Gruptaki bir kişi 12 kartı alır ve grubun geri kalanı kartları dört içerik türü ile (metin, resim, müzik ve video) bir materyal oluşturmak üzere birleştirir. Doğru kombinasyonu seçtiklerinde bu yeni çalışma için muhtemel lisasnın hangisi olduğuna da karar vermelidirler.
+    * Gruptaki bir kişi 12 kartı alır ve grubun geri kalanı kartları dört içerik türü ile (metin, resim, müzik ve video) bir materyal oluşturmak üzere birleştirir. Doğru kombinasyonu seçtiklerinde bu yeni çalışma için muhtemel lisansın hangisi olduğuna da karar vermelidirler.
 
 * Gereken materyal ve araçlar
 
@@ -1127,7 +1127,7 @@ Katılımcı platformlar</td>
 
     * Yazılım lisanslama gibi araştırma öğelerine uyarlayabilisiniz.
 
-    * Başka lisanslar kullanablir, yeni tür içerikler ekleyebilir ya da son ürünün hangi içerikte olması gerektiğini tanımlayablirsiniz.
+    * Başka lisanslar kullanabilir, yeni tür içerikler ekleyebilir ya da son ürünün hangi içerikte olması gerektiğini tanımlayablirsiniz.
 
 ##### **Örnek 19: Açık akran değerlendirmesi - katılımcılar birbirlerinin metinlerini açık olarak değerlendirir**
 
@@ -1163,7 +1163,7 @@ Katılımcı platformlar</td>
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * Bu örnek, sadece açık hakem değerlendirmesinden ziyade daha geniş odağı olan bir eğitim çalıştayında kullanıldığında, katılımcılardan önce başka açık bilim konuları hakkında metin yazmaları istenerek açık bilim konuları ile ilgili öğrenciklerini pekiştirmeleri sağlanabilir.
+    * Bu örnek, sadece açık hakem değerlendirmesinden ziyade daha geniş odağı olan bir eğitim çalıştayında kullanıldığında, katılımcılardan önce başka açık bilim konuları hakkında metin yazmaları istenerek açık bilim konuları ile ilgili öğrendiklerini pekiştirmeleri sağlanabilir.
 
     * Bu alıştırma, kalem ve kağıt yerine Google Dokümanlar, Authorea veya Overleaf/ShareLaTeX gibi katılımcı bir yazma aracı kullanılarak da yapılabilir. 
 
@@ -1171,7 +1171,7 @@ Katılımcı platformlar</td>
 
 * Format, gereken zaman
 
-    * Tüm grup, ~1.5 saat, tartışma ile
+    * Tüm grup, ~1,5 saat, tartışma ile
 
 * Konu
 
@@ -1187,15 +1187,15 @@ Katılımcı platformlar</td>
 
 * Alıştırma tanımı
 
-    * Uygulamya geçirildikleri bazı dergi/platform örnekleri de dahil olmak üzere hakem değerlendirmesinin farklı yönlerini tanıtın.
+    * Uygulamaya geçirildikleri bazı dergi/platform örnekleri de dahil olmak üzere hakem değerlendirmesinin farklı yönlerini tanıtın.
 
     * Katılımcılardan bireysel olarak açık hakem değerlendirmesinin, açık bilime en çok katkısı olduğunu düşündüklerini iki-üç yönünü belirtmelerini isteyin.
 
     * Katılımcıların büyük bir kağıt üzerine önceki adımda seçtikleri yönlerin her biri için bir madeni para koymalarını isteyin.
 
-    * Sonuçlara birlikte yapılır ve en çok seçilen yön belirlenir.
+    * Sonuçlara birlikte bakılır ve en çok seçilen yön belirlenir.
 
-    * Sonrasında, katılımcılar küçük gruplarda okuyucu, yazar ya da hakem rolünü alırlar (tümü her grupta olmalı) ve bu rol perspektifinden açık hakem değerlendirmesinin bir yönünü tartışırlar They then discuss one of the aspects of open peer review from the perspective of their taken roles. Faydaları ve potansiyel eksiklikleri nelerdir?
+    * Sonrasında, katılımcılar küçük gruplarda okuyucu, yazar ya da hakem rolünü alırlar (tümü her grupta olmalı) ve bu rol perspektifinden açık hakem değerlendirmesinin bir yönünü tartışırlar. Faydaları ve potansiyel eksiklikleri nelerdir?
 
     * Daha sonra küçük gruplar tüm gruba sunum yapar ve ek perspektifler/bakış açıları tartışılabilir. 
 
@@ -1215,7 +1215,7 @@ Katılımcı platformlar</td>
 
 * Akılda tutulması gerekenler
 
-    * Açık hakem değerlendirmesindeki gelişmelere aşina olmayan kişiler için nazı yönler daha fazla açıklama gerektirebilir—bunun için yeterli zaman planlaması yapın.
+    * Açık hakem değerlendirmesindeki gelişmelere aşina olmayan kişiler için bazı yönler daha fazla açıklama gerektirebilir—bunun için yeterli zaman planlaması yapın.
 
     * Tartışmalarda, katılımcıların kendi kişisel fikirlerini kendilerine atanan rolden ayırmaları zor olabilir. Katılımcılara rollerine bağlı kalmalarını gerektiğinde hatırlatın ve onları bu konuda teşvik edin.
 
@@ -1317,19 +1317,19 @@ Katılımcı platformlar</td>
 
 * Konu
 
-    * [Açık savunuculuk](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/07CollaborativePlatforms.md)
+    * [Açık savunuculuk](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
 
 * Öğrenme hedefleri
 
-    * Açık bilim uygulamalarına yönelik yaygın itirazlara karşı argümanlar geliştirin.
+    * Açık bilim uygulamalarına yönelik yaygın itirazlara karşı argümanlar geliştirmek.
 
-    * Açık bilimin değerini sorgulayan insanlarla tartışma pratiği yapın.
+    * Açık bilimin değerini sorgulayan insanlarla tartışma pratiği yapmak.
 
 * Alıştırma tanımı
 
     * Üç ya da dört kişilik küçük gruplarda, bir ya da iki kişinin açık bilim şüphecisi rolünü, diğerlerinin açık bilim savunucusu rolünü üstlenmesini sağlayın.
 
-    * "Açık bilim savunucularının", "açık bilim şüphecilerini" ikna etmeye çalışsınlar.
+    * "Açık bilim savunucuları", "açık bilim şüphecilerini" ikna etmeye çalışsınlar.
 
     * 10 dakika sonra, katılımcılar rolleri değişsin ve (aynı argümanları tekrarlamadan) başka bir tartışma yapsınlar.
     
@@ -1345,7 +1345,7 @@ Katılımcı platformlar</td>
 
 * Akılda tutulması gerekenler
 
-    * Açık bilim şüphecilerini mümkün olduğunca rollerine adapte olmaya teşvik edin Encourage the open science skeptics to get into their role as much as possible. Çoğu zaman, insanlar bu rolü üstlenmekten gerçekten zevk alır!
+    * Açık bilim şüphecilerini mümkün olduğunca rollerine adapte olmaya teşvik edin. Çoğu zaman, insanlar bu rolü üstlenmekten gerçekten zevk alır!
 
     * Herkese bu alıştırmayı her iki perspektiften de deneyimleme şansı vermek için rolleri değiştirdiğinizden emin olun.
 
@@ -1369,9 +1369,9 @@ Katılımcı platformlar</td>
 
    * Veriden yayına bir OSF işbirliği ortamı oluşturun.
    
-      * OSF projenizi GitHub'a bağlayın.Connect your OSF project to GitHub.
+      * OSF projenizi GitHub'a bağlayın.
 
-      * Projeye herhangi bir işlenmemiş (raw) kod, resim, veri, tablo yükleyin Upload any raw code, images, data, tables to project.
+      * Projeye herhangi bir işlenmemiş (raw) kod, resim, veri, tablo yükleyin.
 
       * Projeniz için bir DOI ve ARK tanımlayıcısı edinin.
 
@@ -1404,7 +1404,7 @@ Katılımcı platformlar</td>
    
 * Gereken materyal ve araçlar
 
-   * Oyun tahtası, kartlar, kitapçıklar, noktalar ve diğer nesneler indirilmeli, baskısı alınmalı ve kesilmelidir. Ayrıca, profesyonel olarak üretilmiş satın alınabilecek bir oyun hazırlamayı planlıyorlar. Materyallere şuradan erişilebilir: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
+   * Oyun tahtası, kartlar, kitapçıklar, noktalar ve diğer nesneler indirilmeli, baskısı alınmalı ve kesilmelidir. Ayrıca, profesyonel olarak üretilmiş satın alınabilecek bir oyun hazırlanması planlanmaktadır. Materyallere şuradan erişilebilir: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
 
 * Gerekli ön bilgi düzeyi
    
@@ -1429,7 +1429,7 @@ Katılımcı platformlar</td>
 
 * Konu
 
-    * [Açık araştırma verileri ve materyaller](hhttps://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+    * [Açık araştırma verileri ve materyaller](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 
 * Öğrenme hedefleri 
    
@@ -1443,8 +1443,8 @@ Katılımcı platformlar</td>
 4. OSF deposu oluşturmak
 5. Sürüm kontrolü için Git kullanmak
 6. GitHub, Google Drive ve diğer servislerin OSF projesine entegrasyonu 
-7. R, R Studio ve R Markdown kullanrak tekrarlanabilir bir araştırma yapmak
-8. yurttaş bilimi projeleri oluşturma alıştırması yapmak 
+7. R, R Studio ve R Markdown kullanarak tekrarlanabilir bir araştırma yapmak
+8. Yurttaş bilimi projeleri oluşturma alıştırması yapmak 
 
 * Gereken materyal ve araçlar
 
@@ -1465,7 +1465,7 @@ Katılımcı platformlar</td>
    
  * Lisanslama koşulları
  
-   * CC BY - [Dasapta Erwin Irawan](dasaptaerwin@gmail.com), INArxiv, Bandung Teknoloji Enstitüsü; [Willem Vervoort](willem.vervoort@sydney.edu.au), Sidney Üniversitesi; [Gene Melzack](gene.melzack@sydney.edu.au), Sidney Üniversitesi
+   * CC BY - Dasapta Erwin Irawan (dasaptaerwin@gmail.com), INArxiv, Bandung Teknoloji Enstitüsü; Willem Vervoort (willem.vervoort@sydney.edu.au), Sidney Üniversitesi; Gene Melzack (gene.melzack@sydney.edu.au), Sidney Üniversitesi
 
 
 ##### **Örnek 27: Açık bilim eğitimi için eğitimcileri eğitmek kart oyunu**
@@ -1480,16 +1480,16 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri 
 
-   * Eğitmenler bu oyunu 'eğitmenlerin eğitimi' çalıştaylarını kolaylaştırmak için kullanabilir. Katılımcılar, kendi seçtikleri konu(lar) üzerine -daha sonraki bir aşamada kendilerinin verecekleri- bir eğitim için kullanılabilir bir çerçeve tasarlarlar. Kart oyunu, katılımcıların hedef kitle türünü, büyüklüğünü, eğitim türünü ve hedef kitle bilgi düzeyini önceden seçme olanağı verir. Ayrıca, iki 'öngörülemeyen' durum eklenebilir: katılımcı modu ve 'aksilik' In addition, two ‘unforeseen’ circumstances can be added: audience mood, and ‘trouble’ (eyvah!). Bir eğitim için kullanılabilir bir tasarımla eve gitmenin yanı sıra, bu çalıştayın katılımcıları, diğer katılımcıların girdi ve deneyimlerinden de faydalanacaktır.  
+   * Eğitmenler bu oyunu 'eğitmenlerin eğitimi' çalıştaylarını kolaylaştırmak için kullanabilir. Katılımcılar, kendi seçtikleri konu(lar) üzerine -daha sonraki bir aşamada kendilerinin verecekleri- bir eğitim için kullanılabilir bir çerçeve tasarlarlar. Kart oyunu, katılımcıların hedef kitle türünü, büyüklüğünü, eğitim türünü ve hedef kitle bilgi düzeyini önceden seçme olanağı verir. Ayrıca, iki 'öngörülemeyen' durum eklenebilir: katılımcı modu ve 'aksilik' (eyvah!). Bir eğitim için kullanılabilir bir tasarımla eve gitmenin yanı sıra, bu çalıştayın katılımcıları, diğer katılımcıların girdi ve deneyimlerinden de faydalanacaktır.  
 
-* Alıştıma tanımı
+* Alıştırma tanımı
 
-   * INSTRUCTIONS: 
-      * Her grubun üzerinde katılımcı türü, katılımcı sayısı, katılımcı bilgi düzeyi ve eğitim türü bilgileri bulunan kartlarından birini (bakmadan) seçmesini sağlayın. Farklı kartların yapılması mümkün olmayan ya da grubun çıkarlarına uygun olmayan bir eğitim durumu ortaya çıkarması olasıdır. Biraz esnekliğe izin vermek ve katılımcıların kendi aralarında ya da diğer bir grupla kart değiştirmelerine müsaade etmek faydalı olabilir. Çoğu durumda, katılımcıların alıştırmayı kendi ihtiyaçlarına göre değiştirmelerine izin veren boş bir kart ya da mevcut bir başka 'kart' vardır.  
+   * YÖNERGE: 
+      * Her grubun, üzerinde katılımcı türü, katılımcı sayısı, katılımcı bilgi düzeyi ve eğitim türü bilgileri bulunan kartlarından birini (bakmadan) seçmesini sağlayın. Farklı kartların, yapılması mümkün olmayan ya da grubun çıkarlarına uygun olmayan bir eğitim durumu ortaya çıkarması olasıdır. Biraz esnekliğe izin vermek ve katılımcıların kendi aralarında ya da diğer bir grupla kart değiştirmelerine müsaade etmek faydalı olabilir. Çoğu durumda, katılımcıların alıştırmayı kendi ihtiyaçlarına göre değiştirmelerine izin veren boş bir kart ya da mevcut bir başka 'kart' vardır.  
       * Persona sayfalarını dağıtın: grubun her üyesi kartlarda belirtilen koşullara göre bir persona oluşturmalıdır (15 dakikadan fazla sürmemeli). 
       * Grubun, oluşturulan persona sayfaları yardımıyla, hedef kitlesini/kitlelerini göz önünde bulundurarak kartlarda yazan koşullara göre eğitimi hazırlamak için 1,5 saati vardır.
-      * Her bir grubun eğitimlerini sunmasunu sağlayın (not: asıl eğitimi vermek zorunda değiller, sadece ne yapacaklarını açıklamaları gerekiyor!). Ardından diğer gruplardan geri bildirim vermelerini isteyin: Önerilen eğitim kartlarda yazan koşullara uygun mu? Neyi daha farklı yapabilirler? What would they do differently? Paylaşabilecekleri bir deneyimleri var mı?
-      * Ekstra zorlama: Gruplar, eğitim sırasında beklenmedik/öngörülemeyen durumlarla nasıl başa çıkacak? Sunumlarından hemen önce, her grup bir 'katılımcı modu' kartı ve bir 'aksilik' kartı seçer (bakmadan) ve bu kartları sunum sırasında veya sonrasında tüm grupla tartışacak olan moderatöre verir - izleyicilerin meslektaşlarının deneyimlerinden öğrenmelerine imkan verilir.
+      * Her bir grubun eğitimlerini sunmasını sağlayın (not: asıl eğitimi vermek zorunda değiller, sadece ne yapacaklarını açıklamaları gerekiyor!). Ardından diğer gruplardan geri bildirim vermelerini isteyin: Önerilen eğitim kartlarda yazan koşullara uygun mu? Neyi daha farklı yapabilirler? Paylaşabilecekleri bir deneyimleri var mı?
+      * Ekstra zorlama: Gruplar, eğitim sırasında beklenmedik/öngörülemeyen durumlarla nasıl başa çıkacak? Sunumlarından hemen önce, her grup bir 'katılımcı modu' kartı ve bir 'aksilik' kartı seçer (bakmadan) ve bu kartları sunum sırasında veya sonrasında tüm grupla tartışacak olan moderatöre verir - katılımcıların meslektaşlarının deneyimlerinden öğrenmelerine imkan verilir.
 
 * Gereken materyal ve araçlar
 
@@ -1511,14 +1511,14 @@ Katılımcı platformlar</td>
    
 * Lisanslama koşulları
 
-   * CC BY-SA 4.0. Oluşturan: [Gwen Franck](gwenfranckgcv@gmail.com)
+   * CC BY-SA 4.0. Oluşturan: Gwen Franck (gwenfranckgcv@gmail.com)
   
    
 ### Kaynaklar
 
 #### Hangi araçları ve platformları kullanmalı/önermeli?
 
-Açık Bilim uygulamalarını destekleyen birçok araç ve platform vardır (seçim yapmak için aşağıdaki şekle bakın). Hangi araçların ve platformların kullanılacağı (veya önerileceği) birçok faktöre bağlıdır, örneğin: aracın mevcut olup olmadığı (ücretsiz veya kurumunuza lisanslı mı), tarayıcınızda veya kullandığınız işletim sistemi üzerinde çalışıp çalışmadığı, dilinizde mevcut olmadığı ve güvenlik ve gizlilik gereksinimlerinizi karşılayıp karşılamadığı. Bu daha teknik kriterlere ek olarak, bir aracın çalışma şeklinize uyup uymadığını da göz önünde bulundurun. Kullandığınız diğer araçlar ve platformlarla uyumlu çalışıyor mu? İşbirliği yaptığınız kişiler, aynı uygulama için aynı aracı mı yoksa en azından sizin kullandığınız araçla uyumlu olan bir aracı mı kullanıyor? Ayrıca öğrenme eğrisini de göz önünde bulundurun: yeni aracı öğrenmek için çok zaman harcamanız gerekiyor mu ve eğer öyleyse, buna değer mi? Aracı (gerçek hayatta veya çevrimiçi olarak) kullanmayı öğrenmenize yardımcı olabilecek desteğiniz var mı?  
+Açık Bilim uygulamalarını destekleyen birçok araç ve platform vardır (seçim yapmak için aşağıdaki şekle bakın). Hangi araçların ve platformların kullanılacağı (veya önerileceği) birçok faktöre bağlıdır, örneğin: aracın mevcut olup olmadığı (ücretsiz veya kurumunuza lisanslı mı), tarayıcınızda veya kullandığınız işletim sistemi üzerinde çalışıp çalışmadığı, dilinizde mevcut olup olmadığı ve güvenlik ve gizlilik gereksinimlerinizi karşılayıp karşılamadığı. Bu daha teknik kriterlere ek olarak, bir aracın çalışma şeklinize uyup uymadığını da göz önünde bulundurun. Kullandığınız diğer araçlar ve platformlarla uyumlu çalışıyor mu? İşbirliği yaptığınız kişiler, aynı uygulama için aynı aracı mı yoksa en azından sizin kullandığınız araçla uyumlu olan bir aracı mı kullanıyor? Ayrıca öğrenme eğrisini de göz önünde bulundurun: yeni aracı öğrenmek için çok zaman harcamanız gerekiyor mu ve eğer öyleyse, buna değer mi? Aracı (gerçek hayatta veya çevrimiçi olarak) kullanmayı öğrenmenize yardımcı olabilecek desteğiniz var mı?  
 
 Belki de en iyi tavsiye, önce ne yapmak istediğinizi düşünmenizdir: gerçekleştirmek istediğiniz açık bilim uygulaması nedir? Ardından, hangi araçların/platformların mevcut olduğunu, topluluğunuzdaki kişilerin hangilerini kullandığını ve nedenini keşfedin (etrafa sorun!). Sonra kendi kararınızı verin. Keşfetmekten ve yeni bir şeyler denemekten korkmayın!
 
@@ -1526,9 +1526,7 @@ Son bir not: birçok araç ve platform, kendileri tamamen açık olmadan açık 
 
 Araştırma araçlarını ve platformlarını listeleyen bazı kaynaklar:
 
-* [Connected Researchers](http://connectedresearchers.com/online-tools-for-researchers/) (tüm disiplinler)
-
-* [DIRT Directory](http://dirtdirectory.org/) (Beşeri Bilimler)
+* [DIRT Directory](https://digitalhumanities.berkeley.edu/resources/digital-research-tools-dirt-directory) (Beşeri Bilimler)
 
 * [ResearchStash](https://www.researchstash.com/) (Bilim, Teknoloji ve Tıp)
 
@@ -1537,7 +1535,7 @@ Araştırma araçlarını ve platformlarını listeleyen bazı kaynaklar:
 * [Tool combinations](https://tinyurl.com/toolcombinations-cb) (hangi araçların yaygın olarak birlikte kullanıldığı) [renk körü dostu]
 
 ![image alt text](/Images/image_16.png)
-Figure x - Rainbow of open science practices (düzenlenebilir slaytlar da dahil olmak üzere Zenodo üzerinde farklı formatlarda mevcut:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
+Figure x - Açık bilim uygulamaları gökkuşağı (düzenlenebilir slaytlar da dahil olmak üzere Zenodo üzerinde farklı formatlarda mevcut:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
 
 #### Diğer kaynaklar
 
@@ -1553,7 +1551,7 @@ Figure x - Rainbow of open science practices (düzenlenebilir slaytlar da dahil 
 
 * Materials for ELIXIR-EXCELERATE Train The Trainer workshops and courses. [github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT) (*yazarın notu: Yalnızca küçük bir kısmı biyoinformatik alanına özel, eğitmenler için seçilmiş eksiksiz bir materyal ve yöntem deposudurs*) 
 
-* Open Science MOOC. [opensciencemooc.eu](https://opensciencemooc.eu/open-science-resources/)
+* Open Science MOOC. [opensciencemooc.eu](https://opensciencemooc.eu/)
 
 * Open Science Training Initiative. Graduate Training in Open Science. [opensciencetraining.com](http://www.opensciencetraining.com/)
 
@@ -1582,6 +1580,6 @@ Daha karmaşık konuların kavramsallaştırılması için yakın zamanda edinil
 
 Figure X Bir eğitimdeki içeriği temsil eden bir zihin haritası örneği
 
-Not: bunu açık bilim veya ilgili bir konu için yapılmış olanla değiştirebiliriz
+Not: bunu açık bilim veya ilgili bir konu için yapılmış olanla değiştirebiliriz.
 
 Katılımcılar fikirleri görselleştirmenin, onları diyagramlarda birleştirmenin, aynı gruptaki katılımcılar arasında diyagramları karşılaştırmanın, farklı gruplardakileri karşılaştırmanın, katılımcı haritalarını eğitmen haritalarıyla karşılaştırmanın vb. gücünü anladıkça, etkileşim belirgin bir şekilde artar.
