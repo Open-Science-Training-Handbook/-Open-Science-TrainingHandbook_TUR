@@ -1059,29 +1059,29 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Being able to differentiate between different Creative Commons licenses and to be able to combine them for works. 
+    * Farklı Creative Commons lisansları arasında ayrım yapabilme ve bunları çalışmalar için birleştirebilme.
 
 * Alıştırma tanımı
 
-    * The participants have to combine two licenses. Let the group guess which Creative Commons license is created by the combination. Repeat the exercise with other combinations. Integrate a combination that is not possible (for example, CC BY-SA and CC BY-NC) and point out pitfalls. Discuss the results with the participants.
+    * Katılımcılar iki lisansı birleştirmelidir. Grubun, birleştirme ile hangi Creative Commons lisansının oluşturulduğunu tahmin etmesini isteyin. Alıştırmayı diğer kombinasyonlar için tekrarlayın. Mümkün olmayan bir kombinasyonu (örneğin, CC BY-SA ve CC BY-NC) dahil edin ve tuzaklara dikkat edin. Sonuçları katılımcılarla tartışın.
 
 * Gereken materyal ve araçlar
 
-    * Computer with projector, whiteboard, flipchart, or piece of paper for all attendees
+    * Bilgisayar, projeksiyon cihazı, beyaz tahta, kağıt panosu ya da tüm katılımcılar için birer parça kağıt.
 
 * Gerekli ön bilgi düzeyi
 
-    * The participants should know all Creative Commons licenses and/or have a paper to look at
+    * Katılımcıları tüm Creative Commons lisanslarını bilmeli ve/veya lisanslara bakabilecekleri bir doküman olmalıdır.
 
 * Akılda tutulması gerekenler
 
-    * Wait more than three seconds before taking the answer. This enables participants to think it through and you are able to integrate even weak participants.
+    * Cevabı almadan önce üç saniyeden fazla bekleyin. Bu katılımcıların derinlemesine düşünmesini sağlar ve böylece zayıf katılımcıları dahi entegre edebilirsiniz.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * First create pairs and let them solve the combinations, then discuss the solutions in the group
+    * Öncelikle çiftler oluşturun ve kombinasyonları çözmelerine izin verin, sonrasında çözümleri grupta tartışın.p
 
-    * Use other licenses
+    * Diğer lisansları kullanın.
 
 ##### **Örnek 18: OER Remiksi**
 
@@ -1097,37 +1097,37 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Being able to distinguish the different elements of the Creative Commons licenses
+    * Creative Commons lisanslarının farklı unsurlarını ayırt edebilmek.
 
-    * Being able to build content remixing previous works with multiple licenses including public domain and all rights reserved works and determine which will be the resulting license
-
+    * Kamu malı ve tüm hakları saklı çalışmalar dahil olmak üzere önceki çalışmaları birden fazla lisansla remiksleyerek içerik oluşturabilmek ve ortaya çıkan son lisansın hangisi olacağını belirleyebilmek.
+    
 * Alıştırma tanımı
 
-    * There is an [online version](http://www.opencontent.org/game/) and a [printed version](http://www.opencontent.org/game/print/)
+    * [Çevrimiçi](http://www.opencontent.org/game/) ve [basılı](http://www.opencontent.org/game/print/) birer versiyonu bulunmaktadır.
 
-    * There is a set of cards marked with a type of content: text, image, music, and video, and each card carries a copyright sign that ranges from all rights reserved to public domain including the set of Creative Commons licenses and the GNU Free Documentation License.
+    * Metin, resim, müzük ve video gibi bir içerik türünü temsil eden bir dizi kart vardır ve her kart, Creative Commons lisansları ve GNU Özgür Dokümantasyon Lisanslarını içeren, tüm hakları saklıdan kamu malına kadar uzanan bir telif hakkı işareti taşır. 
 
-    * One person of the group takes 12 cards and the rest of the group has to combine them building a material with the four type of content: text, image, music and video. Once they choose a right combination they have to decide which is a possible license for this new work.
+    * Gruptaki bir kişi 12 kartı alır ve grubun geri kalanı kartları dört içerik türü ile (metin, resim, müzik ve video) bir materyal oluşturmak üzere birleştirir. Doğru kombinasyonu seçtiklerinde bu yeni çalışma için muhtemel lisasnın hangisi olduğuna da karar vermelidirler.
 
 * Gereken materyal ve araçlar
 
-    * For the online game: computer with beamer
+    * Çevrimiçi oyun için: projektörlü bilgisayar
 
-    * For the printed game: the set of cards is available at [opencontent.org](http://www.opencontent.org/game/print/) or you can create a set of cards yourself
+    * Basılı oyun için: kart seti [opencontent.org](http://www.opencontent.org/game/print/) adresinde mevcuttur ya da kendiniz bir kart seti oluşturabilirsiniz.
 
 * Gerekli ön bilgi düzeyi
 
-    * The participants should know the elements of all Creative Commons licenses and have a basic notion of copyright issues including the notion of copyleft
+    * Katılımcılar tüm Creative Commons lisanslarının unsurlarını bilmeli ve "copyleft" kavramı da dahil olmak üzere telif hakkı konuları ile ilgili temel bir anlayışa sahip olmalıdır.
 
 * Akılda tutulması gerekenler
 
-    * If you use the online version you might do the exercise with all your audience allowing multiple possible answers.
+    * Çevrimiçi versiyonu kullanacaksanız, birden çok olası cevaba imkan vererek alıştırmayı tüm katılımcılarla yapabilirsiniz.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * You can adapt it to research elements, for instance to software licensing
+    * Yazılım lisanslama gibi araştırma öğelerine uyarlayabilisiniz.
 
-    * You can use other licenses, include new kind of contents or define which contents should have the final work
+    * Başka lisanslar kullanablir, yeni tür içerikler ekleyebilir ya da son ürünün hangi içerikte olması gerektiğini tanımlayablirsiniz.
 
 ##### **Örnek 19: Açık akran değerlendirmesi - katılımcılar birbirlerinin metinlerini açık olarak değerlendirir**
 
@@ -1141,31 +1141,31 @@ Katılımcı platformlar</td>
 
 * Öğrenme hedefleri
 
-    * Practise in writing constructive peer reviews
+    * Yapıcı hakem değerlendirmeleri yazma konusunda pratik kazanmak.
 
-    * Critical reflection on the advantages and disadvantages of open peer review
+    * Açık hakem değerlendirmesinin avantaj ve dezavantajları üzerine eleştirel düşünmek.
 
 * Alıştırma tanımı
 
-    * Participants work in groups of three. Each participants writes a short text (~300 words) giving their thoughts on open peer review as discussed in the foregoing workshop. They then pass the text to the person on their left, who writes a brief peer review of the work. The text and the review are then passed to the next person on the left, so each now has a text and a review which they did not write. This person then gives feedback on the review—was it constructive, critical, what could have been better, etc. The group then reads all the texts and reflects on how open identities, open reports, etc. affected how they wrote their reviews, and reflects on the critical feedback from the others.
+    * Katılımcılar üç kişilik gruplar halinde çalışır. Her bir katılımcı, yukarıdaki çalıştayda tartışıldığı gibi açık hakem değerlendirmesi ile ilgili düşüncelerini yansıtan kısa bir metin (~300 kelime) yazar. Sonra metni çalışmanın kısa bir hakem değerlendirmesini yapacak sol tarafındaki kişiye verir. Ardından metin ve değerlendirme soldaki diğer kişiye geçer ve her birinin elinde kendi yazmadıkları bir metin ve değerlendirme olmuş olur. Sonrasında bu kişi değerlendirmeye geri bildirim verir—yapısal mıydı, eleştirel miyidi, ne daha iyi yapılabilir vb. Son olarak grup tüm metinleri okur ve açık kimliklerin, açık raporlamaların vb. değerlendirmelerin yazılma şeklini ve diğerlerinden gelen eleştirel geri bildirimleri nasıl etkilediği düşünür.
 
 * Gereken materyal ve araçlar
 
-    * Pen and paper
+    * Kalem ve kağıt
 
 * Gerekli ön bilgi düzeyi
 
-    * None, although the texts will require the knowledge gained in the foregoing workshop.
+    * Yok, ancak metinler üstteki çalıştayda edinilen bilgileri gerektirecektir.
 
 * Akılda tutulması gerekenler
 
-    * This exercise requires participants to make criticisms of each other’s work—bear in mind that some people might be uncomfortable doing so, or that some may have difficulty accepting such critique. Where these issues occur, encourage participants to discuss them in the final discussion round.
+    * Bu alıştırma katılımcıların birbirinin çalışmalarını eleştirebilmelerini gerektirir—bazı kişilerin bunu yapmaktan rahatsız olabileceğini veya bazılarının bu eleştirileri kabul etmekte zorlanabileceğini unutmayın. Bu sorunlar ortaya çıktığında, katılımcıları son tartışma oturumunda bunları gündeme getirmeleri için cesaretlendirin.
 
 * Başka amaçlar için nasıl uyarlanır?
 
-    * Where this example is being used in a training workshop with a wider focus than just open peer review, it could be used to consolidate learning about other Open Science themes by asking participants to first write a text about those themes instead.
+    * Bu örnek, sadece açık hakem değerlendirmesinden ziyade daha geniş odağı olan bir eğitim çalıştayında kullanıldığında, katılımcılardan önce başka açık bilim konuları hakkında metin yazmaları istenerek açık bilim konuları ile ilgili öğrenciklerini pekiştirmeleri sağlanabilir.
 
-    * Instead of pen and paper, this exercise could also be done using a collaborative writing tool, such as Google Docs, Authorea, or Overleaf/ShareLaTeX. 
+    * Bu alıştırma, kalem ve kağıt yerine Google Dokümanlar, Authorea veya Overleaf/ShareLaTeX gibi katılımcı bir yazma aracı kullanılarak da yapılabilir. 
 
 ##### **Örnek 20: Bence açık hakem değerlendirmesi**
 
