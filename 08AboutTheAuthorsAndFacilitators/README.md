@@ -50,7 +50,7 @@ Açık bilim, büyük ama uygulanabilir bir eğitim adımı gerektiren bir fikir
 
 Şu anda Göttingen Üniversitesi'nde, hakem değerlendirmesi, araştırma sonuçlarının yaygınlaştırılması ve etki ölçümü için yeni yöntemler, göstergeler ve araçlarla uyumlu bir çerçeve geliştirmeyi amaçlayan AB tarafından finanse edilen OpenUP projesinde proje sorumlusu olarak çalışıyorum. 10 yıldan fazla bir süredir bilgi yönetimi ve açık bilim/erişim ile ilgili programlarda yer alıyorum.
 
-Açık Bilim projeleri için çalışırken, hem çeşitli Açık Bilim savunucuları topluluğuyla hem de beni Açık Bilim söylemine daha fazla dalmaya ve gelişmeleri takip etmeye teşvik eden isteksiz, şüpheci araştırmacı ve karar verici grupları tanıma şansım oldu.
+Açık bilim projeleri için çalışırken, hem çeşitli Açık Bilim savunucuları topluluğuyla hem de beni Açık Bilim söylemine daha fazla dalmaya ve gelişmeleri takip etmeye teşvik eden isteksiz, şüpheci araştırmacı ve karar verici grupları tanıma şansım oldu. İkisi de beni açık bilim söylemine daha fazla dahil olmaya ve gelişmeleri takip etmeye ve değişen araştırma iletişimi dünyasında karşılaştığımız fayda ve zorluklar hakkında etkili bir şekilde konuşmanın araç ve yöntemlerini öğrenmeye itti.
 
 ### Kerstin Helbig
 
@@ -61,46 +61,46 @@ Açık Bilim projeleri için çalışırken, hem çeşitli Açık Bilim savunucu
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Kerstin Helbig](http://img.youtube.com/vi/uC02v5JuTlo/0.jpg)](http://www.youtube.com/watch?v=uC02v5JuTlo "Writing the Open Science Training Handbook - an author's perspective by Kerstin Helbig")
 
-I am research data management coordinator at Humboldt-Universität zu Berlin, Germany. In my consultative capacity, I assist researchers in the management of their research data and organize training as well as information sessions.
+Almanya, Berlin Humboldt Üniversitesi'nde araştırma veri yönetimi koordinatörüyüm. Danışmanlık sıfatımla, araştırmacılara araştırma verilerinin yönetiminde yardımcı oluyor ve eğitimlerin yanı sıra bilgilendirme toplantıları düzenliyorum.
 
-For me the biggest challenge with open science training is to show researchers that open science is more than a political aim or a moral responsibility. It is essential to show that there are levels of open science. One can start with a little step without having to open up completely from one day to another. In my trainings, I especially like the mix of backgrounds, disciplines and prior knowledge. They make the training all the more interesting. I remember one training course in particular: one participant \(a professor\) registered an ORCID on the spot while I was talking about the advantages of persistent identifiers.
+Benim için açık bilim eğitimi ile ilgili en büyük zorluk, araştırmacılara açık bilimin politik bir amaç veya ahlaki bir sorumluluktan daha fazlası olduğunu göstermektir. Açık bilimin düzeyleri olduğunu göstermek önemlidir. Bir günden diğerine tamamen açmak zorunda kalmadan küçük bir adımla başlanabilir. Eğitimlerimde özellikle arka plan bilgilerin, disiplinlerin ve ön bilgilerin farklılığını seviyorum. Eğitimi daha da ilginç hale getiriyorlar. Özellikle hatırladığım bir eğitim var:  kalıcı tanımlayıcıların avantajlarından bahsederken katılımcılardan biri \(bir profesör\) hemen orada ORCID kaydı yaptı.
 
 ### Bianca Kramer
 
-* Utrecht University, Netherlands
+* Utrecht Universitesi, Hollanda
 * [b.m.r.kramer@uu.nl](mailto:b.m.r.kramer@uu.nl)
 * [@MsPhelps](https://twitter.com/MsPhelps)
 * [0000-0002-5965-6560](https://orcid.org/0000-0002-5965-6560)
 
-By day, I am a librarian for life sciences and medicine. My after hours project is [101 Innovations in Scholarly Communication](https://101innovations.wordpress.com) together with Jeroen Bosman. We do research, training and advocacy on open science, to make research more relevant, robust and equitable. 
+Gündüzleri, yaşam bilimleri ve tıp kütüphanecisiyim. Mesai sonrası projem, Joreon Bosman ile birlikte [Bilimsel İletişimde 101 Yenilik - 101 Innovations in Scholarly Communication](https://101innovations.wordpress.com). Araştırmayı daha yararlı, güçlü ve adil hale getirmek için açık bilim üzerine araştırma, eğitim ve savunuculuk yapıyoruz.
 
-Training in open science is rewarding because it is not just about teaching people new skills, it's about discussing fundamental concepts and exchanging different viewpoints and opinions. As a participant in one of our courses said: 'I came to learn practical things to apply in my research, but I discovered I am now part of a movement'. To me, a successful training should be interactive and hands-on, to  encourage people to explore and challenge their perceptions. That includes my own role as a trainer: always be open to try new things and learn from the people participating in your training.   
+Açık bilimle ilgili eğitim vermek ödüllendirici çünkü bu sadece insanlara yeni beceriler öğretmekle ilgili değil, aynı zamanda temel kavramları tartışmak ve farklı bakış açılarının ve fikirlerin alışverişi ile ilgili. Derslerimizden bir katılımcının söylediği gibi: 'araştırmamda uygulayabileceğim pratik şeyler öğrenmeye geldim ama şimdi bir hareketin parçası olduğumu keşfettim'. Bana göre başarılı bir eğitim, insanları kendi algılarını keşfetmeye ve sorgulamaya teşvik etmek için etkileşimli ve uygulamalı olmalıdır. Buna eğitmen olarak benim rolüm de dahildir: her zaman yeni şeyler denemeye açık olun ve eğitiminize katılan insanlardan bir şeyler öğrenin. 
 
 ### Ignasi Labastida
 
-* Universitat de Barcelona, Catalonia
+* Barselona Üniversitesi, Katalonya
 * [ilabastida@ub.edu](mailto:ilabastida@ub.edu)
 * [@ignasi](https://twitter.com/ignasi)
 * [0000-0001-7030-7030](https://orcid.org/0000-0001-7030-7030)
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida](http://img.youtube.com/vi/VTGYlyTnBFg/0.jpg)](http://www.youtube.com/watch?v=VTGYlyTnBFg "Writing the Open Science Training Handbook - an author's perspective by Ignasi Labastida")
 
-PhD in Physics, Universitat de Barcelona (UB), 2000. Now, devoted to openness: Head of the [Office for the Dissemination of Knowledge](http://crai.ub.edu/en/crai-services/intellectual-property) at the CRAI of the UB and public leader of Creative Commons in Spain since its beginning in 2003.
+Fizik Doktorası, Barselona Üniversitesi, 2000. Şimdi kendini açıklığa adamış: Barselona Üniversitesi CRAI'de (Learning and Research Resources Centre) [Bilgi Yayma Ofisi'nin - Office for the Dissemination of Knowledge](http://crai.ub.edu/en/crai-services/intellectual-property) başkanı ve Creative Commons'ın başladığı 2003 yılından bu yanan İspanya lideridir.
 
-I hope in the near future there will be no need to train about open science because those practices, now described here, will be the default ones. There will be no need to attach the open tag anymore, and researchers would need to justify why they close some of their results or activities. I think this book may help to achieve this situation by showing a lot of robust examples and viable cases to perform research openly.
+Umarım yakın gelecekte açık bilim hakkında eğitime gerek kalmaz ve burada açıklanan uygulamalar varsayılan uygulamalar olur. Böylece "açık" etiketi eklemeye gerek kalmayacak ve araştırmacıların bazı sonuçlarını veya etkinliklerini neden kapattıklarını gerekçelendirmesi gerekecek. Bu kitabın, açık araştırma yapmak için sunduğu çok sayıda etkili ve uygulanabilir örnekle bunu başarmaya yardımcı olacağını düşünüyorum.
 
 ### Kyle Niemeyer
 
-* Oregon State University, USA
+* Oregon Eyalet Üniversitesi, ABD
 * [kyle.niemeyer@oregonstate.edu](mailto:kyle.niemeyer@oregonstate.edu)
 * [@kyleniemeyer](https://twitter.com/kyleniemeyer)
 * [0000-0003-4425-7097](https://orcid.org/0000-0003-4425-7097)
 
 [![Writing the Open Science Training Handbook - an author's perspective by Kyle Niemeyer](http://img.youtube.com/vi/93CERDH4Lq0/0.jpg)](http://www.youtube.com/watch?v=93CERDH4Lq0 "Writing the Open Science Training Handbook - an author's perspective by Kyle Niemeyer")
 
-I am an Assistant Professor of Mechanical Engineering at Oregon State University in Corvallis, Oregon, USA. My research group studies combustion and fluid flows using computer simulations, and develop numerical methods and parallel computing strategies. Open science advocate!
+Araştırma grubum, bilgisayar simülasyonlarını kullanarak yanma ve sıvı akışlarını inceliyor ve sayısal yöntemler ve paralel hesaplama stratejileri geliştiriyor. Açık bilim savunucusu!
 
-As a graduate student, I frequently faced roadblocks in my research due to software not being shared openly; now, as the leader of a research group, my students and I face data availability and formatting challenges when working with results in the literature. However, simply showing others how easy it can be to share research products openly can be enough to catalyze change, as can leading by example.
+Bir lisansüstü öğrenci iken, yazılımların açık bir şekilde paylaşılmaması nedeniyle araştırmamda sık sık engellerle karşılaştım; şimdi, bir araştırma grubunun lideri olarak öğrencilerim ve ben, literatürdeki sonuçlarla çalışırken veri kullanılabilirliği ve biçimlendirme zorluklarıyla karşılaşıyoruz. Bununla birlikte, başkalarına araştırma çıktılarını açıkça paylaşmanın ne kadar kolay olduğunu göstermek, örnek olarak öncülük edebileceği gibi değişimi hızlandırmak için yeterli olabilir.
 
 ### Fotis Psomopoulos
 
@@ -111,72 +111,74 @@ As a graduate student, I frequently faced roadblocks in my research due to softw
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos](http://img.youtube.com/vi/_uNxt3rUlSY/0.jpg)](http://www.youtube.com/watch?v=_uNxt3rUlSY "Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos")
 
-Fotis is a Bioinformatician at the Institute of Applied Biosciences \(INAB\|CERTH\) in Thessaloniki, Greece. He was awarded his PhD in Electrical and Computer Engineering in 2010 with a focus on Bioinformatics and e-infrastructures, and a particular appreciation to open and reproducible methods. He spends significant time in training activities, both within formal academic structures as well as through the Carpentries as a certified Instructor and Trainer. He rambles about bits and pieces on his website.
+Fotis, Yunanistan'ın Selanik kentindeki Uygulamalı Biyolojik Bilimler Enstitüsü'nde \(INAB\|CERTH\) Biyoinformatik uzmanıdır. 2010 yılında Elektrik ve Bilgisayar Mühendisliği alanında Biyoinformatik ve e-altyapılar konusunda, açık ve tekrarlanabilir yöntemlerin özel bir değerlendirmesi ile doktora derecesini aldı. Hem resmi akademik yapılarda hem de Carpentry'lerde sertifikalı eğitmen (instructor) ve eğitici (trainer) olarak eğitim faaliyetlerinde önemli zaman harcamaktadır. Web sitesinde ufak tefek şeyler hakkında yazmaktadır. 
 
-Convincing people that spending the extra time to put together a Jupyter notebook with all the text, notes, scripts and data currently stored in various "dusty" and forgotten folders on their computer, will actually help them become a bit more organized. \#smallvictories \#reproducibility
+İnsanları, bilgisayarlarındaki çeşitli "tozlu" ve unutulmuş klasörlerde depolanan tüm metin, notlar, komut dosyaları ve verilerle bir Jupyter not defteri oluşturmak için fazladan zaman harcamaya ikna etmek, aslında onların biraz daha organize olmalarına yardımcı olacaktır. \#smallvictories \#treproducibility
 
 ### Tony Ross-Hellauer
 
-* Know-Center GmbH, Austria
+* Know-Center GmbH, Avusturya
 * [tross@know-center.at](mailto:tross@know-center.at)
 * [@tonyR\_H](https://twitter.com/tonyR_H)
 * [0000-0003-4470-7027](https://orcid.org/0000-0003-4470-7027)
 
-Tony Ross-Hellauer is Senior Researcher \(Open Science\) at Know-Center, Graz, Austria. He has a PhD in Information Studies \(University of Glasgow, 2012\) and is an enthusiastic advocate of Open Access and Open Science whose research interests include peer review, metadata, and the philosophy/history of technology.
+Tony Ross-Hellauer, Know-Center, Graz, Avusturya'da Kıdemli Araştırmacıdır \(Açık Bilim\). Bilgi Çalışmaları alanında doktora derecesine sahiptir \(Glasgow Üniversitesi, 2012\) ve araştırma alanları arasında hakem değerlendirmesi, üst veriler ve teknoloji felsefesi/tarihi yer alan açık erişim ve açık bilimin hevesli bir savunucusudur.
 
-Although creating and delivering training events is very daunting, training others not only to do Open Science, but also to see the value of it for their everyday research, is one of the most rewarding aspects of working in this area. As a trainer, when learners are engaged to share their own experiences and you can feel how they are able to relate their new knowledge to these experiences, it is very exciting.
+Eğitim etkinlikleri oluşturmak ve sunmak çok zor olsa da, insanları yalnızca açık bilim yapmak için eğitmek değil, aynı zamanda günlük araştırmaları için bunun değerini görmek, bu alanda çalışmanın en ödüllendirici yönlerinden biridir. Öğrenciler kendi deneyimlerini paylaşırken, yeni bilgilerini bu deneyimlerle nasıl ilişkilendirebildiklerini hissedebilmek, bir eğitmek olarak çok heyecan vericidir.
 
 ### René Schneider
 
-* HES//SO - Geneva School of Business Administration, Switzerland
+* HES//SO - Cenevre İşletme Okulu (Geneva School of Business Administration), İsviçre
 * [rene.schneider@hesge.ch](mailto:rene.schneider@hesge.ch)
 * [@datosestupendos](https://twitter.com/datosestupendos)
 * [0000-0003-4897-8561 ](https://orcid.org/0000-0003-4897-8561)
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by René Schneider](http://img.youtube.com/vi/PoaqS3cp6PI/0.jpg)](http://www.youtube.com/watch?v=PoaqS3cp6PI "Writing the Open Science Training Handbook - an author's perspective by René Schneider")
 
-René Schneider is a professor in Information Science at Geneva School of Business Administration \(being part of the University of Applied Sciences and Arts Western Switzerland\). Originally trained as a computational linguist, he is mainly interested in data and all of its aspects.
+René Schneider Batı İsviçre Uygulamalı Bilimler ve Sanatlar Üniversitesi'nin (University of Applied Sciences and Arts Western Switzerland) bir parçası olan Cenevre İşletme Okulu'nda Bilgi Bilimi alanında profesördür. Hesaplamalı dilbilim eğitim alt yapısı ile temel olarak verilerle ve verilerin tüm yönleriyle ilgilenmektedir. 
 
-I discovered the field of research data management  quite lately and mainly got engaged because of the complexity and high potential of open science. After having managed a project on how to train librarians to become instructors for research data management \(www.researchdatamanagement.ch\), I experienced myself that open science open doors, leads to a better understanding and reuse of scientific outcomes and finally links the academic ivory tower to the world outside.
+Araştırma verilerinin yönetimi alanını oldukça geç keşfettim ve esas olarak açık bilimin karmaşıklığı ve yüksek potansiyeli nedeniyle dahil oldum. Kütüphanecileri araştırma verilerinin yönetimi konusunda eğitmen olmaları için eğiten bir projeyi \(www.researchdatamanagement.ch\) yürüttükten sonra, açık bilimin kapıları açtığını, bilimsel sonuçların daha iyi anlaşılmasına ve yeniden kullanılmasına imkan verdiğini ve akademinin fildişi kulesinin dış dünyayla bağlantısını kurduğunu deneyimledim. 
 
 ### Jon Tennant
 
-* Open Science MOOC, Germany
+* Open Science MOOC, Almanya
 * [jon.tennant.2@gmail.com](mailto:jon.tennant.2@gmail.com)
 * [@protohedgehog](https://twitter.com/protohedgehog)
 * [0000-0001-7794-0218](https://orcid.org/0000-0001-7794-0218)
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Jon Tennant](http://img.youtube.com/vi/KbD-CdhgC9A/0.jpg)](http://www.youtube.com/watch?v=KbD-CdhgC9A "Writing the Open Science Training Handbook - an author's perspective by Jon Tennant")
 
-Jon finished his award-winning PhD in Palaeontology at Imperial College London in 2017, and became the Communications Director of ScienceOpen for two years in 2015. Now, he is independently continuing his research into dinosaur evolution, while working on building an Open Science MOOC to help train the next generation of researchers in open practices. He has published papers on Open Access and Peer Review, is currently leading the development of the Foundations for Open Science Strategy document, and is the founder of the digital publishing platform paleorXiv. Jon is also an ambassador for ASAPbio and the Center for Open Science, a Mozilla Open Leadership mentor, and the co-runner of the Berlin Open Science meetup. He is also a freelance science communicator and consultant, and has written a kids book called Excavate Dinosaurs.
+*Çevirenin notu: Genç yaşına rağmen açık bilime çok önemli katkılar sunmuş olan Jon Tennant, bu kitabın Türkçeye çevrildiği tarihten önce, 9 Nisan 2020'de Endonezya, Bali'de geçirdiği bir trafik kazası sonucu hayatını kaybetmiştir. Anısına saygıyla* 
 
-I think the most challenging aspect of Open Science is education. It is an enormously complex paradigm, with its own lexicon, practices, principles, and represents a quite high learning barrier in many cases. However, watching others develop their knowledge and skills is incredibly rewarding, and I find myself learning more with every new experience too. Ultimately, we all have the same thing in mind - a fairer, more equitable, transparent and rigorous system of scientific research, and watching the huge steps the global research community, and especially younger generations, are taking towards this is very inspiring.
+Jon, Paleontoloji alanındaki ödüllü doktorasını 2017'de Imperial College London'da tamamlamış ve 2015'te iki yıl boyunca ScienceOpen'ın iletişim direktörü olarak çalışmıştır. Yeni nesil araştırmacıları açık uygulamalar konusudna eğitimeye yardımcı olmak için Open Science MOOC'u oluşturmaya çalışırken, bir yandan da bağımsız olarak dinozor evrimi üzerine araştırmalarına devam etmiştir. Açık erişim ve hakem değerlendirmesi üzerine makaleler yayımlamış, Açık Bilim Stratejisinin Temnelleri (Foundations for Open Science Strategy) dokümanının geliştirilmesine öncülük etmiştir ve dijital yayıncılık platformu paleorXiv'in kurucusudur. Jon ayrıca ASAPbio ve Açık Bilim Merkezi'nin (Center for Open Science) temsilcisi, Mozilla Açık Liderlik (Mozilla Open Leadership) danışmanı ve Berlin Açık Bilim buluşmasının (Berlin Open Science meetup) eş düzenleyicisi olmuştur. Aynı zamanda serbest çalışan bir bilim iletişimcisi ve danışmanı rolünü üstlenmiş ve Kazı Dinozorları adlı bir çocuk kitabı yazmıştır.
+
+Açık Bilimin en zorlayıcı yanının eğitim olduğunu düşünüyorum. Kendi lügatı, uygulamaları, ilkeleri ile son derece karmaşık bir paradigmadır ve birçok durumda oldukça yüksek bir öğrenme engelini temsil eder. Ancak, başkalarının bilgi ve becerilerini geliştirmesini izlemek inanılmaz derecede ödüllendirici ve ben de her yeni deneyimde kendimi daha çok şey öğrenirken buluyorum. Sonuçta, hepimizin aklında aynı şey var - daha adil, daha eşitlikçi, şeffaf ve titiz bir bilimsel araştırma sistemi ve küresel araştırma topluluğunun, özellikle de genç nesillerin bu yönde attığı büyük adımları izlemek çok ilham verici.
 
 ### Ellen Verbakel
 
-* 4TU.Centre for Research Data, Netherlands
+* 4TU.Araştırma Veri Merkezi (4TU.Centre for Research Data), Hollanda
 * [p.m.verbakel@tudelft.nl](mailto:p.m.verbakel@tudelft.nl)
 * [@Ellen4TUData](https://twitter.com/Ellen4TUData)
 * [0000-0002-8194-6724](https://orcid.org/0000-0002-8194-6724)
 
-Ellen is a librarian by education. She has a long experience in faculty librarianship at the TU Delft. After that she worked at the Delft University Press and organised peer review process for three journals. She also designed the open access or the journals, back in 2000! As from 2005 she developed the publication repository from TU Delft and she moved to 4TU.Centre for Research Data \(at that time 3TU.Datacentrum\) in 2009. In 2013 she co-designed the training Essentials 4 Data Support, she is since then an enthusiastic trainer.
+Ellen bir eğitim kütüphanecisidir. TU Delft'te fakülte kütüphaneciliğinde uzun bir deneyime sahiptir. Daha sonra Delft Üniversitesi Yayınevinde çalıştı ve üç dergi için hakemlik sürecini organize etti. Ayrıca 2000 yılında açık erişimi/dergileri tasarladı! 2005'te TU Delft'te yayın deposu oluşturdu ve 2009'da 4TU.Araştırma Veri Merkezi \(o zamanlar 3TU.Datacentrum\)'a geçti. 2013 yılında oluşturulan Essentials 4 Data Support eğitiminin ortak tasarımcılarından ve o zamandan beri hevesli bir eğitmen.
 
-Where would we be without training? We need to be aware of all aspects of Open Science and be able to enthusiasm many others! This Handbook helps educators to make their training more effective in order to make Open Science the standard.
+Eğitim olmasaydı nerede olurduk? Açık bilimin tüm yönlerinin farkında olmamız ve diğer kişileri de bunlarla ilgili heyecanlandırabilmemiz gerekiyor! Bu el kitabı, açık bilimi standart hale getirmek için eğitimcilerin eğitimlerini daha etkili kılmasına yardımcı olur.
 
-## Authors at the sprint event remotely
+## Sprint etkinliğine uzaktan katılan yazarlar
 
 ### April Clyburne-Sherin
 
-* Code Ocean, USA
+* Code Ocean, ABD
 * [april.clyburne.sherin@gmail.com](mailto:april.clyburne.sherin@gmail.com)
 * [@april\_cs](https://twitter.com/april_cs) & [@methodpodcast](https://twitter.com/methodpodcast)
 * [0000-0002-5401-7751](https://orcid.org/0000-0002-5401-7751)
 
-April is an epidemiologist, methodologist, and expert in open science tools, methods, training, and community stewardship. She holds an MS in Population Medicine (Epidemiology). Since 2014, she has focussed on training scientists in open and reproducible research methods (Center for Open Science, Sense About Science, SPARC). In her current role of Outreach Scientist, she trains scientists in computational reproducibility best practices using Code Ocean.
+April bir epidemiyolog, metodoloji uzmanı ve açık bilim araçları, yöntemleri, eğitimi ve topluluk yönetimi konusunda uzmandır. Epidemiyoloji alanında yüksek lisans derecesine sahiptir. 2014'ten beri bilim insanlarını açık ve tekrarlanabilir araştırma yöntemleri konusunda eğitmeye odaklanmıştır (Center for Open Science, Sense About Science, SPARC). Şu anki destek araştırmacısı (outreach scientist) rolünde, Code Ocean kullanarak bilim insanlarını hesaplamalı tekrarlanabilirlik konusundaki en iyi uygulamalar hakkında eğitmektedir.
 
-I have been lucky enough to make a living out of training other scientists how to science better. My community of support grows with each workshop and I hope this handbook might help grow the open research training community. Conversations about open research often occur in echo-chambers of well-meaning researchers \(like myself\) and librarians with similar worldviews. Training in open research can be similarly siloed with Western or Northern perspectives being taught as though universal. Adding context and new perspectives to open research conversations is the only way to make knowledge work for everyone. The content we captured during this sprint is limited by our own experiences, but as other authors add and edit based on their own experiences, we can aim for a handbook that can improve how we talk and train others in open research.
+Diğer bilim adamlarını nasıl daha iyi bilim yapacakları konusunda eğiterek geçimimi sağlayacak kadar şanslıydım. Destek kitlem her çalıştayda büyüyor ve umarım bu el kitabı açık araştırma eğitim topluluğunun gelişmesine yardımcı olabilir. Açık araştırmayla ilgili diyaloglar genellikle iyi niyetli araştırmacıların \(kendim gibi\) ve benzer dünya görüşlerine sahip kütüphanecilerin yankı odalarında gerçekleşir. Açık araştırma eğitimi, Batılı veya Kuzeyli bakış açılarının evrenselmiş gibi öğretilmesiyle benzer şekilde bir kenara bırakılabilir. Açık araştırma diyaloglarına bağlam ve yeni bakış açıları eklemek, bilginin herkes için işe yaramasını sağlamanın tek yoludur. Bu sprint sırasında oluşturduğumuz içerik, kendi deneyimlerimizle sınırlıdır, ancak diğer yazarlar kendi deneyimlerine dayanarak eklemeler ve düzenlemeler yaptıkça, konuşma şeklimizi geliştirebilecek ve başkalarını açık araştırma konusunda eğitebilecek bir el kitabı hedefleyebiliriz. 
 
-## Facilitators on site
+## Yardımcılar/Kolaylaştırıcılar
 
 [![Video - Writing the Open Science Training Handbook - Helene Brinken and Lambert Heller](http://img.youtube.com/vi/on49K7y8Mlk/0.jpg)](http://www.youtube.com/watch?v=on49K7y8Mlk "Writing the Open Science Training Handbook - an author's perspective by Helene Brinken and Lamber Heller")
 
