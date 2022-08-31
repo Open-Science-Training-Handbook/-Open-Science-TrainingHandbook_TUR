@@ -1,57 +1,58 @@
 ## <img src="/Images/Icons/public.png" width="200" height="200" /> <img src="/Images/Icons/handson.png" width="200" height="200" />
-# About the authors & facilitators
+# Yazarlar ve yardımcılar
 
-## Authors at the sprint event
+## Sprint etkinliğindeli yazarlar
 
 ### Sonja Bezjak
 
-* University of Ljubljana, Slovenia
+* Ljubljana Üniversitesi, Slovenya
 * [sonja.bezjak@fdv.uni-lj.si](mailto:sonja.bezjak@fdv.uni-lj.si)
 * [@sonja\_adp](https://twitter.com/sonja_adp)
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak](http://img.youtube.com/vi/qygm7Byc9eA/0.jpg)](http://www.youtube.com/watch?v=qygm7Byc9eA "Writing the Open Science Training Handbook - an author's perspective by Sonja Bezjak")
 
-In the Social Science Data Archives I am primarily engaged with issues related to open access to research data. One of my roles is to train different stakeholders on research data policy, research data management planning, data citation, data publications etc. As a member of CESSDA ERIC training group I try to share my knowledge and experience internationally.
+[Social Science Data Archive'da](https://www.fdv.uni-lj.si/en/research/journals/social-science-data-archive) öncelikli olarak araştırma verilerine açık erişimle ilgili konularla ilgileniyorum. Görevlerimden biri, farklı paydaşları araştırma veri politikası, araştırma veri yönetimi planlaması, veri atıfı, veri yayınları vb. konularında eğitmektir. CESSDA ERIC eğitim grubunun bir üyesi olarak bilgi ve tecrübemi uluslararası düzeyde paylaşmaya çalışıyorum.
 
-I was taught about scientific values, including transparency and reproducibility while studying sociology. But only later from my friends, a physicist and an engineer, I learnt about the Open Source movement. I immediately understood the importance of spreading the idea of not hiding your findings and sharing your knowledge with others as soon as possible. Only when I started to work at the Social Science Data Archives \(University of Ljubljana, Slovenia\) and became heavily involved in the Open data project I realized how much effort was needed to change the culture and to be able to get over the barriers of not openly sharing research outputs. I hope this handbook will help in making science as open and understandable as possible.
+Sosyoloji okurken şeffaflık ve tekrarlanabilirlik gibi bilimsel değerler hakkında eğitim aldım. Ancak daha sonra fizikçi ve mühendis olan arkadaşlarımdan Açık Kaynak hareketini öğrendim. Bulgularınızı saklamama fikrini yaymanın ve bilginizi mümkün olan en kısa sürede başkalarıyla paylaşmanın önemini hemen anladım. Ancak Social Science Data Archive'da \(Ljubljana Üniversitesi, Slovenya\) çalışmaya başladığımda ve açık veri projesine yoğun bir şekilde dahil olduğumda, kültürü değiştirmek ve araştırma çıktılarını açıkça paylaşmanın önündeki engelleri aşmak için ne kadar çaba gerektiğini anladım. Umarım bu el kitabı bilimi mümkün olduğunca açık ve anlaşılır yapmaya yardımcı olacaktır.
 
 ### Philipp Conzett
 
-* UiT The Arctic University of Norway, Norway
+* UiT Norveç Arktik Üniversitesi, Norveç
 * [philipp.conzett@uit.no ](mailto:philipp.conzett@uit.no )
 * [@philippconzett](https://twitter.com/philippconzett)
 * [0000-0002-6754-7911](https://orcid.org/0000-0002-6754-7911)
 
-Trained as a linguist, I only had a vague understanding of Open Science when I started to work as a research librarian at UiT The Arctic University of Norway back in 2014. Luckily, I soon was involved in developing and running research support services, including repositories for open research data, starting with a discipline-specific one \(TROLLing\), then an institutional one \(UiT Open Research Data\), and finally a nationwide one \(DataverseNO\). Participating in the Open Science book sprint has been a fruitful contribution to my training competence.
+Bir dilbilimci olarak eğitim görüp ve 2014 yılında Norveç Arktik Üniversitesi'nde araştırma kütüphanecisi olarak çalışmaya başladığımda açık bilim hakkında sadece belli belirsiz bir bilgiye sahiptim. Neyse ki, kısa bir süre sonra, disipline özgü bir hizmetle \(TROLLing\) başlayarak, ardından kurumsal bir hizmetle \(UiT Açık Araştırma Verileri\) ve son olarak ülke çapında bir hizmetle \(DataverseNO\) açık araştırma verileri için depolar da dahil olmak üzere araştırma destek hizmetlerinin geliştirilmesi ve yürütülmesine dahil oldum.
 
-There are two major pitfalls for Open Science trainers, as I see it. One, novice trainers may feel so overwhelmed by the topics to cover, and the available resources that they don’t get started. Two, experienced trainers promoting Open Science may turn their efforts too much into a movement only accessible for the initiated. I hope this book can help to overcome both obstacles.
+Gördüğüm kadarıyla Açık Bilim eğitmenleri için iki büyük tuzak var. İlki, acemi eğitmenler ele alınacak konuların ve henüz bakmadıkları mevcut kaynakların altında ezilebilirler. İkincisi, açık bilimi teşvik eden deneyimli eğitmenler çabalarını çok büyük ölçüde yeni başlayanlar için erişilebilir olan bir harekete dönüştürebilir. Umarım bu kitap iki engeli de aşmaya yardımcı olabilir.
 
 ### Pedro L. Fernandes
 
-* Instituto Gulbenkian de Ciência, Portugal
+* Gulbenkian Bilim Enstitüsü, Portekiz
 * [pfern@igc.gulbenkian.pt](mailto:pfern@igc.gulbenkian.pt)
 * [@pfern](https://twitter.com/pfern)
 * [0000-0003-2124-0241](https://orcid.org/0000-0003-2124-0241)
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes](http://img.youtube.com/vi/r9k729JROEE/0.jpg)](http://www.youtube.com/watch?v=r9k729JROEE "Writing the Open Science Training Handbook - an author's perspective by Pedro Fernandes")
 
-I run a training program in Bioinformatics at the Instituto Gulbenkian de Ciência, in Oeiras, PT since 1999. More than 5000 course participants in 19 years. Extending this activity with distance and e-learning, to better reach for 21st century learners.  I am an advocate of Open Access, Open Data, Open Source and Open Science that takes any possible chance to put these causes through via training. I am conscious that this movement needs to scale-up and reach for non-scientists as well, so I am very interested in its amplification and diffusion.
+1999'dan beri Oeiras, Portekiz'deki Gulbenkian Bilim Enstitüsü'nde Biyoinformatik alanında bir eğitim programı yürütüyorum. 19 yılda 5000'den fazla kurs katılımcısı oldu. 21. yüzyıl öğrencilerine daha iyi ulaşmak için bu kurs uzaktan ve e-öğrenme ile genişletildi. Açık erişim, açık veri, açık kaynak ve açık bilimin savunucusuyum ve bunları eğitim yoluyla ortaya koymak için her türlü şansı değerlendiriyorum. Bu hareketin büyütülmesi ve bilim insanı olmayanlara da ulaşması gerektiğinin bilincindeyim, bu yüzden bu hareketin büyütülmesi ve yayılmasıyla çok ilgileniyorum.
 
-Open Science is an attitude that requires a large but feasible education step. Advocates like me need to join forces and make it happen every day. Training in Open Science is needed at a wide range of levels. To address the entry level, together with Rutger A.Vos, we prepared the free e-book "Open Science, Open Data, Open Source" in 2017 \([http://osodos.org](http://osodos.org)\). More advocacy and training to come.
+Açık lilim, büyük ama uygulanabilir bir eğitim adımı gerektiren bir fikirdir. Benim gibi savunucuların güçlerini birleştirmeleri ve bunu her gün gerçekleştirmeleri gerekiyor. Açık bilim eğitimi çok çeşitli seviyelerde gereklidir. Giriş seviyesine hitap etmek için 2017 yılında Rutger A. Vos ile birlikte ücretsiz olan "Open Science, Open Data, Open Source" \([http://osodos.org](http://osodos.org)\) kitabını hazırladık. Daha fazla savunuculuk ve eğitim gelecek.
 
 ### Edit Görögh
 
-* University of Göttingen, Germany
+* Göttingen Üniversitesi, Almanya
 * [goeroegh@sub.uni-goettingen.de](mailto:goeroegh@sub.uni-goettingen.de)
 * [@gorogh\_edit](https://twitter.com/gorogh_edit)
 * [0000-0002-0766-418X](https://orcid.org/0000-0002-0766-418X)
 
 [![Video - Writing the Open Science Training Handbook - an author's perspective by Edit Görögh](http://img.youtube.com/vi/4OOSU4V__RQ/0.jpg)](http://www.youtube.com/watch?v=4OOSU4V__RQ "Writing the Open Science Training Handbook - an author's perspective by Edit Görögh")
 
-I am currently working at the University of Göttingen as a project officer for OpenUP, an EU funded project which aims at developing a cohesive framework for new methods, indicators and tools for peer review, dissemination of research results, and impact measurement. I have been in involved in knowledge management and open science/access related programs for more than 10 years.
+Şu anda Göttingen Üniversitesi'nde, hakem değerlendirmesi, araştırma sonuçlarının yaygınlaştırılması ve etki ölçümü için yeni yöntemler, göstergeler ve araçlarla uyumlu bir çerçeve geliştirmeyi amaçlayan AB tarafından finanse edilen OpenUP projesinde proje sorumlusu olarak çalışıyorum. 10 yıldan fazla bir süredir bilgi yönetimi ve açık bilim/erişim ile ilgili programlarda yer alıyorum.
 
-Working for Open Science projects, I had the chance to get acquainted with both the diverse community of Open Science advocates and the reluctant, skeptical groups of researchers and decision makers, which both urged me to get more immersed in the Open Science discourse and follow developments and learn about the tools and methods to speak effectively about the benefits and challenges we face in the changing world of research communications.
+Açık Bilim projeleri için çalışırken, hem çeşitli Açık Bilim savunucuları topluluğuyla hem de beni Açık Bilim söylemine daha fazla dalmaya ve gelişmeleri takip etmeye teşvik eden isteksiz, şüpheci araştırmacı ve karar verici grupları tanıma şansım oldu.
 
+Working for Open Science projects, hem çeşitli açık bilim savunucusu topluluklarla hem de isteksiz, şüpheci araştırmacı ve karar verici topluluklarıyla tanışma şansım oldu. Bunların ikisi de beni açık bilim söylemine daha fazla dalmaya ve gelişmeleri takip etmeye, değişen araştırma iletişimi dünyasında karşılaştığımız faydalar ve zorluklar hakkında etkili bir şekilde konuşmak için  araç ve yöntemleri öğrenmeye itti.
 ### Kerstin Helbig
 
 * Humboldt-Universität zu Berlin, Germany
