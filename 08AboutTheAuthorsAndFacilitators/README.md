@@ -37,7 +37,7 @@ Gördüğüm kadarıyla Açık Bilim eğitmenleri için iki büyük tuzak var. �
 
 1999'dan beri Oeiras, Portekiz'deki Gulbenkian Bilim Enstitüsü'nde Biyoinformatik alanında bir eğitim programı yürütüyorum. 19 yılda 5000'den fazla kurs katılımcısı oldu. 21. yüzyıl öğrencilerine daha iyi ulaşmak için bu kurs uzaktan ve e-öğrenme ile genişletildi. Açık erişim, açık veri, açık kaynak ve açık bilimin savunucusuyum ve bunları eğitim yoluyla ortaya koymak için her türlü şansı değerlendiriyorum. Bu hareketin büyütülmesi ve bilim insanı olmayanlara da ulaşması gerektiğinin bilincindeyim, bu yüzden bu hareketin büyütülmesi ve yayılmasıyla çok ilgileniyorum.
 
-Açık lilim, büyük ama uygulanabilir bir eğitim adımı gerektiren bir fikirdir. Benim gibi savunucuların güçlerini birleştirmeleri ve bunu her gün gerçekleştirmeleri gerekiyor. Açık bilim eğitimi çok çeşitli seviyelerde gereklidir. Giriş seviyesine hitap etmek için 2017 yılında Rutger A. Vos ile birlikte ücretsiz olan "Open Science, Open Data, Open Source" \([http://osodos.org](http://osodos.org)\) kitabını hazırladık. Daha fazla savunuculuk ve eğitim gelecek.
+Açık bilim, büyük ama uygulanabilir bir eğitim adımı gerektiren bir fikirdir. Benim gibi savunucuların güçlerini birleştirmeleri ve bunu her gün gerçekleştirmeleri gerekiyor. Açık bilim eğitimi çok çeşitli seviyelerde gereklidir. Giriş seviyesine hitap etmek için 2017 yılında Rutger A. Vos ile birlikte ücretsiz olan "Open Science, Open Data, Open Source" \([http://osodos.org](http://osodos.org)\) kitabını hazırladık. Daha fazla savunuculuk ve eğitim gelecek.
 
 ### Edit Görögh
 
@@ -52,10 +52,9 @@ Açık lilim, büyük ama uygulanabilir bir eğitim adımı gerektiren bir fikir
 
 Açık Bilim projeleri için çalışırken, hem çeşitli Açık Bilim savunucuları topluluğuyla hem de beni Açık Bilim söylemine daha fazla dalmaya ve gelişmeleri takip etmeye teşvik eden isteksiz, şüpheci araştırmacı ve karar verici grupları tanıma şansım oldu.
 
-Working for Open Science projects, hem çeşitli açık bilim savunucusu topluluklarla hem de isteksiz, şüpheci araştırmacı ve karar verici topluluklarıyla tanışma şansım oldu. Bunların ikisi de beni açık bilim söylemine daha fazla dalmaya ve gelişmeleri takip etmeye, değişen araştırma iletişimi dünyasında karşılaştığımız faydalar ve zorluklar hakkında etkili bir şekilde konuşmak için  araç ve yöntemleri öğrenmeye itti.
 ### Kerstin Helbig
 
-* Humboldt-Universität zu Berlin, Germany
+* Berlin Humboldt Üniversitesi, Almanya
 * [kerstin.helbig@cms.hu-berlin.de](mailto:kerstin.helbig@cms.hu-berlin.de)
 * [@FrauHelbig](https://twitter.com/FrauHelbig)
 * [0000-0002-2775-6751](https://orcid.org/0000-0002-2775-6751)
