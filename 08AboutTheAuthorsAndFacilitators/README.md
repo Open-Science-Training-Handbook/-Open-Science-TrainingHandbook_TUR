@@ -184,22 +184,22 @@ Diğer bilim adamlarını nasıl daha iyi bilim yapacakları konusunda eğiterek
 
 ### Helene Brinken
 
-* University of Göttingen, State and University Library, Germany
+* Göttingen Üniversitesi, Devlet ve Üniversite Kütüphanesi, Almanya
 * [brinken@sub.uni-goettingen.de](mailto:brinken@sub.uni-goettingen.de)
 * [@helenebrinken](https://twitter.com/helenebrinken)
 * [0000-0002-3278-0422](https://orcid.org/0000-0002-3278-0422)
 
-Responsible for Outreach and Advocacy in the FOSTER project at Göttingen University since May 2017. Background in Information Science with focus on e-learning and usability & user experience, now developing learning materials and facilitating workshops.
+Mayıs 2017'den beri Göttingen Üniversitesi'ndeki FOSTER projesinde Destek ve Savunuculuktan sorumludur. E-öğrenme ve kullanılabilirlik ve kullanıcı deneyimine odaklı olarak Bilgi Biliminde arka plana sahip, halihazırda öğrenme materyalleri geliştiriyor ve çalıştaylara yardımcı oluyor.
 
-Before working for FOSTER I worked with young activists engaging for worldwide education and against social injustice. I learned how important group dynamics are and what can be achieved when combining forces. Culture change starts at the level of individuals. Bringing together the researchers interested in Open Science can be a great step forward to foster OS at your institution. If they get support, meet other enthusiasts and learn they can soon be multiplicators themselves.
+FOSTER için çalışmadan önce, dünya çapında eğitim adaletsizliği ve sosyal adaletsizliğe karşı biraraya gelmiş  genç aktivistlerle çalıştım. Grup dinamiklerinin ne kadar önemli olduğunu ve güçler birleştirilince neler başarılabileceğini öğrendim. Kültürel değişim bireyler düzeyinde başlıyor. Açık bilimle ilgilenen araştırmacıları bir araya getirmek, kurumunuzda açık bilimi teşvik etmek için ileriye doğru atılmış büyük bir adım olabilir. Destek gelirse, istekli diğer kişilerle tanışın ve yakın zamanda kendilerinin de destek toplayıp toplayamayacapını öğrenin.
 
 ### Lambert Heller
 
-* TIB - German National Library of Science and Technology, Hannover, Germany
+* TIB - Alman Ulusal Bilim ve Teknoloji Kütüphanesi, Hannover, Almanya
 * [lambert.heller@tib.eu](mailto:lambert.heller@tib.eu)
 * [@Lambo](https://twitter.com/Lambo)
 * [0000-0003-0232-7085](https://orcid.org/0000-0003-0232-7085)
 
-With a background in social sciences, I’m a librarian by training, working as a subject specialist at a university library for several years, and kicked of the Open Science Lab at TIB \(German National Library for Science and Technology\) in 2013, now running a number of grant projects. Facilitating and advising book sprints since 2014. Helped to make VIVO, a free current research information system \(CRIS\) based entirely on Linked Open Data, popular in Germany. Kicked of a few discussions in libraryland and elsewhere, e.g. on Blockchain for Science.
+Sosyal bilimler arka planıyla eğitim almış bir kütüphaneciyim; birkaç yıl bir üniversite kütüphanesinde konu uzmanı olarak çalıştım ve 2013 yılında TIB'de \(Alman Bilim ve Teknoloji Ulusal Kütüphanesi\) Açık Bilim Laboratuvarında çalışmaya başladım, şu anda bir dizi proje yürütüyorum. 2014'ten beri kitap sprintleri öneriyor ve bunlara yardımcı oluyorum. Tamamen "bağlantılı açık verilere" (linked open data) dayalı ücertsiz bir güncel araştırma bilgi sistemi (\(current reserach information system - CRIS\) olan VIVO'nun Almaya'da popüler hale gelmesine yardımcı oldum. Libraryland ve benzeri başka platformlarda örneğin bilim için blok zinciri gibi tartışmalar başlattım.
 
-When giving workshops \(e.g., a half day workshop for PhD students and PostDocs from Leibniz Research Association in Germany in 2017, on the matter of scholarly profile and collaborative writing services\) it’s always a pleasure to tap into the curiosity of learners. Even the busiest student has experiences, questions and imagines how things could work best for them. I love to make use of this positive energy! And it makes it much easier for a trainer to run a training session.
+Çalıştay yaparken \(örneğin, 2017 yılında Almanya'daki Leibniz Araştırma Derneği'nden doktora öğrencileri ve doktora sonrası araştırmacılar için bilimsel profil ve ortak yazma platformları konusunda yarım günlük bir çalıştay\) katılımcıların merakından faydalanmak her zaman bir zevktir. En meşgul öğrencinin bile deneyimleri, soruları vardır ve işlerin kendisi için en iyi nasıl çalışabileceğini hayal eder. Bu pozitif enerjiyi kullanmayı seviyorum! Eğitmenin bir etkinliği yürütmesini çok daha kolay hale getiriyor.
