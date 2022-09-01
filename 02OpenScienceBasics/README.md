@@ -8,7 +8,7 @@ Her bölüm, konunun kısa bir tanımını, Açık Bilim ile olan ilgisinin bir 
 ## Bölümler
 
 * [1. Açık Kavramlar ve İlkeler](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
-* [2. Açık Araştırma Verisi ve Materyalleri](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+* [2. Açık Araştırma Verileri ve Materyalleri](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
 * [3. Açık Araştırma Yazılımları ve Açık Kaynak](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/03OpenResearchSoftwareAndOpenSource.md)
 * [4. Tekrarlanabilir Araştırma ve Veri Analizi](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/04ReproducibleResearchAndDataAnalysis.md)
 * [5. Yayımlanmış Araştırma Çıktılarına Açık Erişim](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
