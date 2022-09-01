@@ -60,7 +60,7 @@ Savunuculuk programlarının temel amaçları:
 
 * Bugüne kadar elde edilen başarılar ve gelecekteki zorluklarla ilgili bilgi yayarak karar vericilerin ve halkın katılımını sürdürmek
 
-##### İy savunuculuk için adımlar
+##### İyi savunuculuk için adımlar
 
 1. Hedeflerinizi belirleyin
    1. Neyin değişmesi gerekiyor?
