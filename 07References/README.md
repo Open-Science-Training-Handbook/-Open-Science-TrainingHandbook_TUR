@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/magnifying_glass.png" width="200" height="200" />
-## References
+## Kaynakça
 
 > *Not:* Bu kaynakça https://www.zotero.org/groups/2114699/open_science_book/items/collectionKey/XIUNJBME adresindeki *Açık Bilim Eğitim El Kitabı* topluluğu ile birlikte yürütülmektedir.
 
