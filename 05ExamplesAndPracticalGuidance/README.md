@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/live_event.png" width="200" height="200" /> <img src="/Images/Icons/balloon_thought.png" width="200" height="200" />
-### Örnekler & Uygulamalı Rehberlik: benimsemek, uyarlamak, geliştirmek
+### Örnekler ve Uygulamalı Rehberlik: benimsemek, uyarlamak, geliştirmek
 
 Bu bölümde, katılımcıları açık bilim konularını eleştirel bir şekilde irdelemeye aktif olarak davet etmenize yardımcı olacak çok sayıda materyal bulacaksınız.
 
