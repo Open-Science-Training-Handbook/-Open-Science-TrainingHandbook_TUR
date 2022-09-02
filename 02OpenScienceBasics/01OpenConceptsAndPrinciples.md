@@ -78,21 +78,21 @@ Açık Bilim, yukarıda tanımlandığı gibi, hakim kültürün genellikle hiye
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
 
-Q: "Açık Bilim ile ‘bilim’ arasındaki farklılık nedir?"
+S: "Açık Bilim ile ‘bilim’ arasındaki farklılık nedir?"
 
-A: Açık Bilim, örneğin kod ve verileri açıkça paylaşarak geleneksel bilimi çeşitli aşamalarda daha fazla şeffaflık içerecek şekilde yapmayı ifade eder. Birçok araştırmacı bunu halihazırda yapmakta ancak Açık Bilim olarak adlandırmamaktadır.
+C: Açık Bilim, örneğin kod ve verileri açıkça paylaşarak geleneksel bilimi çeşitli aşamalarda daha fazla şeffaflık içerecek şekilde yapmayı ifade eder. Birçok araştırmacı bunu halihazırda yapmakta ancak Açık Bilim olarak adlandırmamaktadır.
 
-Q: "Sosyal ve Beşeri Bilimler ‘Açık Bilim’ kapsamında değil midir?"
+S: "Sosyal ve Beşeri Bilimler ‘Açık Bilim’ kapsamında değil midir?"
 
-A: Hayır, Açık Bilim terimi kapsayıcıdır. Aslında durum şu ki, Açık Bilim bazen diğer disiplinler, ilkeler ve uygulamalar anlamında daha kapsayıcı olması için daha geniş içerikli  ‘Açık Araştırma (Open Research)’ ya da ‘Açık Akademi (Open Scholarship)’ terimleri ile adlandırılmaktadır. Bununla birlikte, Açık Bilim birçok düzeyde yaygın kullanılan terimdir ve bu nedenle, tüm araştırma disiplinlerini içermesi koşuluyla, iletişim amaçlı olarak benimsenmesi makul görülmektedir.
+C: Hayır, Açık Bilim terimi kapsayıcıdır. Aslında durum şu ki, Açık Bilim bazen diğer disiplinler, ilkeler ve uygulamalar anlamında daha kapsayıcı olması için daha geniş içerikli  ‘Açık Araştırma (Open Research)’ ya da ‘Açık Akademi (Open Scholarship)’ terimleri ile adlandırılmaktadır. Bununla birlikte, Açık Bilim birçok düzeyde yaygın kullanılan terimdir ve bu nedenle, tüm araştırma disiplinlerini içermesi koşuluyla, iletişim amaçlı olarak benimsenmesi makul görülmektedir.
 
-Q: "Açık Bilim, araştırmanın kötüye kullanılmasına veya yanlış anlaşılmasına yol açar mı?"
+S: "Açık Bilim, araştırmanın kötüye kullanılmasına veya yanlış anlaşılmasına yol açar mı?"
 
-A: Hayır, Açık Bilim ilkelerinin uygulanması aslında kötüye kullanıma veya yanlış anlaşılmaya karşı bir güvencedir. Şeffaflık inancı, güveni besler ve diğer kişilerin araştırma sürecini doğrulaması ve onaylamasına olanak sağlar.
+C: Hayır, Açık Bilim ilkelerinin uygulanması aslında kötüye kullanıma veya yanlış anlaşılmaya karşı bir güvencedir. Şeffaflık inancı, güveni besler ve diğer kişilerin araştırma sürecini doğrulaması ve onaylamasına olanak sağlar.
 
-Q: "Açık Bilim çok fazla bilgi yüklemesine yol açar mı?"
+S: "Açık Bilim çok fazla bilgi yüklemesine yol açar mı?"
 
-A: Çok az bilgiye sahip olup önemli kısımları kaçırma riskiyle yaşamaktansa, çok fazla bilgiye sahip olup bunlarla uğraşmak daha iyidir. Ayrıca RSS beslemeleri, makine öğrenimi ve yapay zeka gibi içerik toplamayı kolaylaştıran teknolojiler de vardır.
+C: Çok az bilgiye sahip olup önemli kısımları kaçırma riskiyle yaşamaktansa, çok fazla bilgiye sahip olup bunlarla uğraşmak daha iyidir. Ayrıca RSS beslemeleri, makine öğrenimi ve yapay zeka gibi içerik toplamayı kolaylaştıran teknolojiler de vardır.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
