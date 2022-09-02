@@ -647,7 +647,7 @@ Katılımcı platformlar</td>
 
 * Başka amaçlar için nasıl uyarlanır?
 
-Çiftler/gruplar halinde çalışma atlanıp, sadece tüm gruba sunum yapılarak etkinlik kısaltılabilir. 
+     * Çiftler/gruplar halinde çalışma atlanıp, sadece tüm gruba sunum yapılarak etkinlik kısaltılabilir. 
 
 ##### **Örnek 7: Veriler neden paylaşılmıyor?**
 
