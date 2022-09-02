@@ -223,7 +223,7 @@ Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacıları
   <tr>
     <td>12</td>
     <td>Üst veri oluşturmak</td>
-    <td>Açık araştırma verisi ve materyaller</td>
+    <td>Açık araştırma verileri ve materyaller</td>
     <td>bireysel / çiftler halinde</td>
     <td>5 dk.</td>
   </tr>
@@ -311,7 +311,7 @@ Katılımcı platformlar</td>
   <tr>
     <td>24</td>
     <td>OSF projesi oluşturmak ve diğer platformlarla bağlantı kurmak (devam ediyor)</td>
-    <td>Açık araştırma verisi ve materyaller</td>
+    <td>Açık araştırma verileri ve materyaller</td>
     <td>bireysel /çiftler halinde</td>
     <td></td>
   </tr>
