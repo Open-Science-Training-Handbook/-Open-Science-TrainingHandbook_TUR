@@ -295,7 +295,7 @@ Açık eğitim kaynakları</td>
   <tr>
     <td>22</td>
     <td>Sade dilde açıklamalar (devam ediyor)</td>
-    <td>Yurttaş bilimciler ve bilim iletişimi
+    <td>Yurttaş bilimi
 
 Katılımcı platformlar</td>
     <td>küçük gruplar</td>
