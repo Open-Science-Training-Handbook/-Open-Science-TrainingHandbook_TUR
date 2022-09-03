@@ -151,29 +151,29 @@ Tekrarlanabilir analizler, kolay anlaşılır (literate) programlama, konteyner 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
 
-Q: "Verilerimi açık erişimli yapmam yeterli midir?"
+S: "Verilerimi açık erişimli yapmam yeterli midir?"
 
-A: "Hayır—Açıklık, en üst düzeyde yeniden kullanım için gerekli ancak yeterli olmayan bir koşuldur. Veriler açık olmasının yanı sıra FAIR olmalıdır."
+C: "Hayır—Açıklık, en üst düzeyde yeniden kullanım için gerekli ancak yeterli olmayan bir koşuldur. Veriler açık olmasının yanı sıra FAIR olmalıdır."
 
-Q: "FAIR ilkeleri farklı paydaşlar/hedef kitleler için ne anlama gelir?"
+S: "FAIR ilkeleri farklı paydaşlar/hedef kitleler için ne anlama gelir?"
 
-A: "Bu tartışma için harika bir konu!"
+C: "Bu tartışma için harika bir konu!"
 
 Engel: Araştırmacılar verilerini paylaşmak için gönülsüz olabilirler çünkü kendileri verileri en üst düzeyde fayda elde etmeden başkalarının yeniden kullanmasından ya da verileri tam olarak anlayamayabileceğinden ve bu nedenle kötüye kullanabileceğinden korkarlar.
 
 \(öneri\) A: Verilerinizi keşfedilebilir kılmak için üst verilerle birlikte paylaşabilir, ancak önce kendi makale\(lerinizi\) yayımlayabileceğinizden emin olmak için veriye bir ambargo süresi koyabilirsiniz.
 
-Q: "Verilerimi FAIR yapmam çok fazla ek iş yaratır mı?"
+S: "Verilerimi FAIR yapmam çok fazla ek iş yaratır mı?"
 
-A: "Tam olarak değil! Verilerin FAIR yapılması sadece bireysel olarak araştırmacıların değil tüm grubun sorumluluğundadır. Verilerinizin FAIR olduğundan emin olmak için en iyi yol bir Veri Yönetim Planı hazırlayarak herşeyi önceden planlamaktır. Veri toplama ve veri işleme esnasında bir veri havuzu tarafından önerilen disiplinin standartlarına ya da önlemlere uyun.
+C: "Tam olarak değil! Verilerin FAIR yapılması sadece bireysel olarak araştırmacıların değil tüm grubun sorumluluğundadır. Verilerinizin FAIR olduğundan emin olmak için en iyi yol bir Veri Yönetim Planı hazırlayarak herşeyi önceden planlamaktır. Veri toplama ve veri işleme esnasında bir veri havuzu tarafından önerilen disiplinin standartlarına ya da önlemlere uyun.
 
-Q: "Verilerimi paylaşmak istiyorum. Nasıl lisanslamalıyım?"
+S: "Verilerimi paylaşmak istiyorum. Nasıl lisanslamalıyım?"
 
-A: "Bu güzel bir soru. Öncelikle verinin sahibinin kim olduğunu düşünün. Bir araştırma fonlayıcı mı ya da çalıştığınız kurum mu? Sonrasında, yazarlığı düşünün. Uygun bir lisans kullanmak, verilerinizi yeniden kullanılanilir kılmak için çok önemlidir. Lisanslama hakkında daha fazla bilgi için lütfen bkz. [6. Açık Lisanslama ve Dosya Formatları](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/06OpenLicensingAndFileFormats.md).
+C: "Bu güzel bir soru. Öncelikle verinin sahibinin kim olduğunu düşünün. Bir araştırma fonlayıcı mı ya da çalıştığınız kurum mu? Sonrasında, yazarlığı düşünün. Uygun bir lisans kullanmak, verilerinizi yeniden kullanılanilir kılmak için çok önemlidir. Lisanslama hakkında daha fazla bilgi için lütfen bkz. [6. Açık Lisanslama ve Dosya Formatları](https://github.com/Open-Science-Training-Handbook/-Open-Science-TrainingHandbook_TUR/blob/master/02OpenScienceBasics/06OpenLicensingAndFileFormats.md).
 
-Q: "Verilerimi doğrudan erişilebilir hale getiremiyorum—rahatça paylaşılamayacak kadar büyük / gizlilik konularıyla ilgili kısıtlamalar söz konusu. Ne yapmalıyım?"
+S: "Verilerimi doğrudan erişilebilir hale getiremiyorum—rahatça paylaşılamayacak kadar büyük / gizlilik konularıyla ilgili kısıtlamalar söz konusu. Ne yapmalıyım?"
 
-A: "Alana özgü veri havuzlarındaki uzmanlarla, verilerinizi keşfedilebilir ve erişilebilir hale getirmek için uygun talimatların nasıl sağlanacağı konusunda konuşmalısınız."
+C: "Alana özgü veri havuzlarındaki uzmanlarla, verilerinizi keşfedilebilir ve erişilebilir hale getirmek için uygun talimatların nasıl sağlanacağı konusunda konuşmalısınız."
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
