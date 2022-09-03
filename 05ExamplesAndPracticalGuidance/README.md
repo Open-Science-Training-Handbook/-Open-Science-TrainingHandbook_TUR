@@ -541,7 +541,7 @@ Katılımcı platformlar</td>
 
         1. "Açık Bilim tarzında çalışmak araştırmayı daha eğlenceli hale getirir"
 
-        2. "Scooping açık bilimi zor bir seçim haline getiren gerçek ve mevcut bir sorundur"
+        2. "Scooping (atlatma) açık bilimi zor bir seçim haline getiren gerçek ve mevcut bir sorundur"
 
         3. "APC ücretleri (makale işlem ücretleri) daha fazla açık erişimli yayın yapmanın önündeki en büyük engeldir"
 
