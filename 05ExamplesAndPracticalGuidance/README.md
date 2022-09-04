@@ -1574,7 +1574,7 @@ Figure x - Açık bilim uygulamaları gökkuşağı (düzenlenebilir slaytlar da
 
 PF - 1 Zihin ve Kavram Haritaları
 
-Daha karmaşık konuların kavramsallaştırılması için yakın zamanda edinilen bilgi veya becerilerin görselleştirilmesi çok işe yarayabilir. Basit açık kaynak araçları tek tek ve toplu olarak kullanıldığında büyük bir istek/heves oluşabilir. Bu teknikler dizisinin genel adı bir zihin ve kavram haritasıdır. A relatively simple software like [X-Mind](http://www.xmind.net/) gibi nispeten basit bir yazılım iyi bir başlangıç olabilir. 
+Daha karmaşık konuların kavramsallaştırılması için yakın zamanda edinilen bilgi veya becerilerin görselleştirilmesi çok işe yarayabilir. Basit açık kaynak araçları tek tek ve toplu olarak kullanıldığında büyük bir istek/heves oluşabilir. Bu teknikler dizisinin genel adı bir zihin ve kavram haritasıdır. [X-Mind](http://www.xmind.net/) gibi nispeten basit bir yazılım iyi bir başlangıç olabilir. 
 
 ![image alt text](/Images/image_17.png)
 
