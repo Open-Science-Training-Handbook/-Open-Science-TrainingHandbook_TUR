@@ -138,17 +138,17 @@ Yöntem ve müdahalelerinizi açık, şeffaf ve tekrarlanabilirliğe (replicatio
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller, yaygın yanlış anlamalar
 
-Q: "Herşey yayının içinde mevcut; isteyen herkes çalışmayı bu bilgileri kullanarak tekrarlayabilir!"
+S: "Herşey yayının içinde mevcut; isteyen herkes çalışmayı bu bilgileri kullanarak tekrarlayabilir!"
 
-A: Bu en yaygın yanılgılardan biridir. Nihai sonuca ulaşabilmek için kullanılan yöntem ve iş akışları ile ilgili son derece ayrıntılı açıklama yapılmış olması bile çoğu durumda çalışmayı tekrarlamak için yeterli olmayacaktır. Bunun farklı hesaplama ortamları, yazılım sürümleri arasındaki farklılıklar, açıkça belirtilmeyen örtük yanlılıklar vb. gibi çeşitli nedenleri olabilir.
+C: Bu en yaygın yanılgılardan biridir. Nihai sonuca ulaşabilmek için kullanılan yöntem ve iş akışları ile ilgili son derece ayrıntılı açıklama yapılmış olması bile çoğu durumda çalışmayı tekrarlamak için yeterli olmayacaktır. Bunun farklı hesaplama ortamları, yazılım sürümleri arasındaki farklılıklar, açıkça belirtilmeyen örtük yanlılıklar vb. gibi çeşitli nedenleri olabilir.
 
-Q: "Tekrarlanabilir iş akışlarını öğrenecek ve oluşturacak zamanım yok."
+S: "Tekrarlanabilir iş akışlarını öğrenecek ve oluşturacak zamanım yok."
 
-A: Birleştirilebilen ve tüm bir iş akışının oluşturulmasını kolaylaştıran önemli sayıda ücretsiz çevrimiçi servise ek olarak, bunları bir araya getirmek için zaman ve çaba harcamak hem nihai sonuçların bilimsel geçerliliğini artıracak hem de ileriki çalışmalarda yeniden kullanma ve genişletme için gereken zamanı en aza indirecektir.
+C: Birleştirilebilen ve tüm bir iş akışının oluşturulmasını kolaylaştıran önemli sayıda ücretsiz çevrimiçi servise ek olarak, bunları bir araya getirmek için zaman ve çaba harcamak hem nihai sonuçların bilimsel geçerliliğini artıracak hem de ileriki çalışmalarda yeniden kullanma ve genişletme için gereken zamanı en aza indirecektir.
 
-Q: "Tekrarlanabilirlik terminolojisi zor."
+S: "Tekrarlanabilirlik terminolojisi zor."
 
-A: "Reproducibility" ve "replicability" terimlerine karşılık gelen tekrarlanabilirlik terminolojisi üzerine bir tartışma için bkz. Barba \(2018\).
+C: "Reproducibility" ve "replicability" terimlerine karşılık gelen tekrarlanabilirlik terminolojisi üzerine bir tartışma için bkz. Barba \(2018\).
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
