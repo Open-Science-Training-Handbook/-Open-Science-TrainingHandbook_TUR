@@ -86,11 +86,11 @@ Tekrarlanabilirliği sağlamak için gerekli bilgi ve becerileri belirlerken ak�
 
 Çalışmanın başında, önerilen çalışma tasarımı ve metodlarını içeren bir çalışma planı ya da protokolü yazarak dokümantasyona başlayın. Mevcut ise [Equator Network](http://www.equator-network.org/) üzerinden bir raporlama kılavuzu kullanın. Sürüm kontrolünü kullanarak çalışma planınız ya da protokolünüzdeki değişiklikleri izleyin \(Sürüm Kontrolü başlığına bakın\). Gereken gücü (power) ve örneklem büyüklüğünü hesaplayın ve düşük güçlü çalışmalar tekrarlanamama eğiliminde olduğunda bu hesaplamayı raporlayın.
 
-###### Tekrarlanabilir araçları ya da materyalleri seçin
+###### Tekrarlanabilir araçları ya da materyalleri seçin.
 
 [CiteAb](https://www.citeab.com/) gibi bir antikor arama motoru kullanarak çalışan antikorları seçin. [Uluslararası Hücre Hattı Kimlik Doğrulama Komitesi - International Cell Line Authentication Committee](http://iclac.org/) tarafından kimliği doğrulanmış olanları seçerek yanlış tanımlanmış hücre hatları yoluyla tekrarlanamazlıktan kaçının. Her mümkün olduğunda, araştırmanızın mülkiyetini elinizde bulundurduğunuz ve araştırmanızı yeniden kullanım için platform dışına taşıyabileceğiniz yazılım ve donanım araçlarını seçin \(bkz. Açık Araştırma Yazılımı ve Açık Kaynak\).
 
-###### Tekrarlanabilir bir proje oluşturun
+###### Tekrarlanabilir bir proje oluşturun.
 
 Tüm araştırma dosyaları için çevrimiçi bir platform, merkezi bir havuz ya da klasör kullanarak proje yönetiminizi merkezileştirin ve organize edin. Github'ı proje dosyalarını birarada tutacak ya da [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/) veya [SciNote](https://scinote.net/) gibi elektronik bir laboratuvar not defteri kullanarak herşeyi yönetecek bir yer olarak kullanabilirsiniz. Ham verilerinizi salt okunur yapın ve işlenmiş verilerden ayrı tutun \(Veri Yönetimi başlığına bakın\).
 
