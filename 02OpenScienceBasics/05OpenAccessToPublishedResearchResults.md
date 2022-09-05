@@ -77,9 +77,9 @@ Bazı disiplinler sonuçları yayınlamak için, örneğin kitaplar gibi dergile
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
 
-Q: "Çalışmamı ön baskı olarak yayınlarsam, kabullenilmeyecek - yalnızca hakemli bir dergi makalesi ile itibar kazanacağım."
+S: "Çalışmamı ön baskı olarak yayınlarsam, kabullenilmeyecek - yalnızca hakemli bir dergi makalesi ile itibar kazanacağım."
 
-A: Birçok fon sağlayıcı, politikalarında ön baskı yayıncılığının artan varlığını kabul ediyor: Howard Hughes Medical Institute \(HHMI\), Wellcome Trust, Medical Research Council \(UK\) ve National Institutes of Health \(NIH\) araştırmacıların hibe başvurularında ve raporlarında kendi ön baskılarına atıf yapabilmelerine izin veren politikalarını duyurmuştur \([Luther 2017](https://scholarlykitchen.sspnet.org/2017/04/18/stars-aligning-preprints/)\). Ayrıca ön baskılar, sonuçların önceliğini belirlemeye yardımcı olur ve daha sonraki bir hakemli makalenin etkisini - ve atıf sayısını - artırmaya yardımcı olabilir \([McKiernan 2016](https://doi.org/10/gbqsng)\).
+C: Birçok fon sağlayıcı, politikalarında ön baskı yayıncılığının artan varlığını kabul ediyor: Howard Hughes Medical Institute \(HHMI\), Wellcome Trust, Medical Research Council \(UK\) ve National Institutes of Health \(NIH\) araştırmacıların hibe başvurularında ve raporlarında kendi ön baskılarına atıf yapabilmelerine izin veren politikalarını duyurmuştur \([Luther 2017](https://scholarlykitchen.sspnet.org/2017/04/18/stars-aligning-preprints/)\). Ayrıca ön baskılar, sonuçların önceliğini belirlemeye yardımcı olur ve daha sonraki bir hakemli makalenin etkisini - ve atıf sayısını - artırmaya yardımcı olabilir \([McKiernan 2016](https://doi.org/10/gbqsng)\).
 
 Hala yayımlanmış son sürüm dışındaki bir sürümü yayınlama konusunda isteksiz bazı araştırmacılar vardır. Bu araştırmacıları, bir telif devir formunu imzaladıklarındaki telif hakkı sonuçları konusunda bilgilendirmek önem taşımaktadır.
 
