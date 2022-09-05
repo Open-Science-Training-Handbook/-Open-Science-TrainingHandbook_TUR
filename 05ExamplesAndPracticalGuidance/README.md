@@ -56,7 +56,7 @@ Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacıları
 * [LERU Veri Yöneticiliği Doktora Yaz Okulu - LERU Doctoral Summer School on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, açıklama, öğrenme hedefleri) 
 
 
-![image alt text](/Images/image_6.png)
+![image alt text](/Images/image_6_tr.png)
 
 *Açık Bilim ve Araştırma Yaz Okulu Program Takvimi, Utrecht Üniversitesi 2017*
 
@@ -403,7 +403,7 @@ Katılımcı platformlar</td>
 
     * Sonuçları tüm grup ile tartışın. Katılımcılar noktaları gördüklerinde, bunun diğer katılımcılardan öğrenmeleri için büyük bir fırsat olabileceğini farkettiklerinden emin olun.
 
-![image alt text](/Images/image_7.png)
+![image alt text](/Images/image_7_tr.png)
 
 * Gereken materyal ve araçlar
 
@@ -411,7 +411,7 @@ Katılımcı platformlar</td>
 
     * İki renkli yapışkanlı noktalar.
 
-![image alt text](/Images/image_8.png)
+![image alt text](/Images/image_8_tr.png)
 
 * Gerekli ön bilgi düzeyi
 
@@ -477,11 +477,11 @@ Katılımcı platformlar</td>
 
         4. hangi politika değişikliklerine ihtiyaç duyulacak
 
-![image alt text](/Images/image_9.png)
+![image alt text](/Images/image_9_tr.png)
 
-![image alt text](/Images/image_10.png)
+![image alt text](/Images/image_10_tr.png)
 
-![image alt text](/Images/image_11.png)
+![image alt text](/Images/image_11_tr.png)
 
 * Gereken materyal ve araçlar
 
@@ -527,7 +527,7 @@ Katılımcı platformlar</td>
 
     * Açık bilim ile ilgili kendi deneyimlerinizi ve görüşlerinizi başkalarının bakış açılarıyla karşılaştırın.
 
-![image alt text](/Images/image_12.png)
+![image alt text](/Images/image_12_tr.png)
 
 * Alıştırma tanımı
 
@@ -1199,7 +1199,7 @@ Katılımcı platformlar</td>
 
     * Daha sonra küçük gruplar tüm gruba sunum yapar ve ek perspektifler/bakış açıları tartışılabilir. 
 
-![image alt text](/Images/image_13.png)
+![image alt text](/Images/image_13_tr.png)
 
 * Gereken materyal ve araçlar
 
@@ -1207,7 +1207,7 @@ Katılımcı platformlar</td>
 
     * Düşük değerli madeni paralar
 
-![image alt text](/Images/image_14.png)
+![image alt text](/Images/image_14_tr.png)
 
 * Gerekli ön bilgi düzeyi
 
@@ -1257,7 +1257,7 @@ Katılımcı platformlar</td>
 
         2. Açık bilim aşağıdan yukarı doğru mu (bottom-up) yoksa yukarıdan aşağı doğru mu (top-down) organize edilmelidir?
 
-![image alt text](/Images/image_15.png)
+![image alt text](/Images/image_15_tr.png)
 
 * Gereken materyal ve araçlar
 
@@ -1534,8 +1534,8 @@ Araştırma araçlarını ve platformlarını listeleyen bazı kaynaklar:
 
 * [Tool combinations](https://tinyurl.com/toolcombinations-cb) (hangi araçların yaygın olarak birlikte kullanıldığı) [renk körü dostu]
 
-![image alt text](/Images/image_16.png)
-Figure x - Açık bilim uygulamaları gökkuşağı (düzenlenebilir slaytlar da dahil olmak üzere Zenodo üzerinde farklı formatlarda mevcut:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
+![image alt text](/Images/image_16_tr.png)
+Figure x - Açık bilim uygulamaları gökkuşağı (düzenlenebilir slaytlar da dahil olmak üzere Zenodo üzerinde farklı formatlarda mevcut:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025)), Türkçe çeviri: Güleda Doğan
 
 #### Diğer kaynaklar
 
