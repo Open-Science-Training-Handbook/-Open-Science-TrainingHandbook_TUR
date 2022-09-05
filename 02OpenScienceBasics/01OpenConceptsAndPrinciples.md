@@ -9,7 +9,7 @@ Açık Bilim, araştırmalarda artan titizlik, hesap verebilirlik ve tekrarlanab
 
 Bilimin farklı yanları ile ilgili çeşitli "açıklık" tanımları vardır; [Open Definition](http://opendefinition.org/) tanımı şu şekildedir: “Açık veri ve içerik, herkes tarafından herhangi bir sebeple serbestçe kullanılabilir, uyarlanabilir ve paylaşılabilir”. Açık Bilim, genellikle yayınlara açık erişim, açık araştırma verisi, açık kaynak yazılımlar/araçlar, açık iş akışları, vatandaş bilimi, açık eğitim kaynakları ve açık hakem değerlendirmesi dahil araştırma değerlendirme için alternatif yöntemler gibi alanları içeren çeşitli uygulamaları kapsamaktadır \([Pontika ve diğerleri 2015](https://f1000research.com/articles/6-588/v2#ref-59)\).
 
-![](/Images/image_0.png)Pontika ve diğerleri \(2015\)
+![](/Images/image_0_tr.png)Pontika ve diğerleri \(2015\), Türkçe çeviri: Güleda Doğan
 
 Bu çeşitli uygulamaları gerçekleştirme çabasının altında yatan amaçlar ve varsayımlar Fecher ve Friesike \([2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2272036)\) tarafından analiz edilmiş, literatürün  incelenmesi ile beş ana konu ya da "düşünce ekolü" bulunmuştur. Bunlar:
 
@@ -27,7 +27,7 @@ Bu çeşitli uygulamaları gerçekleştirme çabasının altında yatan amaçlar
 
 Açık Bilim, yukarıda tanımlandığı gibi, hakim kültürün genellikle hiyearşik ve muhafazakar olabildiği akademik uygulamalar için çok fazla sayıda potansiyel yapısal değişikliği kapsar. Ayrıca, araştırmacılar Açık Bilimin hedeflerine olumlu baksalar da, mevcut teşvik mekanizmaları henüz bu yeni açıklık ve işbirliği kültürünü yansıtmadığından, bunun değerini şimdilik göremeyebilirler. Sonuç olarak, araştırmacıları uygulamalarını değiştirmelerine ihtiyaç olduğu konusunda ikna etmek, Açık Bilim uygulamalarının yalnızca etik, sosyal ve akademik faydalarına değil, aynı zamanda işlerinde başarılı olmalarına fiilen yardımcı olacak yöntemlere de hakim olmayı gerektirecektir. Bu kısım, Açık Bilimdeki temel birtakım kavramları, ilkeleri, aktörleri ve uygulamaları ve bunların daha geniş bir araştırma ekosistemine nasıl adapte edileceğini anlatacaktır.
 
-![](/Images/image_1.png)
+![](/Images/image_1_tr.png)
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Öğrenme hedefleri
