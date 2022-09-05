@@ -17,11 +17,11 @@
 
 * Bilişselcilik, dış dünya ile yansıtıcı beynin, halihazırda depolamış olduğu bilgilerle birlikte algılanan bilgilerden ne çıkardığı arasındaki etkileşime dayanır. Bu nedenle bilişselcilik problem çözmeye odaklanır.
 
-**Bağlantıcılık*
+**Bağlantıcılık**
 
 * Bağlantıcılık, kaos, ağ, karmaşıklık ve kendi kendini örgütleme teorileri tarafından keşfedilen ilkelerin bütünleşmesidir. Bağlantıcılık, sürekli olarak yeni bilgiler elde edildiğinden, kararların hızla değişen temellere dayandığı anlayışı ile yönlendirilir.
 
-**Konstrüktivizm**
+**Yapısalcılık (Konstrüktivizm)**
 
 * Konstrüktivizm, dar anlamıyla dünyanın göründüğü gibi olmadığı anlamına gelir. Bunun yerine dünya öncelikle bireysel deneyimlerimizin ve zihinlerimizin ürünüdür. Öğretme ve öğrenme bağlamında bu, öğrencilerin öğrenme yolunu kendilerinin yarattığı anlamına gelir. Bu nedenle odak, öğrencinin yaratıcılığı üzerindedir ve ilerlemenin değerlendirilmesi, doğru ve yanlış arasındaki farklılaşmaya dayanmaz.
 
