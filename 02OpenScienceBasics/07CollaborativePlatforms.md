@@ -70,9 +70,9 @@ Araştırmacılar Web'i uzun zamandır [Twitter](https://twitter.com/), [Faceboo
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
 
-Q: "İşbirliği sürecime neden bir düzey daha karmaşıklık eklemeliyim? doc dosyasını paylaşmak yeterli!"
+S: "İşbirliği sürecime neden bir düzey daha karmaşıklık eklemeliyim? doc dosyasını paylaşmak yeterli!"
 
-A: Bu doğru değil; alışılmış çalışma tarzınıza yeni araçlar ve platformlar ekliyormuşsunuz gibi görünse de, bunlar aslında ilk etapta farkında olmadığınız iletişim sorunlarını çözmektedir. Örneğin, sadece \(yapılan değişikliklerin işaretli olduğu ya da olmadığı\) bir doc dosyası kullanmak, daha üst düzey bilgiyi gösterir ve genellikle yalnızca tüm bilimsel sürecin sonunda olur. Planlamadan raporlamaya kadar katılımcı bir ortam bağlamında çalışmak, hem açık iletişim hem de yeterli kaynak sağlar.
+C: Bu doğru değil; alışılmış çalışma tarzınıza yeni araçlar ve platformlar ekliyormuşsunuz gibi görünse de, bunlar aslında ilk etapta farkında olmadığınız iletişim sorunlarını çözmektedir. Örneğin, sadece \(yapılan değişikliklerin işaretli olduğu ya da olmadığı\) bir doc dosyası kullanmak, daha üst düzey bilgiyi gösterir ve genellikle yalnızca tüm bilimsel sürecin sonunda olur. Planlamadan raporlamaya kadar katılımcı bir ortam bağlamında çalışmak, hem açık iletişim hem de yeterli kaynak sağlar.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
