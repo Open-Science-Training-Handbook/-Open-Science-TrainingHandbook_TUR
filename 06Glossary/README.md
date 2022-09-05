@@ -83,7 +83,7 @@
 
 **Üst Veri**
 
-* Üst veri, genellikle yazarlık, tarihler, başlık, öz, anahtar kelimeler ve lisans bilgileri dahil olmak üzere verilerin temel bir tanımını sağlar. Her şeyden önce verilerin bulunabilirliğine (örneğin, yaratıcı, zaman dilimi, coğrafi konum) hizmet eder .
+* Üst veri, genellikle yazarlık, tarihler, başlık, öz, anahtar kelimeler ve lisans bilgileri dahil olmak üzere verilerin temel bir tanımını sağlar. Her şeyden önce verilerin bulunabilirliğine (örneğin, yaratıcı, zaman dilimi, coğrafi konum) hizmet eder.
 
 **Açık Erişim**
 
