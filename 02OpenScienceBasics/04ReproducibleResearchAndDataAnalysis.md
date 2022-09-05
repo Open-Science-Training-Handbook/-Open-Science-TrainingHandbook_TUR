@@ -30,9 +30,9 @@ Kapsayıcı (overarching) faktörler tekrarlanamazlığın nedenlerine daha fazl
 
 Tekrarlanabilirliğe katkıda bulunan faktörlerin tamamını anlamak önemli olmakla birlikte, bu faktörleri mevcut bir araştırma programına hemen adapte edilebilecek ve tekrarlanabilirliğini hemen iyileştirebilecek adımlara bölmek de zor olabilir. Atılması gereken ilk adımlardan biri, mevcut durumu değerlendirmek ve tekrarlanabilirliği daha da artırmak için adımlar atıldıkça iyileştirmeyi izlemektir. Araştırmaların tekrarlanabilirliği ile ilgili bazı  yaygın sorunlar aşağıdaki şekilde gösterilmektedir.
 
-![](/Images/image_2.png)
+![](/Images/image_2_tr.png)
 
-Kaynak: Sempozyum raporu, Ekim 2015. Reproducibility and reliability of biomedical research: improving research practice. [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf)
+Kaynak: Sempozyum raporu, Ekim 2015. Reproducibility and reliability of biomedical research: improving research practice. [PDF](https://acmedsci.ac.uk/viewFile/56314e40aac61.pdf), Türkçe çeviri: Güleda Doğan
 
 [Goodman, Fanelli ve Ioannidis \(2016\)](https://doi.org/10/gc5sjs) epidemiyoloji, hesaplamalı biyoloji, ekonomi ve klinik deneylerde tekrarlanabilirliğin çoğunlukla aşağıdaki gibi tanımlandığını belirtmişlerdir:
 
