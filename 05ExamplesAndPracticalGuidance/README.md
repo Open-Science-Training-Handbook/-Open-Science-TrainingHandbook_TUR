@@ -332,7 +332,7 @@ Katılımcı platformlar</td>
    <tr>
     <td>27</td>
     <td>Açık bilim eğitimi için eğitimcileri eğitmek kart oyunu</td>
-    <td>Open savunuculuk</td>
+    <td>Açık savunuculuk</td>
     <td>küçük gruplar</td>
     <td>2 saat</td>
   </tr>
