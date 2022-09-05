@@ -113,7 +113,7 @@ Bir lisansüstü öğrenci iken, yazılımların açık bir şekilde paylaşılm
 
 Fotis, Yunanistan'ın Selanik kentindeki Uygulamalı Biyolojik Bilimler Enstitüsü'nde \(INAB\|CERTH\) Biyoinformatik uzmanıdır. 2010 yılında Elektrik ve Bilgisayar Mühendisliği alanında Biyoinformatik ve e-altyapılar konusunda, açık ve tekrarlanabilir yöntemlerin özel bir değerlendirmesi ile doktora derecesini aldı. Hem resmi akademik yapılarda hem de Carpentry'lerde sertifikalı eğitmen (instructor) ve eğitici (trainer) olarak eğitim faaliyetlerinde önemli zaman harcamaktadır. Web sitesinde ufak tefek şeyler hakkında yazmaktadır. 
 
-İnsanları, bilgisayarlarındaki çeşitli "tozlu" ve unutulmuş klasörlerde depolanan tüm metin, notlar, komut dosyaları ve verilerle bir Jupyter not defteri oluşturmak için fazladan zaman harcamaya ikna etmek, aslında onların biraz daha organize olmalarına yardımcı olacaktır. \#smallvictories \#treproducibility
+İnsanları, bilgisayarlarındaki çeşitli "tozlu" ve unutulmuş klasörlerde depolanan tüm metin, notlar, komut dosyaları ve verilerle bir Jupyter not defteri oluşturmak için fazladan zaman harcamaya ikna etmek, aslında onların biraz daha organize olmalarına yardımcı olacaktır. \#smallvictories \#reproducibility
 
 ### Tony Ross-Hellauer
 
