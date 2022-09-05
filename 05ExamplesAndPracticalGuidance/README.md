@@ -56,7 +56,7 @@ Avrupa'daki çeşitli üniersiteler öncelikle erken kariyer araştırmacıları
 * [LERU Veri Yöneticiliği Doktora Yaz Okulu - LERU Doctoral Summer School on Data Stewardship](https://www.graduateacademy.uni-heidelberg.de/md/gradakad/akademie/leru_summer_school_2016_description.pdf) (2016, açıklama, öğrenme hedefleri) 
 
 
-![image alt text](/Images/image_6_tr.png)
+![image alt text](/Images/image_6_tr.PNG)
 
 *Açık Bilim ve Araştırma Yaz Okulu Program Takvimi, Utrecht Üniversitesi 2017*
 
@@ -401,7 +401,7 @@ Katılımcı platformlar</td>
 
     * Katılımcılar daha sonra ortak çıktıya/kağıda benzer yapışkanlı noktalar ekler.
 
-    * Sonuçları tüm grup ile tartışın. Katılımcılar noktaları gördüklerinde, bunun diğer katılımcılardan öğrenmeleri için büyük bir fırsat olabileceğini farkettiklerinden emin olun.
+    * Sonuçları tüm grup ile tartışın. Katılımcılar noktaları gördüklerinde, bunun diğer katılımcılardan öğrenmeleri için büyük bir fırsat olabileceğini farkettiklerinden emin olun. 
 
 ![image alt text](/Images/image_7_tr.png)
 
