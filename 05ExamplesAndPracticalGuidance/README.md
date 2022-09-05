@@ -411,7 +411,7 @@ Katılımcı platformlar</td>
 
     * İki renkli yapışkanlı noktalar.
 
-![image alt text](/Images/image_8_tr.png)
+![image alt text](/Images/image_8_tr.PNG)
 
 * Gerekli ön bilgi düzeyi
 
@@ -477,11 +477,11 @@ Katılımcı platformlar</td>
 
         4. hangi politika değişikliklerine ihtiyaç duyulacak
 
-![image alt text](/Images/image_9_tr.png)
+![image alt text](/Images/image_9.png)
 
-![image alt text](/Images/image_10.jpg)
+![image alt text](/Images/image_10_tr.png)
 
-![image alt text](/Images/image_11_tr.png)
+![image alt text](/Images/image_11.png)
 
 * Gereken materyal ve araçlar
 
