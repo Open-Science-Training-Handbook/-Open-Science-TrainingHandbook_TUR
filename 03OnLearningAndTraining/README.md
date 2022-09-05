@@ -334,7 +334,7 @@ Katılımcı kitlenizin büyüklüğüne, mevcut zamana ve katılımcı etkileş
 Bir kez daha, [Software Carpentry](https://carpentries.github.io/instructor-training/08-motivation/) tarafından sağlanan bilgiler doğru ortamı yaratmaya yardımcı olabilir.
 
 ## <img src="/Images/05 Examples _ Practical Guidance/05_icebreaker.png" width="400" height="300" />
-#### Isınma (Ice-breaker)
+#### Kaynaştırıcı (Ice-breaker)
 
 Katılımcılara enerji vermek ve eğitmenleri ve birbirlerini tanımalarına yardımcı olmak için birçok eğitim oturumu bir ısınma egzersiziyle başlar. Sıcak, hoş karşılamalı, içten ve olumlu bir öğrenme ortamı yaratmak, katılımcıların daha iyi ortak olmalarını ve öğrenmelerini sağlamalı ve kendilerini daha rahat hissetmelerine yardımcı olmalıdır.
 
