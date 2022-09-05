@@ -85,9 +85,9 @@ Altmetriklerle (alternatif ölçevlerle) ile ilgili olarak, [Priem ve diğerleri
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
-Q: Araştırma değerlendirme adil midir?
+S: Araştırma değerlendirme adil midir?
 
-A: Araştırma değerlendirme, yöntemleri ve değerlendirme teknikleri ölçüsünde adildir. Ölçevler ve altmetrikler, araştırma kalitesini, doğru olabilen ancak olması gerekmeyen araştırma çıktı miktarı ile ölçmeye çalışır.
+C: Araştırma değerlendirme, yöntemleri ve değerlendirme teknikleri ölçüsünde adildir. Ölçevler ve altmetrikler, araştırma kalitesini, doğru olabilen ancak olması gerekmeyen araştırma çıktı miktarı ile ölçmeye çalışır.
 
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
