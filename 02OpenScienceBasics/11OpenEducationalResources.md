@@ -36,9 +36,9 @@ AEK platformlarına örnekler:
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Sorular, engeller ve yaygın yanlış anlamalar
 
-Soru: Mateyallerin kalitesinden nasıl emin olabilirsiniz?
+S: Mateyallerin kalitesinden nasıl emin olabilirsiniz?
 
-Cevap: Bu her zaman belli birşey değildir. Şimdiye kadar AEK materyalleri için bir kalite onayı da olmamıştır. Açık kullanıcı yorumları, hakem/akran değerlendirmesi ve materyallerin üniversiteler gibi yerleşik kurumların platformlarında yayınlanması kalite anlamında bir ilk izlenim sağlayabilir. Basılı metin türü materyallerde olduğu gibi  yine de kalite garanti edilemez. Bu, birçok kullanıcıyı rahatsız eder. Bununla beraber, materyallerin güncelliği ve uyarlanabilirliği AEK kullanımına referans olur. Günün sonunda, seçilen materyalin kullanım amacına uygun olup olmadığını ve içeriğinin doğru olup olmadığını sadece kendiniz bilirsiniz.
+C: Bu her zaman belli birşey değildir. Şimdiye kadar AEK materyalleri için bir kalite onayı da olmamıştır. Açık kullanıcı yorumları, hakem/akran değerlendirmesi ve materyallerin üniversiteler gibi yerleşik kurumların platformlarında yayınlanması kalite anlamında bir ilk izlenim sağlayabilir. Basılı metin türü materyallerde olduğu gibi  yine de kalite garanti edilemez. Bu, birçok kullanıcıyı rahatsız eder. Bununla beraber, materyallerin güncelliği ve uyarlanabilirliği AEK kullanımına referans olur. Günün sonunda, seçilen materyalin kullanım amacına uygun olup olmadığını ve içeriğinin doğru olup olmadığını sadece kendiniz bilirsiniz.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
 ### Öğrenme çıktıları
