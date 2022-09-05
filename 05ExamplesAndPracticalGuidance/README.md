@@ -479,7 +479,7 @@ Katılımcı platformlar</td>
 
 ![image alt text](/Images/image_9_tr.png)
 
-![image alt text](/Images/image_10_tr.png)
+![image alt text](/Images/image_10_tr.jpg)
 
 ![image alt text](/Images/image_11_tr.png)
 
