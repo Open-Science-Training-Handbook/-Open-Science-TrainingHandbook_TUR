@@ -48,10 +48,10 @@ Buna rağmen...
 Bu basitleştirilmiş şema, bu dört öğrenme kuramının temel özelliklerini çok basit pratik terimlerle özetlemektedir:
 
 
-![image alt text](/Images/image_3.png)
+![image alt text](/Images/image_3_tr.png)
 
 
-[Şu](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/) adresten alınmıştır.
+[Şu](https://onlinelearninginsights.wordpress.com/2013/05/15/how-couse-design-puts-the-focus-on-learning-not-teaching/) adresten alınmıştır. Türkçe çeviri: Güleda Doğan
 
 Software Carpentry tarafından yapılmış [çalışma](https://carpentries.github.io/instructor-training/) da öğrenme süreçlerini anlamaya yardım edecektir. 
 
