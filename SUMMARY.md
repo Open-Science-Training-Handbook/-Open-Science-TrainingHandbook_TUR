@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Kitap Hakkında Bilgi](README.md)
-* [Giriş](giris.md)
+* [Giriş](README.md)
 * [Açık Bilimin Temelleri](02OpenScienceBasics/README.md)
   * [Açık Kavramlar ve İlkeler](02OpenScienceBasics/01OpenConceptsAndPrinciples.md)
   * [Açık Araştırma Verileri ve Materyaller](02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
