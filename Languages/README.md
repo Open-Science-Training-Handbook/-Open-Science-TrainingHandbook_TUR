@@ -1,6 +1,6 @@
 # Çeviriler
 
-Bu kitap İspanyolca, Portekizce, İtalyancaya Ve Türkçeye çevrilmiştir:
+Bu kitap İspanyolca, Portekizce, İtalyancaya ve Türkçeye çevrilmiştir:
 
 * [Portekizce çeviri](https://book.fosteropenscience.eu/pt)
 * [İspanyolca çeviri](https://book.fosteropenscience.eu/es)
