@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/timetable.png" width="200" height="200" />
 ## Örgütsel yönler
 
-Bu bölüm, bir eğitim etkinliği düzenlemenin temel pratik yönleri konusunda size rehberlik edecektir. Tabii ki, neye ihtiyacınız olduğu ve ne kullanacağınız, düzenleyeceğiniz etkinliğin türüne bağlı olacaktır! Kontrol listesi buna göre düzenlenmelidir. Bu böümde, hazırlık adımları ve gerekli örgütsel görevler ile ilgili bilgi alacaksınız. Bu size yalnızca etkinlik düzenleme ile ilgili değerli bilgiler sunmayacak, aynı zamanda eğitiminizi hazırlarken sizi rahatlatacaktır. Bu kitaptaki materyallerin çoğunun ve bütün olarak kitabın uygulamalı çalıştaylar bağlamında eğitime odaklandığını unutmayın. Farklı türde bir etkinlik yapmak aşağıdaki önerilerden farklı kararları gerektirebilir.
+Bu bölüm, bir eğitim etkinliği düzenlemenin temel pratik yönleri konusunda size rehberlik edecektir. Tabii ki, neye ihtiyacınız olduğu ve ne kullanacağınız, düzenleyeceğiniz etkinliğin türüne bağlı olacaktır! Kontrol listesi buna göre düzenlenmelidir. Bu bölümde, hazırlık adımları ve gerekli örgütsel görevler ile ilgili bilgi alacaksınız. Bu size yalnızca etkinlik düzenleme ile ilgili değerli bilgiler sunmayacak, aynı zamanda eğitiminizi hazırlarken sizi rahatlatacaktır. Bu kitaptaki materyallerin çoğunun ve bütün olarak kitabın uygulamalı çalıştaylar bağlamında eğitime odaklandığını unutmayın. Farklı türde bir etkinlik yapmak aşağıdaki önerilerden farklı kararları gerektirebilir.
 ## Eğitim etkinliğinin temelleri
 
 ### Format
